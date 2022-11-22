@@ -1,0 +1,23 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3333528216,6556701,Stephen,Arnold,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-26,2022-11-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3333696950,23527901,Kristine,Arnold,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,2022-10-24,2022-11-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3795943494,24430151,Renae,Busch,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-10,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3254145615,23246051,Diane,Foerster,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-14,2022-10-31,2022-11-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3256671881,23360101,Michael,Foerster,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172404304,22349101,Joseph,Hammons,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,10250918589,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-29,2022-09-29,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3617921693,23610151,June,Jeffers,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172404335,22144901,Stella,Jennings,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-05,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172404320,22386651,Dianne,Owen,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,10250915465	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-23,2022-09-21,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172404313,22256001,Penny,Sherrod-Campanizzi,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,NA,,AMERITAS,,200,,dvh,2022-09-26,2022-09-26,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3504192100,23036101,judy,bruce,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,

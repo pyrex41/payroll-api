@@ -1,0 +1,23 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172148806,4585093,Michelle,Cole,49727299,Inactive,Agent,49727299,Inactive,Agent,CLI6654040,,AETNA,,200,,dvh,2021-05-19,,2021-06-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172148800,4571851,Janice,Gibbs,49727299,Inactive,Agent,49727299,Inactive,Agent,240082286,,AMERITAS,,200,,dvh,2020-06-18,,2020-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172148758,4571952,Richard,Hawley,49727299,Inactive,Agent,49727299,Inactive,Agent,102503-03660,,AMERITAS,,200,,dvh,2022-10-05,,2020-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172148787,4579005,Mark,Miller,49727299,Inactive,Agent,49727299,Inactive,Agent,240109060,,AMERITAS,,200,,dvh,2020-09-24,,2020-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172361757,64851,Carmen,Parkinson,49727299,Inactive,Agent,49727299,Inactive,Agent,00250345045,,AMERITAS,,200,,dvh,2020-09-21,,2020-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172391765,1596151,Virginia,Pendley,49727299,Inactive,Agent,49727299,Inactive,Agent,00250510681,,AMERITAS,,200,,dvh,2021-04-06,,2021-05-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172133447,1989651,Dorothy,Ritts,49727299,Inactive,Agent,49727299,Inactive,Agent,CLI6661857,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-06-03,,2021-06-04,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172391807,1603651,James ,Ritts,49727299,Inactive,Agent,49727299,Inactive,Agent,CLI6661857,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-06-03,,2021-06-04,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172133427,1783151,Deena,Smiley,49727299,Inactive,Agent,49727299,Inactive,Agent,847024590,,AMERITAS,,200,,dvh,2021-04-14,,2021-04-15,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172231028,141651,Nury,Solano,49727299,Inactive,Agent,49727299,Inactive,Agent,00250498487,,AMERITAS,,200,,dvh,2021-03-23,,2021-04-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172310818,1021251,Angela ,Svetlik,49727299,Inactive,Agent,49727299,Inactive,Agent,00250518078,,AMERITAS,,200,,dvh,2021-04-14,,2021-05-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

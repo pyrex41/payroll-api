@@ -1,0 +1,11 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172782681,17728901,Nancy,Craig-Schram,82267662,Nick,Oberle,82267662,Nick,Oberle,HN10029426P1,,HEARTLAND,,200,,copay,2022-06-24,2022-06-24,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172599470,22305401,Janice,Crouch,82267662,Nick,Oberle,82267662,Nick,Oberle,HN10032630P1,,HEARTLAND,,200,,copay,2022-09-20,2022-09-19,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172751171,16360501,Vickie,L Thomley,82267662,Nick,Oberle,82267662,Nick,Oberle,HN10032167P1,,HEARTLAND,,200,,copay,2022-09-08,2022-09-01,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172806280,22625551,James,Poule,82267662,Nick,Oberle,82267662,Nick,Oberle,HN10032935P1,,HEARTLAND,,200,,copay,2022-09-28,2022-09-28,2022-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172782703,19530851,Beverly,Sorvillo,82267662,Nick,Oberle,82267662,Nick,Oberle,HN10030455P1,,HEARTLAND,,200,,copay,2022-07-27,2022-07-27,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

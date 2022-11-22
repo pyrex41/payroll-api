@@ -1,0 +1,6 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3697095491,4578475,Matthew,Englis,192985888,Jordan,Seifert,96652656,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-04,,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172148743,4578235,Barbara,Tucker,96652656,Inactive,Agent,96652656,Inactive,Agent,10250449586,,AMERITAS,,510,,dvh,2021-01-19,,2021-01-20,2022-10-17,2022-03-19,,,,,
+3172133679,4578235,Barbara,Tucker,64738322,Gabriel,Rhone,96652656,Inactive,Agent,CLI6807432,,AETNA,,200,,dvh,2022-02-25,2022-02-24,2022-03-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

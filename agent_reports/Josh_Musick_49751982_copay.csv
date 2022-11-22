@@ -1,0 +1,9 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172651686,910101,Shelia,Castillo,49751982,Josh,Musick,49751982,Josh,Musick,HN10018663P1,,HEARTLAND,,200,,copay,2021-02-04,,2021-05-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172622627,606201,Larry,Hoyle,49751982,Josh,Musick,49751982,Josh,Musick,HN10018685P1,,HEARTLAND,,200,,copay,2021-02-04,,2021-04-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172664723,1532701,Joan,Trunk,49751982,Josh,Musick,49751982,Josh,Musick,HN10019625P1,,HEARTLAND,,200,,copay,2021-03-29,,2021-05-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172757769,824501,Richard,Wilmes,49751982,Josh,Musick,49751982,Josh,Musick,HN10018511P1,,HEARTLAND,,200,,copay,2021-01-27,,2021-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

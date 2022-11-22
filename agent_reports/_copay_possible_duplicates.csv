@@ -1,0 +1,13 @@
+error_type,id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+missing_commission_id,3172542098,13104951,Kathleen,Tompkins,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Policy Number,,HEARTLAND,,410,,copay,,2022-03-30,2022-04-01,,2022-03-31,,,,,False
+missing_commission_id,3172589659,4584556,Barbara,Thacker,49712426,Inactive,Agent,49712426,Inactive,Agent,Pending Policy Number,,HEARTLAND,,410,,copay,2020-05-13,,2020-06-01,,2021-08-12,,,,,False
+missing_commission_id,3172599297,5417451,Andrew,Harris,49712324,David,Strehlow,49712324,David,Strehlow,Pending Policy Number,,HEARTLAND,,410,,copay,2021-09-03,,2021-11-01,,2022-03-16,,,,,False
+missing_commission_id,3172637002,2670601,Wayne,Dickason,64738322,Gabriel,Rhone,64738322,Gabriel,Rhone,Pending Policy Number,,HEARTLAND,,410,,copay,,,2021-07-01,,2022-02-02,,,,,False
+missing_commission_id,3172697384,2637001,Ray,Howard,50183183,Rhee,Cano,50183183,Rhee,Cano,Pending Policy Number,,HEARTLAND,,410,,copay,2021-07-08,,2021-09-01,,2021-07-27,,,,,False
+missing_commission_id,3172718708,17787001,Nyaa,Abdelqader,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Policy Number,,HEARTLAND,,410,,copay,2022-06-30,2022-06-23,2022-06-23,,,,,,,False
+missing_commission_id,3172732057,20592551,Donna,Hamilton,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Policy Number,,HEARTLAND,,410,,copay,,2022-09-15,2022-10-01,,,,,,,False
+missing_commission_id,3172736593,3873051,Frances,Sosa,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Policy Number,,HEARTLAND,,410,,copay,2021-08-13,,2021-09-01,,2022-03-16,,,,,False
+missing_commission_id,3172751000,268301,Belinda,Williams,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Policy Number,,HEARTLAND,,410,,copay,,,2021-08-01,,2021-08-31,,,,,False
+missing_commission_id,3172825394,2563751,Larry,Wright,76539239,Inactive,Agent,76539239,Inactive,Agent,Pending Policy Number,,HEARTLAND,,410,,copay,2021-08-13,,2021-09-01,,2022-03-16,,,,,False
+missing_commission_id,3528328049,23403101,Mark,Minchew,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HEARTLAND,,350,,copay,2022-10-26,2022-10-26,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,

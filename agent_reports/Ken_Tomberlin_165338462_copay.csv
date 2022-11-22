@@ -1,0 +1,11 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172718765,19899301,James,Bowles,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,HN10031044P1,,HEARTLAND,,200,,copay,2022-08-11,2022-08-02,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172825677,20081901,Felecia,Bowles,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,HN10032099P1,,HEARTLAND,,200,,copay,2022-09-07,2022-08-22,2022-09-08,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172732057,20592551,Donna,Hamilton,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Policy Number,,HEARTLAND,,410,,copay,,2022-09-15,2022-10-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3310854449,17004201,Marlin,Simmons,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,HN10034022P1,,HEARTLAND,,200,,copay,2022-10-25,2022-10-17,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3313190190,16135251,Florence,Simmons,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,HN20010493P1,,HEARTLAND,,200,,copay,2022-10-27,2022-10-17,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,11 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3173393470,4578363,Donna,Meyer,168471623,EnlightNU,Legacy,168471623,EnlightNU,Legacy,AHC6368504,AHC6368504,AETNA,G,200,,msp,2020-08-12,,2020-10-01,,,,2020-10-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168674115,16775273,Russell,Dunnam,168471623,EnlightNU,Legacy,168471623,EnlightNU,Legacy,971420925 (legacyAdd-UHC),,AARP/UHC,,200,,map,2019-01-01,,2019-01-01,,,,2019-01-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168790913,16780105,Sonja,Grzech,168471623,EnlightNU,Legacy,168471623,EnlightNU,Legacy,935555019 (legacyAdd-UHC),,AARP/UHC,,200,,map,2020-01-01,,2020-01-01,,,,2020-01-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168457857,16774101,Lavona,Perkins,168471623,EnlightNU,Legacy,168471623,EnlightNU,Legacy,821082244 (legacyAdd-UHC),,AARP/UHC,,200,,map,2019-01-01,,2019-01-01,,,,2019-01-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168478751,16779869,Jerry,Perkins,168471623,EnlightNU,Legacy,168471623,EnlightNU,Legacy,878627028 (legacyAdd-UHC),,AARP/UHC,,200,,map,2019-01-01,,2019-01-01,,,,2019-01-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

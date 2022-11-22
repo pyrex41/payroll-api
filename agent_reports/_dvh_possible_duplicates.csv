@@ -1,0 +1,459 @@
+error_type,id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+missing_commission_id,3172133464,1798801,Robert,Canterbury,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2021-07-09,,2021-09-01,,,,,,,False
+missing_commission_id,3172133477,2237451,Michael,Orlando,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2021-05-24,,2021-06-01,,,,,,,False
+missing_commission_id,3172133482,2286651,Ethel,Williams,81158657,Inactive,Agent,81158657,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-08-02,,2021-09-01,,,,,,,False
+missing_commission_id,3172148754,4744751,Vicki,Cranor,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-10-07,,2021-10-08,,,,,,,False
+missing_commission_id,3172148835,4576955,Delia,Bates,49712426,Inactive,Agent,49712426,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2020-10-16,,2021-01-01,,,,,,,False
+missing_commission_id,3172148836,4618301,Terry,Shoemaker,76539239,Inactive,Agent,76539239,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-08-13,,2021-09-01,,,,,,,False
+missing_commission_id,3172197792,6928001,MARK,STROBEL,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-02-22,2022-02-22,2022-05-01,,,,,,,False
+missing_commission_id,3172197902,6256351,Carol,Graney,76356149,Inactive,Agent,76356149,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-11-02,,2022-01-01,,,,,,,False
+missing_commission_id,3172218945,3327401,Greg,Snyder,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-04-21,2022-04-20,2022-06-01,,,,,,,False
+missing_commission_id,3172218956,3334901,Alice,Robinett,76357008,Inactive,Agent,76357008,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-07-14,,2021-09-01,,,,,,,False
+missing_commission_id,3172218988,3015851,Matthew,Cano,49751982,Josh,Musick,49751982,Josh,Musick,NA,,AMERITAS,,200,,dvh,2022-09-12,2022-09-12,2022-09-13,,,,,,,False
+missing_commission_id,3172218994,3256051,Kim,Holmes,76539239,Inactive,Agent,76539239,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-07-06,,2021-08-01,,,,,,,False
+missing_commission_id,3172219005,3425101,Jo,Bajescu,76356149,Inactive,Agent,76356149,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-07-12,,2021-09-01,,,,,,,False
+missing_commission_id,3172219025,15163151,Vicki,Bland,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-05-09,2022-05-04,2022-08-01,,,,,,,False
+missing_commission_id,3172219056,15128451,Lynn I,Donnelly,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-21,2022-10-20,2023-01-01,,,,,,,False
+missing_commission_id,3172219058,14961051,Jerry,Bingham,50183183,Rhee,Cano,50183183,Rhee,Cano,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3172219139,15210151,Anne,Neibert,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-10,2022-10-10,2023-01-01,,,,,,,False
+missing_commission_id,3172219181,15954501,Sandra,Merritt,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,,200,,dvh,2022-05-20,2022-05-23,2022-06-01,,,,,,,False
+missing_commission_id,3172219188,14822401,Janice,Ferry,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,,200,,dvh,2022-05-09,2022-05-06,2022-06-01,,,,,,,False
+missing_commission_id,3172219189,15290401,Chris H,Boulden,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-05-19,2022-05-16,2022-07-01,,,,,,,False
+missing_commission_id,3172219208,20814201,Howard,Irgang,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,,200,,dvh,2022-08-23,2022-08-19,2022-09-01,,,,,,,False
+missing_commission_id,3172219215,21089501,Ricardo,Velasco,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-06,2023-01-01,,,,,,,False
+missing_commission_id,3172219222,20654301,CENCELIA,RUSSELL,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-16,2022-08-16,2022-11-01,,,,,,,False
+missing_commission_id,3172219231,20741051,Constantin,Rieger,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-07,2023-01-01,,,,,,,False
+missing_commission_id,3172219233,20890101,Patrick,Bentley,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-10,2022-10-06,2023-01-01,,,,,,,False
+missing_commission_id,3172219235,21178601,David,Palmer,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-30,2022-09-01,2022-09-01,,,,,,,False
+missing_commission_id,3172219247,21096401,Laurence,R Smith,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-09-27,2022-09-26,2022-11-01,,,,,,,False
+missing_commission_id,3172219269,20914351,Lynn,Merkle,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-08-25,2022-08-25,2022-09-01,,,,,,,False
+missing_commission_id,3172231056,11180851,Arjun,Venukrishnan,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-04-11,2022-04-01,2022-07-01,,,,,,,False
+missing_commission_id,3172231059,10903701,Karen L,Simpkins,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-02-09,2022-02-09,2022-03-01,,,,,,,False
+missing_commission_id,3172231071,10973401,Jane,Stasiukiewicz,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2022-06-15,2022-06-15,2022-09-01,,,,,,,False
+missing_commission_id,3172231169,10736901,WILLIAM,KUBERSKI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-01-27,2022-01-27,2022-03-01,,,,,,,False
+missing_commission_id,3172231171,11307301,Kathleen,Balsamo,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,,200,,dvh,2022-03-02,2022-03-01,2022-06-01,,,,,,,False
+missing_commission_id,3172231175,11128551,Martha,Troughton,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-03-11,2022-03-11,2022-04-01,,,,,,,False
+missing_commission_id,3172231186,10537001,George,Nichols,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,,200,,dvh,2022-03-25,2022-03-25,2022-05-01,,,,,,,False
+missing_commission_id,3172231187,10925651,Sandra,Mulders,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3172231192,10983501,Sharon,Bryant-Perry,76357008,Inactive,Agent,76357008,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2022-02-23,2022-02-01,2022-03-01,,,,,,,False
+missing_commission_id,3172231193,11008601,Janet,Cotton,82267662,Nick,Oberle,82267662,Nick,Oberle,NA,,AMERITAS,,200,,dvh,2022-01-31,2022-01-31,2022-03-01,,,,,,,False
+missing_commission_id,3172231212,11158451,James A,Curtis,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-02-24,2022-02-23,2022-03-01,,,,,,,False
+missing_commission_id,3172231216,11061501,Kelvin,Bible,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-03-31,2022-03-30,2022-05-01,,,,,,,False
+missing_commission_id,3172231218,11161251,Curits,Robertson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-02-08,2022-02-07,2022-04-01,,,,,,,False
+missing_commission_id,3172231221,11029551,Carolyn,Bible,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-03-31,2022-03-30,2022-05-01,,,,,,,False
+missing_commission_id,3172252070,5757151,Brian,Gall,76356149,Inactive,Agent,76356149,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-09-30,,2021-10-01,,,,,,,False
+missing_commission_id,3172252174,5701801,Corda Suzanne,Wiedel,76357008,Inactive,Agent,76357008,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-11-09,,2021-11-10,,,,,,,False
+missing_commission_id,3172252189,5562551,Denise,Leone,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-03-08,2022-03-04,2022-04-01,,,,,,,False
+missing_commission_id,3172252191,5999901,Catherine,Trask,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-03-31,2022-03-30,2022-06-01,,,,,,,False
+missing_commission_id,3172252200,6148051,Mark,Looper,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2021-11-29,,2021-12-01,,,,,,,False
+missing_commission_id,3172252209,5893951,James,Williams,81158657,Inactive,Agent,81158657,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-12-14,,2022-01-01,,,,,,,False
+missing_commission_id,3172252215,5793951,Gretchen,Looper,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-05-12,2022-05-11,2022-08-01,,,,,,,False
+missing_commission_id,3172252223,9936051,Donna,Chase,82267662,Nick,Oberle,82267662,Nick,Oberle,NA,,AMERITAS,,200,,dvh,2022-03-22,2022-01-05,2022-02-01,,,,,,,False
+missing_commission_id,3172252247,10156001,Harry,McLaughlin,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-05-04,2022-05-03,2022-08-01,,,,,,,False
+missing_commission_id,3172252256,10047251,Charmaine,Getty,81157249,Carie,Wright,81157249,Carie,Wright,NA,,AMERITAS,,200,,dvh,2022-04-11,2022-04-07,2022-05-01,,,,,,,False
+missing_commission_id,3172252257,10384901,Ricky,Gish,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-01-18,2022-01-18,2022-03-01,,,,,,,False
+missing_commission_id,3172252264,9817851,Cheryl,Eilers,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2022-02-28,,2022-03-01,,,,,,,False
+missing_commission_id,3172252272,10031451,Tony,Smurthwaite,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-01-12,2022-01-11,2022-02-01,,,,,,,False
+missing_commission_id,3172252285,10286251,April,Howard,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,,200,,dvh,2022-01-13,2022-01-13,2022-02-01,,,,,,,False
+missing_commission_id,3172252295,9467401,Marcia,Persaud,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2021-12-22,,2022-01-01,,,,,,,False
+missing_commission_id,3172252327,21413951,Emily,Tate,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-30,2022-09-01,2022-09-01,,,,,,,False
+missing_commission_id,3172252429,21654351,Kimberly,Berkich,50183183,Rhee,Cano,50183183,Rhee,Cano,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-07,2023-01-01,,,,,,,False
+missing_commission_id,3172252437,22061051,Ranee,Brincat,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-14,2022-10-07,2023-01-01,,,,,,,False
+missing_commission_id,3172252438,21792001,Mario,Del Canal,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-12,2022-10-10,2023-01-01,,,,,,,False
+missing_commission_id,3172252458,22036851,Norman,S Goggans,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-09-21,2022-09-21,2022-10-01,,,,,,,False
+missing_commission_id,3172252463,21575751,James,Moye,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,,200,,dvh,2022-10-03,2022-10-03,2023-01-01,,,,,,,False
+missing_commission_id,3172252474,21453951,MARY,LAPINA,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-10-04,2022-10-03,2023-01-01,,,,,,,False
+missing_commission_id,3172252478,21923101,Carolyn,Benjamin,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-09-19,2022-09-19,2022-10-04,,,,,,,False
+missing_commission_id,3172287782,12754751,Judy,Mahone,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,,200,,dvh,2022-03-31,2022-03-30,2022-05-01,,,,,,,False
+missing_commission_id,3172287792,12390201,Pamela,Willis,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-06-09,2022-06-09,2022-06-10,,,,,,,False
+missing_commission_id,3172287823,12187551,Patricia,Ayres,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2022-04-27,,2022-05-01,,,,,,,False
+missing_commission_id,3172287846,12311301,Bernie L,Kirby,76539239,Inactive,Agent,76539239,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2022-04-07,,2022-07-01,,,,,,,False
+missing_commission_id,3172287858,12299901,William,Smith,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,2022-11-11,2022-12-01,,,,,,,False
+missing_commission_id,3172287874,19761601,Susan,Shea,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,,200,,dvh,2022-08-04,2022-08-01,2022-09-01,,,,,,,False
+missing_commission_id,3172287894,19584601,David,Pannell,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,,200,,dvh,2022-08-04,2022-08-03,2022-09-01,,,,,,,False
+missing_commission_id,3172287902,19334801,Earl,Wray,89321142,Patrick,Stang,89321142,Patrick,Stang,NA,,AMERITAS,,200,,dvh,2022-07-26,2022-07-21,2022-08-01,,,,,,,False
+missing_commission_id,3172287918,19704101,Everett J,Ferris III,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,,200,,dvh,2022-07-27,2022-07-27,2022-10-01,,,,,,,False
+missing_commission_id,3172288015,19623751,Donna M,LaFleur,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-07-29,2022-07-29,2022-08-01,,,,,,,False
+missing_commission_id,3172288033,19889701,Melvin,Benford,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,,200,,dvh,2022-10-04,2022-10-03,2023-01-01,,,,,,,False
+missing_commission_id,3172297250,18991401,Shellyn,Holder,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,,200,,dvh,2022-07-13,2022-07-13,2022-08-01,,,,,,,False
+missing_commission_id,3172297267,18524401,Mike,McClellan,89321142,Patrick,Stang,89321142,Patrick,Stang,NA,,AMERITAS,,200,,dvh,2022-07-06,2022-07-06,2022-09-01,,,,,,,False
+missing_commission_id,3172297271,18613701,James,Cheeseman,192985888,Jordan,Seifert,148694372,Justin,Cohen,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-07,,2022-11-01,,,,,,,False
+missing_commission_id,3172297288,19167501,Cecilia,Spehalski,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-10-03,2022-10-03,2023-01-01,,,,,,,False
+missing_commission_id,3172297298,19077451,Brenda,M Caceres,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-08-31,2022-08-30,2022-11-01,,,,,,,False
+missing_commission_id,3172297299,18658601,Janet,Shaw,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3172297300,18797651,Manuel,Salgado,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-07-13,2022-07-12,2022-09-01,,,,,,,False
+missing_commission_id,3172297316,18491101,Barbara,Lee-Jones,82267662,Nick,Oberle,82267662,Nick,Oberle,NA,,AMERITAS,,200,,dvh,2022-07-08,2022-07-08,2022-09-01,,,,,,,False
+missing_commission_id,3172297326,18511201,Marla,Christian,82267662,Nick,Oberle,82267662,Nick,Oberle,NA,,AMERITAS,,200,,dvh,2022-07-06,2022-07-05,2022-09-01,,,,,,,False
+missing_commission_id,3172310610,3935451,Kathleen,Strobel,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-11-08,,2022-02-01,,,,,,,False
+missing_commission_id,3172310832,978301,Christine,Newcomer,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-05-25,,2022-06-01,,,,,,,False
+missing_commission_id,3172310869,17543001,Patricia,Coleman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,NA,,AMERITAS,,200,,dvh,2022-07-20,2022-07-20,2022-10-01,,,,,,,False
+missing_commission_id,3172310877,17670101,Joey,O'Nishea,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,,200,,dvh,2022-06-29,2022-06-21,2022-08-01,,,,,,,False
+missing_commission_id,3172310889,18088701,Gary,Helmers,50312260,Pete,Scalzo,50312260,Pete,Scalzo,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-07,2022-11-01,,,,,,,False
+missing_commission_id,3172310895,18088601,Connie J,Helmers,50312260,Pete,Scalzo,50312260,Pete,Scalzo,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-07,2022-11-01,,,,,,,False
+missing_commission_id,3172310906,17558601,Steve,Neese,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,,200,,dvh,2022-06-24,2022-06-16,2022-06-16,,,,,,,False
+missing_commission_id,3172310965,17720201,Lucille,Schoales,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,,200,,dvh,2022-08-26,2022-08-23,2022-09-01,,,,,,,False
+missing_commission_id,3172310968,17541801,Carol,Cates,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,,200,,dvh,2022-07-08,2022-07-01,2022-10-01,,,,,,,False
+missing_commission_id,3172322074,13925801,Patricia,Daggs,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-04-22,2022-04-22,2022-05-01,,,,,,,False
+missing_commission_id,3172322096,13825101,Becky,Meydam,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-04-22,2022-04-22,2022-05-01,,,,,,,False
+missing_commission_id,3172322117,14424601,John,Evans,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-01,2022-11-01,2023-01-01,,,,,,,False
+missing_commission_id,3172322118,14726101,Victoria,Robertson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-04-28,2022-04-28,2022-05-01,,,,,,,False
+missing_commission_id,3172322119,14209501,Rita,Swanson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-04-29,2022-04-27,2022-05-01,,,,,,,False
+missing_commission_id,3172322147,14503151,Vicki E,Reisig,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-05-06,2022-05-03,2022-08-01,,,,,,,False
+missing_commission_id,3172322149,14278601,Joan,Piskothy,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-04-29,2022-04-26,2022-05-01,,,,,,,False
+missing_commission_id,3172322152,14590051,Teresa,Beasley,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-04-26,2022-04-25,2022-05-01,,,,,,,False
+missing_commission_id,3172322219,5293701,Sandra,Cooper,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-12-01,,2022-01-01,,,,,,,False
+missing_commission_id,3172322341,9041601,Janice,Gavin,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-02-28,2022-02-28,2022-03-01,,,,,,,False
+missing_commission_id,3172322345,9397351,Malcolm,Persaud,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2021-12-30,,2022-01-01,,,,,,,False
+missing_commission_id,3172322351,9187751,James,Crane,81158657,Inactive,Agent,81158657,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-12-14,,2022-01-01,,,,,,,False
+missing_commission_id,3172322379,8772901,Ann,Flosdorf,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2021-11-26,2021-11-29,2022-01-01,,,,,,,False
+missing_commission_id,3172322405,9153701,MARION,WHALEY,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-12-13,,2022-01-01,,,,,,,False
+missing_commission_id,3172342168,7301701,Bruce,Cyganoski,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,PrimeStar® Value,200,,dvh,2022-03-22,2022-03-17,2022-04-01,,,,,,,False
+missing_commission_id,3172342170,7128451,Carlos,Ortega,89321142,Patrick,Stang,89321142,Patrick,Stang,NA,,AMERITAS,,200,,dvh,2021-10-19,,2022-01-01,,,,,,,False
+missing_commission_id,3172342173,7768801,Debbie,Gillihan,82267662,Nick,Oberle,82267662,Nick,Oberle,NA,,AMERITAS,,200,,dvh,2021-10-29,,2021-11-01,,,,,,,False
+missing_commission_id,3172342186,7420151,Arthur,Trahan,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-10-29,,2022-01-01,,,,,,,False
+missing_commission_id,3172342299,7484401,Claudette,neptune,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-11-11,,2022-01-01,,,,,,,False
+missing_commission_id,3172361634,9101,Matthew,Cano,50182168,Inactive,Agent,50182168,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2022-09-13,,2022-09-13,,,,,,,False
+missing_commission_id,3172361775,20198501,Elizabeth,Masi,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,No Dental Coverage,200,,dvh,2022-10-25,2022-10-25,2023-01-01,,,,,,,False
+missing_commission_id,3172361777,20299901,Irene K,Parsons,50312260,Pete,Scalzo,50312260,Pete,Scalzo,NA,,AMERITAS,,200,,dvh,2022-09-30,2022-09-30,2022-10-01,,,,,,,False
+missing_commission_id,3172361781,19955051,Patricia,Key,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,,200,,dvh,2022-08-04,2022-08-03,2022-09-01,,,,,,,False
+missing_commission_id,3172361799,20512551,Candace,Patsy,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
+missing_commission_id,3172361810,20430951,Diana,Gilbert,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2022-10-13,2022-10-10,2023-01-01,,,,,,,False
+missing_commission_id,3172361814,20610701,Cynthia,A Roberts,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-08-15,2022-08-12,2022-09-01,,,,,,,False
+missing_commission_id,3172361826,19915151,William,Chappell,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-07-30,2022-07-29,2022-10-01,,,,,,,False
+missing_commission_id,3172361839,20120051,David,Jensen,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,,200,,dvh,2022-08-04,2022-08-02,2022-10-01,,,,,,,False
+missing_commission_id,3172361849,20646501,James,Gilbert,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,Advantage Plus Network 2000,200,,dvh,2022-10-17,2022-10-15,2023-01-01,,,,,,,False
+missing_commission_id,3172361862,20292401,Thomas,L Wellington,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2022-09-16,2022-09-16,2022-10-01,,,,,,,False
+missing_commission_id,3172361896,13023351,Steven G,Koenig,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,,200,,dvh,2022-04-12,,2022-04-13,,,,,,,False
+missing_commission_id,3172361986,12921451,Fred,Jackson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-05-09,2022-05-04,2022-08-01,,,,,,,False
+missing_commission_id,3172361998,13076351,Linda,Thomas-Brewster,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,,200,,dvh,2022-03-30,2022-03-30,2022-06-01,,,,,,,False
+missing_commission_id,3172362014,12974251,Toni,Taylor,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-05-05,2022-05-01,2022-08-01,,,,,,,False
+missing_commission_id,3172362016,12973201,Sue,Chappell,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-08-25,2022-08-25,2022-10-01,,,,,,,False
+missing_commission_id,3172362020,13289001,Gary,Merritt,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-06,2023-01-01,,,,,,,False
+missing_commission_id,3172362026,13593651,Hector L,Soto,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3172391764,1412551,George,Westphal,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,200,,dvh,2021-04-08,,2021-06-01,,,,,,,False
+missing_commission_id,3172391771,1581751,Robin,Gray,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-10,2022-10-01,2023-01-01,,,,,,,False
+missing_commission_id,3172391789,1503901,Henry 'Alf',Badgett,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-06-30,2022-06-27,2022-07-01,,,,,,,False
+missing_commission_id,3172391808,1543901,Pamela,Nichols,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,,200,,dvh,2021-08-19,,2021-11-01,,,,,,,False
+missing_commission_id,3172391963,8450551,Michael,Tylisz,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-11-22,,2021-12-01,,,,,,,False
+missing_commission_id,3172391986,11360551,Alice,McHard,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-10,2023-01-01,,,,,,,False
+missing_commission_id,3172392005,11428851,Cheryl A,Florence,49712324,David,Strehlow,49712324,David,Strehlow,NA,,AMERITAS,,500,,dvh,2022-04-14,2022-04-14,2022-04-15,,2022-11-14,,,,,False
+missing_commission_id,3172392035,11672751,David A,Smith,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-05-27,,2022-06-01,,,,,,,False
+missing_commission_id,3172392038,11769451,Barbara,Evans,76539239,Inactive,Agent,76539239,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2022-02-24,,2022-03-01,,,,,,,False
+missing_commission_id,3172392054,11777601,Steven,Ayres,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2022-04-27,,2022-05-01,,,,,,,False
+missing_commission_id,3172392060,11861551,DAVID,LUSK,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-02-22,2022-02-22,2022-03-01,,,,,,,False
+missing_commission_id,3172392067,11634601,Susan,Mooney,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-06-02,2022-06-01,2022-09-01,,,,,,,False
+missing_commission_id,3172392073,11539201,Karen,Schenkelberg,49712326,Matthew,Cano,49712326,Matthew,Cano,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-07,,2022-11-01,,,,,,,False
+missing_commission_id,3172392074,11894751,Anita,Joyce,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2022-04-27,,2022-05-01,,,,,,,False
+missing_commission_id,3172404271,22353101,Phillip,Bryant,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-10-10,2022-10-10,2022-11-01,,,,,,,False
+missing_commission_id,3172404273,22899551,Harriet,Reese,229799739,Latesa,Pasley,229799739,Latesa,Pasley,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-05,2022-11-01,,,,,,,False
+missing_commission_id,3172404282,23002351,Robert,Vasquez,82267662,Nick,Oberle,82267662,Nick,Oberle,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-11,2022-10-05,2022-11-01,,,,,,,False
+missing_commission_id,3172404294,22221451,Marshall,Cavin,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-08,2022-11-05,2023-02-05,,,,,,,False
+missing_commission_id,3172404299,22680751,Roger,Daubenmeyer,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NA,,AMERITAS,,200,,dvh,2022-09-30,2022-09-29,2022-12-01,,,,,,,False
+missing_commission_id,3172404311,23050701,Cheryl,Jones,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
+missing_commission_id,3172404313,22256001,Penny,Sherrod-Campanizzi,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,NA,,AMERITAS,,200,,dvh,2022-09-26,2022-09-26,2022-12-01,,,,,,,False
+missing_commission_id,3172404318,22681451,Kathryn,Coxwell,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-09-30,2022-09-29,2022-10-01,,,,,,,False
+missing_commission_id,3172404323,22893651,Richard,Mikes,229799738,Darrin,Neal,229799738,Darrin,Neal,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-05,2023-01-01,,,,,,,False
+missing_commission_id,3172404324,22929651,Anita,Battle,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-06,2022-10-06,2023-01-01,,,,,,,False
+missing_commission_id,3172404335,22144901,Stella,Jennings,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-05,2023-01-01,,,,,,,False
+missing_commission_id,3172404340,22713151,Bradley,Olk,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-10,2022-10-06,2023-01-01,,,,,,,False
+missing_commission_id,3172404342,22450001,Elizabeth,Pott,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-28,2022-11-01,,,,,,,False
+missing_commission_id,3172404357,22754401,Theresa,Shelton,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-07,2022-12-01,,,,,,,False
+missing_commission_id,3172404360,23056401,Richard,Waller,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-31,2022-11-03,2023-01-31,,,,,,,False
+missing_commission_id,3172404362,23056651,Julie,Waller,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-31,,2023-03-01,,,,,,,False
+missing_commission_id,3172404369,17441301,Brian,Miller,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-17,2022-08-15,2022-10-01,,,,,,,False
+missing_commission_id,3172404379,16811601,Geraldine,Wiegel,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-07-06,2022-07-06,2022-08-01,,,,,,,False
+missing_commission_id,3172404383,16026551,Gary,Wright,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-06-02,2022-06-02,2022-09-01,,,,,,,False
+missing_commission_id,3172404490,17165801,Judith A,Phelps,50312260,Pete,Scalzo,50312260,Pete,Scalzo,NA,,AMERITAS,,200,,dvh,2022-07-27,2022-07-27,2022-08-01,,,,,,,False
+missing_commission_id,3172404513,16890601,ReNae,Stucki,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,,200,,dvh,2022-06-15,2022-06-14,2022-07-01,,,,,,,False
+missing_commission_id,3172447087,4147301,Susan,Richmond,76357008,Inactive,Agent,76357008,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-09-21,,2021-10-01,,,,,,,False
+missing_commission_id,3172447114,4217601,Brent,Welch,76356149,Inactive,Agent,76356149,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-12-14,,2021-12-15,,,,,,,False
+missing_commission_id,3172447124,4392001,Darlene,Rattan,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-06-07,2022-06-07,2022-07-01,,,,,,,False
+missing_commission_id,3172447148,4390951,Margarette,Frazier,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-11,2022-10-07,2022-11-01,,,,,,,False
+missing_commission_id,3172447248,2551401,Pam,Sullins,71859731,Rhi,Neal,71859731,Rhi,Neal,NA,,AMERITAS,,200,,dvh,2021-06-07,,2021-08-01,,,,,,,False
+missing_commission_id,3172447314,2739551,Jamie,Montana,76357008,Inactive,Agent,76357008,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2021-07-08,,2021-08-01,,,,,,,False
+missing_commission_id,3172133447,1989651,Dorothy,Ritts,49727299,Inactive,Agent,49727299,Inactive,Agent,CLI6661857,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-06-03,,2021-06-04,,,,,,,False
+missing_commission_id,3172391807,1603651,James ,Ritts,49727299,Inactive,Agent,49727299,Inactive,Agent,CLI6661857,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-06-03,,2021-06-04,,,,,,,False
+missing_commission_id,3172148773,4577221,Larry,Moffitt,49751982,Josh,Musick,49751982,Josh,Musick,10250852844,,AMERITAS,,200,,dvh,,,2022-07-01,,,,,,,False
+missing_commission_id,3172310887,18142851,Robin,Bullock Tully,66410900,Nick,Thompson,66410900,Nick,Thompson,10250852844,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-07-25,2022-07-22,2022-09-01,,,,,,,False
+missing_commission_id,3172197750,6548101,Gerald,Hongoltz,76357008,Inactive,Agent,76357008,Inactive,Agent,n/a,,AMERITAS,,200,,dvh,2021-10-07,,2021-10-22,,,,,,,False
+missing_commission_id,3172197783,7009101,Thomas,Mellett,71859731,Rhi,Neal,71859731,Rhi,Neal,n/a	,,AMERITAS,,200,,dvh,2021-11-27,,2022-01-01,,,,,,,False
+missing_commission_id,3172197794,6816151,Burl ,J.     White,49712324,David,Strehlow,49712324,David,Strehlow,n/a	,,AMERITAS,,200,,dvh,2021-11-29,,2022-01-01,,,,,,,False
+missing_commission_id,3172218929,2961601,Douglas,Murri,76357008,Inactive,Agent,76357008,Inactive,Agent,n/a	,,AMERITAS,,200,,dvh,2021-06-24,,2021-07-01,,,,,,,False
+missing_commission_id,3172218942,2956651,William,Reiter,76357008,Inactive,Agent,76357008,Inactive,Agent,n/a	,,AMERITAS,,200,,dvh,2021-06-23,,2021-07-01,,,,,,,False
+missing_commission_id,3172252071,5655951,Linda,Huey,81158657,Inactive,Agent,81158657,Inactive,Agent,n/a	,,AMERITAS,,200,,dvh,2021-09-10,,2021-11-01,,,,,,,False
+missing_commission_id,3172252079,5701001,Randall,Russell,89311810,Jordan,Otte,89311810,Jordan,Otte,n/a	,,AMERITAS,,200,,dvh,2021-09-21,,2021-10-01,,,,,,,False
+missing_commission_id,3172310672,3490901,Teresa,Stetler,81158657,Inactive,Agent,81158657,Inactive,Agent,n/a	,,AMERITAS,,200,,dvh,2021-07-12,,2021-08-01,,,,,,,False
+missing_commission_id,3172310699,1070301,Roxanne,Delinko,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,n/a	,,AMERITAS,,200,,dvh,2021-02-24,,2021-03-01,,,,,,,False
+missing_commission_id,3172322329,5282101,Joyce,Kasler,89300906,Brian,Schwartz,89300906,Brian,Schwartz,n/a	,,AMERITAS,,200,,dvh,2021-12-13,,2022-01-01,,,,,,,False
+missing_commission_id,3172322417,9206351,Nancy,Stanisavljevic,49712324,David,Strehlow,49712324,David,Strehlow,n/a	,,AMERITAS,,200,,dvh,2021-12-29,,2022-01-01,,,,,,,False
+missing_commission_id,3172322431,9256851,Dan,Stanisavljevic,49712324,David,Strehlow,49712324,David,Strehlow,n/a,,AMERITAS,,200,,dvh,2021-12-29,,2022-01-01,,,,,,,False
+missing_commission_id,3172342280,7371901,John,Kowba,71859731,Rhi,Neal,71859731,Rhi,Neal,n/a	,,AMERITAS,,200,,dvh,2022-01-10,,2022-01-11,,,,,,,False
+missing_commission_id,3172342289,7725001,LINDA,TRAHAN,89300906,Brian,Schwartz,89300906,Brian,Schwartz,n/a	,,AMERITAS,,200,,dvh,2021-10-29,,2022-01-01,,,,,,,False
+missing_commission_id,3172361745,28201,Ricky,Martin,49712326,Matthew,Cano,49712326,Matthew,Cano,n/a	,,AMERITAS,,200,,dvh,2020-09-10,,2020-12-01,,,,,,,False
+missing_commission_id,3172447237,2421101,Joan,Bartsch,49712324,David,Strehlow,49712324,David,Strehlow,n/a	,,AMERITAS,,200,,dvh,2021-06-01,,2021-07-01,,,,,,,False
+missing_commission_id,3172447238,2607851,Rick,Richmond,76357008,Inactive,Agent,76357008,Inactive,Agent,n/a	,,AMERITAS,,200,,dvh,2021-09-21,,2021-10-01,,,,,,,False
+missing_commission_id,3172447249,2888551,Nancy,Reiter,76357008,Inactive,Agent,76357008,Inactive,Agent,n/a	,,AMERITAS,,200,,dvh,2021-06-24,,2021-07-01,,,,,,,False
+missing_commission_id,3172447280,2411751,Mary,Foley,49712324,David,Strehlow,49712324,David,Strehlow,n/a	,,AMERITAS,,200,,dvh,2021-09-10,,2021-11-01,,,,,,,False
+missing_commission_id,3172197791,6266951,Barry,Auerbach,71859731,Rhi,Neal,71859731,Rhi,Neal,250702717,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-22,,2022-01-01,,,,,,,False
+missing_commission_id,3172322352,8871001,Mary,Auerbach,71859731,Rhi,Neal,71859731,Rhi,Neal,250702717,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-23,,2022-01-01,,,,,,,False
+missing_commission_id,3172219015,2955101,Debra,Jaramillo,76355971,Mark,Files,76355971,Mark,Files,00250587249,,AMERITAS,,200,,dvh,2021-07-01,,2021-08-01,,,,,,,False
+missing_commission_id,3172447075,4480901,Rita,Jaramillo,49712326,Matthew,Cano,49712326,Matthew,Cano,00250587249,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-07,,2022-04-01,,,,,,,False
+missing_commission_id,3172219149,15120351,Robert J,Donnelly,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-25,2022-10-19,2023-01-01,,,,,,,False
+missing_commission_id,3172252446,21817751,Charles,Bryant Jr,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-31,2022-11-01,,,,,,,False
+missing_commission_id,3172252484,21511651,Dawn Ann,Carpenter,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-26,2022-10-25,2022-11-01,,,,,,,False
+missing_commission_id,3172288006,19874151,Diana,Pelletier,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-17,2022-10-17,2023-01-01,,,,,,,False
+missing_commission_id,3172297248,18796301,James,Smith,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-11-01,2022-11-01,,,,,,,False
+missing_commission_id,3172391792,1569001,Maria ,Gajo,76539239,Inactive,Agent,76539239,Inactive,Agent,Pending Member ID,,AMERITAS,,500,,dvh,2021-07-16,,2021-08-01,,2022-11-30,,,,,False
+missing_commission_id,3172404276,22635151,Cynthia,Huff,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-18,2022-10-06,2022-11-01,,,,,,,False
+missing_commission_id,3172404530,16912851,Russell,Milliken,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-03,2022-11-03,2022-12-01,,,,,,,False
+missing_commission_id,3172447241,2737751,Thomas,McGranaghan,49712324,David,Strehlow,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-28,2022-10-07,2023-01-01,,,,,,,False
+missing_commission_id,3180591916,8725651,David,Davis,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-10,2022-11-01,,,,,,,False
+missing_commission_id,3183136781,22315301,Nickie,Golden,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-13,2022-10-11,2022-12-01,,,,,,,False
+missing_commission_id,3186804877,22828001,Katherine,Standley,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3187966370,23225351,Angela,Yu,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-11,2022-10-10,2022-11-01,,,,,,,False
+missing_commission_id,3188896770,22880451,John,Yu,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-10,2023-01-01,,,,,,,False
+missing_commission_id,3189615118,23008351,Gary,Ryder,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-13,2022-10-10,2023-01-01,,,,,,,False
+missing_commission_id,3199054498,22077301,Sharon,Smith,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,2022-10-11,2023-01-01,,,,,,,False
+missing_commission_id,3204821349,23066501,Dianne,Cook,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-01,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3205378927,22896351,Cheryl,Jones,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-11,2023-01-01,,,,,,,False
+missing_commission_id,3206057135,23004351,Virginia,Nickle,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-11,2023-01-01,,,,,,,False
+missing_commission_id,3206057246,21790351,Stephen,Miller,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-11,2022-10-11,2022-12-01,,,,,,,False
+missing_commission_id,3222828881,20661201,Paula,Barnhart,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3224317198,23300951,Lisa,Plummer,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3224317272,23134601,Phil,Plummer,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3224563327,23304201,Susan,Mikes,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-13,2023-01-01,,,,,,,False
+missing_commission_id,3226580134,23303051,Katherine,Kerr,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3226580228,23164351,Stan,Mucinic,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-12,2022-11-01,,,,,,,False
+missing_commission_id,3226687309,19621901,Dave,Kerr,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3227909904,23294301,Robert,Lefler,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-12,2022-12-01,,,,,,,False
+missing_commission_id,3249778438,21512251,Melissa,Hufford,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-13,2022-12-01,,,,,,,False
+missing_commission_id,3250752549,22995301,Joseph,Kaneta,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-14,2022-10-13,2023-01-01,,,,,,,False
+missing_commission_id,3253022494,14102451,Margaret ,Hess,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-13,2023-01-01,,,,,,,False
+missing_commission_id,3254145615,23246051,Diane,Foerster,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-14,2022-10-31,2022-11-01,,,,,,,False
+missing_commission_id,3256634785,21557651,Paula,Matos,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-14,2022-10-14,2022-12-01,,,,,,,False
+missing_commission_id,3256671881,23360101,Michael,Foerster,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+missing_commission_id,3267265628,22104601,MARTIN,NICHOLS,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-14,2022-10-14,2023-01-01,,,,,,,False
+missing_commission_id,3270750392,21719301,Randall,Levy,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-14,2022-10-14,2022-11-01,,,,,,,False
+missing_commission_id,3271353631,22194601,Claye,Dance,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-25,2022-10-14,2023-01-01,,,,,,,False
+missing_commission_id,3274373485,23389801,Shirley,Rowland,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-07,2022-12-01,,,,,,,False
+missing_commission_id,3274971515,20816351,Zeny,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-17,2022-10-14,2023-01-01,,,,,,,False
+missing_commission_id,3275255841,21101151,Dante,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-17,2022-10-14,2023-01-01,,,,,,,False
+missing_commission_id,3293569091,23170351,Michael,Heinen,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-17,2022-10-15,2022-12-01,,,,,,,False
+missing_commission_id,3293659560,23383251,Linda,Peterson,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-25,2022-10-17,2023-01-01,,,,,,,False
+missing_commission_id,3295126850,23390551,Richard,Larrabee,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,Advantage Plus Network 2000,200,,dvh,2022-10-17,2022-10-15,2023-01-01,,,,,,,False
+missing_commission_id,3323988131,23218201,Jerry,Standley,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-25,2022-10-18,2023-01-01,,,,,,,False
+missing_commission_id,3333528216,6556701,Stephen,Arnold,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-26,2022-11-01,,,,,,,False
+missing_commission_id,3333528223,23534601,Kirk,Howsare,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-18,2022-10-17,2023-01-01,,,,,,,False
+missing_commission_id,3333696947,23301401,Debra,Howsare,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-17,2023-01-01,,,,,,,False
+missing_commission_id,3333696950,23527901,Kristine,Arnold,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,2022-10-24,2022-11-01,,,,,,,False
+missing_commission_id,3333697066,23251801,Carmen,Johnson,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-17,2023-01-01,,,,,,,False
+missing_commission_id,3355541583,23329101,Nina,Rowe,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
+missing_commission_id,3355648304,2400501,Robert,Carrillo,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-18,,2023-01-01,,,,,,,False
+missing_commission_id,3355942560,2400551,Sheila,Carrillo,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-18,2022-10-18,2023-01-01,,,,,,,False
+missing_commission_id,3356736096,1749751,Linda,D'Agostino,192985888,Jordan,Seifert,50183183,Rhee,Cano,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-18,,2022-12-01,,,,,,,False
+missing_commission_id,3359965024,23310101,Elizabeth,Schumann,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
+missing_commission_id,3360570378,22848651,Vanessa,Reed,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-25,2022-10-18,2023-01-01,,,,,,,False
+missing_commission_id,3361044486,4239451,Glenn M,Allen,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,2022-10-18,2022-12-01,,,,,,,False
+missing_commission_id,3361540982,6347301,Sandra,Allen,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,2022-10-18,2022-12-01,,,,,,,False
+missing_commission_id,3362989408,14934301,Sheila,Gibson,192985888,Jordan,Seifert,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-18,,2022-10-19,,,,,,,False
+missing_commission_id,3376479653,23602651,Theresa,Hommema,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
+missing_commission_id,3380225416,22287701,Peter,DeAngelo,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-21,2022-12-01,,,,,,,False
+missing_commission_id,3384335031,16791851,Art,Formas,192985888,Jordan,Seifert,71859731,Rhi,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,,2022-11-01,,,,,,,False
+missing_commission_id,3384335194,12338401,Anne,Kuhl,192985888,Jordan,Seifert,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,,2023-01-01,,,,,,,False
+missing_commission_id,3384542737,20571851,Christopher,Clingerman,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-20,2023-01-01,,,,,,,False
+missing_commission_id,3385971100,23163901,Kenneth,Dugas,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-19,2022-11-01,,,,,,,False
+missing_commission_id,3387907611,2954451,Donald,Otis,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-21,2022-10-20,2022-12-01,,,,,,,False
+missing_commission_id,3388302459,23638201,Kimberly,Otis,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-20,2022-10-20,2022-12-01,,,,,,,False
+missing_commission_id,3395710524,3722801,David,Oxley,192985888,Jordan,Seifert,81158657,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-20,,2022-11-01,,,,,,,False
+missing_commission_id,3399683726,23654001,Donald,Wright,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-21,2022-10-20,2023-01-01,,,,,,,False
+missing_commission_id,3399683727,23256701,Amanda,Wright,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-25,2022-10-20,2023-01-01,,,,,,,False
+missing_commission_id,3400725853,23657551,Regina,Carter,192985888,Jordan,Seifert,192985888,Jordan,Seifert,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-20,,2022-11-01,,,,,,,False
+missing_commission_id,3404570262,23233301,Daniel,Duggan,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-20,2022-10-20,2022-11-01,,,,,,,False
+missing_commission_id,3404628885,23656951,Donn,Williams,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,No Dental Coverage,200,,dvh,2022-10-25,2022-10-24,2022-11-01,,,,,,,False
+missing_commission_id,3408382353,22321851,Rita,DeAngelo,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-21,2022-10-21,2022-12-01,,,,,,,False
+missing_commission_id,3408382642,23669101,Gene,Allemandi,50183183,Rhee,Cano,50183183,Rhee,Cano,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-20,2023-01-01,,,,,,,False
+missing_commission_id,3408382846,23673751,Marye,Williams,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,No Dental Coverage,200,,dvh,2022-10-25,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3419395881,14448651,deanna,white,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-21,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3423365018,23343451,Darrell,Conner,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-21,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3423516471,21757501,Anne,MacDonald,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-26,2022-10-24,2022-11-01,,,,,,,False
+missing_commission_id,3423516484,23623601,Meera,Kazi ,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-25,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3424092798,23695301,William,MacDonald,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,2022-10-24,2022-11-01,,,,,,,False
+missing_commission_id,3424387116,4623201,Julie,Turner,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-21,,2022-11-01,,,,,,,False
+missing_commission_id,3424387165,23223751,Gregory,Tompkins,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-24,2022-10-21,2022-11-01,,,,,,,False
+missing_commission_id,3424758108,23657401,BRENDA,SHEA,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3424923503,23306901,Christopher,Shea,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3424923516,13291401,Karyn,Dobmeier,192985888,Jordan,Seifert,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-21,,2022-12-01,,,,,,,False
+missing_commission_id,3425403951,23698451,Eland,Williams,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-24,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3425513377,23663201,Rochelle,Williams,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-24,2022-10-21,2023-01-01,,,,,,,False
+missing_commission_id,3477162673,23522101,Geoffrey,Parker,50109414,Marvin,Musick,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,,2022-11-01,,,,,,,False
+missing_commission_id,3478676782,23517301,Marsha,Loftis,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,2022-10-24,2022-11-01,,,,,,,False
+missing_commission_id,3479307547,4182051,Ronald,Morales,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-24,,2022-12-01,,,,,,,False
+missing_commission_id,3479640706,4583843,Susan,Pekios,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-24,,2022-11-01,,,,,,,False
+missing_commission_id,3481657702,18031551,Cynthia,Czech,192985888,Jordan,Seifert,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-24,,2023-01-01,,,,,,,False
+missing_commission_id,3483196578,23567651,Jeanne,Hardesty,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-24,2023-01-01,,,,,,,False
+missing_commission_id,3483197029,23259751,Patricia (Pat),Evans,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-25,2022-10-25,2022-11-01,,,,,,,False
+missing_commission_id,3484940400,20552801,HAROLD,WHISPELL,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-24,2022-11-01,,,,,,,False
+missing_commission_id,3486451229,23416851,Gustavo,Gonzalez Sr,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,No Dental Coverage,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3499888443,23247801,John ,Scott,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-27,2022-10-25,2023-01-01,,,,,,,False
+missing_commission_id,3503473960,22944851,Ronald,Meadley,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-25,2022-11-01,,,,,,,False
+missing_commission_id,3503474047,22446151,Jeanetta,House,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-27,2022-10-25,2022-12-01,,,,,,,False
+missing_commission_id,3504192100,23036101,judy,bruce,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3504192105,23588151,Bruce,Layton,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-26,2023-01-01,,,,,,,False
+missing_commission_id,3505739833,23644201,Doris,Pelchat,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,500,,dvh,2022-10-27,2022-10-25,2023-01-01,,2022-12-31,,,,,False
+missing_commission_id,3507528113,23860151,Felix,Pelchat,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,500,,dvh,2022-10-26,2022-10-25,2023-01-01,2022-11-13,2022-12-31,,,,,False
+missing_commission_id,3508762489,22620001,peggy,Groeneweg,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-25,2022-12-01,,,,,,,False
+missing_commission_id,3520335887,23881751,Noel,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-28,2022-10-26,2023-01-01,,,,,,,False
+missing_commission_id,3522477990,7768801,Debbie,Gillihan,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-26,2022-10-26,2023-01-01,,,,,,,False
+missing_commission_id,3522478172,23772401,Terrence,Spathos,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-26,2022-10-26,2022-12-01,,,,,,,False
+missing_commission_id,3522555301,23837751,Janice,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-26,2023-01-01,,,,,,,False
+missing_commission_id,3525962066,23887851,Ruth,Joseph,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-27,2022-10-26,2022-11-01,,,,,,,False
+missing_commission_id,3539269034,23695601,Mary,Hand,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-27,2022-10-27,2023-01-01,,,,,,,False
+missing_commission_id,3543129359,23581001,Robert W,Rivera,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-28,2022-10-27,2022-11-01,,,,,,,False
+missing_commission_id,3543649413,10331551,Cynthia,Damon,192985888,Jordan,Seifert,71859731,Rhi,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-27,,2022-11-01,,,,,,,False
+missing_commission_id,3544627310,862601,Lynda,Bradt,192985888,Jordan,Seifert,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-27,,2023-01-01,,,,,,,False
+missing_commission_id,3545755148,13136801,PATRICE,POTTER,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-11-01,2023-01-01,,,,,,,False
+missing_commission_id,3545755262,23810751,Carol,Ellis,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-27,2022-11-01,,,,,,,False
+missing_commission_id,3547576195,23672001,Daniel,Stacey,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-28,2022-10-27,2022-11-01,,,,,,,False
+missing_commission_id,3547576329,23948251,Gwen,Craven,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,,2022-10-28,2023-01-01,,,,,,,False
+missing_commission_id,3547576464,12754451,Michele,Faucett,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,500,,dvh,2022-10-31,2022-10-28,2023-01-01,,2022-12-31,,,,,False
+missing_commission_id,3550365284,4578664,Michael,Pollard,165335440,Cory,Caldwell,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-31,2022-11-01,,,,,,,False
+missing_commission_id,3557924735,5505351,Catherine,Carroll,192985888,Jordan,Seifert,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-28,,2023-01-01,,,,,,,False
+missing_commission_id,3564371789,23064251,Tara,McGranaghan,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-28,,2023-01-01,,,,,,,False
+missing_commission_id,3565456422,18494551,Patrick,McPhail,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-28,2022-12-01,,,,,,,False
+missing_commission_id,3566337664,23562051,Louis,Short,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-28,2022-11-01,,,,,,,False
+missing_commission_id,3566854028,21405701,Keith,Smathers,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-28,2023-01-01,,,,,,,False
+missing_commission_id,3582026625,24006101,James,Barrett,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-04,2022-11-04,2023-02-01,,,,,,,False
+missing_commission_id,3582026630,23559201,James,Loomis,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-04,2023-02-01,,,,,,,False
+missing_commission_id,3583294102,23982051,Patricia,Fulkman,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-29,2022-11-01,,,,,,,False
+missing_commission_id,3583294110,24011151,Harold,Fulkman,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-29,2022-11-01,,,,,,,False
+missing_commission_id,3617489740,23570901,Gary,Butler,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+missing_commission_id,3617921693,23610151,June,Jeffers,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
+missing_commission_id,3618617254,24075101,Brian,Bartlett,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,Advantage Plus Network 2000,200,,dvh,2022-10-31,2022-10-31,2022-11-01,,,,,,,False
+missing_commission_id,3620998436,23863601,Melody,Rader,192985888,Jordan,Seifert,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+missing_commission_id,3621665829,19584601,David,Pannell,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+missing_commission_id,3624421480,23906851,Russell,Watts,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
+missing_commission_id,3625043549,5187701,Michael,Wright,50183183,Rhee,Cano,50183183,Rhee,Cano,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+missing_commission_id,3626740271,23919251,Dan,Jordan,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-31,,2022-10-01,,,,,,,False
+missing_commission_id,3632529993,21135051,Susan,Cacciola,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-01,2022-11-01,2022-12-01,,,,,,,False
+missing_commission_id,3635674752,21816251,Helen,Floyd,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-11-07,2022-11-02,2022-11-08,,,,,,,False
+missing_commission_id,3635674787,8667001,John,Labrecque,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-01,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3637902255,23571751,Clay,Mayo,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-01,2022-11-01,2023-01-01,,,,,,,False
+missing_commission_id,3640878700,16084201,Martin,Tisckos Jr.,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-02,2022-11-01,2022-12-01,,,,,,,False
+missing_commission_id,3642019098,24009201,Don,Mcintosh,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-03,2022-11-01,2022-12-01,,,,,,,False
+missing_commission_id,3655529913,23754451,Sonia,Whitfield,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,500,,dvh,2022-11-02,2022-11-02,2023-01-01,2022-11-13,2022-12-31,,,,,False
+missing_commission_id,3657745161,22336651,Richard,Schwartz,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-02,2022-11-03,,,,,,,False
+missing_commission_id,3658270514,13533951,Mark,Feinberg,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-02,2022-11-02,2022-11-03,,,,,,,False
+missing_commission_id,3658596188,12172351,William,Brown,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-02,2022-11-02,2022-11-03,,,,,,,False
+missing_commission_id,3661110030,19006251,Linda,Polancih,50183183,Rhee,Cano,50183183,Rhee,Cano,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-03,2022-11-02,2023-02-01,,,,,,,False
+missing_commission_id,3661792273,23620551,Randall,Carman,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-02,2023-02-01,,,,,,,False
+missing_commission_id,3662875829,23852301,Sharon D,Woods,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-02,2023-01-01,,,,,,,False
+missing_commission_id,3666591592,24174501,PHILIP,SHIPP,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-02,2023-02-01,,,,,,,False
+missing_commission_id,3666591614,23814151,Vickie,Shipp,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-02,2023-02-01,,,,,,,False
+missing_commission_id,3666591798,19576001,Michael A,Parham,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-03,2022-11-03,2023-02-01,,,,,,,False
+missing_commission_id,3667065258,2186651,Caula A,Beyl,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-03,2022-11-03,2023-02-01,,,,,,,False
+missing_commission_id,3667065391,20091301,Jennifer L,Laming,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-03,2023-02-01,,,,,,,False
+missing_commission_id,3677810808,22918151,Daniel,Black,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-03,2023-01-01,,,,,,,False
+missing_commission_id,3678094373,24191001,Karen,Black,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-03,2023-01-01,,,,,,,False
+missing_commission_id,3678814044,20696901,Richard J,Wright,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-03,2022-11-03,2022-12-01,,,,,,,False
+missing_commission_id,3679008810,24112601,Philip ,Snow,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-03,2023-02-01,,,,,,,False
+missing_commission_id,3680441416,14262801,Rosanne,Thiry,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-03,2022-11-04,,,,,,,False
+missing_commission_id,3680683080,24197101,Daniel,Thiry,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-03,2022-11-08,,,,,,,False
+missing_commission_id,3681081416,24110701,Carl,Cullotta,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-04,2023-01-01,,,,,,,False
+missing_commission_id,3681144373,11287151,Frances,Robinson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-03,2022-11-03,2023-02-01,,,,,,,False
+missing_commission_id,3681360724,24125301,Karen,Glenn,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-03,2022-12-01,,,,,,,False
+missing_commission_id,3685693992,23572501,Debra K,Miller,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-09,2023-01-01,,,,,,,False
+missing_commission_id,3697095491,4578475,Matthew,Englis,192985888,Jordan,Seifert,96652656,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-04,,2022-12-01,,,,,,,False
+missing_commission_id,3697095495,23979301,Donna,Brand,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-07,2022-11-04,2023-01-01,,,,,,,False
+missing_commission_id,3699890433,3928201,Dorothy,Englis,192985888,Jordan,Seifert,49712326,Matthew,Cano,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-04,,2022-12-01,,,,,,,False
+missing_commission_id,3700439677,23967651,Laura,Murray,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-04,2023-01-01,,,,,,,False
+missing_commission_id,3701691403,23923901,Victoria,Duelz,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-04,2022-12-01,,,,,,,False
+missing_commission_id,3702983280,11567551,Beverly,Kerber,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-08,2022-11-09,,,,,,,False
+missing_commission_id,3702983547,24243501,David,Flower,192985888,Jordan,Seifert,192985888,Jordan,Seifert,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-04,,2022-12-01,,,,,,,False
+missing_commission_id,3705136701,7759851,Robert,Smethurst,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3705303703,14735901,Linda,Ballew,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-07,2022-11-04,2022-11-08,,,,,,,False
+missing_commission_id,3706190882,13560051,Donald,Strong,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-04,2022-12-01,,,,,,,False
+missing_commission_id,3706265374,14934501,Mary,Strong,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-04,2022-12-01,,,,,,,False
+missing_commission_id,3717774183,24107401,Reynold,Eguia,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2022-12-01,,,,,,,False
+missing_commission_id,3751982615,23100901,John,Renko,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3752066935,23222451,Renee,Renko,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3752717615,15893751,Diane,Dugan,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2022-12-01,,,,,,,False
+missing_commission_id,3754836577,24212151,Rex,Johnston,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-02-01,,,,,,,False
+missing_commission_id,3755772695,24203951,Daniel,Morena,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3757994668,24358151,GREGORY,HOLMES,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-07,2022-12-01,,,,,,,False
+missing_commission_id,3757994845,21989451,Brian,Dyer,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3758928914,24211351,Susan,Holmes,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2022-12-01,,,,,,,False
+missing_commission_id,3760094638,24242801,Josanne,Beckman,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-02-01,,,,,,,False
+missing_commission_id,3760565402,23782851,Edmund F,Pawlina Jr,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3762289565,24177651,Barbara,Drummond,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3774464952,6039251,Linda,Meisel,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,,2023-01-01,,,,,,,False
+missing_commission_id,3774465076,24210501,Daniel,Haley,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3774669834,4569201,Fred,Meisel,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,,2023-01-01,,,,,,,False
+missing_commission_id,3774811251,6928101,Cheryl,Murphy,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-08,2022-11-10,,,,,,,False
+missing_commission_id,3774811255,24361501,Ronald R,Binding,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-08,2022-11-08,2022-12-01,,,,,,,False
+missing_commission_id,3775829661,24363451,Brenda,Potter,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-08,2022-12-01,,,,,,,False
+missing_commission_id,3775830096,24257101,Vicki,Music,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3775830110,24240101,Joyce,Pfeiffer,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-08,2022-12-01,,,,,,,False
+missing_commission_id,3777063547,23825001,Debra,Ridley,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3778264737,23255901,Gerard,Frank,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-09,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3778416697,11007601,Michael,Mathis,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-08,2022-12-01,,,,,,,False
+missing_commission_id,3778922797,10138301,Debra,Monachino,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-09,2022-11-08,2023-01-01,,,,,,,False
+missing_commission_id,3788851715,24347151,David,Garber,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-09,2022-11-09,2023-01-01,,,,,,,False
+missing_commission_id,3789527359,24397251,Lucinda,Smith,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-09,2022-11-09,2023-01-01,,,,,,,False
+missing_commission_id,3789527553,12332501,Laura,Smith,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,2022-11-11,2022-12-01,,,,,,,False
+missing_commission_id,3794405710,24355651,Richard,Brock,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-10,2022-11-09,2022-12-01,,,,,,,False
+missing_commission_id,3794405805,22142001,Jacobus J,Oosthuizen,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,,2023-01-01,,,,,,,False
+missing_commission_id,3794504508,19039951,Deborah,Fulgenzi,192985888,Jordan,Seifert,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,,2022-12-01,,,,,,,False
+missing_commission_id,3795943494,24430151,Renae,Busch,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-10,2022-12-01,,,,,,,False
+missing_commission_id,3799873960,23835401,Charles,Carroll ,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-10,2022-11-09,2022-12-05,,,,,,,False
+missing_commission_id,3812636043,1433101,Richard,Cox,192985888,Jordan,Seifert,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-10,,2023-01-01,,,,,,,False
+missing_commission_id,3813871930,4576901,Deborah,RinggoldMiller,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-10,,2022-12-01,,,,,,,False
+missing_commission_id,3817854366,5235201,Linda,Gorman,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,2022-11-10,2022-12-01,,,,,,,False
+missing_commission_id,3819536442,21631701,Michael,Cutshall,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-10,,2023-01-01,,,,,,,False
+missing_commission_id,3828203900,20634251,Paul,Hendrick,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,2022-11-11,2023-02-01,,,,,,,False
+missing_commission_id,3828694322,2981801,Philip,Dunham,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
+missing_commission_id,3829235241,18279301,Mary,Backer,192985888,Jordan,Seifert,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-01-15,,,,,,,False
+missing_commission_id,3829909044,2981851,TyAnn,Dunham,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
+missing_commission_id,3831643005,7480351,Kathleen M,Teson,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-11,,2022-12-01,,,,,,,False
+missing_commission_id,3832208703,23750701,Thomas E,Brown,192985888,Jordan,Seifert,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-02-01,,,,,,,False
+missing_commission_id,3833478301,22890701,Darlene,Chester,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
+missing_commission_id,3172230956,286901,Nathan,Swartzentruber,49712326,Matthew,Cano,49712326,Matthew,Cano,CLI6611426,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-02-26,,2021-03-01,,,,,,,False
+missing_commission_id,3172230975,271401,Debra,Miller-Swartzentruber,49712326,Matthew,Cano,49712326,Matthew,Cano,CLI6611426,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-02-26,,2021-03-01,,,,,,,False
+missing_commission_id,3172231061,10705051,Linda,Littleton,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Vision Only	,,AMERITAS,,200,,dvh,2022-05-26,2022-05-26,2022-08-01,,,,,,,False
+missing_commission_id,3172231194,11226101,Debra,Jensen,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Vision Only	,,AMERITAS,,200,,dvh,2022-09-08,2022-09-01,2022-11-01,,,,,,,False
+missing_commission_id,3172252330,21495351,Johanna,Bateman,66410900,Nick,Thompson,66410900,Nick,Thompson,Vision Only	,,AMERITAS,,200,,dvh,2022-09-07,2022-09-01,2022-12-01,,,,,,,False
+missing_commission_id,3172287807,12424051,Joan,Saunders,66410900,Nick,Thompson,66410900,Nick,Thompson,Vision Only	,,AMERITAS,,200,,dvh,2022-04-11,2022-04-01,2022-07-01,,,,,,,False
+missing_commission_id,3172287866,12659601,Dorris,Harris,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Vision Only	,,AMERITAS,,200,,dvh,2022-04-11,2022-04-01,2022-07-01,,,,,,,False
+missing_commission_id,3172310890,17941801,Kent,Shaw,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Vision Only	,,AMERITAS,,200,,dvh,2022-06-24,2022-06-21,2022-07-01,,,,,,,False
+missing_commission_id,3172310922,17493501,Peter,Stucki,148672948,Howard,Seigle,148672948,Howard,Seigle,Vision Only	,,AMERITAS,,200,,dvh,2022-06-24,2022-06-14,2022-07-01,,,,,,,False
+missing_commission_id,3172322330,5100751,Cailen,Joyce,71859731,Rhi,Neal,71859731,Rhi,Neal,Vision Only	,,AMERITAS,,200,,dvh,2022-04-27,,2022-05-01,,,,,,,False
+missing_commission_id,3172361908,13056101,Cheryl,Kowba,71859731,Rhi,Neal,71859731,Rhi,Neal,Vision Only	,,AMERITAS,,200,,dvh,2022-03-31,,2022-06-01,,,,,,,False
+missing_commission_id,3172391944,8097751,Susan A,Martin,49712324,David,Strehlow,49712324,David,Strehlow,Vision Only	,,AMERITAS,,200,,dvh,2021-12-07,,2022-01-01,,,,,,,False
+missing_commission_id,3172392079,12079751,Kara,Snyder,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Vision Only	,,AMERITAS,,200,,dvh,2022-04-22,2022-04-20,2022-06-01,,,,,,,False
+missing_commission_id,3172404298,22334501,Penny,Morris,66410900,Nick,Thompson,66410900,Nick,Thompson,Vision Only	,,AMERITAS,,200,,dvh,2022-09-21,2022-09-20,2022-11-01,,,,,,,False
+missing_commission_id,3172404403,17338451,Cynthia,Kerr,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Vision Only	,,AMERITAS,,200,,dvh,2022-06-10,2022-06-10,2022-07-01,,,,,,,False
+missing_commission_id,3172404487,17031251,Sherri,Simpson,148672948,Howard,Seigle,148672948,Howard,Seigle,Vision Only	,,AMERITAS,,200,,dvh,2022-07-25,2022-07-19,2022-08-01,,,,,,,False
+missing_commission_id,3172252303,10331551,Cynthia,Damon,71859731,Rhi,Neal,71859731,Rhi,Neal,vision only	,,AMERITAS,,200,,dvh,2022-01-28,,2022-02-01,,,,,,,False
+missing_commission_id,3172287854,12679201,Donna,McGrath,89321120,Matthew,Duffey,89321120,Matthew,Duffey,vision only	,,AMERITAS,,200,,dvh,2022-03-21,2022-03-16,2022-04-01,,,,,,,False
+missing_commission_id,3172310677,3534451,Anthony M,Barron,49712324,David,Strehlow,49712324,David,Strehlow,vision only	,,AMERITAS,,200,,dvh,2022-07-06,2022-07-06,2022-10-01,,,,,,,False
+missing_commission_id,3172322156,13943751,Rocco,Leone,89300906,Brian,Schwartz,89300906,Brian,Schwartz,vision only	,,AMERITAS,,200,,dvh,2022-07-08,2022-07-01,2022-10-01,,,,,,,False
+missing_commission_id,3172322334,9401451,John Richard,Mitchell,49712324,David,Strehlow,49712324,David,Strehlow,vision only	,,AMERITAS,,200,,dvh,2022-03-08,2022-03-08,2022-03-09,,,,,,,False
+missing_commission_id,3172342177,7701801,Lidia,Lloyd,81158657,Inactive,Agent,81158657,Inactive,Agent,vision only	,,AMERITAS,,200,,dvh,2021-11-05,2021-11-01,2022-02-01,,,,,,,False
+missing_commission_id,3172391809,1586151,Edmundo,Campos,49712324,David,Strehlow,49712324,David,Strehlow,vision only	,,AMERITAS,,200,,dvh,2021-03-31,,2021-04-01,,,,,,,False
+missing_commission_id,3172447090,4444201,Barbara,Dennis,89321120,Matthew,Duffey,89321120,Matthew,Duffey,vision only	,,AMERITAS,,200,,dvh,2022-03-30,2022-03-30,2022-04-01,,,,,,,False
+missing_commission_id,3172447135,4201201,Elizabeth,Coley,89300906,Brian,Schwartz,89300906,Brian,Schwartz,vision only,,AMERITAS,,200,,dvh,2022-03-13,2022-03-11,2022-04-01,,,,,,,False
+missing_commission_id,3172322227,5285251,Karen,Steiner,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,00250801100,,AMERITAS,PrimeStar® Access,200,,dvh,2022-03-23,2022-03-22,2022-04-01,,,,,,,False
+missing_commission_id,3172362028,12778351,Douglas,Steiner,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,00250801100,,AMERITAS,PrimeStar® Access,200,,dvh,2022-03-23,2022-03-22,2022-04-01,,,,,,,False
+missing_commission_id,3172391839,8195251,Myron,Richey,49712324,David,Strehlow,49712324,David,Strehlow,250697691,,AMERITAS,PrimeStar® Access,200,,dvh,2021-11-12,,2022-01-01,,,,,,,False
+missing_commission_id,3172391844,8195601,Sarah,Richey,49712324,David,Strehlow,49712324,David,Strehlow,250697691,,AMERITAS,PrimeStar® Access,200,,dvh,2021-11-18,,2022-01-01,,,,,,,False
+missing_commission_id,3502529084,23517651,Judith,Macauley,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-31,2022-11-01,,,,,,,False
+missing_commission_id,3641614853,23945751,Debra,Brashear,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-01,2022-11-01,2022-12-01,,,,,,,False
+missing_commission_id,3658270575,19549201,Patricia,Sewell,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-02,2023-01-01,,,,,,,False
+missing_commission_id,3661279848,19893151,Frank,Sewell,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
+missing_commission_id,3683585841,23801751,Nancy,Fisher,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-03,2022-12-01,,,,,,,False
+missing_commission_id,3718517530,6000851,Janet,Crenshaw,66410900,Nick,Thompson,71859731,Rhi,Neal,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3721246568,24071701,Michael,Crenshaw,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3757042738,4566603,Bruce,Murphy,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-08,2022-11-09,,,,,,,False
+missing_commission_id,3816894810,24345551,Donald,Easley,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,No Dental Coverage,200,,dvh,2022-11-10,2022-11-10,2023-02-01,,,,,,,False
+missing_commission_id,3566854021,22059401,Ronald,Wesley,49712326,Matthew,Cano,49712326,Matthew,Cano,847252347,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-28,,2023-01-01,,,,,,,False
+missing_commission_id,3625617985,23113051,Penny,Davis,49712326,Matthew,Cano,49712326,Matthew,Cano,847253417,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,3 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172361634,9101,Matthew,Cano,50182168,Inactive,Agent,50182168,Inactive,Agent,NA,,AMERITAS,,200,,dvh,2022-09-13,,2022-09-13,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,

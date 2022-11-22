@@ -1,0 +1,17 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172599321,11577351,Teresa,Brigance,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10027150P1,,HEARTLAND,,200,,copay,2022-02-16,,2022-03-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172685840,2688501,Edwin scott,Brigance,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10020948P1,,HEARTLAND,,200,,copay,2021-06-10,,2021-08-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172637010,3008401,Veda,Coley,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10022205P1,,HEARTLAND,,410,,copay,2021-08-26,,2021-10-01,,2022-02-14,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172767080,3386701,Anita,Crew-Rozsa,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10021492P1,,HEARTLAND,,200,,copay,2021-07-12,,2021-07-12,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172805979,8820751,DeNease G.,Hall,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10025140P1,,HEARTLAND,,200,,copay,2021-11-22,2021-11-22,2022-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172571497,6254301,Hans J.,Pollesche,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10026481P1,,HEARTLAND,,200,,copay,2022-01-05,,2022-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172517935,5193401,Willard,Tolbert,76539239,Inactive,Agent,76539239,Inactive,Agent,HN10023685P1,,HEARTLAND,,410,,copay,2021-10-26,2021-10-01,2021-12-01,,2022-02-17,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172825394,2563751,Larry,Wright,76539239,Inactive,Agent,76539239,Inactive,Agent,Pending Policy Number,,HEARTLAND,,410,,copay,2021-08-13,,2021-09-01,,2022-03-16,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,

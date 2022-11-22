@@ -1,0 +1,9 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172599199,3092801,Jonathan,Atwood,81158657,Inactive,Agent,81158657,Inactive,Agent,HN10021339P1,,HEARTLAND,,200,,copay,2021-06-29,,2021-07-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172772272,3102451,Dianne,Atwood,81158657,Inactive,Agent,81158657,Inactive,Agent,HN10021340P1,,HEARTLAND,,200,,copay,2021-06-29,,2021-07-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172697445,6969101,Kathleen,Kordas,81158657,Inactive,Agent,81158657,Inactive,Agent,GTA6169202,,GTL,,200,,copay,2021-11-18,,2022-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172571430,3633901,Ray,Leonard,81158657,Inactive,Agent,81158657,Inactive,Agent,HN10021924P1	,,HEARTLAND,,200,,copay,2021-08-10,,2021-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

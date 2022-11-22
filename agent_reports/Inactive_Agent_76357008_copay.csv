@@ -1,0 +1,13 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172589714,6833751,Bobby,Carlton,76357008,Inactive,Agent,76357008,Inactive,Agent,HN10022823P1,,HEARTLAND,,200,,copay,2021-10-05,,2021-11-15,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172793361,5763001,Deborah,Henry,76357008,Inactive,Agent,76357008,Inactive,Agent,HN10027448P1,,HEARTLAND,,410,,copay,2022-03-07,2022-03-07,2022-06-01,,2022-08-01,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172697473,12135951,Sheila,Jones,76357008,Inactive,Agent,76357008,Inactive,Agent,HN10027839P1,,HEARTLAND,,200,,copay,2022-03-31,2022-03-31,2022-06-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172782402,4867601,Adrian G,Maravilla,76357008,Inactive,Agent,76357008,Inactive,Agent,HN10024695P1,,HEARTLAND,,410,,copay,2021-11-13,,2021-12-01,,2022-06-09,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172805947,4855451,Nenita,Maravilla,76357008,Inactive,Agent,76357008,Inactive,Agent,HN10024694P1,,HEARTLAND,,410,,copay,2021-11-13,,2021-12-01,,2022-06-09,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172599200,3339901,Norma,Massey,76357008,Inactive,Agent,76357008,Inactive,Agent,HN10024036P1,,HEARTLAND,,200,,copay,2021-11-02,,2022-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
