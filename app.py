@@ -31,7 +31,7 @@ from deta import Deta
 
 from fastapi import Depends, FastAPI, HTTPException, status
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, RedirectResponse
 
 
 deta = Deta("b0hdifmg_JFEgLc7cqC3cJbsYBVbfYY5NNMA645VN")
@@ -661,7 +661,7 @@ Default Server Funcs
 """
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return RedirectResponse(url='/docs')
 
 class OLabel(str, Enum):
     copay = 'copay'
