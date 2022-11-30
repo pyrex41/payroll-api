@@ -40,6 +40,11 @@ drive = deta.Drive("pickles")
 status = deta.Base("status")
 reports = deta.Drive("reports")
 
+# set defaults
+status.put(False, "data_refresh_active")
+status.put(False, "processing_report")
+status.put(False, "loading_data")
+
 
 
 app = FastAPI()
@@ -83,7 +88,7 @@ async def load_data_call(background_tasks: BackgroundTasks, user: str = Depends(
         return {'msg': 'data already loading'}
 
 def load_data():
-    status.put(True, "loading_data")
+    status.put(True, "loading_data", expire_in=300)
     print("data load beginning")
     at = []
     for x in ["msp", "map", "dvh", "copay", "contacts"]:
@@ -126,7 +131,10 @@ async def check_refresh(usr: str = Depends(get_current_username)):
         return {'error': ee, 'last_refresh': "NA"}
 
 def set_refresh(bool_: bool):
-    status.put(bool_, "data_refresh_active")
+    if bool_:
+        status.put(bool_, "data_refresh_active", expire_in=6000)
+    else:
+        status.put(bool_, "data_refresh_active")
 
 """``
 Use this end point to trigger a data refresh. May timeout; use GET to check if refresh in progress.
@@ -201,7 +209,7 @@ async def respond_and_process(report_month, report_year, background_tasks: Backg
 
 
 def process_agent_reports(report_month, report_year):
-    status.put(True, "processing_report")
+    status.put(True, "processing_report", expire_in=1000)
 
     agents = hs.get_agents()
     contact_props = ['hubspot_owner_id']
