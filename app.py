@@ -708,6 +708,11 @@ def remove_agent(agent_id: int, username: str = Depends(get_current_username)):
 """
 Default Server Funcs
 """
+
+@app.get("/deta/token")
+def show_token(usr: str = Depends(get_current_username)):
+    return deta_token
+
 @app.get("/")
 async def root():
     return RedirectResponse(url='/docs')
