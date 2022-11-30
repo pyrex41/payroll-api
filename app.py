@@ -34,8 +34,8 @@ from fastapi.templating import Jinja2Templates
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 from fastapi.responses import FileResponse, RedirectResponse
 
-
-deta = Deta("b0hdifmg_JFEgLc7cqC3cJbsYBVbfYY5NNMA645VN")
+deta_token = os.environ["DETA_ACCESS_TOKEN"]
+deta = Deta(deta_token)
 drive = deta.Drive("pickles")
 status = deta.Base("status")
 reports = deta.Drive("reports")
