@@ -177,9 +177,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177105,2074001,Diane,McDougle,64738322,Gabriel,Rhone,64738322,Gabriel,Rhone,3401271535,A03275478,AARP,G,200,,msp,2021-06-10,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168472413,5282301,Elaine,Miner,76357008,Inactive,Agent,76357008,Inactive,Agent,000475774,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),410,,map,2021-10-23,,2021-11-01,2022-10-09,2022-10-31,,2021-11-01,False,False,
-3191933462,5282301,Elaine,Miner,64738322,Gabriel,Rhone,76357008,Inactive,Agent,3492785385,,AARP,G,200,Not Commissionable,msp,2022-10-05,2022-10-05,2022-11-01,,,,2022-11-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259080,7483851,Mike,Minter,64738322,Gabriel,Rhone,64738322,Gabriel,Rhone,AHC6562282,AHC6562282,AETNA,G,200,,msp,2021-10-21,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332514,8196901,Barbara,Minter,64738322,Gabriel,Rhone,64738322,Gabriel,Rhone,AHC6563165,AHC6563165,AETNA,G,200,,msp,2021-10-21,,2021-12-01,,,,2021-12-01,True,False,

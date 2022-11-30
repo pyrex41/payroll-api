@@ -96,6 +96,8 @@ agent_error2,3167055753,5526601,Kim,Boyer-Curtis,89321120,Matthew,Duffey,2297997
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3168411539,313301,Janice,Campbell,60051536,Inactive,Agent,168441184,EnlightNuUsaLLC,House,101361665300,,AETNA,,500,,map,2020-11-18,2020-11-18,2021-01-01,2022-10-09,2021-12-31,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3166973759,103901,LeAnn,Cochran,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,HUMANA,Gold Plus HMO,200,,map,2020-12-01,,2021-03-01,,,,2021-03-01,True,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3167039925,6922601,Margaret(Peg),Colyar,76356149,Inactive,Agent,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP Medicare Advantage Choice (PPO),410,,map,2021-10-28,2021-10-28,2022-01-01,2022-10-09,2022-01-01,,2022-01-01,True,,False
 agent_error2,3798777905,6922601,Margaret(Peg),Colyar,168441184,EnlightNuUsaLLC,House,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP MA Patriot ,200,,map,2021-11-23,,2022-01-01,,,,2022-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -142,7 +144,6 @@ missing_submit_date,3173216562,3291401,Connie,Heil,50109414,Marvin,Musick,501094
 missing_submit_date,3173323578,4584986,Patricia,Seber-Bradley,49712426,Inactive,Agent,49712426,Inactive,Agent,CLI6226048,CLI6226048,AETNA,G,200,,msp,,2018-12-19,2019-03-01,,,,2019-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 missing_submit_date,4162750634,25145701,William A,Rhoads,50109414,Marvin,Musick,50109414,Marvin,Musick,AHL6314442,AHL6314442,AETNA,G,200,,msp,,,2023-01-01,,,,2023-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 NA,3168325018,4585302,Neil,Muchowski,49147566,Steve,Brooks,49147566,Steve,Brooks,981080991,,AETNA,Elite PPO,410,,map,2020-03-31,,2022-01-01,2022-10-09,2022-01-01,,2022-01-01,True,,
 missing_submit_date,3802336169,4585302,Neil,Muchowski,49147566,Steve,Brooks,49147566,Steve,Brooks,981080991,,AARP/UHC,AARP® Medicare Advantage Choice Plan 2 (PPO),200,,map,,2021-10-25,2022-01-01,,,,2022-01-01,True,False,

@@ -76,6 +76,7 @@ missing_commission_id,3776729462,23810601,Walter,"Goshert, Jr",49712324,David,St
 missing_commission_id,3813159779,14679701,Leslie,Metzler,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Patriot (PPO),500,,map,2022-11-10,2022-11-10,2023-02-01,,2022-11-10,,,,,False
 missing_commission_id,3969726337,22924801,Karen,Easter,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AARP/UHC,AARP Medicare Avantage Walgreens PPO,330,,map,2022-11-21,2022-11-18,2023-02-01,,,,,,,False
 missing_commission_id,4050060038,24790751,Alicia,Handon,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete® Choice (Regional PPO D-SNP),470,,map,2022-11-22,2022-11-22,2022-12-01,2022-11-28,,portal says NO ELECTION PERIOD,,,,False
+missing_commission_id,4067445675,25025301,Richard,Baker,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),330,,map,2022-11-25,2022-11-23,2023-01-01,,,,,,,False
 missing_commission_id,3166960923,663851,Jane,Volberding,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,,,480,,map,,,,2021-09-30,2021-09-30,,,,,False
 missing_commission_id,3167133353,144351,Michael,Gossett,49147566,Steve,Brooks,49147566,Steve,Brooks,Pending Member ID,,,,480,,map,,,,2021-12-09,2021-12-09,,,,,False
 missing_commission_id,3168245850,4578564,Edward,Magraw,50109414,Marvin,Musick,50109414,Marvin,Musick,Pending Member ID,,,,480,,map,,,,2021-08-12,2021-08-12,,,,,False
@@ -207,6 +208,7 @@ missing_commission_id,3187489562,21274901,Russell,Walker,89311810,Jordan,Otte,89
 missing_commission_id,3199054359,16967101,Paula,Van Dusen,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H60425345,,HUMANA,Humana gold Plus ,200,,map,2022-10-17,2022-10-15,2023-01-01,,,,,,,False
 missing_commission_id,3201076248,20753301,Kenneth,Bearden,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H65213814,,HUMANA,Humana Honor (PPO) H5216-348 ,200,,map,2022-10-15,2022-10-11,2023-01-01,,,,,,,False
 missing_commission_id,3204821377,23041651,Sylvia,Thompson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H65222364,,HUMANA,Humana Gold Plus,200,,map,2022-10-24,2022-10-24,2022-12-01,,,,,,,False
+missing_commission_id,3207814678,23250801,KERRY,SEXTON,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H65224623,,HUMANA,HUMANA CHOICE PPO,200,,map,2022-11-18,2022-10-24,2022-12-01,2022-10-31,2022-10-31,,,,,False
 missing_commission_id,3220811865,19569801,Theresa,Pearson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H69538475,,HUMANA,Humana Honor (PPO),200,,map,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
 missing_commission_id,3222014220,19065701,Lloyd,Wedes,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,H62995982,,HUMANA,HumanaChoice H5216-309 (PPO),200,,map,2022-10-18,2022-10-15,2023-01-01,,,,,,,False
 missing_commission_id,3222742018,6825801,Bradley,Taylor,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,H65215412,,HUMANA,Humana Honor,200,,map,2022-10-17,2022-10-15,2023-01-01,,,,,,,False
@@ -280,12 +282,14 @@ missing_commission_id,3566337638,23983201,Elyse,Coleman,165338461,Stephanie,Kiel
 missing_commission_id,3620050056,7218351,Dale,L Pownall,82267662,Nick,Oberle,82267662,Nick,Oberle,H71519071,,HUMANA,HumanaChoice H5216-247 (PPO),200,,map,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
 missing_commission_id,3620102818,23877301,Elizabeth,Cochran,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H63038747,,HUMANA,HUMANA GOLD PLUS,200,,map,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
 missing_commission_id,3620206692,24078251,Catherine,Bentley,148672948,Howard,Seigle,148672948,Howard,Seigle,H79157055,,HUMANA,Humana Choice Florida,200,,map,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
+missing_commission_id,3620998289,14370401,Terri,McCue,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H65273629,,HUMANA,HumanaChoice H5970-015 (PPO) ,200,,map,2022-11-22,2022-11-22,2023-01-01,,,,,,,False
 missing_commission_id,3620998473,23609701,Darrell,Brimer,89321142,Patrick,Stang,89321142,Patrick,Stang,H79640787,,HUMANA,Humana Honor (PPO) H5216-348,200,,map,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
 missing_commission_id,3621709455,22631301,Robert,Porter,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H73395745,,HUMANA,Humana Gold Plus SNP-DE H3533-034 (HMO D-SNP),200,,map,2022-11-01,2022-11-01,2023-01-01,,,,,,,False
 missing_commission_id,3622205873,23557851,Victor G,Vidals,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,HUMANA,HumanaChoice PPO,500,,map,2022-10-31,2022-10-31,2023-01-01,2022-11-21,2022-11-21,,,,,False
 missing_commission_id,3624421452,24091001,dena jean,Watts,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H63041905,,HUMANA,Humana Gold Plus H6622-014 (HMO-POS),200,,map,2022-11-03,2022-11-02,2023-01-01,,,,,,,False
 missing_commission_id,3635643813,21957451,Louise,Vann,89321142,Patrick,Stang,89321142,Patrick,Stang,H44456193,,HUMANA,Humana Gold Plus  (HMO-POS),200,,map,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
 missing_commission_id,3635675214,23978451,Eric,Lewis,148694372,Justin,Cohen,148694372,Justin,Cohen,H60797998,,HUMANA,HumanaChoice H5216-138 (PPO),200,,map,2022-11-01,2022-11-01,2023-02-01,,,,,,,False
+missing_commission_id,3637595148,20084801,Kenneth,Walsh,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,671837301,,HUMANA,CareOne Plus (HMO-POS),200,,map,2022-11-16,2022-11-16,2022-12-01,,,,,,,False
 missing_commission_id,3642329899,24116001,Gisela,Page,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H74810023,,HUMANA,HumanaChoice,200,,map,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
 missing_commission_id,3642653337,23615051,Catherine,Schneider,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H45776341,,HUMANA,Humana Gold Plus H8908-004 (HMO-POS) ,200,,map,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
 missing_commission_id,3647409202,23957101,Tammy D,Bellinger,148694372,Justin,Cohen,148694372,Justin,Cohen,H60799613,,HUMANA,Humana Gold Plus H0028-029 (HMO),200,,map,2022-11-03,2022-11-01,2023-01-01,,,,,,,False
@@ -310,8 +314,12 @@ missing_commission_id,3719704103,24246001,Valerie,Broxton,229799739,Latesa,Pasle
 missing_commission_id,3719704105,24275901,Roger,Broxton,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H70413997,,HUMANA,Humana Choice,200,,map,2022-11-07,2022-11-05,2023-01-01,,,,,,,False
 missing_commission_id,3740246590,24317801,Lynne,Rhodes,148672948,Howard,Seigle,148672948,Howard,Seigle,H60806975,,HUMANA,Gold Plus (HMO),200,,map,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
 missing_commission_id,3752717574,24251251,Douglas,Pennell,66410900,Nick,Thompson,66410900,Nick,Thompson,H63047989,,HUMANA,Choice PPO,200,,map,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
+missing_commission_id,3759685397,23873001,Robert,Hollowell,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H79659347,,HUMANA,HumanaChoice PPO,200,,map,2022-11-21,2022-11-07,2022-12-01,,,,,,,False
+missing_commission_id,3759685424,23116051,Manuel,Campbell,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H67443704,,HUMANA,Humana Honor (PPO) ,200,,map,2022-11-08,2022-11-07,2022-12-01,,,,,,,False
 missing_commission_id,3778264730,24348051,Bianca,Lindstrom,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,669953001,,HUMANA,CareOne Plus (HMO),200,,map,2022-11-09,2022-11-08,2022-12-01,,,,,,,False
+missing_commission_id,3789527132,24351201,Karen,Kay,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H00093770,,HUMANA,Humana Gold Plus H1036-269 (HMO),200,,map,2022-11-09,2022-11-09,2022-12-01,,,,,,,False
 missing_commission_id,3796998238,4606501,Kathleen,Ryan,50084738,Adrian,Hardin,50084738,Adrian,Hardin,H67190946,,HUMANA,HUMANACHOICE PPO ,200,,map,2021-08-20,,2022-01-01,,,,,,,False
+missing_commission_id,3796998286,23987851,Terry,Jackson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H69549005,,HUMANA,Humana Honor PPO,200,,map,2022-11-10,2022-11-09,2023-02-01,,,,,,,False
 missing_commission_id,3796998429,254701,Penni,Hansen,50084738,Adrian,Hardin,50084738,Adrian,Hardin,H79293239,,HUMANA,HUMANACHOICE PPO ,200,,map,2020-12-17,2020-12-17,2022-01-01,,,,,,,False
 missing_commission_id,3798777662,17319951,Vikki,Correll,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,HUMANA,HumanaChoice ,200,,map,2022-06-30,,2022-07-01,,,,,,,False
 missing_commission_id,3798777767,9263551,Norma,Price,168441184,EnlightNuUsaLLC,House,76539239,Inactive,Agent,Pending Member ID,,HUMANA,Honor PPO,200,,map,2022-03-24,,2022-04-01,,,,,,,False
@@ -320,6 +328,16 @@ missing_commission_id,3799880527,4585203,Dan,Boham,50109414,Marvin,Musick,497272
 missing_commission_id,3802336270,117051,Teresa,Godard,50312260,Pete,Scalzo,50312260,Pete,Scalzo,H60367413,,HUMANA,HUMANA GOLD PLUS HMO ,200,,map,2020-11-05,,2022-01-01,,,,,,,False
 missing_commission_id,3832267447,24439151,Beverly,Lake,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,H40677150,,HUMANA,HumanaChoice H5216-352,200,,map,2022-11-11,2022-11-11,2023-01-01,,,,,,,False
 missing_commission_id,3833047697,24447651,Angelika,Boyer,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-279 (PPO),500,,map,2022-11-11,2022-11-11,2023-01-01,2022-11-21,2022-11-21,,,,,False
+missing_commission_id,3888196751,20803201,Mark,FitzGerald,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,H60820908,,HUMANA,Humana Honor (PPO) H5216-213,200,,map,2022-11-14,2022-11-14,2022-12-01,,,,,,,False
+missing_commission_id,3912022857,8589751,WILLIAM,MUNCK,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H63058342,,HUMANA,Humana Honor (PPO),200,,map,2022-11-16,2022-11-15,2023-01-01,,,,,,,False
+missing_commission_id,3933344135,24751801,Neilson,Gandee,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H69558286,,HUMANA,HumanaChoice H5216-327 (PPO),200,,map,2022-11-16,2022-11-16,2023-02-01,,,,,,,False
+missing_commission_id,3949993036,24083301,Michelle,Hughes,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H65027734,,HUMANA,HUMANACHOICE,200,,map,2022-11-21,2022-11-17,2023-01-01,,,,,,,False
+missing_commission_id,3953546678,24653251,Jesus,Soto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H77551463,,HUMANA,HumanaChoice H5216-360 (PPO) ,200,,map,2022-11-18,2022-11-18,2023-01-01,,,,,,,False
+missing_commission_id,3967307530,24828901,Elva,Soto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60501657,,HUMANA,HumanaChoice H5216-360 (PPO) ,200,,map,2022-11-18,2022-11-18,2023-01-01,,,,,,,False
+missing_commission_id,4026785404,24144901,Virginia,Walker,148694372,Justin,Cohen,148694372,Justin,Cohen,H73580451,,HUMANA,Humana Gold Plus H1036-270 (HMO),200,,map,2022-11-21,2022-11-21,2022-12-01,,,,,,,False
+missing_commission_id,4030440043,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60823279,,HUMANA,HumanaChoice H5216-281 (PPO) ,200,,map,2022-11-21,2022-11-21,2023-01-01,,,,,,,False
+missing_commission_id,4111227527,24794401,Lorrie,Mize,49712326,Matthew,Cano,49712326,Matthew,Cano,H69567318,,HUMANA,Choice PPO,200,,map,2022-11-25,,2023-01-01,,,,,,,False
+missing_commission_id,4113843381,25085851,William,Mize,49712326,Matthew,Cano,49712326,Matthew,Cano,H69357389,,HUMANA,Choice PPO,200,,map,2022-11-25,,2023-01-01,,,,,,,False
 missing_commission_id,3166974012,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),410,,map,2021-11-18,,2022-02-01,2022-10-09,,,,,,False
 missing_commission_id,3202116136,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),510,,map,2021-11-18,,2022-02-01,,2022-09-30,,,,,False
 missing_commission_id,3202305802,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-09-22,2022-09-21,2022-10-01,,,,,,,False

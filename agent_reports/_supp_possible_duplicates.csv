@@ -1394,6 +1394,7 @@ missing_commission_id,4197697071,24958751,Michael,Anderson,165335439,Aaron,Butle
 missing_commission_id,4198973223,24949051,H B ,Heflin,229799738,Darrin,Neal,229799738,Darrin,Neal,3518658699,,AARP,G,330,,msp,2022-11-29,,2023-01-01,,,,,,,False
 missing_commission_id,4200350046,25177651,Timothy,McCourt,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,351867520,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 missing_commission_id,4202238540,24238651,Larry D,Conrad,229799738,Darrin,Neal,229799738,Darrin,Neal,3128170713 ,,AARP,F,340,Not Commissionable,msp,2022-11-29,,2023-01-01,,,,,,,False
+missing_commission_id,4202238741,24961051,Carlos,Rodriguez,76355971,Mark,Files,76355971,Mark,Files,3400189472,,AARP,G,340,Commissionable - Need to Review,msp,2022-11-29,2022-11-30,2022-12-01,,,,,,,False
 missing_commission_id,4202408246,24356351,Elizabeth,Feinberg,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3195290436,,AARP,N,330,,msp,2022-11-29,2022-11-29,2022-11-01,,,,,,,False
 missing_commission_id,3173142096,20766951,Allen,Andrus,165335439,Aaron,Butler,165335439,Aaron,Butler,N/A,,,G,500,,msp,2022-08-17,2022-08-17,2022-09-01,2022-08-22,2022-08-22,,,,,False
 missing_commission_id,3173216383,8761851,Charles,Anderson,66410900,Nick,Thompson,66410900,Nick,Thompson,N/A,,,,500,,msp,,,,2021-12-07,2021-12-07,,,,,False
@@ -1472,6 +1473,7 @@ missing_commission_id,3173308999,9834351,Julian,Ceron,76355971,Mark,Files,763559
 missing_commission_id,3187012463,22891151,Fiona,Burky,89321142,Patrick,Stang,89321142,Patrick,Stang,H67400797,,HUMANA,G,200,,msp,2022-10-10,2022-10-10,2022-11-01,,,,,,,False
 missing_commission_id,3377997120,23563701,Linda,Lane,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H77502394,,HUMANA,N,200,,msp,2022-10-20,2022-10-19,2023-01-01,,,,,,,False
 missing_commission_id,3777815189,24404151,Connie,Fowler,165335439,Aaron,Butler,165335439,Aaron,Butler,H63048866,,HUMANA,G,200,,msp,2022-11-09,2022-11-08,2023-02-01,,,,,,,False
+missing_commission_id,3933344173,4536301,Conya,Curley,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,HUMANA,G,380,,msp,2022-11-29,2022-11-23,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 possible_duplicate,3170711189,4577832,Arleta,Davey,50109414,Marvin,Musick,50109414,Marvin,Musick,Pending Member ID,Pending Member ID,TRANSAMERICA,G,200,,msp,2019-06-24,,2019-09-01,,,,,,,False
 possible_duplicate,3170711196,4577834,Donna,Blackwell,50109414,Marvin,Musick,50109414,Marvin,Musick,Pending Member ID,Pending Member ID,TRANSAMERICA,G,200,,msp,2019-08-22,,2019-10-01,,,,,,,False
@@ -1585,6 +1587,7 @@ possible_duplicate,3952817079,24681151,Debra,Ward,148694372,Justin,Cohen,1486943
 possible_duplicate,4027832647,24951601,William,Freeland,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,Pending Member ID,AETNA,G,500,,msp,2022-11-21,,2022-12-01,2022-11-21,2022-11-21,,,,,False
 possible_duplicate,4045573290,24741101,Mary,Helm,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA,F,340,Not Commissionable,msp,2022-11-22,2022-11-22,2022-12-01,,,,,,,False
 possible_duplicate,4052729934,24795301,Joyce,Pasley,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,Pending Member ID,AETNA,G,420,,msp,2022-11-22,2022-11-22,2023-01-01,,,,,,,False
+possible_duplicate,4100310295,24833451,Doreen,Simcoe,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-29,2022-11-28,2023-01-01,,,,,,,False
 possible_duplicate,4171266856,24840851,Raynald,Cooney ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-28,2022-11-28,2023-01-01,,,,,,,False
 possible_duplicate,4171820295,25105801,Anita R. ,Bates,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-28,2022-11-28,2023-01-01,,,,,,,False
 possible_duplicate,4173459511,24635301,John,Thornton,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-28,2022-11-28,2023-01-01,,,,,,,False

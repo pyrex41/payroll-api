@@ -528,7 +528,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3702983566,22954801,Timothy,Atwood,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,ALLWELL,Wellcare Dual Liberty (HMO D-SNP),110,,map,2022-11-07,2022-11-04,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3706265414,24087651,Brenda,Averett,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),110,,map,2022-11-10,2022-11-10,2022-12-01,,,,2022-12-01,False,False,
+3706265414,24087651,Brenda,Averett,165335440,Cory,Caldwell,165335440,Cory,Caldwell,980318699,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-11-10,2022-11-10,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168791063,17938551,LESLIE,BRENNAN,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Ochsner Network H1951-038,200,,map,2022-06-29,2022-06-29,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -609,7 +609,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168569159,21581051,Anna,Pieprzyk,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101562741500,,AETNA,Aetna Medicare Value (PPO),200,,map,2022-10-13,2022-09-30,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3662106209,23629101,Carol,Poznik,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),110,,map,2022-11-15,2022-11-02,2023-01-01,,,,2023-01-01,False,False,
+3662106209,23629101,Carol,Poznik,165335440,Cory,Caldwell,165335440,Cory,Caldwell,931195965,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),200,,map,2022-11-15,2022-11-02,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3524492723,23038251,Maria  C. ,Pretto,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H50776572,,HUMANA,Humana Gold Plus,200,,map,2022-10-26,2022-10-26,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

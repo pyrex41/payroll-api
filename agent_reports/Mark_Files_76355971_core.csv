@@ -227,6 +227,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3620007513,21523201,Laurie,Cunningham,76355971,Mark,Files,76355971,Mark,Files,AHC6663643,AHC6663643,AETNA,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3933344173,4536301,Conya,Curley,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,HUMANA,G,380,,msp,2022-11-29,2022-11-23,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173242985,11543201,Mark,Curtis,76355971,Mark,Files,76355971,Mark,Files,3504841820 ,A03519436,AARP,G,200,,msp,2022-03-31,2022-03-31,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243704,22462051,Gary,Daniels,76355971,Mark,Files,76355971,Mark,Files,AHC6655962,AHC6655962,AETNA,G,200,,msp,2022-09-30,2022-09-30,2022-10-01,,,,2022-10-01,True,False,
@@ -791,6 +793,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185072,10977301,Suzanne,Opie,76355971,Mark,Files,76355971,Mark,Files,ACC6641358,ACC6641358,AETNA ACCENDO,G,200,,msp,2022-07-11,2022-07-07,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4198973065,25221301,Carol,Padron,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,Pending Member ID,AETNA,G,120,,msp,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3523598672,23617801,Lora,Painter,76355971,Mark,Files,76355971,Mark,Files,3054583418,,AARP,G,200,,msp,2022-11-07,2022-11-04,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711849,12305601,Sammy,Palmer,76355971,Mark,Files,76355971,Mark,Files,AHC6617612,AHC6617612,AETNA,G,200,,msp,2022-03-06,2022-03-07,2022-04-01,,,,2022-04-01,True,False,
@@ -942,6 +946,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216666,13015951,Lynne,Rodgers,76355971,Mark,Files,76355971,Mark,Files,0386528350,A03566983,AARP,G,200,,msp,2022-06-20,2022-06-10,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4202238741,24961051,Carlos,Rodriguez,76355971,Mark,Files,76355971,Mark,Files,3400189472,,AARP,G,340,Commissionable - Need to Review,msp,2022-11-29,2022-11-30,2022-12-01,,,,2022-12-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712087,5292651,Sophie,Roedel,76355971,Mark,Files,76355971,Mark,Files,AHC6575328,AHC6575328,AETNA,G,500,,msp,2021-11-10,,2021-12-01,2021-11-10,2021-11-10,,2021-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3331092363,23516651,Cynthia,Rogers,76355971,Mark,Files,76355971,Mark,Files, 3515936486,,AARP,G,200,,msp,2022-10-22,2022-10-17,2023-01-01,,,,2023-01-01,True,False,False
@@ -1031,6 +1037,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173141525,9653351,Vitaly,Sigal,76355971,Mark,Files,76355971,Mark,Files,3163269503,A03468513,AARP,G,200,,msp,2022-01-07,2022-01-07,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308737,14383501,Marcia,Silver,76355971,Mark,Files,76355971,Mark,Files,AHC6622561,AHC6622561,AETNA,G,200,,msp,2022-03-31,2022-03-31,2022-07-01,,,,2022-07-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4100310295,24833451,Doreen,Simcoe,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-29,2022-11-28,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393686,6273451,Melodie,Simon,76355971,Mark,Files,76355971,Mark,Files,AHC6596456,AHC6596456,AETNA,G,200,,msp,2021-12-09,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1328,7 +1336,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168456872,11442151,Patricia,Adams,76355971,Mark,Files,76355971,Mark,Files,101530091300,,AETNA,Aetna Medicare Value Plan (PPO),200,,map,2022-03-02,2022-03-03,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166996011,3433501,Erin,Ahmed,76355971,Mark,Files,76355971,Mark,Files,907W12753,,ANTHEM,Anthem MediBlue Dual Access (PPO D-SNP),200,,map,2022-05-13,2022-05-13,2022-06-01,,,,2022-06-01,True,,
-3906281831,3433501,Erin,Ahmed,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Value Care (PPO),110,,map,2022-11-16,2022-11-16,2022-12-01,,,,2022-06-01,True,False,
+3906281831,3433501,Erin,Ahmed,76355971,Mark,Files,76355971,Mark,Files,989171085,,AARP/UHC,AARP® Medicare Advantage Value Care (PPO),200,,map,2022-11-16,2022-11-16,2022-12-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168751022,21092751,Michelle,Alexander,76355971,Mark,Files,76355971,Mark,Files,995996747,,AARP/UHC,MedicareMax Plus 1 (HMO D-SNP),200,,map,2022-08-25,2022-08-25,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -131,8 +131,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273004,2998551,Norine,Crumpe,76539239,Inactive,Agent,76539239,Inactive,Agent,3150391740,A03286728,AARP,G,200,,msp,2021-06-28,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177377,4100401,Cynthia,Cunningham,76539239,Inactive,Agent,168441184,EnlightNuUsaLLC,House,AHC6535959,AHC6535959,AETNA,G,200,,msp,2021-08-03,,2021-09-01,,,,2021-09-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308782,9016601,Terry L,Curtis,76539239,Inactive,Agent,76539239,Inactive,Agent,AHC6623865,AHC6623865,AETNA,G,200,,msp,2022-04-07,,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216337,8836251,James M,Danielson,76539239,Inactive,Agent,76539239,Inactive,Agent, 382960805,A03429878,AARP,G,200,,msp,2021-11-29,,2022-01-01,,,,2022-01-01,True,False,
@@ -743,9 +741,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168225425,6254301,Hans J.,Pollesche,76539239,Inactive,Agent,76539239,Inactive,Agent,36525288,,CIGNA,Cigna True Choice Medicare (PPO),200,,map,2021-12-29,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168527980,2848501,Lizzie,Pratt,76539239,Inactive,Agent,76539239,Inactive,Agent,Pending Member ID,,HUMANA,Humana Gold Plus SNP-DE H1036-167 (HMO D-SNP),480,,map,2021-07-07,,2021-10-01,2022-05-15,2022-03-31,,2021-10-01,False,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168434998,9263551,Norma,Price,76539239,Inactive,Agent,76539239,Inactive,Agent,986186468,,AARP/UHC,AARP Medicare Advantage Choice (PPO),410,,map,2022-01-25,2022-01-25,2022-03-01,2022-10-09,2022-03-31,,2022-03-01,True,,
-3798777767,9263551,Norma,Price,168441184,EnlightNuUsaLLC,House,76539239,Inactive,Agent,Pending Member ID,,HUMANA,Honor PPO,200,,map,2022-03-24,,2022-04-01,,,,2022-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168790275,12892551,CRAIG,RESNICK,76539239,Inactive,Agent,76539239,Inactive,Agent,Pending Member ID,,HUMANA,HumanaChoice H5216-138 (PPO),200,,map,2022-03-23,2022-03-23,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -884,7 +884,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150759,12630501,KENNY,SCHMIDT,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6619227,AHC6619227,AETNA,G,200,,msp,2022-03-14,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3207814678,23250801,KERRY,SEXTON,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,HUMANA CHOICE PPO,110,,map,2022-11-18,2022-10-24,2022-12-01,2022-10-31,2022-10-31,,2022-12-01,False,False,
+3207814678,23250801,KERRY,SEXTON,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H65224623,,HUMANA,HUMANA CHOICE PPO,200,,map,2022-11-18,2022-10-24,2022-12-01,2022-10-31,2022-10-31,,2022-12-01,True,False,False
 3205755650,23250801,KERRY,SEXTON,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3330248182,,AARP,G,200,,msp,2022-10-12,2022-10-11,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3404629032,23657401,BRENDA,SHEA,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3216964365,,AARP,G,200,,msp,2022-10-20,2022-10-20,2023-01-01,,,,2023-01-01,True,False,False
@@ -1244,7 +1244,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168360502,15993051,Freda,Gaines,89300906,Brian,Schwartz,89300906,Brian,Schwartz,983413298,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),200,,map,2022-09-28,2022-09-28,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3933344135,24751801,Neilson,Gandee,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,HumanaChoice H5216-327 (PPO),110,,map,2022-11-16,2022-11-16,2023-02-01,,,,2023-02-01,False,False,
+3933344135,24751801,Neilson,Gandee,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H69558286,,HUMANA,HumanaChoice H5216-327 (PPO),200,,map,2022-11-16,2022-11-16,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3220811921,13819401,Diana,Grubb,89300906,Brian,Schwartz,89300906,Brian,Schwartz,988261199,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),200,,map,2022-10-18,2022-10-15,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1261,7 +1261,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3479376784,23607351,Ronald,Higgs,89300906,Brian,Schwartz,89300906,Brian,Schwartz,983235512,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-10-24,2022-10-24,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3949993036,24083301,Michelle,Hughes,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,HUMANACHOICE,110,,map,2022-11-21,2022-11-17,2023-01-01,,,,2023-01-01,False,False,
+3949993036,24083301,Michelle,Hughes,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H65027734,,HUMANA,HUMANACHOICE,200,,map,2022-11-21,2022-11-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167060043,13393151,Melody,Iturralde,89300906,Brian,Schwartz,89300906,Brian,Schwartz,983649128,,AARP/UHC,AARP Medicare Advantage Ally (HMO-POS),200,,map,2022-04-06,2022-04-06,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1304,7 +1304,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168473235,8456401,THOMAS,MITCHELL,89300906,Brian,Schwartz,89300906,Brian,Schwartz,931622444,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2021-11-11,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168454021,8589751,WILLIAM,MUNCK,89300906,Brian,Schwartz,89300906,Brian,Schwartz,990458491,,AARP/UHC,UHC PPO PATRIOT,200,,map,2022-02-14,2022-02-11,2022-03-01,,,,2022-03-01,True,,
-3912022857,8589751,WILLIAM,MUNCK,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,Humana Honor (PPO),110,,map,2022-11-16,2022-11-15,2023-01-01,,,,2022-03-01,True,False,
+3912022857,8589751,WILLIAM,MUNCK,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H63058342,,HUMANA,Humana Honor (PPO),200,,map,2022-11-16,2022-11-15,2023-01-01,,,,2022-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168358459,10216251,Althia,Mae Kelly,89300906,Brian,Schwartz,89300906,Brian,Schwartz,975070119,,AARP/UHC,UnitedHealthcare Medicare Advantage Choice Plan 1 (PPO),200,,map,2022-01-12,2022-01-12,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

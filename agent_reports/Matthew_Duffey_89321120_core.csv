@@ -1036,7 +1036,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168304161,7444401,Nancy,Hoffmann-Allison,89321120,Matthew,Duffey,89321120,Matthew,Duffey,C4043527401,,WELLCARE,Ascension Complete Seton Access (PPO),200,,map,2022-01-19,2022-01-19,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3759685397,23873001,Robert,Hollowell,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice PPO,110,,map,2022-11-21,2022-11-07,2022-12-01,,,,2022-12-01,False,False,
+3759685397,23873001,Robert,Hollowell,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H79659347,,HUMANA,HumanaChoice PPO,200,,map,2022-11-21,2022-11-07,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167139610,8287151,Connie,Hooks,89321120,Matthew,Duffey,89321120,Matthew,Duffey,943221682,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2021-11-16,2021-12-01,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1046,7 +1046,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168512423,11266501,John,Hutton,89321120,Matthew,Duffey,89321120,Matthew,Duffey,215W14039,,ANTHEM,Anthem MediBlue Service (PPO),200,,map,2022-09-16,2022-09-16,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3796998286,23987851,Terry,Jackson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H69549005,,HUMANA,Humana Honor PPO,110,,map,2022-11-10,2022-11-09,2023-02-01,,,,2023-02-01,False,False,
+3796998286,23987851,Terry,Jackson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H69549005,,HUMANA,Humana Honor PPO,200,,map,2022-11-10,2022-11-09,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167060104,13745651,Robin,James,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete (PPO D-SNP),510,,map,2022-10-12,2022-10-10,2022-11-01,,2022-10-31,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1060,7 +1060,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168675145,21949401,Mary,Jolimay,89321120,Matthew,Duffey,89321120,Matthew,Duffey,101562268800,,AETNA,Aetna Medicare Prime (HMO-POS),200,,map,2022-09-26,2022-09-26,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3789527132,24351201,Karen,Kay,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H00093770,,HUMANA,Humana Gold Plus H1036-269 (HMO),110,,map,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,False,False,
+3789527132,24351201,Karen,Kay,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H00093770,,HUMANA,Humana Gold Plus H1036-269 (HMO),200,,map,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168612780,10131701,Gregory,Ke,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,Humana Honor (PPO),200,,map,2022-01-13,,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1101,7 +1101,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168457243,12370601,Patrick,McCarthy,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AETNA,Aetna Medicare Advantra Value (HMO),480,,map,2022-04-28,2022-04-01,2022-07-01,2022-05-15,2022-05-26,,2022-07-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3620998289,14370401,Terri,McCue,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5970-015 (PPO) ,110,,map,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,
+3620998289,14370401,Terri,McCue,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H65273629,,HUMANA,HumanaChoice H5970-015 (PPO) ,200,,map,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168653333,12208251,Vicki,McKinnon,89321120,Matthew,Duffey,89321120,Matthew,Duffey,101533466800,,AETNA,Aetna Medicare Value (PPO),200,,map,2022-03-10,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1113,10 +1113,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3686845040,23857351,Scott,Miller,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H67347060,,HUMANA,HumanaChoice H5216-318 (PPO) ,200,,map,2022-11-04,2022-11-04,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168695182,20817251,Jana,Mills,89321120,Matthew,Duffey,89321120,Matthew,Duffey,2AW2K41ME00,,WELLCARE,Wellcare Plus (HMO),200,,map,2022-08-29,2022-08-29,2022-10-01,,,,2022-10-01,True,,False
-3882569381,20817251,Jana,Mills,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice Plan 3 (PPO,110,,map,2022-11-14,,2023-01-01,,,,2022-10-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168531048,5582851,Mandy,Mills,89321120,Matthew,Duffey,89321120,Matthew,Duffey,101556557900,,AETNA,Aetna Medicare Value Plan (HMO),200,,map,2022-08-22,2022-08-22,2022-10-01,,,,2022-10-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168695182,20817251,Jana,Mills,89321120,Matthew,Duffey,89321120,Matthew,Duffey,2AW2K41ME00,,WELLCARE,Wellcare Plus (HMO),200,,map,2022-08-29,2022-08-29,2022-10-01,,,,2022-10-01,True,,False
+3882569381,20817251,Jana,Mills,89321120,Matthew,Duffey,89321120,Matthew,Duffey,994877406,,AARP/UHC,AARP® Medicare Advantage Choice Plan 3 (PPO,200,,map,2022-11-14,,2023-01-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168284318,7763651,Joseph,Mitchell,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-182 (PPO),480,,map,2022-01-12,,2022-01-01,2021-12-27,2021-12-27,,2022-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1210,9 +1210,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3387907445,23636351,Ruthie,Smith,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H57679263,,HUMANA,Humana Gold Plus H5619-111 (HMO-POS),200,,map,2022-10-20,2022-10-20,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3953546678,24653251,Jesus,Soto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-360 (PPO) ,110,,map,2022-11-18,2022-11-18,2023-01-01,,,,2023-01-01,False,False,
+3953546678,24653251,Jesus,Soto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H77551463,,HUMANA,HumanaChoice H5216-360 (PPO) ,200,,map,2022-11-18,2022-11-18,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3967307530,24828901,Elva,Soto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-360 (PPO) ,110,,map,2022-11-18,2022-11-18,2023-01-01,,,,2023-01-01,False,False,
+3967307530,24828901,Elva,Soto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60501657,,HUMANA,HumanaChoice H5216-360 (PPO) ,200,,map,2022-11-18,2022-11-18,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168326253,8575851,Brian,Spengler,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NG101492756400,,AETNA,Aetna Medicare Advantra Gold (HMO-POS),200,,map,2021-11-19,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1234,7 +1234,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3202247066,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,988055089,,AARP/UHC,AARP Medicare Advantage Choice (PPO),510,,map,2022-04-27,,2022-05-01,,2022-08-31,,2022-05-01,True,,
 3202247241,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,C4061836401,,WELLCARE,Wellcare No Prem Open (PPO),200,,map,2022-08-03,2022-08-03,2022-09-01,,,,2022-05-01,True,,
-4030440043,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-281 (PPO) ,110,,map,2022-11-21,2022-11-21,2023-01-01,,,,2022-05-01,True,False,
+4030440043,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60823279,,HUMANA,HumanaChoice H5216-281 (PPO) ,200,,map,2022-11-21,2022-11-21,2023-01-01,,,,2022-05-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168594757,10916501,Pamila,Thrasher,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,WELLCARE,Wellcare No Premium (HMO),480,,map,2022-04-11,2022-03-23,2022-05-01,2022-05-15,2022-04-30,,2022-05-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

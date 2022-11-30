@@ -1,6 +1,3 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3191933567,47701,Frank J,Nowak,60051536,Inactive,Agent,49712326,Matthew,Cano,80Y0366788,80Y0366788,CIGNA,G,510,,msp,2020-10-14,,2020-11-01,,,,2020-11-01,True,,
-3192269462,47701,Frank J,Nowak,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6570832,AHC6570832,AETNA,G,200,,msp,2021-11-03,,2021-12-01,,,,2020-11-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168411539,313301,Janice,Campbell,60051536,Inactive,Agent,168441184,EnlightNuUsaLLC,House,101361665300,,AETNA,,500,,map,2020-11-18,2020-11-18,2021-01-01,2022-10-09,2021-12-31,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

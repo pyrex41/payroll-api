@@ -166,6 +166,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3545755148,13136801,PATRICE,POTTER,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-11-01,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3620998436,23863601,Melody,Rader,192985888,Jordan,Seifert,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361821,20266951,Jeanne,Reeveslau,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250919872,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-30,2022-09-29,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172231218,11161251,Curits,Robertson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-02-08,2022-02-07,2022-04-01,,,,,,,False
@@ -188,7 +190,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197792,6928001,MARK,STROBEL,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-02-22,2022-02-22,2022-05-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172287870,12488351,Melissa,Schlemmer,192985888,Jordan,Seifert,89300906,Brian,Schwartz,847239608,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-26,,2022-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322322,4891151,Maureen,Schwartz,89300906,Brian,Schwartz,89300906,Brian,Schwartz,00250632129	,,AMERITAS,PrimeStar® Access,200,,dvh,2021-08-27,,2021-08-26,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172361997,13471501,Russell,Segal,192985888,Jordan,Seifert,89300906,Brian,Schwartz,10250875490,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-21,,2022-08-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172362031,13469951,Pamela,Segal,192985888,Jordan,Seifert,89300906,Brian,Schwartz,10250875502,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-21,,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310890,17941801,Kent,Shaw,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Vision Only	,,AMERITAS,,200,,dvh,2022-06-24,2022-06-21,2022-07-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

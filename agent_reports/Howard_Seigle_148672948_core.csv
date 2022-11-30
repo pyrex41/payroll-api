@@ -682,7 +682,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168399540,12237201,Kathleen,Avanzino,148672948,Howard,Seigle,148672948,Howard,Seigle,101544525200,,AETNA,Aetna Medicare Elite Plan (PPO),200,,map,2022-05-31,2022-05-24,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4067445675,25025301,Richard,Baker,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),110,,map,2022-11-25,2022-11-23,2023-01-01,,,,2023-01-01,False,False,
+4067445675,25025301,Richard,Baker,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),330,,map,2022-11-25,2022-11-23,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167096245,19402451,Rosario,Balderas,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete Choice (PPO D-SNP),480,,map,2022-07-26,2022-07-26,2022-08-01,2022-08-03,2022-07-29,,2022-08-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -742,7 +742,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4191210038,25202901,Paulette,Gunn,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AETNA, Aetna Medicare Value Plan (PPO) ,110,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4013380493,23982101,Donna,Hansen,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,Medicare Advantage Rebate,110,,map,2022-11-22,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+4013380493,23982101,Donna,Hansen,148672948,Howard,Seigle,148672948,Howard,Seigle,1018023,,AARP/UHC,Medicare Advantage Rebate,200,,map,2022-11-22,2022-11-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168439061,16153001,Darrell,Hunter,148672948,Howard,Seigle,148672948,Howard,Seigle,C409028401,,WELLCARE,Wellcare No Premium (HMO),200,,map,2022-05-31,2022-05-24,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -750,7 +750,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3411316622,23667901,Keith,Kaczorowski,148672948,Howard,Seigle,148672948,Howard,Seigle,H71487067,,HUMANA,"Humana Honor (PPO)  Central and North Florida Central, North and Rural Florid",200,,map,2022-10-21,2022-10-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4065727928,23942251,Harold,Klee,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,WELLCARE,No Premium Open (PPO) ,110,,map,2022-11-23,2022-11-23,2023-01-01,,,,2023-01-01,False,False,
+4065727928,23942251,Harold,Klee,148672948,Howard,Seigle,148672948,Howard,Seigle,36045486,,WELLCARE,No Premium Open (PPO) ,200,,map,2022-11-23,2022-11-23,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168360991,18623201,Patricia,Lang,148672948,Howard,Seigle,148672948,Howard,Seigle,36611271,,CIGNA,Cigna Preferred Medicare (HMO),200,,map,2022-09-23,2022-09-22,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -821,7 +821,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168633874,22188101,Mark,Tobias,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,UnitedHealthcare Chronic Complete Assure (PPO C-SNP),500,,map,2022-09-26,2022-09-26,2022-10-01,,2022-10-21,NEVER went effective; could not get verification from his previous doctor so app was canceled bc of an incomplete application ,2022-10-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3514571274,23580001,Teddy,Turner,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,WELLCARE,Wellcare No Premium ,110,,map,2022-11-22,2022-11-22,2023-02-01,,,,2023-02-01,False,False,
+3514571274,23580001,Teddy,Turner,148672948,Howard,Seigle,148672948,Howard,Seigle,36027941	,,WELLCARE,Wellcare No Premium ,200,,map,2022-11-22,2022-11-22,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168616246,18936601,John,Urick,148672948,Howard,Seigle,148672948,Howard,Seigle,NG 101551610200,,AETNA,Aetna Medicare Eagle (PPO),200,,map,2022-07-15,2022-07-15,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

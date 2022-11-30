@@ -29,7 +29,7 @@ import asyncio
 from asgiref.sync import sync_to_async
 from deta import Deta
 
-from fastapi import Depends, FastAPI, HTTPException, status, Request, Form
+from fastapi import Depends, FastAPI, HTTPException, status, Request, Form, BackgroundTasks
 from fastapi.templating import Jinja2Templates
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 from fastapi.responses import FileResponse, RedirectResponse
@@ -37,6 +37,9 @@ from fastapi.responses import FileResponse, RedirectResponse
 
 deta = Deta("b0hdifmg_JFEgLc7cqC3cJbsYBVbfYY5NNMA645VN")
 drive = deta.Drive("pickles")
+status = deta.Base("status")
+reports = deta.Drive("reports")
+
 
 
 app = FastAPI()
@@ -64,22 +67,43 @@ def get_current_username(credentials: HTTPBasicCredentials = Depends(security)):
         headers={"WWW-Authenticate": "Basic"},
     )
 
+def deta_status_get(key: str):
+    resp = status.get(key)
+    if resp:
+        return resp["value"]
+    return False
+
 @app.post("/data/load", tags=["Data"])
-def load_data(user: str = Depends(get_current_username)):
+async def load_data_call(background_tasks: BackgroundTasks, user: str = Depends(get_current_username)):
+    loading_data = deta_status_get("loading_data")
+    if not loading_data:
+        background_tasks.add_task(load_data)
+        return {'msg': 'initiating data_load'}
+    else:
+        return {'msg': 'data already loading'}
+
+def load_data():
+    status.put(True, "loading_data")
+    print("data load beginning")
     at = []
     for x in ["msp", "map", "dvh", "copay", "contacts"]:
         fname = x + ".pickle"
         fetch_and_save(fname)
-    return True
+    print("data load complete")
+    status.put(False, "loading_data")
 
-def fetch_and_save(fname):
+def fetch_and_save(fname, drive = drive):
     print("Fetching", fname)
     data = drive.get(fname)
-    with open(fname, "wb+") as file:
-        for chunk in data.iter_chunks(4096):
-            file.write(chunk)
-        data.close()
-
+    print(data)
+    print(type(data))
+    if data:
+        with open(fname, "wb+") as file:
+            for chunk in data.iter_chunks(4096):
+                file.write(chunk)
+            data.close()
+        return True
+    return None
 
 
 """
@@ -87,23 +111,22 @@ Use this to check on whether data is stale or not
 """
 @app.get("/data/refresh", tags=["Data"])
 async def check_refresh(usr: str = Depends(get_current_username)):
-    global refresh_running
+    refresh_running = deta_status_get("data_refresh_active")
     if refresh_running:
         msg = "Refresh is running. If more than 10min has elapsed since you triggered this, you may need to restart the server"
     else:
         msg = "Refresh process is not running."
-    if "msp.pickle" in os.listdir():
+    if "msp.pickle" not in os.listdir():
+        load_data()
+    try:
         ti_c = os.path.getctime("contacts.pickle")
         c_ti = time.ctime(ti_c)
-    else:
-        c_ti = "NA"
-    return {'msg': msg, 'last_refresh': c_ti}
+        return {'msg': msg, 'last_refresh': c_ti}
+    except Exception as ee:
+        return {'error': ee, 'last_refresh': "NA"}
 
-refresh_running = False
-
-def set_refresh(bool_):
-    global refresh_running
-    refresh_running = bool_
+def set_refresh(bool_: bool):
+    status.put(bool_, "data_refresh_active")
 
 """``
 Use this end point to trigger a data refresh. May timeout; use GET to check if refresh in progress.
@@ -144,7 +167,15 @@ def hs_load_and_save_contacts():
 
 
 @app.post("/data/refresh/", tags=["Data"])
-def fetch_data(user: str = Depends(get_current_username)):
+async def call_fetch(user: str = Depends(get_current_username)):
+    is_running = deta_status_get("data_refresh_active")
+    msg = "Data refresh is running"
+    if not is_running:
+        background_tasks.add_task(fetch_hubspot_data)
+        msg = "Data refresh is initiated"
+    return {'msg': msg}
+
+def fetch_hubspot_data():
     set_refresh(True)
 
     file_list = ["msp", "map", "dvh", "copay"]
@@ -158,13 +189,19 @@ def fetch_data(user: str = Depends(get_current_username)):
         file.write(time.ctime())
     drive.put("last_run.txt", path = "./last_run.txt")
     print("data refresh is complete")
-    return {'message': 'data refresh complete!'}
+    set_refresh(False)
 
 """
 Run Reports
 """
-@app.post("/reports/run", response_class=FileResponse, tags=["Reports"])
-def process_agent_reports(report_month, report_year, usr: str = Depends(get_current_username)):
+@app.post("/reports/run", tags=["Reports"])
+async def respond_and_process(report_month, report_year, background_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
+    background_tasks.add_task(process_agent_reports, report_month, report_year)
+    return {"msg": "Processing reports in background. Use GET /reports/fetch to retrieve"}
+
+
+def process_agent_reports(report_month, report_year):
+    status.put(True, "processing_report")
 
     agents = hs.get_agents()
     contact_props = ['hubspot_owner_id']
@@ -370,7 +407,10 @@ def process_agent_reports(report_month, report_year, usr: str = Depends(get_curr
     with zipfile.ZipFile("agent_reports.zip", mode="w") as archive:
         for file_path in directory.iterdir():
             archive.write(file_path, arcname=file_path.name, compress_type = zipfile.ZIP_DEFLATED)
-    return 'agent_reports.zip'
+
+    reports.put("agent_reports.zip", path = "./agent_reports.zip")
+    status.put(False, "processing_report")
+
 
 
 @app.get("/reports/errors", response_class=FileResponse, tags=["Reports"])
@@ -385,11 +425,18 @@ def fetch_error_reports(usr: str = Depends(get_current_username)):
 
 @app.get("/reports/fetch", response_class=FileResponse, tags=["Reports"])
 def fetch_last_reports(usr: str = Depends(get_current_username)):
-    if "agent_reports.zip" in os.listdir():
-        return "agent_reports.zip"
+    is_running = deta_status_get("processing_report")
+    detail = "Reports are still being generated; hold your horses."
+    if not is_running:
+        is_ok = fetch_and_save("agent_reports.zip", reports)
+        print("ok?", is_ok)
+        if is_ok:
+            print("returning")
+            return "agent_reports.zip"
+        detail = "Report does not exist; please generate reports"
     raise HTTPException(
         status_code=418,
-        detail="No report zip file found; please run report first",
+        detail=detail,
         headers={"WWW-Authenticate": "Basic"},
     )
 

@@ -238,9 +238,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393152,5058051,Jean,Guest,76357008,Inactive,Agent,76357008,Inactive,Agent,3494243136,A03376058,AARP,G,200,,msp,2021-10-11,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168283670,4805751,Burdell W,Hall,76357008,Inactive,Agent,76357008,Inactive,Agent,000516824,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),200,,map,2021-08-17,,2021-09-01,,,,2021-09-01,True,True,
-3193572508,4805751,Burdell W,Hall,192985888,Jordan,Seifert,76357008,Inactive,Agent,N/A ,,AARP,G,510,,msp,2022-07-27,,2022-08-01,,,,2022-08-01,False,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163951,4447351,Storme,Hall,76357008,Inactive,Agent,76357008,Inactive,Agent,315227078,A03325059,AARP,G,200,,msp,2021-08-17,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163868,3101201,Valarie,Hallisey,76357008,Inactive,Agent,76357008,Inactive,Agent,3287275949,A03288790,AARP,G,200,,msp,2021-06-29,,2021-07-01,,,,2021-07-01,True,True,
@@ -331,10 +328,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273012,3021451,William,Lloyd,76357008,Inactive,Agent,76357008,Inactive,Agent,CLI6681435,CLI6681435,AETNA,G,200,,msp,2021-07-14,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168357264,7797501,Patrick,Lott,76357008,Inactive,Agent,76357008,Inactive,Agent,986635941,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),200,,map,2021-11-09,,2022-02-01,,,,2022-02-01,True,False,
-3770138384,7797501,Patrick,Lott,192985888,Jordan,Seifert,76357008,Inactive,Agent,3390000143,,AARP,G,200,,msp,2022-11-08,,2023-01-01,,,,2023-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163875,3106151,Billye W,Lunsford,76357008,Inactive,Agent,76357008,Inactive,Agent,907W09346,907W09346,ANTHEM,G,200,,msp,2021-08-06,,2021-08-01,,,,2021-08-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168472421,5386801,Edward,MCGuire,76357008,Inactive,Agent,229799739,Latesa,Pasley,905396419,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2021-09-09,,2021-10-01,,,,2021-10-01,True,True,
+3191933362,5386801,Edward,MCGuire,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHL6311119,AHL6311119,AETNA,G,200,,msp,2022-10-04,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173228916,2784401,Cliff,Magdalena,76357008,Inactive,Agent,76357008,Inactive,Agent,347986058,A03406575,AARP,G,200,,msp,2021-11-09,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -359,6 +356,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173185103,11015551,Nancy,Mercure,76357008,Inactive,Agent,76357008,Inactive,Agent,Pending Member ID,A03496442,AARP,G,200,,msp,2022-02-23,2022-02-23,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332049,2886601,Sharon,Meredith,76357008,Inactive,Agent,76357008,Inactive,Agent,3287275949,A03288075,AARP,G,200,,msp,2021-07-01,,2021-08-01,,,,2021-08-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168472413,5282301,Elaine,Miner,76357008,Inactive,Agent,76357008,Inactive,Agent,000475774,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),410,,map,2021-10-23,,2021-11-01,2022-10-09,2022-10-31,,2021-11-01,False,False,
+3191933462,5282301,Elaine,Miner,64738322,Gabriel,Rhone,76357008,Inactive,Agent,3492785385,,AARP,G,200,Not Commissionable,msp,2022-10-05,2022-10-05,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286461,5780201,Don,Miner,76357008,Inactive,Agent,76357008,Inactive,Agent,3492785385,A03365685,AARP,G,200,,msp,2021-09-21,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

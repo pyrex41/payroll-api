@@ -1982,7 +1982,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168319653,1863301,Megeata,Jones,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,Humana Gold Plus H6622-013,480,,map,2022-02-28,2022-01-31,2022-04-01,2022-05-15,2022-03-31,,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168580460,22912001,Paula,Jones-Perrin,49712324,David,Strehlow,49712324,David,Strehlow,H77493555,,HUMANA,Humana Gold Plus H6622-056 (HMO),200,,map,2022-10-07,2022-10-06,2022-11-01,,,,2022-11-01,True,,
-4056047205,22912001,Paula,Jones-Perrin,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (HMO-POS),110,,map,2022-11-22,,2023-01-01,,,,2022-11-01,True,False,
+4056047205,22912001,Paula,Jones-Perrin,49712324,David,Strehlow,49712324,David,Strehlow,981395761,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (HMO-POS),200,,map,2022-11-22,,2023-01-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168752965,22788351,Lee,Jordan,49712324,David,Strehlow,49712324,David,Strehlow,Denied App,,HUMANA,Humana Honor (PPO),500,,map,2022-09-30,2022-09-30,2022-10-01,,2022-10-10,canceled bc of wrong election code- we used SPAP for MA only and in MO,2022-10-01,False,,
 4162731881,22788351,Lee,Jordan,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,Humana Honor (PPO),110,,map,2022-11-29,2022-11-28,2023-01-01,,,,2022-10-01,False,False,
@@ -1990,7 +1990,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168860528,22991401,Anita,Juntereal,49712324,David,Strehlow,49712324,David,Strehlow,36614697,,CIGNA,Cigna Preferred Medicare (HMO),200,,map,2022-10-06,2022-10-06,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168440104,21825501,Donald,K Ashmore,49712324,David,Strehlow,49712324,David,Strehlow,776289,,AARP/UHC,AARP Medicare Advantage (HMO-POS),200,,map,2022-09-07,2022-09-07,2022-10-01,,,,2022-10-01,True,,
-4023006489,21825501,Donald,K Ashmore,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete (HMO D-SNP),110,,map,2022-11-25,2022-11-22,2022-12-01,,,,2022-10-01,True,False,
+4023006489,21825501,Donald,K Ashmore,49712324,David,Strehlow,49712324,David,Strehlow,124799649,,AARP/UHC,UnitedHealthcare Dual Complete (HMO D-SNP),200,,map,2022-11-25,2022-11-22,2022-12-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168736893,21167401,Ronald,K Durst,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,WELLCARE,Wellcare No Premium (HMO-POS),500,,map,2022-08-24,2022-08-24,2022-09-01,2022-10-09,,,2022-09-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
