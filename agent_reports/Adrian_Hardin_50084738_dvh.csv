@@ -27,6 +27,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447156,4300101,Robert,Cerame,50084738,Adrian,Hardin,50084738,Adrian,Hardin,CLI6695229,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-08-10,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4028704680,24603051,Lucille,Clements,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-23,2022-11-22,2023-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404404,16908751,Mark,Cochran,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250868523,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-08,2022-07-01,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219279,20753601,Pamela,Connor,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250891497,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-16,2022-09-01,,,,,,,
@@ -75,11 +77,15 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287797,12156301,John,Hinchman,50084738,Adrian,Hardin,50084738,Adrian,Hardin,00250789306 (Inactive),,AMERITAS,,200,,dvh,2022-03-07,2022-03-07,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4025372813,24490251,Karen,Holmes,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-22,2022-11-22,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310967,17885101,Sherri,Hudson,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250863744,,AMERITAS,PrimeStar® Access,200,,dvh,2022-06-30,2022-06-29,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219197,20940651,Sally,Huntley,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250896633,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-24,2022-08-22,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3626740271,23919251,Dan,Jordan,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-31,,2022-10-01,,,,,,,False
+4070973783,23854701,Pamela,Inglish,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-28,2022-11-23,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3626740271,23919251,Dan,Jordan,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-31,,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3525962066,23887851,Ruth,Joseph,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-27,2022-10-26,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -119,13 +125,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322096,13825101,Becky,Meydam,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-04-22,2022-04-22,2022-05-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172133495,1985201,Jan,Milburn,50084738,Adrian,Hardin,50084738,Adrian,Hardin,CLI6643643,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-04-28,,2021-05-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172391718,1570101,Russell,Milburn,50084738,Adrian,Hardin,50084738,Adrian,Hardin,CLI6643645,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-04-28,,2021-05-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310820,768851,Kathryn,Miller,50084738,Adrian,Hardin,50084738,Adrian,Hardin,CLI6743514,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-11-02,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404518,16962301,Jeff,Moore,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250868550,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-08,2022-07-01,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4172838953,24412101,Colleen,Murray,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-28,2022-11-28,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252431,21288751,Benjamin,Ogletree,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250900778,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-30,2022-08-30,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -149,6 +153,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172342285,7721001,Nolan,Ponton,50084738,Adrian,Hardin,50084738,Adrian,Hardin,250697648,,AMERITAS,,200,,dvh,2021-11-18,,2021-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3946337104,24648701,Patricia,Price,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-22,2022-11-18,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197734,7106101,Doan,Ray,50084738,Adrian,Hardin,50084738,Adrian,Hardin,00250805095,,AMERITAS,PrimeStar® Access,200,,dvh,2022-03-29,2022-03-30,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3751982615,23100901,John,Renko,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
@@ -162,6 +168,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172297300,18797651,Manuel,Salgado,50084738,Adrian,Hardin,50084738,Adrian,Hardin,NA,,AMERITAS,,200,,dvh,2022-07-13,2022-07-12,2022-09-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172362038,13207851,Cynthia,Salgado,50084738,Adrian,Hardin,50084738,Adrian,Hardin,10250868759,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-11,2022-07-11,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3685201782,24161551,Joseph,Schein,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-16,2022-11-16,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172133490,2230251,Violet,Smith,50084738,Adrian,Hardin,50084738,Adrian,Hardin,00250807060,,AMERITAS,,200,,dvh,2022-03-31,2022-03-30,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

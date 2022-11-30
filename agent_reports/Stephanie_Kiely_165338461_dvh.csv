@@ -13,8 +13,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322155,14261801,Jeffrey,Chandler,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250826455,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-28,2022-04-28,2022-04-29,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172133425,1782001,Karen,Charleston,49712324,David,Strehlow,165338461,Stephanie,Kiely,250556650,,AMERITAS,,200,,dvh,2021-05-26,,2021-08-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219284,20736701,Dianne,Coughlin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250891467,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-15,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310941,18377801,Jane,D'Angelo,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250863161,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-29,2022-06-29,2022-08-01,,,,,,,
@@ -43,7 +41,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219188,14822401,Janice,Ferry,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,,200,,dvh,2022-05-09,2022-05-06,2022-06-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3205341621,22362451,David,Fleser,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Access,120,,dvh,2022-10-11,2022-10-11,2022-11-01,,,,,,,
+3205341621,22362451,David,Fleser,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-22,2022-10-11,2022-11-23,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219037,14876601,Patricia,Friedman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250831389,,AMERITAS,PrimeStar® Access,200,,dvh,2022-05-06,2022-05-03,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -113,6 +111,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219181,15954501,Sandra,Merritt,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,NA,,AMERITAS,,200,,dvh,2022-05-20,2022-05-23,2022-06-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3956584355,24007951,Robert,Michaels-Johnson,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-22,2022-11-17,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310918,17587301,Susan,Mohr,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250858553,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-22,2022-06-20,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287914,19855451,Gary,Moriarty,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250881382,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-30,2022-07-29,2022-08-01,,,,,,,
@@ -137,6 +137,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252464,21896401,Jean,Roberts,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250917300,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-27,2022-09-26,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172252450,21900651,Rose,Roye,192985888,Jordan,Seifert,165338461,Stephanie,Kiely,10250911156,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-16,,2022-09-19,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3657745161,22336651,Richard,Schwartz,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-02,2022-11-03,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172297287,18996201,Patricia,Sharron,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250880018,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-07-28,2022-07-27,2022-10-01,,,,,,,
@@ -148,6 +150,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3547576195,23672001,Daniel,Stacey,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-28,2022-10-27,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197738,6937151,Melissa,Stark,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250819942,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-20,2022-04-19,2022-07-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3910028690,23102501,Christy,Stephens,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-16,2022-11-15,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322154,14340251,Michelle,Stewart,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,10250847475,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-02,2022-06-01,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

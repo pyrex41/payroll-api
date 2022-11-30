@@ -1,6 +1,8 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
 3172718708,17787001,Nyaa,Abdelqader,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Policy Number,,HEARTLAND,,410,,copay,2022-06-30,2022-06-23,2022-06-23,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3706265422,24087651,Brenda,Averett,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HEARTLAND,,110,,copay,2022-11-28,2022-11-25,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172732051,19908151,Karen,Debnam,165335440,Cory,Caldwell,165335440,Cory,Caldwell,HN10030577,,HEARTLAND,,200,,copay,2022-07-29,2022-07-29,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172751169,15495751,Shawn,Dew,165335440,Cory,Caldwell,165335440,Cory,Caldwell,HN10029124P1,,HEARTLAND,,200,,copay,2022-06-09,2022-06-09,2022-06-10,,,,,,,
@@ -8,6 +10,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172651812,8586351,Naomi,Ferguson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,HN10028721P1,,HEARTLAND,,200,,copay,2022-05-20,2022-05-05,2022-05-28,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172664885,4585761,Devorah,Foster,165335440,Cory,Caldwell,165335440,Cory,Caldwell,HN10029247P1,,HEARTLAND,,410,,copay,2022-06-15,2022-06-09,2022-06-16,,2022-06-05,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4111227824,24811601,Diane,Gaskill,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HEARTLAND,,110,,copay,2022-11-28,2022-11-25,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172614161,15663051,Vanessa,Grappi,165335440,Cory,Caldwell,165335440,Cory,Caldwell,HN10028618P1,,HEARTLAND,,200,,copay,2022-05-13,2022-05-13,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

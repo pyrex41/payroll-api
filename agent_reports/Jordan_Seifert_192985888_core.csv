@@ -1,10 +1,4 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3168283670,4805751,Burdell W,Hall,76357008,Inactive,Agent,76357008,Inactive,Agent,000516824,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),200,,map,2021-08-17,,2021-09-01,,,,2021-09-01,True,True,
-3193572508,4805751,Burdell W,Hall,192985888,Jordan,Seifert,76357008,Inactive,Agent,N/A ,,AARP,G,510,,msp,2022-07-27,,2022-08-01,,,,2022-08-01,False,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117848,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6604423,AHC6604423,AETNA,G,510,,msp,2022-01-07,,2022-03-01,,,,2022-03-01,True,,
-3173125514,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006201,AHC0006201,AETNA,G,510,,msp,2022-01-07,2022-01-07,2022-04-01,2022-05-15,2022-05-16,,2022-03-01,True,,
-3684072843,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006242,AHC0006242,AETNA,G,510,,msp,2022-01-07,,2022-05-01,2022-11-03,,,2022-03-01,True,,
-3173185589,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6642182,AHC6642182,AETNA,G,510,,msp,2022-07-14,2022-07-14,2022-08-01,,2022-07-31,,2022-03-01,True,,
-3173185596,7528051,Peggy,Scott,192985888,Jordan,Seifert,82267662,Nick,Oberle,AHC6649781,AHC6649781,AETNA,G,200,,msp,2022-08-24,,2022-08-25,,,,2022-03-01,True,False,
+3168263324,3457801,Deborah,Cozzens,76539239,Inactive,Agent,192985888,Jordan,Seifert,MEBVWG2B,,AETNA,Aetna Medicare Explorer Plan (PPO),200,,map,2021-07-29,,2021-10-01,,,,2021-10-01,True,,
+4070667396,3457801,Deborah,Cozzens,192985888,Jordan,Seifert,192985888,Jordan,Seifert,Pending Member ID,,HUMANA,HumanaChoice PPO,110,,map,2022-11-23,,2023-01-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

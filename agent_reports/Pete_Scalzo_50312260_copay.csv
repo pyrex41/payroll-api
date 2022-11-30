@@ -1,5 +1,7 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3705136693,24244401,Adrain,Counts II,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,HEARTLAND,,120,,copay,2022-11-04,2022-11-04,2023-01-01,,,,,,,
+3774968183,18743701,Julia Margaret,Brooks,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,HEARTLAND,,120,,copay,2022-11-15,2022-11-08,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3705136693,24244401,Adrain,Counts II,50312260,Pete,Scalzo,50312260,Pete,Scalzo,HN20011506P1,,HEARTLAND,,200,,copay,2022-11-04,2022-11-04,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172793173,117051,Teresa,Godard,50312260,Pete,Scalzo,50312260,Pete,Scalzo,HN10014384P1,,HEARTLAND,,200,,copay,2020-11-05,,2021-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

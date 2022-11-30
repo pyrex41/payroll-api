@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sample Form</title>
+</head>
+<body>
+<h1>Run Report [Must Fetch Data First]</h1>
+<a href="../docs#/Data/fetch_data_data_refresh__post" target="_blank">Goto Data Refresh</a>
+<br />
+<br>
+<form method="post">
+    <li>"Month:"<input type="number" name="month" value="{{ month }}" /></li>
+    <li>"Year:"<input type="number" name="year" value="{{ year }}" /></li>
+    <li><input type="submit"></li>
+</form>
+
+<p>Result: {{ msg }}</p>
+
+</body>
+</html>

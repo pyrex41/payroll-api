@@ -45,7 +45,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404515,17037851,Jan,Griscom,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250860323,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-24,2022-06-10,2022-06-10,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3827026284,24388151,Gertrude,Hendrick,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Value,110,,dvh,2022-11-14,2022-11-11,2023-01-01,,,,,,,
+3827026284,24388151,Gertrude,Hendrick,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-14,2022-11-11,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3828203900,20634251,Paul,Hendrick,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,2022-11-11,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -80,6 +80,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172362037,13408251,Denise,Nicholas,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250922618,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-05,2022-10-05,2023-01-05,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3966945397,24282851,Steven,Paris,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Value,110,,dvh,2022-11-23,2022-11-18,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252453,21855001,Martha,Pollard,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250910631,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-15,2022-09-13,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404342,22450001,Elizabeth,Pott,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-10-28,2022-11-01,,,,,,,False
@@ -95,6 +97,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172404399,16501551,Frank,Tomko,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250843198,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-26,2022-05-26,2022-05-26,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404501,16494751,Charlotte,Tomko,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250843192,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-26,2022-05-26,2022-05-26,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3927577255,21898201,Edward,Wolff,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-17,2022-11-16,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287910,19546451,Jo Lynn,Woods,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250885404,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-05,2022-08-05,2022-08-06,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

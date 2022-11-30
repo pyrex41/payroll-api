@@ -9,8 +9,16 @@ agent_error2,3331092326,1782001,Karen,Charleston,165338461,Stephanie,Kiely,16533
 agent_error2,3173057339,4578864,Kathy,Crown,96652656,Inactive,Agent,96652656,Inactive,Agent,N/A,N/A,BCBS,G,510,,msp,2020-01-03,,2020-03-01,,2021-12-31,,2020-03-01,False,False,False
 agent_error2,3168507139,4578864,Kathy,Crown,50109414,Marvin,Musick,96652656,Inactive,Agent,914722983,,AARP/UHC,AARP Medicare Advantage Plan 1 (HMO-POS),200,,map,2021-12-01,,2022-01-01,2022-10-09,2021-12-31,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error2,3173177377,4100401,Cynthia,Cunningham,76539239,Inactive,Agent,165335439,Aaron,Butler,AHC6535959,AHC6535959,AETNA,G,200,,msp,2021-08-03,,2021-09-01,,,,2021-09-01,True,True,
+agent_error2,3173177377,4100401,Cynthia,Cunningham,76539239,Inactive,Agent,168441184,EnlightNuUsaLLC,House,AHC6535959,AHC6535959,AETNA,G,200,,msp,2021-08-03,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168411502,43451,Alain,Deroulette,50084738,Adrian,Hardin,50084738,Adrian,Hardin,970904360,,AARP/UHC,AARP Medicare Advantage Walgreens,200,,map,2021-01-06,,2022-01-01,,,,2022-01-01,True,False,
+agent_error2,4045572982,43451,Alain,Deroulette,224486180,Rebecca,Sublette,50084738,Adrian,Hardin,AHC6670701,AHC6670701,AETNA,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168241175,258601,June,Duran,76539239,Inactive,Agent,76539239,Inactive,Agent,935299115,,AARP/UHC,AARP Medicare Advantage Choice PPO,200,,map,2020-11-18,,2020-12-01,,,,2020-12-01,True,True,
+agent_error2,3953416210,258601,June,Duran,224486180,Rebecca,Sublette,76539239,Inactive,Agent,Pending Member ID,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3173116928,6820651,Patricia,Eaton,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6555134,AHC6555134,AETNA,G,500,,msp,2021-10-05,,2021-11-01,2021-10-27,2021-10-27,,2021-11-01,True,,
+agent_error2,4053654961,6820651,Patricia,Eaton,224486180,Rebecca,Sublette,82267662,Nick,Oberle,0321764870,,AARP / UHICA,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2021-11-01,True,True,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3173150476,4577239,Richard,Gray,49751982,Josh,Musick,49751982,Josh,Musick,AHL6247088 ,AHL6247088 ,AETNA,G,200,,msp,2019-12-05,,2020-01-01,,,,2020-01-01,True,,
 agent_error2,3173324696,4577239,Richard,Gray,50109414,Marvin,Musick,49751982,Josh,Musick,AHL6247788 ,AHL6247788 ,AETNA,G,500,,msp,2019-12-05,,2020-01-01,,,No cancellation reason given on original contact record (flat file),2020-01-01,True,True,
@@ -21,10 +29,24 @@ agent_error2,3173344800,4577746,Kathryn,Gray,49751982,Josh,Musick,49751982,Josh,
 agent_error2,3168283670,4805751,Burdell W,Hall,76357008,Inactive,Agent,76357008,Inactive,Agent,000516824,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),200,,map,2021-08-17,,2021-09-01,,,,2021-09-01,True,True,
 agent_error2,3193572508,4805751,Burdell W,Hall,192985888,Jordan,Seifert,76357008,Inactive,Agent,N/A ,,AARP,G,510,,msp,2022-07-27,,2022-08-01,,,,2022-08-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168378143,7104001,Kathy,Henderson,50084738,Adrian,Hardin,50312260,Pete,Scalzo,33653397,,WELLCARE,Wellcare No Premium (HMO-POS),480,,map,2021-11-11,,2022-01-01,2021-12-29,2021-12-29,,2022-01-01,False,False,
+agent_error2,3899764595,7104001,Kathy,Henderson,50312260,Pete,Scalzo,50312260,Pete,Scalzo,315188478-1,,AARP,G,200,,msp,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3173126162,1361501,Burton,Horne,49727299,Inactive,Agent,229799738,Darrin,Neal,336622183,A03236893,AARP,G,200,,msp,2021-04-08,,2021-05-01,,,,2021-05-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3173184837,6459551,Kim,Kellner,76357008,Inactive,Agent,168441184,EnlightNuUsaLLC,House,330040359,A03374285,AARP,G,200,,msp,2021-10-05,,2022-01-01,,,,2022-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3166973830,1403151,Collette,Kilpatrick,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AARP/UHC,AARP Medicare Advantage (HMO-POS),480,,map,2021-12-01,,2022-01-01,2021-10-14,2021-10-14,,2022-01-01,False,False,False
+agent_error2,3929696159,1403151,Collette,Kilpatrick,224486180,Rebecca,Sublette,57373696,Garrett,McKinzie,3517708164,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168357264,7797501,Patrick,Lott,76357008,Inactive,Agent,76357008,Inactive,Agent,986635941,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),200,,map,2021-11-09,,2022-02-01,,,,2022-02-01,True,False,
+agent_error2,3770138384,7797501,Patrick,Lott,192985888,Jordan,Seifert,76357008,Inactive,Agent,3390000143,,AARP,G,200,,msp,2022-11-08,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3168472421,5386801,Edward,MCGuire,76357008,Inactive,Agent,229799739,Latesa,Pasley,905396419,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2021-09-09,,2021-10-01,,,,2021-10-01,True,True,
 agent_error2,3191933362,5386801,Edward,MCGuire,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHL6311119,AHL6311119,AETNA,G,200,,msp,2022-10-04,,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3173208106,15152201,Maria,Mesa,82267662,Nick,Oberle,82267662,Nick,Oberle,3225925233,A03540153,AARP,N,510,,msp,2022-05-04,2022-05-04,2022-08-01,2022-11-30,2022-11-30,,2022-08-01,True,,
+agent_error2,3969119617,15152201,Maria,Mesa,224486180,Rebecca,Sublette,82267662,Nick,Oberle,322592523-1,,AARP,G,200,,msp,2022-11-18,2022-11-18,2022-12-01,,,,2022-08-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3168472413,5282301,Elaine,Miner,76357008,Inactive,Agent,76357008,Inactive,Agent,000475774,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),410,,map,2021-10-23,,2021-11-01,2022-10-09,2022-10-31,,2021-11-01,False,False,
 agent_error2,3191933462,5282301,Elaine,Miner,64738322,Gabriel,Rhone,76357008,Inactive,Agent,3492785385,,AARP,G,200,Not Commissionable,msp,2022-10-05,2022-10-05,2022-11-01,,,,2022-11-01,True,False,False
@@ -32,6 +54,9 @@ agent_error2,3191933462,5282301,Elaine,Miner,64738322,Gabriel,Rhone,76357008,Ina
 agent_error2,3170711474,95651,Suzanne,Moore,49727299,Inactive,Agent,50312260,Pete,Scalzo,3256308341,A03080199,AARP,G,200,,msp,2021-01-01,2020-10-26,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3173195846,9428051,Michael A,Neil,76539239,Inactive,Agent,57373696,Garrett,McKinzie,3351979954,A03472106,AARP,G,410,,msp,2022-01-13,,2022-02-01,,,,2022-02-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168673630,13143301,Maureen,Noble,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,000158473,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus,200,,map,2022-04-28,2022-04-28,2022-05-01,,,,2022-05-01,True,False,
+agent_error2,4030631092,13143301,Maureen,Noble,224486180,Rebecca,Sublette,57373696,Garrett,McKinzie,3518063510,,AARP,G,200,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3191933567,47701,Frank J,Nowak,60051536,Inactive,Agent,49712326,Matthew,Cano,80Y0366788,80Y0366788,CIGNA,G,510,,msp,2020-10-14,,2020-11-01,,,,2020-11-01,True,,
 agent_error2,3192269462,47701,Frank J,Nowak,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6570832,AHC6570832,AETNA,G,200,,msp,2021-11-03,,2021-12-01,,,,2020-11-01,True,True,
@@ -51,24 +76,30 @@ agent_error2,3684072843,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,O
 agent_error2,3173185589,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6642182,AHC6642182,AETNA,G,510,,msp,2022-07-14,2022-07-14,2022-08-01,,2022-07-31,,2022-03-01,True,,
 agent_error2,3173185596,7528051,Peggy,Scott,192985888,Jordan,Seifert,82267662,Nick,Oberle,AHC6649781,AHC6649781,AETNA,G,200,,msp,2022-08-24,,2022-08-25,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error2,3173323581,4584953,Audrey,Shaneyfelt,49712426,Inactive,Agent,49712426,Inactive,Agent,020918745,020918745,TRANSAMERICA,G,200,,msp,2019-10-15,,2019-11-01,,,,2019-11-01,True,,
+agent_error2,3173323581,4584953,Audrey,Shaneyfelt,49712426,Inactive,Agent,50109414,Marvin,Musick,020918745,020918745,TRANSAMERICA,G,200,,msp,2019-10-15,,2019-11-01,,,,2019-11-01,True,,
+agent_error2,3817769057,4584953,Audrey,Shaneyfelt,50109414,Marvin,Musick,50109414,Marvin,Musick,60Y0046784,60Y0046784,CIGNA,G,200,,msp,2022-11-10,2022-11-10,2022-12-01,,,,2019-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3173323632,4583841,Randal,Shaneyfelt,49712426,Inactive,Agent,50109414,Marvin,Musick,16266310,16266310,TRANSAMERICA,G,200,,msp,2020-03-04,,2020-05-01,,,,2020-05-01,True,,
+agent_error2,3817854342,4583841,Randal,Shaneyfelt,50109414,Marvin,Musick,50109414,Marvin,Musick,60Y0046776,60Y0046776,CIGNA,G,200,,msp,2022-11-10,2022-11-10,2022-12-01,,,,2020-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error2,3778922792,24411401,James,Smith,76355971,Mark,Files,234801772,Brajai,Haskell,ACC6711999,ACC6711999,AETNA ACCENDO,G,200,,msp,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,True,False,
+agent_error2,3173286785,16775939,Stephen,Smith,49712426,Inactive,Agent,50312260,Pete,Scalzo,34431524711,A02663791 (legacyAdd-UHC),AARP,G,200,,msp,2019-03-01,,2019-03-01,,,,2019-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3173216315,4574151,Richard,Sonner,50109414,Marvin,Musick,57373696,Garrett,McKinzie,AHL6275438,AHL6275438,AETNA,G,500,,msp,2020-11-12,,2020-12-01,2021-12-13,2021-12-31,,2020-12-01,False,False,
 agent_error2,3480980016,4574151,Richard,Sonner,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,H65223953,,HUMANA,Humana Gold Plus,200,,map,2022-10-25,2022-10-24,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168479100,20427151,Johanna,Barr,57373696,Garrett,McKinzie,165338462,Ken,Tomberlin,101266841700,,AETNA,Aetna Medicare Premier Plan (PPO),480,,map,2022-08-17,2022-08-16,2022-09-01,2022-09-06,2022-09-01,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3168543082,4585203,Dan,Boham,49727299,Inactive,Agent,49727299,Inactive,Agent,H69086828,,HUMANA,HUMANA GOLD PLUS HMO H5619-144,410,,map,2020-08-27,,2020-09-01,2022-10-09,2021-12-31,,2020-09-01,True,,
 agent_error2,3799880527,4585203,Dan,Boham,50109414,Marvin,Musick,49727299,Inactive,Agent,Pending Member ID,,HUMANA,HUMANA GOLD PLUS HMO ,200,,map,2020-08-27,,2022-01-01,,,,2020-09-01,True,True,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3167055753,5526601,Kim,Boyer-Curtis,89321120,Matthew,Duffey,229799739,Latesa,Pasley,985445035,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2022-04-28,2022-04-25,2022-06-01,,,,2022-06-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error2,3168411539,313301,Janice,Campbell,60051536,Inactive,Agent,165335439,Aaron,Butler,101361665300,,AETNA,,410,,map,2020-11-18,2020-11-18,2021-01-01,2022-10-09,2021-12-31,,2021-01-01,False,False,
+agent_error2,3168411539,313301,Janice,Campbell,60051536,Inactive,Agent,168441184,EnlightNuUsaLLC,House,101361665300,,AETNA,,500,,map,2020-11-18,2020-11-18,2021-01-01,2022-10-09,2021-12-31,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3167039925,6922601,Margaret(Peg),Colyar,76356149,Inactive,Agent,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP Medicare Advantage Choice (PPO),410,,map,2021-10-28,2021-10-28,2022-01-01,2022-10-09,2022-01-01,,2022-01-01,True,,False
 agent_error2,3798777905,6922601,Margaret(Peg),Colyar,168441184,EnlightNuUsaLLC,House,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP MA Patriot ,200,,map,2021-11-23,,2022-01-01,,,,2022-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3168263324,3457801,Deborah,Cozzens,76539239,Inactive,Agent,192985888,Jordan,Seifert,MEBVWG2B,,AETNA,Aetna Medicare Explorer Plan (PPO),200,,map,2021-07-29,,2021-10-01,,,,2021-10-01,True,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3168350764,267751,Ronald,Crown,96652656,Inactive,Agent,96652656,Inactive,Agent,H64703549,,HUMANA,Humana PPO Plan # H5216-033,410,,map,2020-01-14,,2020-02-01,2022-10-09,2021-12-31,,2020-02-01,True,,
 agent_error2,3705573191,267751,Ronald,Crown,50109414,Marvin,Musick,96652656,Inactive,Agent,982907772,,AARP/UHC,AARP Medicare Advantage Plan 1 (HMO-POS),200,,map,2021-12-01,,2022-01-01,,,,2020-02-01,True,True,
@@ -78,7 +109,8 @@ agent_error2,3167089827,4063101,Amar,Deliou,81158745,Inactive,Agent,66410900,Nic
 agent_error2,3167052705,3097351,Pamela,Didion-Gray,66410900,Nick,Thompson,89311810,Jordan,Otte,700503660,,AARP/UHC,Rocky Mountain Health Plans DualCare Plus,480,,map,2021-06-30,,2021-07-01,2022-07-18,2022-06-30,,2021-07-01,True,,
 agent_error2,3501837433,3097351,Pamela,Didion-Gray,89311810,Jordan,Otte,89311810,Jordan,Otte,124397877,,AARP/UHC,Rocky Mountain Health Plans DualCare Plus (HMO-POS D-SNP),200,,map,2022-10-25,2022-10-25,2023-01-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error3,3167164288,12382351,John,Johnson,76539239,Inactive,Agent,168441184,EnlightNuUsaLLC,House,Pending Member ID,,HUMANA,HumanaChoice H5216-265 (PPO),410,,map,2022-03-15,2022-03-15,2022-05-01,2022-10-09,,,2022-05-01,False,,
+agent_error3,3167164288,12382351,John,Johnson,76539239,Inactive,Agent,168441184,EnlightNuUsaLLC,House,Pending Member ID,,HUMANA,HumanaChoice H5216-265 (PPO),410,,map,2022-03-15,2022-03-15,2022-05-01,2022-10-09,,,2022-05-01,True,,
+agent_error3,3718517396,12382351,John,Johnson,49712324,David,Strehlow,168441184,EnlightNuUsaLLC,House,990855214,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),200,,map,2022-11-07,2022-11-07,2023-01-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error0,3168790576,15173201,Vickie,McMullen,,Inactive,Agent,,Inactive,Agent,983649432,,AARP/UHC,AARP Medicare Advantage Focus (HMO-POS),200,,map,2022-06-29,2022-06-30,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -95,7 +127,7 @@ agent_error2,3355620526,16193301,Perry,Sam,49751982,Josh,Musick,219526179,Mark,A
 agent_error2,3167091334,6821051,Judson,Simon,81158657,Inactive,Agent,81158657,Inactive,Agent,Pending Member ID,,CIGNA,Cigna Preferred Medicare (HMO),410,,map,2021-11-05,,2021-12-01,2022-10-09,,,2021-12-01,True,,False
 agent_error2,3799452754,6821051,Judson,Simon,168441184,EnlightNuUsaLLC,House,81158657,Inactive,Agent,36470901,,CIGNA,Cigna Alliance Medicare (HMO) ,200,,map,2021-12-07,,2022-01-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-missing_submit_date,3664624948,23938651,Shahnaz,Mehrabi Kooshki,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3147086965,,AARP,G,200,,msp,,,2023-01-01,,,,2023-01-01,True,False,False
+missing_submit_date,4137044576,25105651,Terrence,Holton,50109414,Marvin,Musick,50109414,Marvin,Musick,3517796185,,AARP,G,200,,msp,,,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 missing_submit_date,3173117314,8732051,Beth A.,Detweiler,50109414,Marvin,Musick,50109414,Marvin,Musick,CLI6225497,CLI6225497,AETNA,G,200,,msp,,,,,,,,True,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -108,6 +140,8 @@ missing_submit_date,3173177525,4585098,Theresa,Lichtenauer,50109414,Marvin,Music
 missing_submit_date,3173216562,3291401,Connie,Heil,50109414,Marvin,Musick,50109414,Marvin,Musick,CLI6265148,CLI6265148,AETNA,G,200,,msp,,2019-04-23,2019-06-01,,,,2019-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 missing_submit_date,3173323578,4584986,Patricia,Seber-Bradley,49712426,Inactive,Agent,49712426,Inactive,Agent,CLI6226048,CLI6226048,AETNA,G,200,,msp,,2018-12-19,2019-03-01,,,,2019-03-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+missing_submit_date,4162750634,25145701,William A,Rhoads,50109414,Marvin,Musick,50109414,Marvin,Musick,AHL6314442,AHL6314442,AETNA,G,200,,msp,,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 NA,3168325018,4585302,Neil,Muchowski,49147566,Steve,Brooks,49147566,Steve,Brooks,981080991,,AETNA,Elite PPO,410,,map,2020-03-31,,2022-01-01,2022-10-09,2022-01-01,,2022-01-01,True,,

@@ -1,6 +1,8 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
 3172287868,12493901,Bethany,ALEXANDER,76355971,Mark,Files,76355971,Mark,Files,10250809613,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-04-05,2022-04-01,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3795943834,24448101,Pamela,Alexander,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-28,2022-11-28,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252206,5543301,Sandra,Amin,76355971,Mark,Files,76355971,Mark,Files,00250802676,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-25,2022-03-25,2022-03-28,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322342,8826951,Joseph,Bansuelo,76355971,Mark,Files,76355971,Mark,Files,00250716729,,AMERITAS,PrimeStar® Total,200,,dvh,2021-12-06,2021-12-06,2022-01-01,,,,,,,
@@ -16,6 +18,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172361769,20412851,Alemsha,Berisha,76355971,Mark,Files,76355971,Mark,Files,1026250113138,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-10,2022-08-09,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361866,20411851,Shehadin,Berisha,76355971,Mark,Files,76355971,Mark,Files,1026250113186,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-09,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3886922571,24078951,Laurie,Bick,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-11-16,2022-11-15,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252089,6197401,Michael,Bishop,76355971,Mark,Files,76355971,Mark,Files,10250830898,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-05,2022-05-01,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -38,6 +42,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3384542737,20571851,Christopher,Clingerman,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-20,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361835,20439401,Geraldine,Clingerman,76355971,Mark,Files,76355971,Mark,Files,10250891420,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-11,2022-08-15,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4074791485,21865551,Mary,Coombs,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,No Dental Coverage,110,,dvh,2022-11-29,2022-11-25,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3977697804,4536301,Conya,Curley,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-21,2022-11-21,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172231208,10818951,Natalie,Dark,76355971,Mark,Files,76355971,Mark,Files,00250798512,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-21,2022-03-16,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -69,6 +77,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3635674752,21816251,Helen,Floyd,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-11-07,2022-11-02,2022-11-08,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3933505702,17238301,Mary,Galliher,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,No Dental Coverage,200,,dvh,2022-11-18,2022-11-18,2023-02-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252257,10384901,Ricky,Gish,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-01-18,2022-01-18,2022-03-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3183136781,22315301,Nickie,Golden,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-13,2022-10-11,2022-12-01,,,,,,,False
@@ -76,6 +86,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172252178,5586401,Susan,Graham,76355971,Mark,Files,76355971,Mark,Files,250654587,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-01,2021-10-01,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322102,14175901,Renee,Graves,76355971,Mark,Files,76355971,Mark,Files,10250831473,,AMERITAS,PrimeStar® Access,200,,dvh,2022-05-06,2022-05-04,2022-08-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4133634118,25101551,Karen,Gurley,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-28,2022-11-28,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4133489454,24790401,Clifford,Gurley Jr.,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-29,2022-11-28,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252445,22026351,Irene,Gutierrez,76355971,Mark,Files,76355971,Mark,Files,10250910776,,AMERITAS,ProtectorPlus Dental Network w Hearing,500,,dvh,2022-09-15,2022-09-14,2022-11-01,,2022-10-31,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -117,6 +131,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361899,12799951,Robert,Lemaire,76355971,Mark,Files,76355971,Mark,Files,250810931,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-04-06,2022-04-05,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3911642437,23982751,Martha,Loflin,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,No Dental Coverage,110,,dvh,2022-11-23,2022-11-29,2023-01-15,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197766,6860101,Sandra,Lorayne Teska,76355971,Mark,Files,76355971,Mark,Files,250666742,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-19,2021-10-19,2021-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310661,3609951,Kimberly,Lynch,76355971,Mark,Files,76355971,Mark,Files,10250641882,,AMERITAS,PrimeStar® Total,200,,dvh,2021-09-14,,2021-11-01,,,,,,,
@@ -128,6 +144,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172391852,8373201,Patricia,Mayes,76355971,Mark,Files,76355971,Mark,Files,10250843996,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-05-27,2022-05-27,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219242,21065551,Melinda,McGuire,76355971,Mark,Files,76355971,Mark,Files,10250921775,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-04,2022-10-04,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3953416312,24807251,Linda,Melvin,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-28,2022-11-21,2023-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3956584232,24780501,Barry,Melvin,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-21,2022-11-21,2023-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172392067,11634601,Susan,Mooney,76355971,Mark,Files,76355971,Mark,Files,NA,,AMERITAS,,200,,dvh,2022-06-02,2022-06-01,2022-09-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -150,6 +170,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172218935,2988701,Robert,Niedwiecki,76355971,Mark,Files,76355971,Mark,Files,10250864625,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-30,2022-06-30,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219234,20880101,Jodi,Oberholzer,76355971,Mark,Files,76355971,Mark,Files,10250916356,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-09-26,2022-09-26,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3665208460,23617801,Lora,Painter,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-11-18,2022-11-18,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172218973,3426851,Keiko,Palmero,76355971,Mark,Files,76355971,Mark,Files,10250819992,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-20,2022-04-20,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -185,7 +207,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310667,3827801,Linda,S.Crowe,76355971,Mark,Files,76355971,Mark,Files,250658893,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-07,2021-10-07,2021-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172148831,4585344,Tom,Sanger,76355971,Mark,Files,50109414,Marvin,Musick,250671642,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-25,,2021-12-01,,,,,,,
+4053654889,22763851,Theodore,Sato,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-28,2022-11-23,2023-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4053654920,25006051,Junko,Sato,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-11-23,2022-11-23,2023-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197749,7033551,Joseph,Schrier,76355971,Mark,Files,76355971,Mark,Files,00250633879,,AMERITAS,PrimeStar® Access,200,,dvh,2021-10-14,2021-10-22,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -200,6 +224,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172252467,22002101,Robert,Simons,76355971,Mark,Files,76355971,Mark,Files,10250916725,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-09-26,2022-09-26,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447106,4146551,Jeffrey,Sira,76355971,Mark,Files,76355971,Mark,Files,10250612669,,AMERITAS,PrimeStar® Access,200,,dvh,2021-08-02,,2021-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3778903715,24411401,James,Smith,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-11-17,2022-11-09,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219270,21175201,Judith ,Sperling,76355971,Mark,Files,76355971,Mark,Files,10250900147,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-29,2022-08-29,2022-08-30,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

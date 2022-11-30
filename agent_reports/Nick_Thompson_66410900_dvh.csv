@@ -1,5 +1,5 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3829909035,23404551,Michael,Adair,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-14,2022-11-11,2023-01-01,,,,,,,
+3829909035,23404551,Michael,Adair,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-14,2022-11-11,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3274971515,20816351,Zeny,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-17,2022-10-14,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -37,15 +37,21 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310887,18142851,Robin,Bullock Tully,66410900,Nick,Thompson,66410900,Nick,Thompson,10250852844,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-07-25,2022-07-22,2022-09-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172252487,21587751,Timothy,Caraher,192985888,Jordan,Seifert,66410900,Nick,Thompson,10250910406,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-09-15,,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252484,21511651,Dawn Ann,Carpenter,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-26,2022-10-25,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447250,2624851,Gary,Carriger,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6663061,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-06-07,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447272,2431201,Diana,Carriger,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6663067,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-06-07,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3557924735,5505351,Catherine,Carroll,192985888,Jordan,Seifert,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-28,,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172133405,1740901,Kim,Carter,66410900,Nick,Thompson,66410900,Nick,Thompson,00250594618,,AMERITAS,,200,,dvh,2021-07-12,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287889,19617351,Cheryl,Collamer,66410900,Nick,Thompson,66410900,Nick,Thompson,1026250113016,,AMERITAS,,200,,dvh,2022-07-27,2022-07-27,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3718517530,6000851,Janet,Crenshaw,66410900,Nick,Thompson,71859731,Rhi,Neal,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-07,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3721246568,24071701,Michael,Crenshaw,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -63,6 +69,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197779,7118501,Bradly,Enlow,66410900,Nick,Thompson,66410900,Nick,Thompson,00250806042,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-30,2022-03-30,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4072689043,24245951,Veronica,Enrri,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-23,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4072689067,25042051,Jose,Enrri,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-23,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172288008,19727851,Lawrence,Ervin,66410900,Nick,Thompson,66410900,Nick,Thompson,10250883040,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-02,2022-08-01,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404517,16988851,Charlotte,Evans,66410900,Nick,Thompson,66410900,Nick,Thompson,10250850916,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-09,2022-06-09,2022-09-01,,,,,,,
@@ -74,6 +84,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3683585841,23801751,Nancy,Fisher,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-03,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3506118818,19394951,Kevin,Fitzpatrick,66410900,Nick,Thompson,66410900,Nick,Thompson,847250736,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-25,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4170954116,5909751,Denise,Frable,192985888,Jordan,Seifert,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-28,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361999,13035501,Lisa,Freedman,66410900,Nick,Thompson,66410900,Nick,Thompson,1026250112043,,AMERITAS,,200,,dvh,2022-03-31,2022-03-31,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -105,19 +117,27 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3205378927,22896351,Cheryl,Jones,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-11,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4178336797,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-29,2022-11-28,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252268,10044601,Linda,Kepley,66410900,Nick,Thompson,66410900,Nick,Thompson,10250840644,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-23,2022-05-23,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322068,14707801,David,Kepley,66410900,Nick,Thompson,66410900,Nick,Thompson,10250840656,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-23,2022-05-23,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3835021147,24512701,Diane,Kewin,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,No Dental Coverage,200,,dvh,2022-11-14,2022-11-11,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310599,3579501,Valerie,Kile,66410900,Nick,Thompson,66410900,Nick,Thompson,250669408,,AMERITAS,PrimeStar® Access,200,,dvh,2021-10-21,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172218984,3066751,William,Kimball,66410900,Nick,Thompson,66410900,Nick,Thompson,250669415,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-21,,2022-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4176534706,24935251,Dwane,Kirkpatrick,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-29,2022-11-28,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172392031,11546951,Judith,Kirksey,66410900,Nick,Thompson,66410900,Nick,Thompson,10250868489,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-08,2022-07-08,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361880,12931651,Loretta,Koerner-Wildermuth,66410900,Nick,Thompson,66410900,Nick,Thompson,10250803968,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-28,2022-03-28,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310603,3699901,Karen,Lange,66410900,Nick,Thompson,66410900,Nick,Thompson,10250626555,,AMERITAS,PrimeStar® Total,200,,dvh,2021-08-19,,2021-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3330475960,23272251,James,Lansen,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-16,2022-11-01,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172218928,3465901,Deborah,Lewis,66410900,Nick,Thompson,66410900,Nick,Thompson,102507-57839,,AMERITAS,PrimeStar® Total,200,,dvh,2022-01-20,2022-01-20,2022-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -141,6 +161,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219251,20753201,Mary,McGowan,66410900,Nick,Thompson,66410900,Nick,Thompson,10250894981,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-22,2022-08-19,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3333216654,23304551,John,McGreevey,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-17,2022-11-17,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391997,11392351,Virgil,Meeks,66410900,Nick,Thompson,66410900,Nick,Thompson,102507-76073,,AMERITAS,PrimeStar® Total,200,,dvh,2022-02-15,2022-02-11,2022-03-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219269,20914351,Lynn,Merkle,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-08-25,2022-08-25,2022-09-01,,,,,,,False
@@ -152,6 +174,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172404298,22334501,Penny,Morris,66410900,Nick,Thompson,66410900,Nick,Thompson,Vision Only	,,AMERITAS,,200,,dvh,2022-09-21,2022-09-20,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310678,3915501,Rose,Morris,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6693649,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-08-06,,2021-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4032799340,24960651,Nance,Moudy,49751982,Josh,Musick,66410900,Nick,Thompson,*PENDING,,AMERITAS,Advantage Plus 2000 (Non-Network),110,,dvh,2022-11-22,2022-11-22,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3774811251,6928101,Cheryl,Murphy,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-08,2022-11-10,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -167,6 +191,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322331,5082651,Freda,Parker,66410900,Nick,Thompson,66410900,Nick,Thompson,00250776082	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-02-15,2022-02-15,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4031305102,24964451,Sandra,Pearson,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,Advantage Plus 2000 (Non-Network),110,,dvh,2022-11-22,2022-11-21,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361848,19988301,Diane,Perreault,66410900,Nick,Thompson,66410900,Nick,Thompson,10250921023,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-03,2022-10-03,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287784,12498551,Paul,Petersen,66410900,Nick,Thompson,66410900,Nick,Thompson,10250804692,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-29,2022-03-28,2022-05-01,,,,,,,
@@ -179,11 +205,15 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252172,5742401,Kerry,Rhodes,66410900,Nick,Thompson,66410900,Nick,Thompson,10250658123,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-07,,2021-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172391825,8126351,Malik,Rubaie,66410900,Nick,Thompson,66410900,Nick,Thompson,250690709,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-12,,2021-12-01,,,,,,,
+3172391825,8126351,Malik,Rubaie,66410900,Nick,Thompson,50312260,Pete,Scalzo,250690709,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-12,,2021-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172310958,17513151,Kristi,Saling,192985888,Jordan,Seifert,66410900,Nick,Thompson,10250877402,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-25,,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287807,12424051,Joan,Saunders,66410900,Nick,Thompson,66410900,Nick,Thompson,Vision Only	,,AMERITAS,,200,,dvh,2022-04-11,2022-04-01,2022-07-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287893,19320701,Donna,Saunier,66410900,Nick,Thompson,66410900,Nick,Thompson,10250874118,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-19,2022-07-18,2022-08-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172287865,12760551,Rose,Schildt,192985888,Jordan,Seifert,66410900,Nick,Thompson,10250915543,,AMERITAS,PrimeStar® Access,200,,dvh,2022-09-23,,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3359965024,23310101,Elizabeth,Schumann,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -225,6 +255,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404338,22733301,Kent,Van Amburg,66410900,Nick,Thompson,66410900,Nick,Thompson,10250921079,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-03,2022-10-01,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4171266917,1309001,Pamela,Vaughan,192985888,Jordan,Seifert,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-28,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447288,2893101,Phyllis,Whitlock,66410900,Nick,Thompson,66410900,Nick,Thompson,10250915458,,AMERITAS,ProtectorPlus Dental Network w Hearing,500,,dvh,2022-09-23,2022-09-21,2022-10-01,2022-10-24,2022-09-30,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404379,16811601,Geraldine,Wiegel,66410900,Nick,Thompson,66410900,Nick,Thompson,NA,,AMERITAS,,200,,dvh,2022-07-06,2022-07-06,2022-08-01,,,,,,,False
@@ -235,6 +267,12 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322087,13644601,Susan,Wood,66410900,Nick,Thompson,66410900,Nick,Thompson,10250819128,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-19,2022-04-18,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3995497735,24883101,John-Mark,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-28,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3995620890,23443251,Dennis,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-22,2022-11-21,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4028035438,24165701,Patricia,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-21,2022-11-21,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172297281,18578451,Michael,Wright,66410900,Nick,Thompson,66410900,Nick,Thompson,10250884478,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2022-08-04,2022-08-04,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310689,3777051,Denise,Yoder,66410900,Nick,Thompson,66410900,Nick,Thompson,10250658112,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-07,,2021-11-01,,,,,,,
@@ -242,6 +280,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172391958,8132501,diane,henry,66410900,Nick,Thompson,66410900,Nick,Thompson,10250697757	,,AMERITAS,PrimeStar® Access,200,,dvh,2021-11-18,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172231211,10867351,sherry,mccune,66410900,Nick,Thompson,66410900,Nick,Thompson,10250859767,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-23,,2022-07-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4070621351,24764151,nonato,pineda,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-29,2022-11-23,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219020,3134801,paul,saunier,66410900,Nick,Thompson,66410900,Nick,Thompson,10250873922,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-19,2022-07-18,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

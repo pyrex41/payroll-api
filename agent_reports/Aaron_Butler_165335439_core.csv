@@ -5,6 +5,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324572,12424201,Diane,Amaral,165335439,Aaron,Butler,165335439,Aaron,Butler,00000713692A,00000713692A,HUMANA,HDPG,200,,msp,2022-05-20,2022-05-19,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4197697071,24958751,Michael,Anderson,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP,G,370,,msp,2022-11-29,2022-11-29,2023-02-01,,,,2023-02-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216802,18647401,Cindy,Anderson,165335439,Aaron,Butler,165335439,Aaron,Butler,3510442449,A03579567,AARP,G,200,,msp,2022-07-14,2022-07-14,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142096,20766951,Allen,Andrus,165335439,Aaron,Butler,165335439,Aaron,Butler,N/A,,,G,500,,msp,2022-08-17,2022-08-17,2022-09-01,2022-08-22,2022-08-22,,2022-09-01,False,False,False
@@ -46,17 +48,23 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173164134,21853651,Nancy,Bowe,165335439,Aaron,Butler,165335439,Aaron,Butler,3424827941,A03620129,AARP,G,200,,msp,2022-09-26,2022-09-26,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4073702471,25024351,Elizabeth A ,Bowman ,165335439,Aaron,Butler,165335439,Aaron,Butler,3518222025,,AARP,G,200,,msp,2022-11-25,2022-11-23,2022-12-01,,,,2022-12-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142133,20724851,Tony,Braden,165335439,Aaron,Butler,165335439,Aaron,Butler,3159571458,A03599005,AARP,G,200,,msp,2022-08-17,2022-08-16,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3828679469,24508801,Alex,Bravos,165335439,Aaron,Butler,165335439,Aaron,Butler,3280043492,,AARP,G,200,,msp,2022-11-14,2022-11-11,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243203,16445451,Kathryn,Bravos,165335439,Aaron,Butler,165335439,Aaron,Butler,3280043492,A03552579,AARP,G,200,,msp,2022-05-25,2022-05-25,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3910028716,23977501,Debra,Brish,165335439,Aaron,Butler,165335439,Aaron,Butler,3370616447,,AARP,WBP,340,Commissionable - Need to Review,msp,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243573,22359701,Catherine,Brockey,165335439,Aaron,Butler,165335439,Aaron,Butler,3514380967,A03619482,AARP,G,200,,msp,2022-09-23,2022-09-23,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243531,21087151,TJ,Campbell,165335439,Aaron,Butler,165335439,Aaron,Butler,3508155821,A03604704,AARP,G,200,,msp,2022-08-26,2022-08-26,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3818889275,24361801,Lienphong,Cao,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP,G,330,,msp,2022-11-10,2022-11-10,2023-01-01,,,,2023-01-01,False,False,False
+4025372753,24871851,Eric,Campfield,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,Pending Member ID,ANTHEM,G,120,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3818889275,24361801,Lienphong,Cao,165335439,Aaron,Butler,165335439,Aaron,Butler,3517422808,,AARP,G,200,,msp,2022-11-10,2022-11-10,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3788329752,20834201,Valerie,Carver,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,G,110,,msp,2022-11-09,2022-11-09,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -80,6 +88,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3616011776,23914051,Thomas,Daquila,165335439,Aaron,Butler,165335439,Aaron,Butler,3337481877,,AARP,G,200,,msp,2022-11-01,2022-11-01,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4191848276,25201951,Gwen,DeGraaf,165335439,Aaron,Butler,165335439,Aaron,Butler,3518616366,,AARP,G,110,,msp,2022-11-29,2022-11-29,2022-12-01,,,,2022-12-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273707,17333801,David,DeZutter,165335439,Aaron,Butler,165335439,Aaron,Butler,3255325940,A03564022,AARP,G,200,,msp,2022-06-14,2022-06-14,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243283,16495301,Judy,Deshotels,165335439,Aaron,Butler,165335439,Aaron,Butler,3215686704,A03560077,AARP,G,200,,msp,2022-06-07,2022-06-07,2022-12-01,,,,2022-12-01,True,False,
@@ -88,6 +98,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323322,14187101,Joyce,Dillman,165335439,Aaron,Butler,165335439,Aaron,Butler,3455225239,A03544621,AARP,G,200,,msp,2022-05-11,2022-05-11,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3899766432,24669301,Anthony,Dolez,165335439,Aaron,Butler,165335439,Aaron,Butler,3164294450,,AARP,G,200,,msp,2022-11-15,2022-11-15,2022-12-01,,,,2022-12-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216887,18783901,Kathy,Doran,165335439,Aaron,Butler,165335439,Aaron,Butler,3510115821,A03577549,AARP,G,200,,msp,2022-07-12,2022-07-08,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173208141,15122901,Daniel,Dragovich,165335439,Aaron,Butler,165335439,Aaron,Butler,3506996184,A03543284,AARP,G,200,,msp,2022-05-09,2022-05-02,2022-07-01,,,,2022-07-01,True,False,
@@ -95,6 +107,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173393574,15425851,Debra,Dragovich,165335439,Aaron,Butler,165335439,Aaron,Butler,3506996184,A03543656,AARP,G,200,,msp,2022-05-10,2022-05-09,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711902,14888851,Renate,Dubinsky,165335439,Aaron,Butler,165335439,Aaron,Butler,3099669644,A03543752,AARP,G,200,,msp,2022-05-09,2022-05-09,2022-07-01,,,,2022-07-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4068199455,24399351,Paul E,Duncan,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,Pending Member ID,ANTHEM,G,120,,msp,2022-11-28,2022-11-23,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173164083,21807801,Arla,Eicher,165335439,Aaron,Butler,165335439,Aaron,Butler,3170934065,A03612663,AARP,G,200,,msp,2022-09-12,2022-09-09,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -126,9 +140,15 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125741,17108901,Larry,Frakes,165335439,Aaron,Butler,165335439,Aaron,Butler,3508708652,A03560444,AARP,G,200,,msp,2022-06-08,2022-06-08,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3930557194,24739101,Maria,Fredricksen,165335439,Aaron,Butler,165335439,Aaron,Butler,0970333217,,AARP,F,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259182,22504601,Janice,Galla,165335439,Aaron,Butler,165335439,Aaron,Butler,3514513104,A03620059,AARP,G,200,,msp,2022-09-26,2022-09-23,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393829,18114101,Cynthia,Garcia,165335439,Aaron,Butler,165335439,Aaron,Butler,3509627851,A03570624,AARP,G,200,,msp,2022-06-28,2022-06-28,2022-08-01,,,,2022-08-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4195809541,24796601,Larry,Gassman,165335439,Aaron,Butler,165335439,Aaron,Butler,3185081332,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4137240103,25078851,Charlene,Gill,165335439,Aaron,Butler,165335439,Aaron,Butler,3518356658,,AARP,G,200,,msp,2022-11-26,2022-11-26,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3251732264,22547001,Donna,Gilsinan,165335439,Aaron,Butler,165335439,Aaron,Butler,3167482557,,AARP,G,200,,msp,2022-10-14,2022-10-13,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -139,6 +159,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173273516,16859551,Cheri,Glaus,165335439,Aaron,Butler,165335439,Aaron,Butler,3190528376,A03558176,AARP,G,200,,msp,2022-06-03,2022-06-03,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173164144,21815201,Steven,Glynn,165335439,Aaron,Butler,165335439,Aaron,Butler,3513434211,A03610362,AARP,G,200,,msp,2022-09-07,2022-09-06,2022-10-01,,,,2022-10-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4178336697,25175251,Candace,Glynn,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-28,2022-11-28,2023-02-01,,,,2023-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243224,16546651,Nick,Godbout,165335439,Aaron,Butler,165335439,Aaron,Butler,80Y0424309,80Y0424309,CIGNA,HDPG,200,,msp,2022-05-28,2022-05-28,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -156,7 +178,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3792405099,23267701,Clint,Gould,165335439,Aaron,Butler,165335439,Aaron,Butler,3514342249,,AARP,G,200,,msp,2022-11-09,2022-11-09,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3817455465,24056751,Stephen,Green,165335439,Aaron,Butler,165335439,Aaron,Butler,3517409540,,AARP,G,110,,msp,2022-11-11,2022-11-10,2022-12-01,,,,2022-12-01,False,False,
+3817455465,24056751,Stephen,Green,165335439,Aaron,Butler,165335439,Aaron,Butler,3517409540,,AARP,G,200,,msp,2022-11-11,2022-11-10,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196068,19936251,Angelo,Grella,165335439,Aaron,Butler,165335439,Aaron,Butler,3442204453,A03589247,AARP,N,200,,msp,2022-07-29,2022-07-29,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -165,6 +187,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173344947,20597751,Ann,Grossman,165335439,Aaron,Butler,165335439,Aaron,Butler,3318014507,,AARP,G,200,,msp,2022-09-06,2022-09-06,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125305,20076351,Barbara,Grove,165335439,Aaron,Butler,165335439,Aaron,Butler,AHC6647830,AHC6647830,AETNA,G,200,,msp,2022-08-15,2022-08-12,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3925548684,19584851,Kathleen,Haffly,165335439,Aaron,Butler,165335439,Aaron,Butler,AHC6668696,AHC6668696,AETNA,G,200,,msp,2022-11-16,2022-11-16,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196392,22026201,Todd,Haifley,165335439,Aaron,Butler,165335439,Aaron,Butler,343294103,A03614195,AARP,G,200,,msp,2022-09-14,2022-09-14,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -176,6 +200,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243276,16615251,Kathryn (Kat),Harvey,165335439,Aaron,Butler,165335439,Aaron,Butler,"3174446082(old) , 3509436915(New)",A03559926,AARP,G,200,,msp,2022-06-07,2022-06-15,2022-07-01,2022-06-13,2022-06-13,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3969249915,24833801,Michael,Hatch,165335439,Aaron,Butler,165335439,Aaron,Butler,3016351284,,AARP,G,200,,msp,2022-11-18,2022-11-18,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243526,21160501,Sylvia,Hatt,165335439,Aaron,Butler,165335439,Aaron,Butler,3515285496,,AARP,G,200,,msp,2022-10-10,2022-10-07,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3326245491,23509051,Mary,Hawthorne,165335439,Aaron,Butler,165335439,Aaron,Butler,3515915423,,AARP,G,200,,msp,2022-10-17,2022-10-17,2022-11-01,,,,2022-11-01,True,False,False
@@ -184,11 +210,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3293259410,23170351,Michael,Heinen,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6696246,ACC6696246,AETNA ACCENDO,G,200,,msp,2022-10-17,2022-10-15,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4173459569,25168601,Gretel ,Henssler,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323368,14188651,Danny,Hesselbach,165335439,Aaron,Butler,165335439,Aaron,Butler,0675573133,A03543659,AARP,G,200,,msp,2022-05-10,2022-05-09,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243659,22389501,Deborah,Hill,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6682602,ACC6682602,AETNA ACCENDO,N,200,,msp,2022-09-21,2022-09-21,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3814748959,24481151,Brenda,Hoffman,165335439,Aaron,Butler,165335439,Aaron,Butler,AHL6313400,AHL6313400,AETNA,G,330,,msp,2022-11-10,2022-11-10,2023-01-01,,,,2023-01-01,False,False,
+3814748959,24481151,Brenda,Hoffman,165335439,Aaron,Butler,165335439,Aaron,Butler,AHL6313400,AHL6313400,AETNA,G,200,,msp,2022-11-10,2022-11-10,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196306,19583451,Gayle,Hogue,165335439,Aaron,Butler,165335439,Aaron,Butler,3366771206,A03587579,AARP,M1A,200,,msp,2022-07-27,2022-07-26,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -213,6 +241,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173286160,17807851,Theresa,Johnson,165335439,Aaron,Butler,165335439,Aaron,Butler,3190208961,A03614687,AARP,G,200,,msp,2022-09-15,2022-09-13,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243434,22982151,John,Jones,165335439,Aaron,Butler,165335439,Aaron,Butler,3416536278,A03626694,AARP,G,200,,msp,2022-10-07,2022-10-06,2023-01-01,,,,2023-01-01,True,False,
+3424923519,22982151,John,Jones,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,HumanaChoice Florida (PPO),110,,map,2022-11-25,2022-11-24,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3220811892,23017151,Jorgo,Kamberi,165335439,Aaron,Butler,165335439,Aaron,Butler,3515583445,,AARP,G,200,,msp,2022-11-09,2022-11-01,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -251,6 +280,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196357,19736251,Cynthia,Marks,165335439,Aaron,Butler,165335439,Aaron,Butler,3510015377,A03586050,AARP,N,200,,msp,2022-07-25,2022-07-25,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3928119127,24732801,Michael,Mathews,165335439,Aaron,Butler,165335439,Aaron,Butler,3517706275,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4045826048,24782001,Lisa,Maul,165335439,Aaron,Butler,165335439,Aaron,Butler,3518103738,,AARP,WBP,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712208,21550401,Willie,McDaniel,165335439,Aaron,Butler,165335439,Aaron,Butler,343467304,A03610301,AARP,G,200,,msp,2022-09-07,2022-09-06,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3755772831,23731051,Kate,McElroy,165335439,Aaron,Butler,165335439,Aaron,Butler,CLI6916815,CLI6916815,AETNA,G,200,,msp,2022-11-07,2022-11-07,2023-01-01,,,,2023-01-01,True,False,
@@ -265,7 +298,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243663,22439201,Gregory A,Meadows,165335439,Aaron,Butler,165335439,Aaron,Butler,3514464041,,AARP,G,200,,msp,2022-10-26,2022-10-26,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3848630925,24523501,Frederick,Meuser,165335439,Aaron,Butler,165335439,Aaron,Butler,3313064267,,AARP,N,110,,msp,2022-11-14,2022-11-14,2022-12-01,,,,2022-12-01,False,False,
+4172839208,24486401,Christy,Mercer,165335439,Aaron,Butler,165335439,Aaron,Butler,3518474113,,AARP,G,330,,msp,2022-11-28,2022-11-28,2023-02-01,,,,2023-02-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3848630925,24523501,Frederick,Meuser,165335439,Aaron,Butler,165335439,Aaron,Butler,3313064267,,AARP,N,200,,msp,2022-11-14,2022-11-14,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173345056,20559251,Ken,Michalek,165335439,Aaron,Butler,165335439,Aaron,Butler,308513-96,308513-96,MUTUAL OF OMAHA,G,200,,msp,2022-08-15,2022-08-12,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -274,6 +309,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173308768,14346501,Mary,Miller,165335439,Aaron,Butler,165335439,Aaron,Butler, 3506390354,A03536817,AARP,G,200,,msp,2022-04-28,2022-04-28,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117235,22265401,Marcia,Ming,165335439,Aaron,Butler,165335439,Aaron,Butler,3165146543,A03618039,AARP,G,200,,msp,2022-09-21,2022-09-28,2022-11-01,,,,2022-11-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4194580638,24934051,Gary,Mitchell,165335439,Aaron,Butler,165335439,Aaron,Butler,3458770421,,AARP,G,110,,msp,2022-11-29,2022-11-29,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117269,22269851,Robert A,Monsma,165335439,Aaron,Butler,165335439,Aaron,Butler,CLI6892107,CLI6892107,AETNA,G,200,,msp,2022-09-20,2022-09-20,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -305,6 +342,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393784,17905101,Andrea,Parciarelli,165335439,Aaron,Butler,165335439,Aaron,Butler,3412387171,A03576555,AARP,G,200,,msp,2022-07-08,2022-07-08,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4170104592,25153851,Pramod,Patel,165335439,Aaron,Butler,165335439,Aaron,Butler,3518459221,,AARP,G,200,,msp,2022-11-28,2022-11-28,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4027832593,24941801,Robert,Peele,165335439,Aaron,Butler,165335439,Aaron,Butler,3198503520,,AARP,G,200,,msp,2022-11-22,2022-11-21,2022-12-01,,,,2022-12-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259283,22592201,Kenney,Pellegrino,165335439,Aaron,Butler,165335439,Aaron,Butler,3514773955,,AARP,G,200,,msp,2022-09-30,2022-09-29,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117472,19160701,Elizabeth S,Penwell,165335439,Aaron,Butler,165335439,Aaron,Butler,298851-96,298851-96,MUTUAL OF OMAHA,HDPG,200,,msp,2022-08-03,2022-08-01,2022-09-01,,,,2022-09-01,True,False,
@@ -329,6 +370,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117453,19094801,Julie,Razo,165335439,Aaron,Butler,165335439,Aaron,Butler,AHC6650581,AHC6650581,AETNA,G,200,,msp,2022-08-30,2022-08-29,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3930557291,24744701,Lynne,Reale,165335439,Aaron,Butler,165335439,Aaron,Butler,3226835787,,AARP,G,200,,msp,2022-11-22,2022-11-16,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393517,15382101,Peter,Reale,165335439,Aaron,Butler,165335439,Aaron,Butler,3226835787,A03574950,AARP,G,200,,msp,2022-07-06,2022-07-06,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273493,16792851,Dan,Rice,165335439,Aaron,Butler,165335439,Aaron,Butler,3364674568,A03558119,AARP,G,200,,msp,2022-06-03,2022-06-03,2022-07-01,,,,2022-07-01,True,False,
@@ -343,11 +386,17 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117052,20907751,Sherry,Rose,165335439,Aaron,Butler,165335439,Aaron,Butler,3512404116,A03601357,AARP,G,200,,msp,2022-08-22,2022-08-19,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3948927415,24383251,Gary,Ruby,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6718125,ACC6718125,AETNA ACCENDO,G,200,,msp,2022-11-17,2022-11-17,2022-12-01,,,,2022-12-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3948927504,24790201,Kathleen,Ruby,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6718124,ACC6718124,AETNA ACCENDO,G,200,,msp,2022-11-17,2022-11-17,2022-12-01,,,,2022-12-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273357,11458001,Megan,Russo,165335439,Aaron,Butler,165335439,Aaron,Butler,3511986501,,AARP,G,200,,msp,2022-08-12,2022-08-12,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173345027,20641201,Anthony,Russo,165335439,Aaron,Butler,165335439,Aaron,Butler,3511986501,,AARP,G,200,,msp,2022-08-12,2022-08-12,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150648,12546901,WILLIAM,SHINN JR,165335439,Aaron,Butler,165335439,Aaron,Butler,3508147067,A03555129,AARP,G,200,,msp,2022-05-28,2022-05-28,2022-08-01,,,,2022-08-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4067844451,24705301,PERICLES,SPYROPOULOS,165335439,Aaron,Butler,165335439,Aaron,Butler,3518176700,,AARP,N,200,,msp,2022-11-28,2022-11-25,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142148,20729001,Khayal,Saeed,165335439,Aaron,Butler,165335439,Aaron,Butler,CLI6879622,CLI6879622,AETNA,G,200,,msp,2022-08-18,2022-08-17,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -358,6 +407,12 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173216841,18758401,Nancy,Sanders,165335439,Aaron,Butler,165335439,Aaron,Butler,AHC6647274,AHC6647274,AETNA,G,200,,msp,2022-08-10,2022-08-10,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173195957,19964951,Ibeth,Sanmiguel,165335439,Aaron,Butler,165335439,Aaron,Butler,3511377248,A03591703,AARP,G,200,,msp,2022-08-03,2022-08-02,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3926188880,24537901,William G,Schmitt,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6716921,ACC6716921,AETNA ACCENDO,G,510,,msp,2022-11-16,2022-11-16,2022-12-01,2022-11-22,2022-11-22,,2022-12-01,True,,
+4044838149,24537901,William G,Schmitt,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6716888,ACC6716888,AETNA ACCENDO,G,200,,msp,2022-11-16,2022-11-16,2022-12-01,,,,2022-12-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3926432946,24722151,Rosie G,Schmitt,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6716932,ACC6716932,AETNA ACCENDO,G,510,,msp,2022-11-16,2022-11-16,2022-12-01,2022-11-22,2022-11-22,,2022-12-01,True,,
+4044838173,24722151,Rosie G,Schmitt,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6716889,ACC6716889,AETNA ACCENDO,G,200,,msp,2022-11-16,2022-11-16,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3333528184,23504951,Mira,Sellars,165335439,Aaron,Butler,165335439,Aaron,Butler,3468987908,,AARP,G,200,,msp,2022-10-17,2022-10-17,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -384,6 +439,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173126038,19397101,Cindy,Slye,165335439,Aaron,Butler,165335439,Aaron,Butler,AHC6643435,AHC6643435,AETNA,G,500,,msp,2022-07-20,2022-07-20,2022-08-01,2022-07-28,2022-07-28,,2022-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323546,13586351,Rhonda,Smith,165335439,Aaron,Butler,165335439,Aaron,Butler,3509479238,A03569521,AARP,G,200,,msp,2022-06-24,2022-06-24,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3976300948,24826351,Charles (C.J.),Smith,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6719856,ACC6719856,AETNA ACCENDO,G,200,,msp,2022-11-21,2022-11-18,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393576,15480151,Donna,Snee,165335439,Aaron,Butler,165335439,Aaron,Butler,3362225041,A03551875,AARP,G,200,,msp,2022-05-24,2022-05-24,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -429,7 +486,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323324,14262801,Rosanne,Thiry,165335439,Aaron,Butler,165335439,Aaron,Butler,AHC6626566,AHC6626566,AETNA,G,200,,msp,2022-04-22,2022-04-21,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3818135591,24355851,Cheryl,Torres,165335439,Aaron,Butler,165335439,Aaron,Butler,3517420737,,AARP,G,110,,msp,2022-11-11,2022-11-10,2022-12-01,,,,2022-12-01,False,False,
+3818135591,24355851,Cheryl,Torres,165335439,Aaron,Butler,165335439,Aaron,Butler,3517420737,,AARP,G,200,,msp,2022-11-11,2022-11-10,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243678,22300501,Dorothy,Trest,165335439,Aaron,Butler,165335439,Aaron,Butler,3514246416,,AARP,G,500,,msp,2022-09-20,2022-09-19,2022-10-01,2022-10-04,2022-09-28,,2022-10-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -444,6 +501,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173125779,17069851,William,Wadden,165335439,Aaron,Butler,165335439,Aaron,Butler,3509070151,A03564689,AARP,G,200,,msp,2022-06-15,2022-06-15,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177912,22933251,Kathleen,Walker,165335439,Aaron,Butler,165335439,Aaron,Butler,3515084121,A03624873,AARP,G,200,,msp,2022-10-04,2022-10-04,2022-11-01,,,,2022-11-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4138163209,25084701,Clyde L,Webb,165335439,Aaron,Butler,165335439,Aaron,Butler,3498063803,,AARP,G,200,,msp,2022-11-28,2022-11-28,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393821,18010251,Clark,Webb,165335439,Aaron,Butler,165335439,Aaron,Butler,AHL6311132,AHL6311132,AETNA,G,200,,msp,2022-10-05,2022-10-04,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -469,6 +528,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150280,18643251,Donald,Williams,165335439,Aaron,Butler,165335439,Aaron,Butler,3508103110,A03579703,AARP,G,200,,msp,2022-07-14,2022-07-14,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3991950094,24799601,Martha,Williamson,165335439,Aaron,Butler,165335439,Aaron,Butler,3517941567,,AARP,G,200,,msp,2022-11-19,2022-11-19,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3758928794,22302001,Glenda,Winter,165335439,Aaron,Butler,165335439,Aaron,Butler,ACC6710839,ACC6710839,AETNA ACCENDO,G,200,,msp,2022-11-07,2022-11-07,2023-05-01,,,,2023-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3701112177,20126451,Rebecca,Winterfeld,165335439,Aaron,Butler,165335439,Aaron,Butler,3181989827,,AARP,G,200,,msp,2022-11-07,2022-11-04,2022-12-01,,,,2022-12-01,True,False,False
@@ -477,9 +538,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141144,13972201,Anita,Worden,165335439,Aaron,Butler,165335439,Aaron,Butler,3057460895,A03547902,AARP,G,200,,msp,2022-05-17,2022-05-17,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4030409107,24957801,Jeannette,Wyndon,165335439,Aaron,Butler,165335439,Aaron,Butler,3518063858,,AARP,G,200,,msp,2022-11-22,2022-11-21,2022-12-01,,,,2022-12-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141863,19031251,Madhumala,Yerramsetty,165335439,Aaron,Butler,165335439,Aaron,Butler,3157244611,A03593614,AARP,G,200,,msp,2022-08-03,2022-08-03,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057793,10400751,robert,kawczak,165335439,Aaron,Butler,165335439,Aaron,Butler,3507529133,A03548696,AARP,G,200,,msp,2022-05-18,2022-05-18,2022-06-01,,,,2022-06-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4050683656,24998801,Cheri,Abbott,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168633218,20308951,Jim,Allen,165335439,Aaron,Butler,165335439,Aaron,Butler,753037,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-09-29,2022-09-08,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -491,6 +556,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168696208,22685351,Robin,Bishop,165335439,Aaron,Butler,165335439,Aaron,Butler,988213594,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-10-18,2022-10-15,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4191848235,24940901,Joyce,Bloch,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168578666,20989451,Howard,Blomberg,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Honor (PPO),200,,map,2022-08-30,2022-08-30,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168577439,13142651,Michael,Booth,165335439,Aaron,Butler,165335439,Aaron,Butler,800309,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus (HMO),200,,map,2022-06-06,2022-06-02,2022-07-01,,,,2022-07-01,True,False,
@@ -499,19 +566,28 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168736630,18987351,Vera,Colvin,165335439,Aaron,Butler,165335439,Aaron,Butler,101555762400,,AETNA,Aetna Medicare Value Plan (PPO),200,,map,2022-08-16,2022-08-15,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167183168,20289801,Renee,Coppedge,165335439,Aaron,Butler,165335439,Aaron,Butler,101557298000,,AETNA,Aetna Medicare Advantra Value (PPO),410,,map,2022-08-26,2022-08-26,2022-10-01,,,,2022-10-01,False,False,
+3167183168,20289801,Renee,Coppedge,165335439,Aaron,Butler,165335439,Aaron,Butler,101557298000,,AETNA,Aetna Medicare Advantra Value (PPO),410,,map,2022-08-26,2022-08-26,2022-10-01,,,,2022-10-01,False,,
+3889034312,20289801,Renee,Coppedge,165335439,Aaron,Butler,165335439,Aaron,Butler,H71482101,,HUMANA,Humana Gold Plus SNP-DE ,110,,map,2022-11-15,2022-11-14,2022-12-01,,,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167164834,16585651,John,Dennis,165335439,Aaron,Butler,165335439,Aaron,Butler,906W13184,,AMERIVANTAGE,Amerivantage Classic Plus (HMO),200,,map,2022-06-14,2022-06-14,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168400963,19945501,Charles,Dieterly,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Honor (HMO),200,,map,2022-07-29,2022-07-29,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3793873060,3389701,Jerry,Eiceman,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,CIGNA,Cigna True Choice Savings Medicare (PPO),110,,map,2022-11-25,2022-11-30,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168790403,14109851,Jennifer,Erickson,165335439,Aaron,Butler,165335439,Aaron,Butler,984737654,,AARP/UHC,AARP Medicare Advantage (HMO-POS),200,,map,2022-07-20,2022-07-20,2022-10-01,,,,2022-10-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3951251015,20431651,Maria,Flores,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,WELLCARE,Wellcare Dual Align 129 (HMO D-SNP),110,,map,2022-11-17,2022-11-17,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167165078,17341101,Mary,Griffin,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Honor (PPO),200,,map,2022-06-14,2022-06-13,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168547906,14251701,David,Hamilton,165335439,Aaron,Butler,165335439,Aaron,Butler,981812577,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-05-13,2022-05-12,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168695167,20552001,Robert,Harvey,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Honor (PPO),200,,map,2022-08-11,2022-08-10,2022-10-01,,,,2022-10-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3991693584,24585301,Johnny M,Hewlett,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO) ,110,,map,2022-11-21,2022-11-21,2022-12-01,,,,2022-12-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3504878093,23649951,Donald,Hoffman,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Honor (PPO),110,,map,2022-11-16,2022-11-09,2022-12-01,,,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3792405013,23581351,Shirley,Jackson,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),110,,map,2022-11-09,2022-11-09,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -531,9 +607,12 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168751108,21232201,Antoinette,Lahmann,165335439,Aaron,Butler,165335439,Aaron,Butler,987376187,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-08-26,2022-08-25,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167096490,20824351,Laura,Leuze,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),330,,map,2022-08-26,2022-08-26,2022-09-01,,,,2022-09-01,False,False,False
+3167096490,20824351,Laura,Leuze,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),510,,map,2022-08-26,2022-08-26,2022-09-01,,2022-08-31,Canceled bc she did not get part B in time,2022-09-01,False,,False
+4178833683,20824351,Laura,Leuze,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),110,,map,2022-11-29,2022-11-28,2022-12-01,,,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3331092122,11658351,Beverly,Lewis,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-11-04,2022-11-04,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4200092170,24956001,Nancy,Martin,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168513796,18312801,Wendy,Matthews,165335439,Aaron,Butler,165335439,Aaron,Butler,996522549,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),200,,map,2022-10-28,2022-10-28,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -545,7 +624,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168616035,17743601,Evelyn,Neil,165335439,Aaron,Butler,165335439,Aaron,Butler,101211526300,,AETNA,Aetna Medicare Freedom Plan (PPO),200,,map,2022-08-18,2022-08-17,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3687488341,24212001,Jacob,Neufeld,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,UnitedHealthcare Medicare Advantage Choice (Regional PPO) ,110,,map,2022-11-07,2022-11-03,2023-01-01,,,,2023-01-01,False,False,
+3687488341,24212001,Jacob,Neufeld,165335439,Aaron,Butler,165335439,Aaron,Butler,987736376,,AARP/UHC,UnitedHealthcare Medicare Advantage Choice (Regional PPO) ,200,,map,2022-11-07,2022-11-03,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168716386,21574301,Deborah,Nichols,165335439,Aaron,Butler,165335439,Aaron,Butler,985133981,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-10-27,2022-10-27,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -569,9 +648,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168860214,22623651,Kathleen,Schwanz,165335439,Aaron,Butler,165335439,Aaron,Butler,987173206,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-10-10,2022-10-11,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3795943571,21877151,Eric,Schwartzberg,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Gold Plus SNP-DE  (HMO D-SNP),110,,map,2022-11-10,2022-11-09,2023-01-01,,,,2023-01-01,False,False,
+3795943571,21877151,Eric,Schwartzberg,165335439,Aaron,Butler,165335439,Aaron,Butler,H71524174,,HUMANA,Humana Gold Plus SNP-DE  (HMO D-SNP),110,,map,2022-11-10,2022-11-09,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168654890,20902151,Connie,Staub,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana-Ochsner Network H1951-038 (HMO),200,,map,2022-08-22,2022-08-22,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3331092356,23260001,Gregory,Svedberg,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HUMANA,Humana Honor (PPO),110,,map,2022-11-17,2022-10-31,2022-12-01,,,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168736369,16980301,Geraldine,Taylor,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete LP (HMO D-SNP),480,,map,2022-06-24,2022-07-01,2022-07-01,2022-06-28,2022-06-25,,2022-07-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -589,7 +670,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3754836087,22805551,Juanita,Williams,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Patriot (PPO),110,,map,2022-11-07,2022-11-07,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4028371990,24955101,Ia,Williams,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Patriot (HMO-POS),110,,map,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168478355,14739301,Kathleen,Williams,165335439,Aaron,Butler,165335439,Aaron,Butler,34897398,,WELLCARE,Wellcare No Premium (HMO),200,,map,2022-04-28,2022-04-28,2022-05-01,,,,2022-05-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3989840437,24805401,Renea C,Wilson,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-11-28,2022-11-25,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167039911,6428501,Robin,Woods,165335439,Aaron,Butler,165335439,Aaron,Butler,985296508,,AARP/UHC,UnitedHealthcare Dual Complete (HMO-POS D-SNP),200,,map,2022-06-09,2022-06-08,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

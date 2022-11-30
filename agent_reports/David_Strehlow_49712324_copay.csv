@@ -1,4 +1,6 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3765258499,10067951,Patricia,A Davis,49712324,David,Strehlow,49712324,David,Strehlow,HN20011241P1,,HEARTLAND,,200,,copay,2022-11-08,2022-11-08,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172782758,22550251,Lou,Ann Wolaver,49712324,David,Strehlow,49712324,David,Strehlow,HN10033157P1,,HEARTLAND,,200,,copay,2022-10-05,2022-10-04,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172806215,15647851,Meredith L,Bernhard,49712324,David,Strehlow,49712324,David,Strehlow,HN10028626P1,,HEARTLAND,,200,,copay,2022-05-14,2022-05-14,2022-07-01,,,,,,,
@@ -6,8 +8,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172757805,3123001,Darlene,Bowes,49712324,David,Strehlow,49712324,David,Strehlow,HN10023280P1,,HEARTLAND,,200,,copay,2021-10-19,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172599316,7346801,Teresa,Christopher,49712324,David,Strehlow,49712324,David,Strehlow,HN10027835P1,,HEARTLAND,,200,,copay,2022-03-30,2022-03-30,2022-04-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3765258499,10067951,Patricia,Davis,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HEARTLAND,,110,,copay,2022-11-08,2022-11-08,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3711788050,20971051,Anita,G Dumas,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HEARTLAND,,110,,copay,2022-11-09,2022-11-07,2023-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

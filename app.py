@@ -29,7 +29,8 @@ import asyncio
 from asgiref.sync import sync_to_async
 from deta import Deta
 
-from fastapi import Depends, FastAPI, HTTPException, status
+from fastapi import Depends, FastAPI, HTTPException, status, Request, Form
+from fastapi.templating import Jinja2Templates
 from fastapi.security import HTTPBasic, HTTPBasicCredentials
 from fastapi.responses import FileResponse, RedirectResponse
 
@@ -156,12 +157,13 @@ def fetch_data(user: str = Depends(get_current_username)):
     with open('last_run.txt', "w") as file:
         file.write(time.ctime())
     drive.put("last_run.txt", path = "./last_run.txt")
+    print("data refresh is complete")
     return {'message': 'data refresh complete!'}
 
 """
 Run Reports
 """
-@app.get("/reports/run", response_class=FileResponse, tags=["Reports"])
+@app.post("/reports/run", response_class=FileResponse, tags=["Reports"])
 def process_agent_reports(report_month, report_year, usr: str = Depends(get_current_username)):
 
     agents = hs.get_agents()
@@ -701,3 +703,22 @@ def gdir():
 def clear_garbage():
     gc.collect()
     return True
+
+templates = Jinja2Templates(directory="templates/")
+
+@app.get("/form")
+def form_post(request: Request):
+    tod = datetime.now()
+    year = tod.year
+    month = tod.month
+    print(year)
+    print(month)
+    msg = "NA"
+    return templates.TemplateResponse('form.html', context={'request': request, 'result': msg, 'month': month, 'year': year})
+
+
+@app.post("/form")
+def form_post(request: Request, year: int = Form(...), month: int = Form(...)):
+    if year >= 2022 and month > 0 and month < 13:
+        return RedirectResponse(url='/reports/run?report_month={}&report_year={}'.format(month, year))
+    return templates.TemplateResponse('form.html', context={'request': request, 'msg': "Invalid Entry"})
