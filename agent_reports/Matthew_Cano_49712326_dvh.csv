@@ -47,6 +47,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252232,10206301,Cynthia,Connellan,49712326,Matthew,Cano,49712326,Matthew,Cano,10250851368,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-09,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172287871,12124751,Bradley,Conner,192985888,Jordan,Seifert,49712326,Matthew,Cano,10250918158,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-28,,2022-09-28,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172392007,12025901,Bradley,Conner,49712326,Matthew,Cano,49712326,Matthew,Cano,10250844833,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-30,,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447107,4476151,Kaiya,Cozad,49712326,Matthew,Cano,49712326,Matthew,Cano,250617946,,AMERITAS,PrimeStar® Value,200,,dvh,2021-08-10,,2021-11-01,,,,,,,
@@ -61,11 +63,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3625617985,23113051,Penny,Davis,49712326,Matthew,Cano,49712326,Matthew,Cano,847253417,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3626740296,23593401,Dennis,Davis,49712326,Matthew,Cano,49712326,Matthew,Cano,847253417,,AMERITAS,PrimeStar® Total,120,,dvh,2022-10-31,,2023-01-01,,,,,,,
+3626740296,23593401,Dennis,Davis,49712326,Matthew,Cano,49712326,Matthew,Cano,847253417,,AMERITAS,PrimeStar® Total,500,,dvh,2022-10-31,,2023-01-01,2022-11-30,2022-11-30,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447081,4566751,Charles,Davis III,49712326,Matthew,Cano,49712326,Matthew,Cano,250627623,,AMERITAS,PrimeStar® Access,200,,dvh,2021-08-23,,2021-08-24,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310867,1012851,Janet,Denney,49712326,Matthew,Cano,49712326,Matthew,Cano,00250471850,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2021-02-17,,2021-04-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3699890433,3928201,Dorothy,Englis,192985888,Jordan,Seifert,49712326,Matthew,Cano,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-04,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361614,48701,Herbert,Fahrenholtz,49712326,Matthew,Cano,49712326,Matthew,Cano,10250338167,,AMERITAS,,200,,dvh,2020-09-15,,2020-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

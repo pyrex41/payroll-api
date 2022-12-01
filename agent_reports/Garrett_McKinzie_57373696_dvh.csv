@@ -43,9 +43,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197802,6303601,John,Cotarla,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,10250675526,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-28,,2021-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172310666,3957501,Judy,Cox,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,250619155,,AMERITAS,PrimeStar® Access,200,,dvh,2021-08-11,,2021-09-01,,,,,,,
+3812636043,1433101,Richard,Cox,192985888,Jordan,Seifert,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-10,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4068606998,23515701,Phaon,Dario,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-28,2022-11-23,2023-01-01,,,,,,,
+3172310666,3957501,Judy,Cox,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,250619155,,AMERITAS,PrimeStar® Access,200,,dvh,2021-08-11,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252438,21792001,Mario,Del Canal,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,NA,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-12,2022-10-10,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -127,6 +127,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322312,4923801,Mary,Kristanc,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,250646997,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2021-09-21,,2021-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4226444394,25162851,Geraldine,Larson,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Value,110,,dvh,2022-11-30,2022-11-30,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447131,4547551,Thomas,Lee Racca,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,00250632126,,AMERITAS,PrimeStar® Total,200,,dvh,2021-08-27,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322150,13624601,John,Lichon,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,10250868536,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-08,2022-07-01,2022-10-01,,,,,,,
@@ -202,6 +204,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310925,17755801,Elizabeth ,Rhodes ,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,10250863122	,,AMERITAS,,200,,dvh,2022-06-29,2022-06-23,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4068606998,23515701,Faon,Rodriguez,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-28,2022-11-23,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361798,20300501,Mariann B,Rogers,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,10250888007,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-10,2022-08-05,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404402,16284101,Denise,Ross,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,10250887998	,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-10,2022-08-05,2022-08-11,,,,,,,
@@ -231,6 +235,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172362028,12778351,Douglas,Steiner,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,00250801100,,AMERITAS,PrimeStar® Access,200,,dvh,2022-03-23,2022-03-22,2022-04-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252054,5535451,Gloria,Sue Davis,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,10250640135,,AMERITAS,PrimeStar® Access,200,,dvh,2021-09-10,,2021-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172322092,14605501,Nathan,Taylor,192985888,Jordan,Seifert,57373696,Garrett,McKinzie,10250868752,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-11,,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3640878700,16084201,Martin,Tisckos Jr.,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-02,2022-11-01,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

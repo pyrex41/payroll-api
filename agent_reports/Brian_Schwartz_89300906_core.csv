@@ -645,6 +645,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141585,13286101,Roger,McDonald,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3389228267,A03584124,AARP,G,200,,msp,2022-07-21,2022-07-20,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4224390515,25280101,Melba,McGarity,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-30,,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712213,21478001,Edward,McKenna,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3184163800,A03607251,AARP,G,200,,msp,2022-08-31,2022-08-30,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259165,7418551,Sherray,McLellan,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3073480463,A03386964,AARP,G,420,,msp,2021-10-21,,2022-02-01,2022-10-10,2022-01-04,,2022-02-01,False,False,
@@ -759,6 +761,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173117102,20887651,Pravin,Patel,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3181465109,A03601205,AARP,G,200,,msp,2022-08-21,,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142149,20837901,Kamini,Patel,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3181465109,A03602274,AARP,G,200,,msp,2022-08-23,2022-08-22,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4221568528,25266501,Carolyn,Payne,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3121902237,,AARP,G,330,,msp,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173309074,10257651,Daisy,Payne,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3228655068,A03491543,AARP,G,200,,msp,2022-02-15,,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1098,6 +1102,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173163943,4520801,Barbara,Wallingsford,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3419409432,A03321152,AARP,G,200,,msp,2021-08-11,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173164039,4465451,Daniel,Wallingsford,89300906,Brian,Schwartz,89300906,Brian,Schwartz,72406095,72406095,MUTUAL OF OMAHA,G,200,,msp,2021-08-24,,2021-09-01,,,,2021-09-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4198973083,24953051,Ann,Ware,89300906,Brian,Schwartz,89300906,Brian,Schwartz,0629547522,,AARP,N,110,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173253974,4384201,Karen,Warner,89300906,Brian,Schwartz,89300906,Brian,Schwartz,CLI6789578,CLI6789578,AETNA,G,200,,msp,2022-01-20,,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

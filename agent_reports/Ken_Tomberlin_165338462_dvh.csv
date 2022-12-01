@@ -5,6 +5,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172297310,18598201,Penny,Allton,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250910810	,,AMERITAS,PrimeStar® Value,200,,dvh,2022-09-15,2022-09-15,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3829235241,18279301,Mary,Backer,192985888,Jordan,Seifert,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-01-15,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361840,20500101,Henry 'Alf',Badgett,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250888894,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-11,2022-08-09,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172392051,11951651,Margaret,Bahe,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250863566,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-29,2022-06-29,2022-07-01,,,,,,,
@@ -20,6 +22,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172404285,22564001,Lori,Borges,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250919111,,AMERITAS,PrimeStar® Total,500,,dvh,2022-09-29,2022-09-28,2022-10-01,,2022-10-31,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3697095495,23979301,Donna,Brand,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-07,2022-11-04,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172322153,14327251,Kevin,Bray,192985888,Jordan,Seifert,165338462,Ken,Tomberlin,10250876593,,AMERITAS,,200,,dvh,2022-07-22,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361843,20000251,Lori,Brown,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250891369,,AMERITAS,PrimeStar® Value,500,,dvh,2022-08-16,2022-08-08,2022-09-01,,2022-10-31,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -46,6 +50,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172297297,18969601,Jean,Detterman,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250870695,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-13,2022-07-13,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219187,15173451,Denise,Dykstra,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250831492,,AMERITAS,PrimeStar® Value,200,,dvh,2022-05-06,2022-05-04,2022-06-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4195528582,24698901,Lisa,Feeley,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AMERITAS,PrimeStar® Value,110,,dvh,2022-11-30,2022-11-29,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219148,15499751,Sandra,Friedrich,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250840653,,AMERITAS,PrimeStar® Access,200,,dvh,2022-05-23,2022-05-20,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -98,6 +104,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172310927,17827401,Timothy,Pendergrass,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,10250907765,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-12,2022-09-02,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447124,4392001,Darlene,Rattan,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-06-07,2022-06-07,2022-07-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172362017,13430901,Linda,Reiling,192985888,Jordan,Seifert,165338462,Ken,Tomberlin,10250876532	,,AMERITAS,,200,,dvh,2022-07-22,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322118,14726101,Victoria,Robertson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NA,,AMERITAS,,200,,dvh,2022-04-28,2022-04-28,2022-05-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

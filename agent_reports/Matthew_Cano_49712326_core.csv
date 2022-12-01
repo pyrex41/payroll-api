@@ -1,4 +1,6 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3173332747,21439451,,,49712326,Matthew,Cano,,Inactive,Agent,Pending Member ID,A03611504,AARP,G,200,,msp,2022-09-08,,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3382764143,21053301,Nannette,(Mitchell) Williams,49712326,Matthew,Cano,49712326,Matthew,Cano,301334624,,AARP,G,200,,msp,2022-10-19,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057819,10504301,Karen,Abernathy,49712326,Matthew,Cano,49712326,Matthew,Cano,AHL6302022,AHL6302022,AETNA,G,200,,msp,2022-01-18,,2022-07-01,,,,2022-07-01,True,False,
@@ -340,8 +342,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196430,21912151,Beth Anne,Dollinger,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03611421,AARP,G,200,,msp,2022-09-08,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332747,21439451,Robert ,Dollinger,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03611504,AARP,G,200,,msp,2022-09-08,,2023-01-01,,,,2023-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711661,8232351,Therese,Donovan,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6577310,AHC6577310,AETNA,G,200,,msp,2021-11-12,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332494,8131851,Mark,Dressman,49712326,Matthew,Cano,49712326,Matthew,Cano,AHL6297640,AHL6297640,AETNA,G,200,,msp,2021-11-11,,2022-01-01,,,,2022-01-01,True,False,
@@ -360,7 +360,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332623,1256601,Cynthia,Dufford,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03212071,AARP,G,200,,msp,2021-03-03,,2021-05-01,,,,2021-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3356854363,23321301,Bernard,Duffy,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,G,350,,msp,2022-10-18,,2023-05-01,,,,2023-05-01,False,False,False
+3356854363,23321301,Bernard,Duffy,49712326,Matthew,Cano,49712326,Matthew,Cano,342682598-1,,AARP,G,200,,msp,2022-10-18,,2023-05-01,,,,2023-05-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196032,20012501,Patricia,Duran,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03593223,AARP,G,200,,msp,2022-08-05,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -887,6 +887,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173273255,11365651,William,Morse,49712326,Matthew,Cano,49712326,Matthew,Cano,10748864,10748864,HUMANA,G,200,,msp,2022-02-10,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332535,8142401,Brenda,Motley,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6574466,AHC6574466,AETNA,G,200,,msp,2021-11-09,,2021-12-01,,,,2021-12-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4222626170,20692951,Gregory,Mowad,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP / UHICA,G,120,,msp,2022-11-30,,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126185,1313201,Stephen,Mullis,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6486895,AHC6486895,AETNA,G,200,,msp,2021-03-08,,2021-04-01,,,,2021-04-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1554,9 +1556,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168770836,22877501,Larry,Cobarrubia,49712326,Matthew,Cano,49712326,Matthew,Cano,101566458400,,AETNA,Freedom PPO,200,,map,2022-10-21,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3166973759,103901,LeAnn,Cochran,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,HUMANA,Gold Plus HMO,200,,map,2020-12-01,,2021-03-01,,,,2021-03-01,True,,
-4202695493,103901,LeAnn,Cochran,224486180,Rebecca,Sublette,49712326,Matthew,Cano,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Walgreens Plan 1 (PPO),110,,map,2022-11-29,2022-11-29,2023-01-01,,,,2021-03-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166992296,298651,Steve,Collette,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,HUMANA,Gold Plus HMO,200,,map,2021-08-30,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168360306,14347451,Michael,Connolly,49712326,Matthew,Cano,49712326,Matthew,Cano,123465401,,AARP/UHC,UnitedHealthcare Dual Complete LP (HMO D-SNP),200,,map,2022-06-06,,2022-07-01,,,,2022-07-01,True,False,
@@ -1655,6 +1654,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3683586072,1098501,James,Grande,49712326,Matthew,Cano,49712326,Matthew,Cano,988427582,,AARP/UHC,AARP Medicare Advantage Plan 1 (HMO-POS),200,,map,2022-11-03,,2023-01-01,,,,2021-04-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166973781,308101,William,Greisheimer,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP/UHC,Dual Complete D-SNP,480,,map,2020-12-16,,2021-02-01,,2021-01-31,,2021-02-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4223792245,25084651,Richard,Gresen,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,HUMANA,Choice Florida PPO,120,,map,2022-11-30,,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168446241,110851,Mary,Griffin,49712326,Matthew,Cano,49712326,Matthew,Cano,911726211,,AARP/UHC,Advantage Choice PPO Plan 2,200,,map,2020-10-16,,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

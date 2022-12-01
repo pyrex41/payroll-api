@@ -9,7 +9,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404300,22450751,Linda,Benson,82267662,Nick,Oberle,82267662,Nick,Oberle,10250916518,,AMERITAS,PrimeStar® Access,200,,dvh,2022-09-26,2022-09-26,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4197696878,25178151,Connie,Blanken,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-30,2022-11-29,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219263,20959851,Cynthia,Boyd,82267662,Nick,Oberle,82267662,Nick,Oberle,10250895287,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-22,2022-08-22,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3832208703,23750701,Thomas E,Brown,192985888,Jordan,Seifert,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3899766403,24524201,Robert,Brown,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Value,110,,dvh,2022-11-16,2022-11-15,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -84,6 +88,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172342152,7340001,Beverly J,Harris,82267662,Nick,Oberle,82267662,Nick,Oberle,10250842483,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-25,2022-05-25,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172252242,9498751,Tommy,Haugabook,192985888,Jordan,Seifert,82267662,Nick,Oberle,10250915572,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-23,,2022-09-26,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322324,5328151,Fannie,Henderson,82267662,Nick,Oberle,82267662,Nick,Oberle,00250792667,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-11,2022-03-10,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172231080,10821901,Jil,Hesser,82267662,Nick,Oberle,82267662,Nick,Oberle,10250763370,,AMERITAS,PrimeStar® Value,200,,dvh,2022-01-27,2022-01-27,2022-03-01,,,,,,,
@@ -118,6 +124,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172197737,6867301,Peter,Kroon,82267662,Nick,Oberle,82267662,Nick,Oberle,10250676863,,AMERITAS,PrimeStar® Value,200,,dvh,2021-10-29,,2021-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3384335194,12338401,Anne,Kuhl,192985888,Jordan,Seifert,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3635643687,21532551,Darlene,Labrecque,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-16,2022-11-14,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3635674787,8667001,John,Labrecque,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-01,2022-11-01,2023-02-01,,,,,,,False
@@ -145,6 +153,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172392015,11350951,Donna,Mulcahy,82267662,Nick,Oberle,82267662,Nick,Oberle,102507-72833,,AMERITAS,PrimeStar® Total,200,,dvh,2022-02-10,2022-02-10,2022-03-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3267265628,22104601,MARTIN,NICHOLS,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-14,2022-10-14,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4200349972,24954901,John,Neilan,82267662,Nick,Oberle,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,Advantage Plus Network 2000,110,,dvh,2022-11-30,2022-11-29,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3205378979,12350251,Mary,O’Connell,82267662,Nick,Oberle,82267662,Nick,Oberle,847245059,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-11,2022-10-11,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -177,6 +187,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172252419,22033601,Ann,Schreffler,82267662,Nick,Oberle,82267662,Nick,Oberle,10250910752,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-15,2022-09-14,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252290,10158801,Gayle,Shull,82267662,Nick,Oberle,82267662,Nick,Oberle,10250879738,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-28,2022-07-28,2022-08-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172322116,13783101,Shirley,Smith,192985888,Jordan,Seifert,82267662,Nick,Oberle,10250873772,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-19,,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172342147,7384951,Kim,Snyder,82267662,Nick,Oberle,82267662,Nick,Oberle,10250669648,,AMERITAS,PrimeStar® Access,200,,dvh,2021-10-21,,2021-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

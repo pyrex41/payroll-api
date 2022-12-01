@@ -3,6 +3,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259060,5473451,Robert,Becotte,81158745,Inactive,Agent,81158745,Inactive,Agent,3179311919,A03361475,AARP,N,500,,msp,2021-09-13,,2021-11-01,2021-12-08,2021-10-31,,2021-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173393765,6305851,Keith,Bell,81158745,Inactive,Agent,49147566,Steve,Brooks,3267022105,A03400559,AARP,G,200,,msp,2021-11-03,,2022-01-01,,,,2022-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173116512,6690651,Phyllis,Black,81158745,Inactive,Agent,81158745,Inactive,Agent,3351148675,335114867,AARP,G,200,,msp,2021-10-12,,2021-12-01,,,,2021-12-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184835,6368551,Cindy,Boling,81158745,Inactive,Agent,81158745,Inactive,Agent,3493760072,A03370254,AARP,G,200,,msp,2021-09-28,,2021-10-01,,,,2021-10-01,True,True,

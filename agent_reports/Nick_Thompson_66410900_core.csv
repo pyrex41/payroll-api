@@ -79,6 +79,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286660,2594801,Lisa,Baughn,66410900,Nick,Thompson,66410900,Nick,Thompson,3265592927,A03280319,AARP,G,200,,msp,2021-06-17,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4210957748,24945901,Joyce,Bausman,66410900,Nick,Thompson,66410900,Nick,Thompson,3203210921,,AARP,G,120,,msp,2022-11-30,,2023-03-01,,,,2023-03-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4224865378,25263001,Robert,Bausman,66410900,Nick,Thompson,66410900,Nick,Thompson,3203210921 ,,AARP,G,120,,msp,2022-11-30,,2023-04-01,,,,2023-04-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185608,11800751,Bryon,Bechtel,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6654226,AHC6654226,AETNA,N,200,,msp,2022-09-21,2022-09-12,2022-10-01,,,,2022-10-01,True,False,
 3168359804,11800751,Bryon,Bechtel,66410900,Nick,Thompson,66410900,Nick,Thompson,MENG101551125900,,AETNA,Medicare Advantra Gold (HMO-POS),510,,map,2022-07-13,,2022-10-01,2022-10-09,2022-10-01,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -135,6 +139,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3641614758,23945751,Debra,Brashear,66410900,Nick,Thompson,66410900,Nick,Thompson,3369696608,,AARP / UHICA,G,200,,msp,2022-11-01,,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150602,12683101,Patricia,Brimhall,66410900,Nick,Thompson,66410900,Nick,Thompson,3349647952,A03510448,AARP,G,200,,msp,2022-03-17,,2022-04-01,,,,2022-04-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4224693574,24986451,Keith,Brown,66410900,Nick,Thompson,66410900,Nick,Thompson,3518791177,,AARP,G,120,,msp,2022-11-30,,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711693,8385301,Alan,Brown,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6576210,AHC6576210,AETNA,G,200,,msp,2021-11-11,,2021-12-01,,,,2021-12-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -578,7 +584,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126418,3998651,Georgios,Kalambihis,66410900,Nick,Thompson,66410900,Nick,Thompson,"AHC0005594 (active), AHC6567938 (inactive)","AHC0005594 (active), AHC6567938 (inactive)",AETNA,G,200,,msp,2021-10-29,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4178336525,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,3059786669,,AARP,G,330,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,True,,False
+4178336525,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,3059786669,,AARP,G,470,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,True,,False
 4176534444,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,*PENDING,ANTHEM,G,200,,msp,2022-11-28,,2023-01-01,,,,2023-01-01,True,,False
 4110445066,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6927791,CLI6927791,AETNA,G,330,,msp,2022-11-23,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1580,6 +1586,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168413594,2362501,Julia,Pittman,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,HUMANA,Humana Gold Plus H0028-042 (HMO),200,,map,2021-05-25,,2021-06-01,,,,2021-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4199846249,24249901,Laura,Powers,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AETNA,Medicare Plus Plan,110,,map,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168513429,15568551,Anna,Pritchett,66410900,Nick,Thompson,66410900,Nick,Thompson,552W02230,,ANTHEM,Anthem Mediblue Dual Advantage HMO D-SNP 22KYH9525007,200,,map,2022-05-31,2022-05-24,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168512937,12093051,Jennifer,Ragains,66410900,Nick,Thompson,66410900,Nick,Thompson,000810036,,AARP/UHC,AARPUHC Medicare Advantage H4590-043-000,200,,map,2022-06-01,,2022-09-01,,,,2022-09-01,True,False,
@@ -1610,7 +1618,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3928633524,23507251,Kurt,Sanger,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,ANTHEM,MediBlue Access Plus PPO ,120,,map,2022-11-16,,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3423516483,23479551,Marianne,Schumacher,66410900,Nick,Thompson,66410900,Nick,Thompson,996233575,,AARP/UHC,United Healthcare Medicare Advantage Assure PPO,200,,map,2022-10-21,,2022-11-01,,,,2022-11-01,True,False,
+3423516483,23479551,Marianne,Schumacher,66410900,Nick,Thompson,66410900,Nick,Thompson,996233575,,AARP/UHC,United Healthcare Medicare Advantage Assure PPO,200,,map,2022-10-21,,2022-11-01,,,,2022-11-01,True,,
+4222626667,23479551,Marianne,Schumacher,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AARP/UHC,Choice Plan 3 ,120,,map,2022-11-30,,2023-01-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168546424,10945601,David,Segura,66410900,Nick,Thompson,66410900,Nick,Thompson,C4054775301,,WELLCARE,H5294012000 Giveback HMO,200,,map,2022-03-07,2022-03-04,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

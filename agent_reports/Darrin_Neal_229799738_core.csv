@@ -12,6 +12,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3476432309,23619301,Robert B,Berger,229799738,Darrin,Neal,229799738,Darrin,Neal,3263160370,,AARP,G,470,,msp,2022-10-24,,2023-01-01,2022-10-26,2022-12-31,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4224390265,24996501,John J,Blanchfield,229799738,Darrin,Neal,229799738,Darrin,Neal,3518809797,,AARP,G,200,,msp,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3643857283,24126951,Donna S,Bodin,229799738,Darrin,Neal,229799738,Darrin,Neal,3186993964,,AARP,G,200,,msp,2022-11-02,2022-11-01,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3794405642,24358001,Janice M,Bordeaux,229799738,Darrin,Neal,229799738,Darrin,Neal,3288450384,,AARP,G,200,,msp,2022-11-10,2022-11-09,2023-01-01,,,,2023-01-01,True,False,False
@@ -50,6 +52,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243436,22964351,Vickie,Daneker,229799738,Darrin,Neal,229799738,Darrin,Neal,3140421201,,AARP,G,200,,msp,2022-10-21,2022-10-21,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4202408247,25205401,Robert D,Drollinger,229799738,Darrin,Neal,229799738,Darrin,Neal,CLI6930538,CLI6930538,AETNA,G,110,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4202579019,25237601,Sharyn,Drollinger,229799738,Darrin,Neal,229799738,Darrin,Neal,CLI6930543,CLI6930543,AETNA,G,110,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 4052729980,24799701,Kristen,Druckenbrodt,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,110,,msp,2022-11-23,2022-11-22,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3794504472,23665951,Diane B,Duhaime,229799738,Darrin,Neal,229799738,Darrin,Neal,3184819302,,AARP,G,200,,msp,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,True,False,False
@@ -64,7 +70,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3952941494,23979951,Donna M,Ferrell,229799738,Darrin,Neal,229799738,Darrin,Neal,ACC6717213,ACC6717213,AETNA ACCENDO,G,200,,msp,2022-11-16,,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3907013424,24526601,Patricia E,Fleming,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,G,330,,msp,2022-11-15,,2022-12-01,,,,2022-12-01,False,False,False
+3907013424,24526601,Patricia E,Fleming,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,G,450,,msp,2022-11-15,,2022-12-01,,,,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3187680884,20659101,Susan,Francia,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AARP,G,200,,msp,2022-10-11,2022-10-06,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -80,11 +86,15 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4198973223,24949051,H B ,Heflin,229799738,Darrin,Neal,229799738,Darrin,Neal,3518658699,,AARP,G,330,,msp,2022-11-29,,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4194110827,25210451,Janet S,Helm,229799738,Darrin,Neal,229799738,Darrin,Neal,3518625292,,AARP,G,110,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3946478396,24673901,Thomas R,Hennessey Jr,229799738,Darrin,Neal,229799738,Darrin,Neal,CLI6923551,CLI6923551,AETNA,G,200,,msp,2022-11-17,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3792404595,24359401,John,Hervey,229799738,Darrin,Neal,229799738,Darrin,Neal,ACC6713013,ACC6713013,AETNA ACCENDO,G,200,,msp,2022-11-10,2022-11-09,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3967750001,24150801,Melanie L,Horne,229799738,Darrin,Neal,229799738,Darrin,Neal,336622183,,AARP,G,200,,msp,2022-11-21,2022-11-18,2022-12-01,,,,2022-12-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173126162,1361501,Burton,Horne,49727299,Inactive,Agent,229799738,Darrin,Neal,336622183,A03236893,AARP,G,200,,msp,2021-04-08,,2021-05-01,,,,2021-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3424923683,23700351,Colleen,Hunsberger,229799738,Darrin,Neal,229799738,Darrin,Neal,324735401,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -191,11 +201,14 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3953416283,24591851,James M,Rugh,229799738,Darrin,Neal,229799738,Darrin,Neal,3167536998,,AARP,G,200,,msp,2022-11-16,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4218738709,24970751,Jose,Ruiz,229799738,Darrin,Neal,229799738,Darrin,Neal,ACC6725503,ACC6725503,AETNA ACCENDO,G,110,,msp,2022-11-30,2022-11-30,2023-02-01,,,,2023-02-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3528328028,23899351,Reugenia,Russell,229799738,Darrin,Neal,229799738,Darrin,Neal,ACC6703340,ACC6703340,AETNA ACCENDO,G,200,,msp,2022-10-26,,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3193179487,23008351,Gary,Ryder,229799738,Darrin,Neal,229799738,Darrin,Neal,3099963252 ,,AARP,G,200,,msp,2022-10-11,2022-10-10,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4180436356,23726951,Ligaya,San Pedro,229799738,Darrin,Neal,229799738,Darrin,Neal,3096239177,,AARP,N,330,,msp,2022-11-28,,2023-01-01,,,,2023-01-01,False,False,False
+4180436356,23726951,Ligaya,San Pedro,229799738,Darrin,Neal,229799738,Darrin,Neal,3096239177,,AARP,N,200,,msp,2022-11-28,,2023-01-01,,,,2023-01-01,True,,False
+4221568437,23726951,Ligaya,San Pedro,229799738,Darrin,Neal,229799738,Darrin,Neal,ACC6723308,ACC6723308,AETNA ACCENDO,N,510,,msp,2022-11-28,,2023-01-01,2022-11-30,2022-10-30,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4074791337,24832201,Thomas E,Sanderson,229799738,Darrin,Neal,229799738,Darrin,Neal,3427219559,,AARP,G,200,,msp,2022-11-23,,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -208,6 +221,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3479090795,23566051,Francisco,Santiago,229799738,Darrin,Neal,229799738,Darrin,Neal,3516295908,,AARP,N,200,,msp,2022-10-24,,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3485829125,23804901,Kelli,Seten-Coolidge,229799738,Darrin,Neal,229799738,Darrin,Neal,3516311721,,AARP,G,200,,msp,2022-10-25,2022-10-24,2023-04-01,,,,2023-04-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4220291650,25233151,Delores M,Shafer,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-30,,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4226444722,24993351,Ginny S,Shuflin,229799738,Darrin,Neal,229799738,Darrin,Neal,3518788116,,AARP,G,120,,msp,2022-11-30,,2022-12-01,,,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3661110060,23583201,Brenda L,Smith,229799738,Darrin,Neal,229799738,Darrin,Neal,3516892555,,AARP,G,200,,msp,2022-11-02,2022-11-02,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -243,6 +260,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 4178336775,25175151,Denise,Williams,229799738,Darrin,Neal,229799738,Darrin,Neal,3518491380,,AARP,G,200,,msp,2022-11-29,2022-11-28,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4074531147,24304801,Laura L,Williamson,229799738,Darrin,Neal,229799738,Darrin,Neal,ACC6722195,ACC6722195,AETNA ACCENDO,G,200,,msp,2022-11-23,,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4221568031,23788901,George T,Winkler,229799738,Darrin,Neal,229799738,Darrin,Neal,AHC6673125,AHC6673125,AETNA,G,110,,msp,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3662875815,23852301,Sharon D,Woods,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,AETNA,G,500,,msp,2022-11-02,,2023-01-01,2022-11-07,2022-11-07,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

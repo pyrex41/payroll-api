@@ -1,4 +1,6 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3172252432,21857751,James,Acton,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NA,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-30,2022-11-30,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287883,19801301,Evans,Andrachek,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250879289,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-27,2022-07-26,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287920,19500051,Alice,Bentz,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250922370,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-05,2022-10-04,2023-01-01,,,,,,,
@@ -52,6 +54,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3253022494,14102451,Margaret ,Hess,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-13,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252443,21824901,Lucian,Higginbotham,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250909136,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-13,2022-09-12,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172287924,19379251,Edward Wayne,Jones,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NA,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-30,2022-11-30,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361805,20063151,Sandra,K Smith,165335440,Cory,Caldwell,165335440,Cory,Caldwell,10250885438,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-05,2022-08-05,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

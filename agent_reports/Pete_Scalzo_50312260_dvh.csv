@@ -13,6 +13,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219036,15969201,Janelle,Bailey,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250863133,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-29,2022-06-29,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172252309,9832351,Nancy,Baker,192985888,Jordan,Seifert,50312260,Pete,Scalzo,10250880914,,AMERITAS,,200,,dvh,2022-07-29,,2022-08-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361651,100701,Paula J,Battaglio,50312260,Pete,Scalzo,50312260,Pete,Scalzo,CLI6580690,,AETNA,Advantage Plus 2000 (Non-Network),200,,dvh,2021-01-19,,2021-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310673,3922801,Pamela,Boyd,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250671598,,AMERITAS,,200,,dvh,2021-10-25,,2021-11-01,,,,,,,
@@ -24,6 +26,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172287790,12224101,Beverly L,Byrd,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250855557,,AMERITAS,PrimeStar® Access,200,,dvh,2022-06-16,2022-06-16,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287848,12224051,Samuel E,Byrd Jr,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250855528,,AMERITAS,PrimeStar® Access,200,,dvh,2022-06-16,2022-06-16,2022-07-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3950667905,20241251,Carolyn,Clark,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-17,,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404514,16866051,Maureen,Clarke,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250900322,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-29,2022-08-29,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -50,6 +54,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172362011,12917601,Kevin,Dirks,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250820010,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-20,2022-04-20,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172133473,2218101,Kristine,Doohan,50312260,Pete,Scalzo,50312260,Pete,Scalzo,250641691,,AMERITAS,,200,,dvh,2021-08-25,,2021-11-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3828694322,2981801,Philip,Dunham,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3829909044,2981851,TyAnn,Dunham,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447109,4568907,Michael,Durham,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250527633,,AMERITAS,,200,,dvh,2021-04-26,,2021-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -112,6 +120,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3503474054,7415501,John,House,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-16,2022-10-25,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172391982,11927601,Wanda,Hunt,192985888,Jordan,Seifert,50312260,Pete,Scalzo,10250914477,,AMERITAS,,200,,dvh,2022-09-22,,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391824,8142851,Denise,Igbineweka,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250826666,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-29,2022-04-29,2022-04-30,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219137,15159451,Diane,Jansen,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250873945,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-19,2022-07-19,2022-09-01,,,,,,,
@@ -130,11 +140,21 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447089,4568401,Cheryll,Lurtz,50312260,Pete,Scalzo,50312260,Pete,Scalzo,240161314,,AMERITAS,,200,,dvh,2021-02-11,,2021-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172447241,2737751,Thomas,McGranaghan,49712324,David,Strehlow,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-28,2022-10-07,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219243,20804101,Sharon,McIntyre,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250906750	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-08,2022-09-01,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3774464952,6039251,Linda,Meisel,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3774669834,4569201,Fred,Meisel,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322113,14324751,Judy,Meli,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250826731,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-29,2022-04-25,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252266,10273651,John,Milla,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250786651	,,AMERITAS,PrimeStar® Access,200,,dvh,2022-03-02,2022-03-01,2022-06-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3206057246,21790351,Stephen,Miller,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-11,2022-10-11,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3479307547,4182051,Ronald,Morales,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-24,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172218996,3002951,Kim R,Ohmer,50312260,Pete,Scalzo,50312260,Pete,Scalzo,250674873,,AMERITAS,,200,,dvh,2021-10-28,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -160,6 +180,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361855,20553051,Cindy L,Rubaie,50312260,Pete,Scalzo,50312260,Pete,Scalzo,10250891485,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-16,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172391825,8126351,Malik,Rubaie,66410900,Nick,Thompson,50312260,Pete,Scalzo,250690709,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-12,,2021-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172133412,1821501,Michael,Rush,50312260,Pete,Scalzo,50312260,Pete,Scalzo,00250725141,,AMERITAS,PrimeStar® Access,200,,dvh,2021-12-13,2021-12-13,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391770,1688251,Cynthia I,Rush,50312260,Pete,Scalzo,50312260,Pete,Scalzo,00250725117,,AMERITAS,PrimeStar® Access,200,,dvh,2021-12-13,2021-12-13,2022-01-01,,,,,,,
@@ -183,6 +205,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172391974,7848001,Vimol,Sinsakul,50312260,Pete,Scalzo,50312260,Pete,Scalzo,00250770696,,AMERITAS,PrimeStar® Total,200,,dvh,2022-02-07,2022-02-07,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391948,8019101,Keith,Taylor,50312260,Pete,Scalzo,50312260,Pete,Scalzo,00250708489,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-30,,2022-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3831643005,7480351,Kathleen M,Teson,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-11,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447257,2935201,Beverly,Thomas,50312260,Pete,Scalzo,50312260,Pete,Scalzo,847060564,,AMERITAS,,200,,dvh,2021-07-05,,2021-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

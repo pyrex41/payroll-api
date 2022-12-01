@@ -1345,7 +1345,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3235030703,22912201,Debra,Maggard,50183183,Rhee,Cano,50183183,Rhee,Cano,784135,,AARP/UHC,AARP® Medicare Advantage (HMO-POS),200,,map,2022-10-13,2022-10-12,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3169095718,11305601,Scott,Maine,50183183,Rhee,Cano,50183183,Rhee,Cano,101525973800,,AETNA,Aetna Medicare Freedom Plan (PPO),200,,map,2022-02-09,,2022-04-01,,,,2022-04-01,True,False,
+3169095718,11305601,Scott,Maine,50183183,Rhee,Cano,50183183,Rhee,Cano,101525973800,,AETNA,Aetna Medicare Freedom Plan (PPO),510,,map,2022-02-09,,2022-04-01,,2022-11-30,Deceased,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168371881,919851,Leslie,Mar,50183183,Rhee,Cano,50183183,Rhee,Cano,Pending Member ID,,HUMANA,Humana Gold Plus H0028-043 (HMO),200,,map,2021-02-09,,2021-03-01,,,,2021-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

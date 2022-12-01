@@ -211,7 +211,7 @@ async def respond_and_process(report_month, report_year, background_tasks: Backg
 
 def process_agent_reports(report_month, report_year):
     status.put(True, "processing_report", expire_in=1000)
-
+    load_data()
     agents = hs.get_agents()
     contact_props = ['hubspot_owner_id']
 
