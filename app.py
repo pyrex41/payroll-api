@@ -203,9 +203,10 @@ def fetch_hubspot_data():
 Run Reports
 """
 @app.post("/reports/run", tags=["Reports"])
-async def respond_and_process(report_month, report_year, background_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
+async def respond_and_process(report_month, report_year, background_tasks: BackgroundTasks,request: Request, usr: str = Depends(get_current_username)):
     background_tasks.add_task(process_agent_reports, report_month, report_year)
-    return {"msg": "Processing reports in background. Use GET /reports/fetch to retrieve"}
+    msg = "Report is being processed in background. Click link below to download:"
+    return templates.TemplateResponse('landing.html', context={'request': request, 'msg': msg})
 
 
 def process_agent_reports(report_month, report_year):
@@ -432,9 +433,9 @@ def fetch_error_reports(usr: str = Depends(get_current_username)):
     )
 
 @app.get("/reports/fetch", response_class=FileResponse, tags=["Reports"])
-def fetch_last_reports(usr: str = Depends(get_current_username)):
+def fetch_last_reports(request: Request, usr: str = Depends(get_current_username)):
     is_running = deta_status_get("processing_report")
-    detail = "Reports are still being generated; hold your horses."
+    msg = "Reports are still being generated; hold your horses. Please reload this page in a few moments"
     if not is_running:
         is_ok = fetch_and_save("agent_reports.zip", reports)
         print("ok?", is_ok)
@@ -442,11 +443,13 @@ def fetch_last_reports(usr: str = Depends(get_current_username)):
             print("returning")
             return "agent_reports.zip"
         detail = "Report does not exist; please generate reports"
-    raise HTTPException(
-        status_code=418,
-        detail=detail,
-        headers={"WWW-Authenticate": "Basic"},
-    )
+        raise HTTPException(
+            status_code=418,
+            detail=detail,
+            headers={"WWW-Authenticate": "Basic"},
+        )
+    else:
+        return templates.TemplateResponse("landing.html", context={'request': request, 'msg': 'Report is still running; please try again in a moment'})
 
 
 """

@@ -1,6 +1,14 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3168241175,258601,June,Duran,76539239,Inactive,Agent,76539239,Inactive,Agent,935299115,,AARP/UHC,AARP Medicare Advantage Choice PPO,200,,map,2020-11-18,,2020-12-01,,,,2020-12-01,True,True,
-3953416210,258601,June,Duran,224486180,Rebecca,Sublette,76539239,Inactive,Agent,Pending Member ID,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,False,False,False
+3168411502,43451,Alain,Deroulette,50084738,Adrian,Hardin,50084738,Adrian,Hardin,970904360,,AARP/UHC,AARP Medicare Advantage Walgreens,200,,map,2021-01-06,,2022-01-01,,,,2022-01-01,True,False,
+4045572982,43451,Alain,Deroulette,224486180,Rebecca,Sublette,50084738,Adrian,Hardin,AHC6670701,AHC6670701,AETNA,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173116928,6820651,Patricia,Eaton,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6555134,AHC6555134,AETNA,G,500,,msp,2021-10-05,,2021-11-01,2021-10-27,2021-10-27,,2021-11-01,True,,
+4053654961,6820651,Patricia,Eaton,224486180,Rebecca,Sublette,82267662,Nick,Oberle,0321764870,,AARP / UHICA,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2021-11-01,True,True,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4200350046,25177651,Timothy,McCourt,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,351867520,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173208106,15152201,Maria,Mesa,82267662,Nick,Oberle,82267662,Nick,Oberle,3225925233,A03540153,AARP,N,510,,msp,2022-05-04,2022-05-04,2022-08-01,2022-11-30,2022-11-30,,2022-08-01,True,,
+3969119617,15152201,Maria,Mesa,224486180,Rebecca,Sublette,82267662,Nick,Oberle,322592523-1,,AARP,G,200,,msp,2022-11-18,2022-11-18,2022-12-01,,,,2022-08-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3618387037,24044401,John,Ochsner,50084738,Adrian,Hardin,224486180,Rebecca,Sublette,Pending Member ID,,AETNA,Aetna Medicare Assure Premier Prime (HMO D-SNP),500,,map,,2022-10-31,2022-11-01,2022-11-01,2022-11-01,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

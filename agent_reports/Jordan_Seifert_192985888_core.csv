@@ -5,6 +5,12 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168357264,7797501,Patrick,Lott,76357008,Inactive,Agent,76357008,Inactive,Agent,986635941,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),200,,map,2021-11-09,,2022-02-01,,,,2022-02-01,True,False,
 3770138384,7797501,Patrick,Lott,192985888,Jordan,Seifert,76357008,Inactive,Agent,3390000143,,AARP,G,200,,msp,2022-11-08,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173117848,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6604423,AHC6604423,AETNA,G,510,,msp,2022-01-07,,2022-03-01,,,,2022-03-01,True,,
+3173125514,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006201,AHC0006201,AETNA,G,510,,msp,2022-01-07,2022-01-07,2022-04-01,2022-05-15,2022-05-16,,2022-03-01,True,,
+3684072843,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006242,AHC0006242,AETNA,G,510,,msp,2022-01-07,,2022-05-01,2022-11-03,,,2022-03-01,True,,
+3173185589,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6642182,AHC6642182,AETNA,G,510,,msp,2022-07-14,2022-07-14,2022-08-01,,2022-07-31,,2022-03-01,True,,
+3173185596,7528051,Peggy,Scott,192985888,Jordan,Seifert,82267662,Nick,Oberle,AHC6649781,AHC6649781,AETNA,G,200,,msp,2022-08-24,,2022-08-25,,,,2022-03-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168263324,3457801,Deborah,Cozzens,76539239,Inactive,Agent,192985888,Jordan,Seifert,MEBVWG2B,,AETNA,Aetna Medicare Explorer Plan (PPO),200,,map,2021-07-29,,2021-10-01,,,,2021-10-01,True,,
 4070667396,3457801,Deborah,Cozzens,192985888,Jordan,Seifert,192985888,Jordan,Seifert,Pending Member ID,,HUMANA,HumanaChoice PPO,110,,map,2022-11-23,,2023-01-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
