@@ -175,7 +175,7 @@ def hs_load_and_save_contacts():
 
 
 @app.post("/data/refresh/", tags=["Data"])
-async def call_fetch(user: str = Depends(get_current_username)):
+async def call_fetch(background_tasks: BackgroundTaks, user: str = Depends(get_current_username)):
     is_running = deta_status_get("data_refresh_active")
     msg = "Data refresh is running"
     if not is_running:
