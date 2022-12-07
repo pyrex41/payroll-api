@@ -800,7 +800,7 @@ def clear_garbage():
 templates = Jinja2Templates(directory="templates/")
 
 @app.get("/form")
-def form_post(request: Request):
+def form_post(request: Request, usr: str = Depends(get_current_username)):
     tod = datetime.now()
     year = tod.year
     month = tod.month
@@ -811,7 +811,7 @@ def form_post(request: Request):
 
 
 @app.post("/form")
-def form_post(request: Request, year: int = Form(...), month: int = Form(...)):
+def form_post(request: Request, year: int = Form(...), month: int = Form(...), usr: str = Depends(get_current_username)):
     if year >= 2022 and month > 0 and month < 13:
         return RedirectResponse(url='/reports/run?report_month={}&report_year={}'.format(month, year))
     return templates.TemplateResponse('form.html', context={'request': request, 'msg': "Invalid Entry"})
