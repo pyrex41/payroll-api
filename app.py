@@ -731,7 +731,7 @@ def show_token(usr: str = Depends(get_current_username)):
 
 @app.get("/")
 async def root():
-    return RedirectResponse(url='/docs')
+    return RedirectResponse(url='/form')
 
 class OLabel(str, Enum):
     copay = 'copay'
