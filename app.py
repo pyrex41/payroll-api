@@ -204,6 +204,7 @@ def fetch_hubspot_data():
     print("data refresh is complete")
     set_refresh(False)
 
+
 """
 Run Reports
 """
@@ -719,6 +720,30 @@ def remove_agent(agent_id: int, username: str = Depends(get_current_username)):
             pickle.dump(new_alist, file)
         msg = {'message': 'agent_id {} has been removed from active agent list'.format(s)}
     return msg
+
+"""
+Save the pickles
+"""
+@app.post("/pickles/backup")
+async def save_pickles(usr: str = Depends(get_current_username)):
+    at = []
+    for pick in os.listdir():
+        if ".pickle" in pick:
+            at.append(asyncio.create_task(pickle_put(drive, pick)))
+    return await asyncio.gather(*at)
+
+async def pickle_put(drive, fname):
+    return await drive.put(fname, path="./"+fname)
+
+@app.get("/pickles/load_from_backup")
+async def load_pickles(usr: str = Depends(get_current_username)):
+    pickle_list = drive.list().get('names')
+    at = []
+    for pick in pickle_list:
+        if ".pickle" in pick:
+            at.append(asyncio.create_task(sync_to_async(fetch_and_save(pick))))
+    return await asyncio.gather(*at)
+
 
 
 """
