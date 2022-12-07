@@ -2,22 +2,104 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sample Form</title>
+    <title>Sample Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;    
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            margin: 20px 0;
+            color: #333;
+        }
+        
+        p {
+            text-align: center;
+            margin: 10px 0;
+            color: #333;
+        }
+
+
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        label {
+            display: block;
+            margin: 10px 0;
+            color: #333;
+        }
+
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+        }
+
+        input[type="submit"] {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #444;
+        }
+        
+        .buttons {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #444;
+        }
+    </style>
 </head>
 <body>
-<h1>Run Report [Must Fetch Data First]</h1>
-<a href="../docs#/Data/call_fetch_data_refresh__post" target="_blank">Goto Data Refresh</a>
+<h1>Run Report -- Basic Tools</h1>
+<p>Data needs to be refreshed before you run the report. If this is not happening automatically, you can trigger that here:</p>
+<div class="buttons">
+    <a href="../docs#/Data/call_fetch_data_refresh__post" target="_blank">
+        <button>Goto Data Refresh</button>
+    </a>
+</div>
 <br />
 <br>
-<form method="post">
-    <li>"Month:"<input type="number" name="month" value="{{ month }}" /></li>
-    <li>"Year:"<input type="number" name="year" value="{{ year }}" /></li>
-    <li><input type="submit"></li>
-</form>
 
-<p>Result: {{ msg }}</p>
+  <form method="POST">
+    <label for="num1">Enter the Month:</label><br>
+    <input type="number" name="month" value="{{ month }}"><br>
+    <label for="num2">Enter another number:</label><br>
+    <input type="number" name="year" value="{{ year }}"><br><br>
+    <input type="submit" value="Submit">
+  </form>
+
 <br />
 <br>
-<a href="../reports/fetch" target="_blank">Fetch Reports</a>
+<p>Press to download the most recently created batch of reports.</p>
+<div class="buttons">
+    <a href="../reports/fetch" target="_blank">
+        <button>Fetch Reports</button>
+    </a>
+</div>
 </body>
 </html>

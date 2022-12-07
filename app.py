@@ -47,7 +47,12 @@ status.put(False, "loading_data")
 
 
 
-app = FastAPI()
+#app = FastAPI()
+app = FastAPI(swagger_ui_parameters={
+        "useUnsafeMarkdown": True
+    }
+)
+
 
 security = HTTPBasic()
 
