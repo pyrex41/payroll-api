@@ -590,6 +590,21 @@ def fetch_abob_report_generic(filename):
         out = pickle.load(file)
     return out
 
+@app.post("/bob/set/{agent_id}/{rtype}/", tags=["BOB Funcs", "Manual Adjustments"])
+def manual_agent_bob_set(numb: int, rtype: RType, agent_id: int, usr: string = Depends(get_current_username)):
+    agents = show_agents()
+    fname = base_report_name_match(rtype)
+    if str(agent_id) in agents:
+        with open(fname, 'rb') as file:
+            abobs = pickle.load(file)
+        dic = abobs[-1]
+        dic[agent_id] = numb
+        with open(fname, 'wb') as file:
+            pickle.dump(abobs, file)
+        return dic
+    else:
+        return {'msg': 'invalid agent_id'}
+
 @app.post("/bob/{rtype}/lock", tags = ["BOB Funcs", "Lock"])
 def bob_lock(rtype: RType, username = Depends(get_current_username)):
     f1 = base_report_name_match(rtype)
