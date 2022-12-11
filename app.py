@@ -598,7 +598,7 @@ def manual_agent_bob_set(numb: int, rtype: RType, agent_id: int, usr: string = D
         with open(fname, 'rb') as file:
             abobs = pickle.load(file)
         dic = abobs[-1]
-        dic[agent_id] = numb
+        dic[str(agent_id)] = numb
         with open(fname, 'wb') as file:
             pickle.dump(abobs, file)
         return dic
