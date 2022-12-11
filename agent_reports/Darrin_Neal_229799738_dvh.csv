@@ -3,17 +3,21 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3361540982,6347301,Sandra,Allen,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,2022-10-18,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4288643328,25325401,Esther O,Altavas,229799738,Darrin,Neal,229799738,Darrin,Neal,847273905,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-05,2022-12-03,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404330,22481501,Charles,Callman Jr,229799738,Darrin,Neal,229799738,Darrin,Neal,10250920966,,AMERITAS,,200,,dvh,2022-10-03,2022-10-01,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4203189883,25237601,Sharyn,Drollinger,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-30,2022-11-29,2023-01-01,,,,,,,
+4203189891,25205401,Robert D,Drollinger,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-30,2022-11-29,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4203189891,25205401,Robert D,Drollinger,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-30,2022-11-29,2023-01-01,,,,,,,
+4203189883,25237601,Sharyn,Drollinger,229799738,Darrin,Neal,229799738,Darrin,Neal,847270376,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-30,2022-11-29,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4260223900,25085951,Stewart W,Gloor,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,No Dental Coverage,110,,dvh,2022-12-06,2022-12-02,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3483196578,23567651,Jeanne,Hardesty,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-24,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4194110853,25210451,Janet S,Helm,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-29,2022-11-29,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4194110881,24850651,David P,Helm,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-29,2022-11-29,2023-01-01,,,,,,,
+4194110881,24850651,David P,Helm,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3977697694,24150801,Melanie L,Horne,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-23,2022-11-18,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -35,6 +39,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3685693992,23572501,Debra K,Miller,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-09,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3638871972,22686901,Jeana,Mincher,229799738,Darrin,Neal,229799738,Darrin,Neal,847271479,,AMERITAS,PrimeStar® Total,200,,dvh,2022-12-01,2022-12-01,2023-03-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3913028098,23989751,Lajana L,Owens,229799738,Darrin,Neal,229799738,Darrin,Neal,847271469,,AMERITAS,PrimeStar® Value,200,,dvh,2022-12-01,2022-12-01,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3760565402,23782851,Edmund F,Pawlina Jr,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3775830110,24240101,Joyce,Pfeiffer,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,2022-11-08,2022-12-01,,,,,,,False
@@ -46,6 +54,14 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3355541583,23329101,Nina,Rowe,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,,200,,dvh,2022-11-07,2022-11-01,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3189615118,23008351,Gary,Ryder,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-13,2022-10-10,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4347939986,24703851,Sherman J.,Schloss,229799738,Darrin,Neal,229799738,Darrin,Neal,847276824,,AMERITAS,PrimeStar® Access,110,,dvh,2022-12-08,2022-12-06,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4270029712,25043801,William D,Taylor,229799738,Darrin,Neal,229799738,Darrin,Neal,847273885,,AMERITAS,No Dental Coverage,110,,dvh,2022-12-05,2022-12-02,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4178336554,25077551,Michael J,Williams,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-06,2022-11-28,2022-12-07,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4178833444,25175151,Denise,Williams,229799738,Darrin,Neal,229799738,Darrin,Neal,847275938,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-07,2022-11-28,2022-12-08,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3662875829,23852301,Sharon D,Woods,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-03,2022-11-02,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

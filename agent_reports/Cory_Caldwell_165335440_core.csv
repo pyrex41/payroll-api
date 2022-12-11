@@ -37,7 +37,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4200092177,24364201,Gary,Bartholomew,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3518678341,,AARP,G,200,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4171820295,25105801,Anita R. ,Bates,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,False,False,False
+4171820295,25105801,Anita R. ,Bates,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6671749,AHC6671749,AETNA,G,200,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117456,19200101,Sharon,Bauer,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6644814,AHC6644814,AETNA,G,200,,msp,2022-07-28,2022-07-27,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -67,6 +67,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216885,18807301,Kim,Buchanan,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3269702571,A03587641,AARP,G,200,,msp,2022-07-27,2022-07-11,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3757042505,23724251,Mark ,Buesching,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3436689719,,AARP,G,200,,msp,2022-12-07,2022-11-07,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3586450961,23532751,John,Busch,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3516658873,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3711788042,24271501,Sarah,Busch,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3516658873,,AARP,G,200,,msp,2022-11-10,2022-11-07,2023-01-01,,,,2023-01-01,True,False,False
@@ -74,10 +76,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173150287,18409001,Timothy,Bush,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3446326443,A03588221,AARP,G,200,,msp,2022-07-28,2022-07-12,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308713,14459451,Mona,Byrd,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3372094353,A03536792,AARP,G,200,,msp,2022-04-28,2022-04-25,2022-05-01,,,,2022-05-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170711900,14879501,Ann,Caravolas,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACC6598598,ACC6598598,AETNA ACCENDO,G,200,,msp,2022-04-29,2022-04-29,2022-05-01,,,,2022-05-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332536,8132951,John,Caravolas,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACC6598567,ACC6598567,AETNA,G,200,,msp,2022-04-29,2022-04-29,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3636825508,23182451,Douglas,Carlson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3459427930,,AARP,G,200,,msp,2022-11-03,2022-11-01,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -103,6 +101,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142164,20792751,Barbara,Chin,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3014482321,A03605551,AARP,G,200,,msp,2022-08-23,2022-08-22,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4272523127,21534301,Jay,Clagg,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3518989664,,AARP,G,200,,msp,2022-12-05,2022-12-02,2023-03-01,,,,2023-03-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173309089,10102151,Tammy,Collard,165335440,Cory,Caldwell,165335440,Cory,Caldwell,CLI6865016,CLI6865016,AETNA,G,200,,msp,2022-07-11,2022-07-11,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332795,21255651,Melanee ,Collins-Metzler,165335440,Cory,Caldwell,165335440,Cory,Caldwell,CLI6884433,CLI6884433,AETNA,G,475,,msp,2022-08-30,2022-08-30,2022-10-01,,2022-09-30,,2022-10-01,False,False,
@@ -121,7 +121,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125386,20245451,David,Cullen,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3511549689,A03593244,AARP,G,200,,msp,2022-08-05,2022-08-04,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3933169006,24624051,Timothy,Cunningham,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP,G,420,,msp,2022-11-16,2022-11-16,2023-01-01,2022-11-28,,,2023-01-01,False,False,False
+3933169006,24624051,Timothy,Cunningham,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP,G,510,,msp,2022-11-16,2022-11-16,2023-01-01,2022-11-28,2022-11-30,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142108,20824151,Jeffrey,DAVIDSON,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3222085700,A03599841,AARP,G,200,,msp,2022-08-18,2022-08-17,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -135,6 +135,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3294184966,19866801,Julie,David,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3501994879,,AARP,G,200,,msp,2022-10-18,2022-10-18,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4357257000,25455401,Arthur,De La Rosa,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3519209583,,AARP,G,120,,msp,2022-12-07,2022-12-07,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243548,22321851,Rita,DeAngelo,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3514294002,A03616921,AARP,G,200,,msp,2022-09-20,2022-09-19,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243699,22287701,Peter,DeAngelo,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3514294002,A03617026,AARP,G,200,,msp,2022-09-20,2022-09-19,2022-12-01,,,,2022-12-01,True,False,
@@ -143,7 +145,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3187012483,23056801,Debora,DeVries,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3467725275,,AARP,G,200,,msp,2022-10-18,2022-10-10,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173273663,17213151,Linda,Dent,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACC6641049,ACC6641049,AETNA ACCENDO,G,420,,msp,2022-07-11,2022-07-10,2022-12-01,2022-11-22,,,2022-12-01,False,False,
+3173273663,17213151,Linda,Dent,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACC6641049,ACC6641049,AETNA ACCENDO,G,500,,msp,2022-07-11,2022-07-10,2022-12-01,2022-11-22,2022-11-30,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117084,20901601,Silvia,Devescovi,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3512364153,,AARP,G,200,,msp,2022-11-01,2022-11-01,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -153,6 +155,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286195,17654951,Janet,Dillon,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3459448281,A03567044,AARP,G,200,,msp,2022-06-20,2022-06-20,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4343967040,25199651,Deborah,Dopson Hartley,165335440,Cory,Caldwell,165335440,Cory,Caldwell,344451251,,AARP,G,120,,msp,2022-12-06,2022-12-06,2023-02-01,,,,2023-02-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125387,20117601,Sandra,Dove,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3399883960,A03592383,AARP,G,500,,msp,2022-08-04,2022-08-04,2022-11-01,,2022-10-31,,2022-11-01,True,,
 4067754043,20117601,Sandra,Dove,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3399883960,,AARP,G,200,,msp,2022-11-25,2022-11-25,2022-12-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -161,6 +165,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173287029,20425001,Cathy,Drechsel,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3107046025,,AARP,G,200,,msp,2022-10-03,2022-10-03,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117080,20877651,Donald,Drechsel,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3107046025,A03600680,AARP,G,200,,msp,2022-08-19,2022-08-18,2022-10-01,,,,2022-10-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4223792304,24995801,Dennis,Duncan,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3195707876,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-05-01,,,,2023-05-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142113,20677301,Jayder,Dutra Amorim,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3512126388,A03601195,AARP,G,200,,msp,2022-08-17,2022-08-16,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -209,7 +215,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3405047559,23666101,Aliciaalma,Hao,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3516144767,,AARP,G,200,,msp,2022-10-24,2022-10-20,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4195283741,25211801,Craig,Harrigan,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3115783130,,AARP,G,120,,msp,2022-11-29,2022-11-29,2023-02-01,,,,2023-02-01,False,False,
+4195283741,25211801,Craig,Harrigan,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3115783130,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117481,19324551,Lisa,Harris,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3445763935,A03585646,AARP,G,200,,msp,2022-07-25,2022-07-22,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -229,7 +235,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141132,13747901,Jane,Hladky,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3205840477,A03574744,AARP,G,200,,msp,2022-07-06,2022-07-05,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3418492029,23684251,Deborah,Holtzman,165335440,Cory,Caldwell,165335440,Cory,Caldwell,316779156-1,,AARP,G,470,,msp,2022-10-25,2022-10-21,2023-01-01,2022-11-23,,APPLICATION WITHDRAWN FOR NO RESPONSE TO UNDERWRITING,2023-01-01,False,False,False
+3418492029,23684251,Deborah,Holtzman,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3167791569,,AARP,G,200,,msp,2022-10-25,2022-10-21,2023-01-01,2022-11-23,,APPLICATION WITHDRAWN FOR NO RESPONSE TO UNDERWRITING,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3419484529,22182651,Alan,Holtzman JR,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3167791569,,AARP,G,200,,msp,2022-10-21,2022-10-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -261,7 +267,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332779,21413351,Franklin,Karys,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3460395498,A03607707,AARP,G,200,,msp,2022-08-31,2022-08-31,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4199322120,24376751,Michael,Kehoe,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3518661636,,AARP,G,110,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+4199322120,24376751,Michael,Kehoe,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3518661636,,AARP,G,200,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177743,18295701,Joan,Kelley,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3509975821,A03580166,AARP,G,200,,msp,2022-07-15,2022-07-05,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -273,7 +279,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3549378959,23918501,Marlene,Kozik,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6663500,AHC6663500,AETNA,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4390007352,22106051,Jacqueline,Lander,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3433299637,,AARP,G,200,,msp,2022-12-09,2022-12-08,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125977,15905801,Donald,Landry,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3507811846,A03551025,AARP,G,200,,msp,2022-05-23,2022-05-23,2022-07-01,,,,2022-07-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4343672090,25459601,Cheryl,Largent,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3341106767,,AARP,G,200,,msp,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3353378903,23557751,David,Lavery,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3515982639,,AARP,G,200,,msp,2022-10-19,2022-10-18,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -292,6 +302,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117504,19113251,Arthur,Lindholm,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3286759455,A03581114,AARP,G,200,,msp,2022-07-18,2022-07-14,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4401164610,25590001,Phyllis,London,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3519427987,,AARP,G,200,,msp,2022-12-09,2022-12-09,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 4070161667,24677001,MARK,MYERS,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3518190156,,AARP,F,340,Commissionable - Need to Review,msp,2022-11-30,2022-11-23,2022-12-01,,,,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243657,22439301,Robert,Maglitto,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3514539133,A03622498,AARP,G,200,,msp,2022-09-29,2022-09-29,2022-10-01,,,,2022-10-01,True,False,
@@ -307,9 +319,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117469,19078601,Linda,Meadows,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3188861946,A03584760,AARP,G,200,,msp,2022-07-22,2022-08-01,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4249679371,25206251,Sherrylynn,Mellott,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3082643143,,AARP,G,110,,msp,2022-12-05,2022-12-01,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141772,16268401,Diana,Mendez,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3396383907,A03555599,AARP,G,200,,msp,2022-05-31,2022-05-27,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332643,21290351,Carmella,Michelon ,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3512945993,A03606273,AARP,G,200,,msp,2022-08-30,2022-08-29,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4242246204,25005801,Anibal,Mierez,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3498286487,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3385971259,11811401,Jeffrey A. ,Miller,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6660244,AHC6660244,AETNA,N,200,,msp,2022-10-20,2022-10-19,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -319,21 +335,27 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177747,18303001,David,Montierth,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3510156080,A03576781,AARP,G,200,,msp,2022-07-11,2022-07-08,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4202578758,24941151,Kendra,Moon,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3145467282,,AARP,G,110,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+4202578758,24941151,Kendra,Moon,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3145467282,,AARP,G,200,,msp,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273243,11373751,Jo,Moore,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6656118,AHC6656118,AETNA,G,200,,msp,2022-10-03,2022-10-03,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142136,20753501,Camelia(Cammie),Muller,165335440,Cory,Caldwell,165335440,Cory,Caldwell,CLI6882114,CLI6882114,AETNA,G,200,,msp,2022-08-24,2022-08-22,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173125395,20125951,Arvil,Murphy,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3511569810,A03597739,AARP,G,200,,msp,2022-08-15,2022-08-05,2023-01-01,,,,2023-01-01,True,False,
+3173125395,20125951,Arvil,Murphy,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3511569810,A03597739,AARP,G,200,,msp,2022-08-15,2022-08-05,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196470,21917051,William,Musser,165335440,Cory,Caldwell,165335440,Cory,Caldwell,0626757504,A03613818,AARP,G,200,,msp,2022-09-09,2022-09-09,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4070161687,24943251,Rebecca,Myers,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3518190156,,AARP,G,200,,msp,2022-11-28,2022-11-23,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4265109149,22284901,Cheryle,Nagy,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3463973622,,AARP,G,200,,msp,2022-12-02,2022-12-02,2023-03-01,,,,2023-03-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4273443119,25281651,David,Natal,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3519003739,,AARP,G,200,,msp,2022-12-05,2022-12-02,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196062,19895401,Shawn,Neigel,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACC6653218,ACC6653218,AETNA ACCENDO,G,200,,msp,2022-07-29,2022-07-28,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173208113,15039751,Ginger,Nelson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3495958872,A03539250,AARP,G,200,,msp,2022-05-02,2022-05-02,2022-07-01,,,,2022-07-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4340050796,25216901,Marsha,Newbanks,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6676049,AHC6676049,AETNA,G,110,,msp,2022-12-06,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332108,13408251,Denise,Nicholas,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3509495663,A03597325,AARP,G,200,,msp,2022-08-15,2022-08-12,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -341,7 +363,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3947262751,24788601,Vickie,Nicholson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3316481039,,AARP,G,200,,msp,2022-11-21,2022-11-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3586149794,15068651,Joge,O'Hoyt,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3516677345,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-03-01,,,,2023-03-01,True,False,False
+4374789655,25559501,Annette,Norton,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3519367670,,AARP,G,200,,msp,2022-12-08,2022-12-08,2023-04-01,,,,2023-04-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3586149794,15068651,Jorge,O'Hoyt,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3516677345,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259274,22630551,Pearl,O'Neal,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3485924504,A03624770,AARP,G,200,,msp,2022-10-04,2022-10-04,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -359,6 +383,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196071,19898551,Darrel,Patterson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACI6232458,ACI6232458,AETNA,G,200,,msp,2022-07-29,2022-07-29,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4348415596,25517051,Susann,Pearson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3134515174,,AARP,G,330,,msp,2022-12-06,2022-12-06,2023-01-01,,,,2023-01-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3942883101,24772951,Diana R,Perdomo,165335440,Cory,Caldwell,165335440,Cory,Caldwell,351773697 ,,AARP,G,200,,msp,2022-11-17,2022-11-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393840,17954751,Stephen,Peterson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6638803,AHC6638803,AETNA,G,200,,msp,2022-06-24,2022-06-24,2022-07-01,,,,2022-07-01,True,False,
@@ -369,7 +395,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243463,21187751,Sheryl,Pickering,165335440,Cory,Caldwell,165335440,Cory,Caldwell,0159385251,A03607376,AARP,G,200,,msp,2022-08-31,2022-08-30,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4195900740,24899051,Angela,Plumeri,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,Pending Member ID,AETNA,N,110,,msp,2022-11-30,2022-11-29,2023-02-01,,,,2023-02-01,False,False,
+4195900740,24899051,Angela,Plumeri,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6672881,AHC6672881,AETNA,N,200,,msp,2022-11-30,2022-11-29,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332784,21402001,Monica,Pohl,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3160465740,A03605422,AARP,G,200,,msp,2022-08-29,2022-08-29,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -387,11 +413,17 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273658,17287051,Patricia,Ranweiler,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3181100599,A03568021,AARP,G,200,,msp,2022-06-21,2022-06-16,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4361257857,25163501,Ronald,Ratterree,165335440,Cory,Caldwell,165335440,Cory,Caldwell,328349992-1,,AARP,N,200,,msp,2022-12-07,2022-12-07,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4361687331,25459351,Shauna,Ratterree,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3283499923,,AARP,N,120,,msp,2022-12-07,2022-12-07,2023-02-01,,,,2023-02-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273484,16859301,Robin,Rice,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3294095074,A03563354,AARP,G,200,,msp,2022-06-13,2022-06-13,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117538,19146901,Jeanne,Richards,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6656796,AHC6656796,AETNA,G,200,,msp,2022-10-05,2022-10-04,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117483,19167851,Frank,Rivera,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3473342578,A03582096,AARP,G,200,,msp,2022-07-19,2022-07-18,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4385061700,23664251,William,Roa,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3515098758,,AARP,G,200,,msp,2022-12-09,2022-12-08,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173287043,20311351,Catherine,Roa,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3515098758,A03624938,AARP,G,200,,msp,2022-10-04,2022-10-04,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -427,9 +459,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173207962,11697101,Linda,Shaffer,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3167901697,A03545287,AARP,G,200,,msp,2022-05-12,2022-05-11,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4217894471,25078401,Orlinda,Sickler,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,Pending Member ID,AETNA,G,110,,msp,2022-11-30,2022-11-30,2023-04-01,,,,2023-04-01,False,False,
+4110244004,24830101,James,Sickler,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6671758,AHC6671758,AETNA,G,200,,msp,2022-11-28,2022-11-25,2023-04-01,,,,2023-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4110244004,24830101,James,Sickler,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6671758,AHC6671758,AETNA,G,110,,msp,2022-11-28,2022-11-25,2023-04-01,,,,2023-04-01,False,False,
+4217894471,25078401,Orlinda,Sickler,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6673057,AHC6673057,AETNA,G,200,,msp,2022-11-30,2022-11-30,2023-04-01,,,,2023-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286474,5872651,Catherine,Sikes,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3457368953,A03597514,AARP,G,200,,msp,2022-08-15,2022-08-12,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -439,7 +471,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3211554668,23271901,Michael,Smith,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3515562589,,AARP,G,200,,msp,2022-10-18,2022-10-11,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4219716521,24768401,Leland,Smith,165335440,Cory,Caldwell,165335440,Cory,Caldwell,351831684,,AARP,G,200,,msp,2022-11-25,2022-11-25,2023-02-01,,,,2023-02-01,True,False,False
+4219716521,24768401,Leland,Smith,165335440,Cory,Caldwell,165335440,Cory,Caldwell,351831684,,AARP,G,330,,msp,2022-11-25,2022-11-25,2023-02-01,,,,2023-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216840,18796301,James,Smith,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3510174794,A03588414,AARP / UHICA,G,200,,msp,2022-07-28,2022-07-09,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -465,6 +497,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173332067,2918701,Jessie,Tambay,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3426192161,A03581253,AARP,G,200,,msp,2022-07-18,2022-07-06,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286228,17815451,Denise,Thomas,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3397753132,A03587760,AARP,G,200,,msp,2022-07-27,2022-07-13,2022-10-01,,,,2022-10-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3167096579,20898451,Robert,Thompson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Gold Plus H1951-024 (HMO),200,,map,2022-08-23,2022-08-23,2022-09-01,,,,2022-09-01,True,False,
+4239931446,20898451,Robert,Thompson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3177892746,,AARP,G,200,,msp,2022-12-08,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332660,21235151,Mark,Thompson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3420536546,A03604779,AARP,G,200,,msp,2022-08-26,2022-08-26,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -498,7 +533,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141663,16380351,Linda,Wayne,165335440,Cory,Caldwell,165335440,Cory,Caldwell,AHC6634445,AHC6634445,AETNA,G,200,,msp,2022-06-02,2022-06-01,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3706867025,24110851,David,Webster,165335440,Cory,Caldwell,165335440,Cory,Caldwell,0984261446,,AARP,G,200,,msp,2022-11-10,2022-11-08,2022-12-01,,,,2022-12-01,True,False,False
+3706867025,24110851,David,Webster,165335440,Cory,Caldwell,165335440,Cory,Caldwell,0984261446,,AARP,G,200,,msp,2022-11-10,2022-11-08,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3846612085,24124851,William,Wieder,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3360424570,,AARP,G,200,,msp,2022-11-22,2022-11-18,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -508,7 +543,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243282,16509051,Sheryl,Winkle,165335440,Cory,Caldwell,165335440,Cory,Caldwell,CLI6854206,CLI6854206,AETNA,G,200,,msp,2022-06-13,2022-06-13,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173259288,22693801,Rudiger,Wolf,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3119355554,,AARP,G,500,,msp,2022-09-30,2022-09-30,2022-11-01,2022-10-22,2022-10-31,,2022-11-01,False,False,False
+3173259288,22693801,Rudiger,Wolf,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3119355554,,AARP,G,200,,msp,2022-09-30,2022-09-30,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177951,22791001,Laurie,Wolf,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3119355554,A03623499,AARP,G,200,,msp,2022-09-30,2022-09-30,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -524,7 +559,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3377948570,21571151,James,Young,165335440,Cory,Caldwell,165335440,Cory,Caldwell,316890170,,AARP / UHICA,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4053655111,24997051,David,Young,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,120,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,
+4053655111,24997051,David,Young,165335440,Cory,Caldwell,165335440,Cory,Caldwell,ACC6721096,ACC6721096,AETNA ACCENDO,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3828679491,24286551,Steven,Zea,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3177173436,,AARP,G,200,,msp,2022-11-14,2022-11-11,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -542,7 +577,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168715057,13062951,Sara,Arellano,165335440,Cory,Caldwell,165335440,Cory,Caldwell,985574733,,AARP/UHC,UnitedHealthcare Medicare Advantage Choice Plan 1 (PPO),200,,map,2022-06-06,2022-06-01,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3702983566,22954801,Timothy,Atwood,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,ALLWELL,Wellcare Dual Liberty (HMO D-SNP),110,,map,2022-11-07,2022-11-04,2023-01-01,,,,2023-01-01,False,False,
+3702983566,22954801,Timothy,Atwood,165335440,Cory,Caldwell,165335440,Cory,Caldwell,C4067488601,,ALLWELL,Wellcare Dual Liberty (HMO D-SNP),200,,map,2022-11-07,2022-11-04,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3706265414,24087651,Brenda,Averett,165335440,Cory,Caldwell,165335440,Cory,Caldwell,980318699,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-11-10,2022-11-10,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -554,13 +589,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168632173,14088651,Janet,Beal Carlson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,991444289,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-04-19,2022-04-19,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4073114635,24839451,Timothy,Bong,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-11-30,2022-11-23,2022-12-01,,,,2022-12-01,False,False,
+4073114635,24839451,Timothy,Bong,165335440,Cory,Caldwell,165335440,Cory,Caldwell,983760097,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-11-30,2022-11-23,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3789527168,14011801,Sharon,Caldwell,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),110,,map,2022-11-09,2022-11-09,2023-01-01,,,,2023-01-01,False,False,
+3789527168,14011801,Sharon,Caldwell,165335440,Cory,Caldwell,165335440,Cory,Caldwell,938542321,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-11-09,2022-11-09,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168458630,21323601,Alicia M.,Carbonell,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Gold Plus,200,,map,2022-08-29,2022-08-27,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4202695556,25140901,Marie,Carson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AETNA,Aetna Medicare Explorer Plan (PPO) ,110,,map,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+4202695556,25140901,Marie,Carson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101617316100,,AETNA,Aetna Medicare Explorer Plan (PPO) ,200,,map,2022-11-30,2022-11-29,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3562533745,19022301,Patrice M.,Cashen,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H77527350,,HUMANA,HumanaChoice Florida H5216-068 (PPO) ,200,,map,2022-10-31,2022-10-28,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -569,6 +604,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168857785,16227801,Michael,Collins,165335440,Cory,Caldwell,165335440,Cory,Caldwell,824W13589,,ANTHEM,MediBlue Plus (HMO),200,,map,2022-07-29,2022-06-23,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168858661,19851501,Vicki,Cox,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana gold Plus SNP-DE (HMO-DNP),200,,map,2022-07-29,2022-07-29,2022-08-01,,,,2022-08-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4246065488,25308901,Stephen,Davis,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Rebate (HMO-POS),110,,map,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167183031,19908151,Karen,Debnam,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Gold Plus,200,,map,2022-07-29,2022-07-29,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -580,12 +617,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168304979,8586351,Naomi,Ferguson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,981224174,,AARP/UHC,AARP Medicare Advantage Choice PPO,200,,map,2022-05-10,2022-05-01,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167088206,1898601,Chip Donovan,Freeman,165335440,Cory,Caldwell,165335440,Cory,Caldwell,121069724,,AARP/UHC,Dual Complete LP,410,,map,2021-04-20,,2021-05-01,2022-10-09,2022-06-30,,2021-05-01,True,,False
-3799880565,1898601,Chip Donovan,Freeman,165335440,Cory,Caldwell,165335440,Cory,Caldwell,121069724,,AARP/UHC,UnitedHealthcare Dual Complete LP (HMO-POS D-SNP),200,,map,2022-08-30,,2022-09-01,,,,2021-05-01,True,True,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3933168813,20084251,Barbara,Ganson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101181650200,,AETNA,Aetna Medicare Freedom Plan (PPO) H2293-013,200,,map,2022-11-21,2022-11-16,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4115005721,24811601,Diane,Gaskill,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,AARP/UHC,AARP Medicare Advantage (HMO-POS),110,,map,2022-11-28,2022-11-25,2022-12-01,,,,2022-12-01,False,False,
+4115005721,24811601,Diane,Gaskill,165335440,Cory,Caldwell,165335440,Cory,Caldwell,960822058,,AARP/UHC,AARP Medicare Advantage (HMO-POS),200,,map,2022-11-28,2022-11-25,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168548025,15663051,Vanessa,Grappi,165335440,Cory,Caldwell,165335440,Cory,Caldwell,34955437,,WELLCARE,Wellcare No Premium,200,,map,2022-05-13,2022-05-13,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -593,11 +627,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168597007,15925101,Yolanda,Guerra,165335440,Cory,Caldwell,165335440,Cory,Caldwell,NG 101543166900,,AETNA,Medicare Value Plan HMO H8332-002,200,,map,2022-05-20,2022-05-18,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4171266569,20483551,Anthony,Guzman,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Honor (PPO) H5216-218-000,110,,map,2022-11-28,2022-11-28,2023-02-01,,,,2023-02-01,False,False,
+4171266569,20483551,Anthony,Guzman,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H69568580,,HUMANA,Humana Honor (PPO) H5216-218-000,200,,map,2022-11-28,2022-11-28,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166999440,8468051,JoAnn,Halbasch,165335440,Cory,Caldwell,165335440,Cory,Caldwell,987066059,,AARP/UHC,AARP Medicare Advantage Focus (HMO),200,,map,2022-05-12,2022-05-11,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3775829801,22086351,Leland,Hamilton,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,HumanaChoice H5970-015 (PPO),110,,map,2022-11-09,2022-11-08,2023-01-01,,,,2023-01-01,False,False,
+3775829801,22086351,Leland,Hamilton,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H79644397,,HUMANA,HumanaChoice H5970-015 (PPO),200,,map,2022-11-09,2022-11-08,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3632966964,15668051,Julianne,Hartjen,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H72419386,,HUMANA,Humana Gold Plus H0028-030 (HMO) ,200,,map,2022-11-30,2022-11-22,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168716051,18533651,Barbara,Howlett,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101553486200,,AETNA,Aetna Medicare Value Advantra PPO,200,,map,2022-07-29,2022-07-31,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -605,11 +641,12 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168514437,21972101,Scott,Kaas,165335440,Cory,Caldwell,165335440,Cory,Caldwell,664689201,,HUMANA,Care Salute (HMO,200,,map,2022-10-21,2022-10-20,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4028704585,17925801,Vanessa,Knaggs,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,HumanaChoice Florida H7284-009 (PPO),110,,map,2022-11-22,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+4028704585,17925801,Vanessa,Knaggs,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H75600589,,HUMANA,HumanaChoice Florida H7284-009 (PPO),200,,map,2022-11-22,2022-11-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168578609,20489601,Jeffrey,Larson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Choice H5216-077,200,,map,2022-08-30,2022-08-30,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168615205,12594101,Merilee,Maira,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101556527800,,AETNA,Aetna Medicare Advantra Credit Value (PPO),200,,map,2022-08-22,2022-08-22,2022-09-01,,,,2022-09-01,True,False,
+3168615205,12594101,Merilee,Maira,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101556527800,,AETNA,Aetna Medicare Advantra Credit Value (PPO),200,,map,2022-08-22,2022-08-22,2022-09-01,,,,2022-09-01,True,,
+4358682380,12594101,Merilee,Maira,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,CIGNA,Cigna True Choice Medicare (PPO),110,,map,2022-12-07,2022-12-07,2023-01-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168578428,19442601,Ragab,Matouk,165335440,Cory,Caldwell,165335440,Cory,Caldwell,MENG101552744100,,AETNA,Assure Plan D-SNP,480,,map,2022-07-25,2022-07-25,2022-08-01,2022-09-06,2022-08-31,,2022-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -628,6 +665,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168694171,15488201,Elena,Ortega,165335440,Cory,Caldwell,165335440,Cory,Caldwell,MENG101541771000,,AETNA,Aetna Medicare Value Plan (HMO),200,,map,2022-05-12,2022-05-10,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168569159,21581051,Anna,Pieprzyk,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101562741500,,AETNA,Aetna Medicare Value (PPO),200,,map,2022-10-13,2022-09-30,2022-11-01,,,,2022-11-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4342897473,25213201,David J,Pote,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,HumanaChoice H5216-312,110,,map,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3662106209,23629101,Carol,Poznik,165335440,Cory,Caldwell,165335440,Cory,Caldwell,931195965,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),200,,map,2022-11-15,2022-11-02,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -652,8 +691,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168633384,21016001,Cecelia,Stevens,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101557208900,,AETNA,Aetna Medicare Eagle (PPO),200,,map,2022-08-25,2022-08-25,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167096579,20898451,Robert,Thompson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Gold Plus H1951-024 (HMO),200,,map,2022-08-23,2022-08-23,2022-09-01,,,,2022-09-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168791361,20360301,Constance,Trogolo,165335440,Cory,Caldwell,165335440,Cory,Caldwell,101555250600,,AETNA,Aetna Medicare Advantra Silver (PPO),200,,map,2022-08-11,2022-08-10,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3199054359,16967101,Paula,Van Dusen,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H60425345,,HUMANA,Humana gold Plus ,200,,map,2022-10-17,2022-10-15,2023-01-01,,,,2023-01-01,True,False,False
@@ -661,6 +698,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168596866,15054851,Esmeralda,Vidaurri,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Gold Plus H0028-029,200,,map,2022-05-19,2022-05-16,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3697095484,23654501,Alice,Walden,165335440,Cory,Caldwell,165335440,Cory,Caldwell,H65250097,,HUMANA,Humana Gold Plus H5619-111 (HMO-POS),200,,map,2022-11-04,2022-11-04,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4317298458,25300701,Jeanne,Weber,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,HUMANA,Humana Honor PPO,110,,map,2022-12-05,2022-12-05,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4347295493,24603351,Paul,dion,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,,WELLCARE,Wellcare No Premium Open (PPO),110,,map,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168458115,17945501,eileen,green,165335440,Cory,Caldwell,165335440,Cory,Caldwell,MENG101559588900,,AETNA,Aetna Medicare Premier Plus Plan (PPO),200,,map,2022-09-14,2022-09-01,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

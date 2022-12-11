@@ -1,15 +1,13 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
 3172391980,8578551,,,50109414,Marvin,Musick,,Inactive,Agent,10250404287,,AMERITAS,,200,,dvh,2021-11-18,2021-11-18,2022-01-20,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4133981078,24203901,David,& Deborah Silvey,50109414,Marvin,Musick,50109414,Marvin,Musick,847267838,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-26,2022-11-26,2023-01-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361985,13297301,Ramona,Avila,50109414,Marvin,Musick,50109414,Marvin,Musick,CLI6593414,,AETNA,,200,,dvh,2021-01-19,,2021-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322158,13868151,Sherry Diane,Bender,50109414,Marvin,Musick,50109414,Marvin,Musick,10250816610,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-14,,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172148829,4576976,Victoria,Boand,148694372,Justin,Cohen,50109414,Marvin,Musick,10250812801	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-08,2022-04-08,2022-04-10,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172148772,4578295,Trecey R.,Brereton,50109414,Marvin,Musick,50109414,Marvin,Musick,00240096438,,AMERITAS,,200,,dvh,2020-08-11,,2020-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4324122939,6571001,Dawn Elaine,Carlisle,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-05,2022-12-05,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3355648304,2400501,Robert,Carrillo,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-18,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -91,7 +89,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3813871930,4576901,Deborah,RinggoldMiller,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-10,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172148831,4585344,Tom,Sanger,76355971,Mark,Files,50109414,Marvin,Musick,250671642,,AMERITAS,PrimeStar® Total,200,,dvh,2021-10-25,,2021-12-01,,,,,,,
+4133981078,24203901,David,Silvey,50109414,Marvin,Musick,50109414,Marvin,Musick,847267838,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-26,2022-11-26,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172148791,4583850,Curtis,Simmons,50109414,Marvin,Musick,50109414,Marvin,Musick,10250428289,,AMERITAS,,200,,dvh,2020-12-17,,2020-12-28,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

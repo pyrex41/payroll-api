@@ -15,7 +15,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404324,22929651,Anita,Battle,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-06,2022-10-06,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172322144,13843951,Carol,Blackman,148694372,Justin,Cohen,148694372,Justin,Cohen,847276678,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-08,2022-12-08,2023-03-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219220,21045101,Terry L,Blanton,148694372,Justin,Cohen,148694372,Justin,Cohen,847234901,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-12,2022-09-01,2022-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3172148829,4576976,Victoria,Boand,148694372,Justin,Cohen,50109414,Marvin,Musick,10250812801	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-08,2022-04-08,2022-04-10,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219052,15924101,Kathleen,Bronson,148694372,Justin,Cohen,148694372,Justin,Cohen,10250841686,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-24,2022-05-23,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -57,6 +61,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287918,19704101,Everett J,Ferris III,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,,200,,dvh,2022-07-27,2022-07-27,2022-10-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4224390006,23347851,Edward,Finnerty,148694372,Justin,Cohen,148694372,Justin,Cohen,847272370,,AMERITAS,PrimeStar® Total,200,,dvh,2022-12-02,2022-12-01,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447152,4380301,Thomas,Fong,148694372,Justin,Cohen,148694372,Justin,Cohen,10250875587,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-21,2022-07-21,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404502,16167501,Ken,Fox,148694372,Justin,Cohen,148694372,Justin,Cohen,10250845109,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-31,2022-05-27,2022-08-01,,,,,,,
@@ -71,7 +77,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3362989408,14934301,Sheila,Gibson,192985888,Jordan,Seifert,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-18,,2022-10-19,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4023359358,21759551,Angell,Green,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-21,2022-11-21,2022-12-01,,,,,,,
+4023359358,21759551,Angell,Green,148694372,Justin,Cohen,148694372,Justin,Cohen,847265973,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-21,2022-11-21,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219059,15054501,Rebecca,Hanson,148694372,Justin,Cohen,148694372,Justin,Cohen,10250829695,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-04,2022-05-03,2022-05-06,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -143,6 +149,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310902,18186551,James,Reilly,148694372,Justin,Cohen,148694372,Justin,Cohen,10250920940,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-03,2022-10-01,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3779327786,24390851,Vickie,Roeser,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,ProtectorPlus Dental Network w Hearing,110,,dvh,2022-12-08,2022-12-06,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361851,19947851,Kevin,Roeser,148694372,Justin,Cohen,148694372,Justin,Cohen,10250921662,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-10-04,2022-10-03,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322146,13659551,Donita,Rostock,148694372,Justin,Cohen,148694372,Justin,Cohen,10250827087,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-29,2022-04-28,2022-06-01,,,,,,,
@@ -173,7 +181,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172362026,13593651,Hector L,Soto,148694372,Justin,Cohen,148694372,Justin,Cohen,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-01,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172310636,3887801,Ronald,Stinnett,148694372,Justin,Cohen,148694372,Justin,Cohen,10250832326,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-09,2022-05-05,2022-06-01,,,,,,,
+3172310636,3887801,Ronald,Stinnett,148694372,Justin,Cohen,148694372,Justin,Cohen,10250832326,,AMERITAS,PrimeStar® Total,500,,dvh,2022-05-09,2022-05-05,2022-06-01,,2022-12-31,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361802,20183551,Ann,Stott,148694372,Justin,Cohen,148694372,Justin,Cohen,10250907288,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-09,2022-09-08,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -184,6 +192,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3706190882,13560051,Donald,Strong,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-07,2022-11-04,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3706265374,14934501,Mary,Strong,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-07,2022-11-04,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4243155548,25031951,Phyllis,Swartzlander,148694372,Justin,Cohen,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-06,2022-12-01,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310949,17742301,Joe,Tarrant,148694372,Justin,Cohen,148694372,Justin,Cohen,10250888749,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-11,2022-08-01,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

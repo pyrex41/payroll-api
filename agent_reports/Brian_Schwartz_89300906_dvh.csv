@@ -57,9 +57,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219159,15600651,LEROY,DAVIS,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250835118,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-12,2022-05-12,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172219203,21189701,Patricia,Dallas,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250897666,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-25,2022-08-24,2022-09-01,,,,,,,
+3172219203,21189701,Patricia,Dallas,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250897666,,AMERITAS,PrimeStar® Total,500,,dvh,2022-08-25,2022-08-24,2022-09-01,,2022-11-30,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172219210,20875451,Alexander,Dallas,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250897670,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-25,2022-08-24,2022-09-01,,,,,,,
+3172219210,20875451,Alexander,Dallas,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250897670,,AMERITAS,PrimeStar® Total,500,,dvh,2022-08-25,2022-08-24,2022-09-01,,2022-11-30,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287851,12524351,John,Dingman,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250813708,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2022-04-11,2022-04-01,2022-05-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -95,7 +95,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361986,12921451,Fred,Jackson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-05-09,2022-05-04,2022-08-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172133419,2278101,Angela,Jackson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,00250791517	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-03-09,2022-03-09,2022-04-01,,,,,,,
+3172133419,2278101,Angela,Jackson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,00250791517	,,AMERITAS,PrimeStar® Total,500,,dvh,2022-03-09,2022-03-09,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404504,16161101,Cherylle,Jean Ballard,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250843835,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-26,2022-05-26,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -160,13 +160,19 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404374,16206701,Thomas,Nelson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250841719,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-24,2022-05-23,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4169801233,11808751,Steven,Nichols,89300906,Brian,Schwartz,89300906,Brian,Schwartz,847272404,,AMERITAS,PrimeStar® Total,200,,dvh,2022-12-02,2022-12-01,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310620,3853351,Teresa,Oestringer,89300906,Brian,Schwartz,89300906,Brian,Schwartz,250620446,,AMERITAS,PrimeStar® Total,200,,dvh,2021-08-12,,2021-08-16,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361857,20507951,John,Ott,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250890200,,AMERITAS,PrimeStar® Access,200,,dvh,2022-08-15,2022-08-11,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3545755148,13136801,PATRICE,POTTER,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-31,2022-11-01,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4347781220,24831901,Eric,Quek,89300906,Brian,Schwartz,89300906,Brian,Schwartz,847276659,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-08,2022-12-06,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3620998436,23863601,Melody,Rader,192985888,Jordan,Seifert,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4346737254,23595001,Kirby,Rader,192985888,Jordan,Seifert,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-12-06,2022-12-06,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361821,20266951,Jeanne,Reeveslau,89300906,Brian,Schwartz,89300906,Brian,Schwartz,10250919872,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-30,2022-09-29,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -231,6 +237,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172252191,5999901,Catherine,Trask,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-03-31,2022-03-30,2022-06-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391963,8450551,Michael,Tylisz,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2021-11-22,,2021-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4361987628,25268851,Tobias,Vandagrifft,89300906,Brian,Schwartz,89300906,Brian,Schwartz,847276290,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-07,2022-12-07,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172231056,11180851,Arjun,Venukrishnan,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NA,,AMERITAS,,200,,dvh,2022-04-11,2022-04-01,2022-07-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

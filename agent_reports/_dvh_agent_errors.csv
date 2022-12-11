@@ -5,6 +5,7 @@ agent_error2,3829235241,18279301,Mary,Backer,192985888,Jordan,Seifert,165338462,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172252309,9832351,Nancy,Baker,192985888,Jordan,Seifert,50312260,Pete,Scalzo,10250880914,,AMERITAS,,200,,dvh,2022-07-29,,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3907342116,1571001,Mary,Bischof,192985888,Jordan,Seifert,50183183,Rhee,Cano,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-15,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172148829,4576976,Victoria,Boand,148694372,Justin,Cohen,50109414,Marvin,Musick,10250812801	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-08,2022-04-08,2022-04-10,,,,,,,
@@ -17,13 +18,16 @@ agent_error2,3172322153,14327251,Kevin,Bray,192985888,Jordan,Seifert,165338462,K
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3832208703,23750701,Thomas E,Brown,192985888,Jordan,Seifert,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172252487,21587751,Timothy,Caraher,192985888,Jordan,Seifert,66410900,Nick,Thompson,10250910406,,AMERITAS,ProtectorPlus Dental Network w Hearing,200,,dvh,2022-09-15,,2022-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3355648304,2400501,Robert,Carrillo,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-18,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3355942560,2400551,Sheila,Carrillo,192985888,Jordan,Seifert,50109414,Marvin,Musick,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-18,2022-10-18,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error2,3557924735,5505351,Catherine,Carroll,192985888,Jordan,Seifert,66410900,Nick,Thompson,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-28,,2023-01-01,,,,,,,False
+agent_error2,3557924735,5505351,Catherine,Carroll,192985888,Jordan,Seifert,66410900,Nick,Thompson,10250938503,,AMERITAS,PrimeStar® Value,500,,dvh,2022-10-28,,2023-01-01,,2022-11-30,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172133425,1782001,Karen,Charleston,49712324,David,Strehlow,165338461,Stephanie,Kiely,250556650,,AMERITAS,,200,,dvh,2021-05-26,,2021-08-01,,,,,,,
@@ -34,11 +38,13 @@ agent_error2,3172342305,7293001,Laura,Cheremisinoff,192985888,Jordan,Seifert,763
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3833478301,22890701,Darlene,Chester,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3950667905,20241251,Carolyn,Clark,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-17,,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172392046,11330101,Rhonda,Clouse,192985888,Jordan,Seifert,50084738,Adrian,Hardin,10250912105	,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2022-09-19,,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172287871,12124751,Bradley,Conner,192985888,Jordan,Seifert,49712326,Matthew,Cano,10250918158,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-28,,2022-09-28,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3812636043,1433101,Richard,Cox,192985888,Jordan,Seifert,57373696,Garrett,McKinzie,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-10,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -61,11 +67,16 @@ agent_error2,3172361988,13175501,Jagade,DeBurns,192985888,Jordan,Seifert,5008473
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3424923516,13291401,Karyn,Dobmeier,192985888,Jordan,Seifert,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-21,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3172447321,2868001,Kay,Doiron,71859731,Rhi,Neal,71859731,Rhi,Neal,50705324,,AMERITAS,PrimeStar® Total,200,,dvh,2021-11-27,,2021-12-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,3335487926,23233601,Valarie,Drake,49751982,Josh,Musick,66410900,Nick,Thompson,847272447,,AMERITAS,PrimeStar® Total,200,,dvh,2022-12-02,2022-12-01,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172218979,3326501,Rhonda,Duckett,192985888,Jordan,Seifert,71859731,Rhi,Neal,250676478,,AMERITAS,,200,,dvh,2021-10-29,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3828694322,2981801,Philip,Dunham,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3829909044,2981851,TyAnn,Dunham,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172287774,12396601,Steve,Edmondson ,192985888,Jordan,Seifert,89321120,Matthew,Duffey,10250908973	,,AMERITAS,,200,,dvh,2022-09-13,,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -89,6 +100,7 @@ agent_error2,3794504508,19039951,Deborah,Fulgenzi,192985888,Jordan,Seifert,89321
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3362989408,14934301,Sheila,Gibson,192985888,Jordan,Seifert,148694372,Justin,Cohen,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-18,,2022-10-19,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,4026235905,4578011,Betty,Hamilton,192985888,Jordan,Seifert,49751982,Josh,Musick,847265689,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-21,,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172391815,7912451,Karen,Hanson,192985888,Jordan,Seifert,76356149,Inactive,Agent,10250872383,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-15,,2022-07-16,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -98,21 +110,27 @@ agent_error2,3928119151,20499151,Jon,Hight,192985888,Jordan,Seifert,50084738,Adr
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3928206443,20563551,Andrea,Hight,192985888,Jordan,Seifert,50084738,Adrian,Hardin,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-16,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-agent_error2,3172392080,11789101,Connie,Hodgson,192985888,Jordan,Seifert,71859731,Rhi,Neal,10250917473,,AMERITAS,PrimeStar® Access,200,,dvh,2022-09-27,,2022-10-01,,,,,,,
+agent_error2,3172392080,11789101,Connie,Hodgson,192985888,Jordan,Seifert,71859731,Rhi,Neal,10250917473,,AMERITAS,PrimeStar® Access,500,,dvh,2022-09-27,,2022-10-01,,2022-12-31,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172391982,11927601,Wanda,Hunt,192985888,Jordan,Seifert,50312260,Pete,Scalzo,10250914477,,AMERITAS,,200,,dvh,2022-09-22,,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3949102244,22152801,Mark,Hyatt,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,No Dental Coverage,200,,dvh,2022-11-17,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3384335194,12338401,Anne,Kuhl,192985888,Jordan,Seifert,82267662,Nick,Oberle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-19,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3952816994,372701,Janet,Long,192985888,Jordan,Seifert,49712324,David,Strehlow,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-17,,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172310910,17878651,James,McClain,192985888,Jordan,Seifert,148672948,Howard,Seigle,10250870985,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-13,2022-07-13,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172447241,2737751,Thomas,McGranaghan,49712324,David,Strehlow,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-28,2022-10-07,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,4249944123,4578707,Sherlie,McMillan,224486180,Rebecca,Sublette,96652656,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-12-01,2022-12-01,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3774464952,6039251,Linda,Meisel,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -136,15 +154,20 @@ agent_error2,3947194404,6601201,Sidney,Mitchell,224486180,Rebecca,Sublette,50109
 agent_error2,3479307547,4182051,Ronald,Morales,192985888,Jordan,Seifert,50312260,Pete,Scalzo,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-24,,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172310879,17971151,Maria,Morel,89321120,Matthew,Duffey,89321120,Matthew,Duffey,10250863586	,,AMERITAS,PrimeStar® Value,200,,dvh,2022-06-29,2022-06-29,2022-08-01,,,,,,,
+agent_error2,4071564335,17971151,Maria,Morel,57373696,Garrett,McKinzie,89321120,Matthew,Duffey,847268626,,AMERITAS,No Dental Coverage,200,,dvh,2022-11-28,2022-11-23,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172392029,11525351,Greg,Morris,192985888,Jordan,Seifert,89321120,Matthew,Duffey,10250890831,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-15,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172287798,12531601,Thane,Nonamaker ,192985888,Jordan,Seifert,76539239,Inactive,Agent,10250898520,,AMERITAS,,200,,dvh,2022-08-26,,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
+agent_error2,4231443747,19762501,Kevin,OMalley,49712326,Matthew,Cano,50183183,Rhee,Cano,847271121,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-30,,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3794405805,22142001,Jacobus J,Oosthuizen,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-09,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3395710524,3722801,David,Oxley,192985888,Jordan,Seifert,81158657,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-20,,2022-11-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172297257,18701601,Glen,Patterson,192985888,Jordan,Seifert,71859731,Rhi,Neal,10250908063,,AMERITAS,PrimeStar® Access,200,,dvh,2022-09-12,,2022-10-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -157,6 +180,7 @@ agent_error2,3550365284,4578664,Michael,Pollard,165335440,Cory,Caldwell,50109414
 agent_error2,3172392003,12081201,Cheryl,ROBERTS,192985888,Jordan,Seifert,50084738,Adrian,Hardin,10250881891,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-01,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3620998436,23863601,Melody,Rader,192985888,Jordan,Seifert,89300906,Brian,Schwartz,Pending Member ID,,AMERITAS,,200,,dvh,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172362017,13430901,Linda,Reiling,192985888,Jordan,Seifert,165338462,Ken,Tomberlin,10250876532	,,AMERITAS,,200,,dvh,2022-07-22,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -187,6 +211,7 @@ agent_error2,3904280212,4557801,Barbara,Smethurst,224486180,Rebecca,Sublette,966
 agent_error2,3172322116,13783101,Shirley,Smith,192985888,Jordan,Seifert,82267662,Nick,Oberle,10250873772,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-19,,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172362009,13575451,Dale,Sorenson,192985888,Jordan,Seifert,148672948,Howard,Seigle,10250875673,,AMERITAS,,200,,dvh,2022-07-21,,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 agent_error2,3172148813,4571459,Stacey,Stratton,89321142,Patrick,Stang,50109414,Marvin,Musick,847242257,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-03,2022-10-01,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,

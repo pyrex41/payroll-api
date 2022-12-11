@@ -1,4 +1,6 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+4322813597,25007151,John,Armagost,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,Advantage Plus Network 2000,110,,dvh,2022-12-06,2022-12-05,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3774811255,24361501,Ronald R,Binding,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-08,2022-11-08,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3794405710,24355651,Richard,Brock,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-10,2022-11-09,2022-12-01,,,,,,,False
@@ -8,6 +10,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3385971100,23163901,Kenneth,Dugas,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-25,2022-10-19,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3948753032,24612151,Ivette C,Etcheverry,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-18,2022-11-17,2023-02-01,,,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4361987680,25263801,Cynthia,Farley,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-08,2022-12-07,2023-02-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4046227995,24828301,Orlando,Gaitan,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-22,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -19,6 +23,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3754836577,24212151,Rex,Johnston,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4247006588,24612651,Lawrenece,Liepack,229799739,Latesa,Pasley,229799739,Latesa,Pasley,847272398,,AMERITAS,PrimeStar® Total,200,,dvh,2022-12-02,2022-12-01,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3520335887,23881751,Noel,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-28,2022-10-26,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3522555301,23837751,Janice,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-26,2023-01-01,,,,,,,False
@@ -27,19 +33,23 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404348,22837751,Gary,McAdams,229799739,Latesa,Pasley,229799739,Latesa,Pasley,10250922642,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-05,2022-10-05,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3717774243,24001001,Mary,McGarvey,229799739,Latesa,Pasley,229799739,Latesa,Pasley,847272396,,AMERITAS,PrimeStar® Access,200,,dvh,2022-12-02,2022-12-01,2023-03-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 4170954145,24459051,Marquitta,Meade,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-29,2022-11-28,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3503473960,22944851,Ronald,Meadley,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-26,2022-10-25,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4044041257,24794151,Richard,Melton,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,No Dental Coverage,110,,dvh,2022-11-23,2022-11-22,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3775830096,24257101,Vicki,Music,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
+3775830096,24257101,Vicki,Music,229799739,Latesa,Pasley,229799739,Latesa,Pasley, 10250949108,,AMERITAS,PrimeStar® Value,500,,dvh,2022-11-08,2022-11-08,2023-01-01,,2022-12-31,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4073114743,24841551,Cindy A,Nutter,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-29,2022-11-23,2023-02-01,,,,,,,
+4073114743,24841551,Cindy A,Nutter,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-29,2022-11-23,2023-02-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3505739833,23644201,Doris,Pelchat,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,500,,dvh,2022-10-27,2022-10-25,2023-01-01,,2022-12-31,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3507528113,23860151,Felix,Pelchat,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AMERITAS,PrimeStar® Access,500,,dvh,2022-10-26,2022-10-25,2023-01-01,2022-11-13,2022-12-31,,,,,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4358682916,24742601,Dewayne,Peterson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,847276675,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-08,2022-12-07,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404273,22899551,Harriet,Reese,229799739,Latesa,Pasley,229799739,Latesa,Pasley,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-05,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

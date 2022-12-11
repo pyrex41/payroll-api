@@ -23,7 +23,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219164,15122901,Daniel,Dragovich,165335439,Aaron,Butler,165335439,Aaron,Butler,10250841630,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2022-05-24,2022-05-23,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3793057385,23267701,Clint,Gould,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,PrimeStar® Value,110,,dvh,2022-11-30,2022-11-30,2023-01-01,,,,,,,
+3793057385,23267701,Clint,Gould,165335439,Aaron,Butler,165335439,Aaron,Butler,847270674,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-30,2022-11-30,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404396,17341101,Mary,Griffin,165335439,Aaron,Butler,165335439,Aaron,Butler,10250854725,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-15,2022-06-15,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -35,7 +35,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361783,20248501,Sandra,Lindsay-Perkins,165335439,Aaron,Butler,165335439,Aaron,Butler,10250891316,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-05,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3359655432,23269501,Dolly,Matro,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-25,2022-12-01,,,,,,,
+3359655432,23269501,Dolly,Matro,165335439,Aaron,Butler,165335439,Aaron,Butler,847268742,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-28,2022-11-25,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404369,17441301,Brian,Miller,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-17,2022-08-15,2022-10-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -43,7 +43,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219235,21178601,David,Palmer,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-30,2022-09-01,2022-09-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3700680539,23838851,Theresa,Palomo,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-30,2022-11-30,2023-01-01,,,,,,,
+3700680539,23838851,Theresa,Palomo,165335439,Aaron,Butler,165335439,Aaron,Butler,847270683,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-30,2022-11-30,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219222,20654301,CENCELIA,RUSSELL,165335439,Aaron,Butler,165335439,Aaron,Butler,NA,,AMERITAS,,200,,dvh,2022-08-16,2022-08-16,2022-11-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -77,5 +77,5 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361871,13086751,Stephany,Weston,165335439,Aaron,Butler,165335439,Aaron,Butler,10250845781,,AMERITAS,PrimeStar® Total,200,,dvh,2022-05-31,2022-05-31,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4030439940,24957801,Jeannette,Wyndon,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-11-28,2022-11-25,2022-12-01,,,,,,,
+4030439940,24957801,Jeannette,Wyndon,165335439,Aaron,Butler,165335439,Aaron,Butler,847268642,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-28,2022-11-25,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

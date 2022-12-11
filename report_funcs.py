@@ -862,7 +862,7 @@ def month_filt(group, field, record_year, record_month):
         if dtraw:
             try:
                 dt = datetime.strptime(dtraw, "%Y-%m-%d")
-                if (dt.year, dt.month) == (int(record_year), int(record_month)):
+                if dt.year == int(record_year) and dt.month >= int(record_month):
                     is_month = True
             except:
                 pass

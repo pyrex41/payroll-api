@@ -83,7 +83,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447085,4294501,Robert,Johnson,89321142,Patrick,Stang,89321142,Patrick,Stang,250630131,,AMERITAS,PrimeStar® Access,200,,dvh,2021-08-25,,2021-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4049990517,24206851,Christina,Kapona,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-29,2022-11-22,2023-01-01,,,,,,,
+4049990517,24206851,Christina,Kapona,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-29,2022-11-22,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172404341,22769451,Martin,Kehe,89321142,Patrick,Stang,89321142,Patrick,Stang,10250922244,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-05,2022-10-04,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -107,6 +107,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172297241,18743101,Raydene,Markiewicz,89321142,Patrick,Stang,89321142,Patrick,Stang,10250906778,,AMERITAS,PrimeStar® Access,200,,dvh,2022-09-08,2022-09-01,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4322436365,10366301,Deborah ,Mason,192985888,Jordan,Seifert,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-12-05,2022-12-05,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4322436398,13627751,Jeffrey,Mason,192985888,Jordan,Seifert,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-12-05,2022-12-05,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172297267,18524401,Mike,McClellan,89321142,Patrick,Stang,89321142,Patrick,Stang,NA,,AMERITAS,,200,,dvh,2022-07-06,2022-07-06,2022-09-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172361793,20435601,Thomas,McRoberts,89321142,Patrick,Stang,89321142,Patrick,Stang,10250891203,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-16,2022-08-15,2022-10-01,,,,,,,
@@ -115,7 +119,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3908780612,23947701,Dana,Meister,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-15,2022-11-15,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4071969959,25042201,Edward,Meister,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,110,,dvh,2022-11-29,2022-11-28,2023-01-01,,,,,,,
+4071969959,25042201,Edward,Meister,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-29,2022-11-28,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391978,8221051,Donna,Miller,89321142,Patrick,Stang,89321142,Patrick,Stang,250686033,,AMERITAS,PrimeStar® Access,200,,dvh,2021-11-08,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -150,6 +154,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172361768,20120151,Virginia “Gini”,Stratton,89321142,Patrick,Stang,89321142,Patrick,Stang,10250920935,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-03,2022-10-01,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172392022,11996701,Denise,Thibaudeau,89321142,Patrick,Stang,89321142,Patrick,Stang,10250877508,,AMERITAS,PrimeStar® Access,200,,dvh,2022-07-25,2022-07-25,2022-09-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4270105964,24534451,Eluterio,Trejo,89321142,Patrick,Stang,89321142,Patrick,Stang,847275087,,AMERITAS,PrimeStar® Access,110,,dvh,2022-12-06,2022-12-02,2022-12-15,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252061,6122501,Annette,Valentine,89321142,Patrick,Stang,89321142,Patrick,Stang,250662657,,AMERITAS,PrimeStar® Access,200,,dvh,2021-10-13,,2022-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,4 +1,8 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3967766309,23936801,David R,Campbell,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HEARTLAND,,110,,copay,2022-12-08,2022-12-06,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3967766318,313301,Janice,Campbell,165335439,Aaron,Butler,168441184,EnlightNuUsaLLC,House,Pending Member ID,,HEARTLAND,,110,,copay,2022-12-06,2022-12-06,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3793873072,3389701,Jerry,Eiceman,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Member ID,,HEARTLAND,,110,,copay,2022-11-10,2022-11-09,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172757906,14251701,David,Hamilton,165335439,Aaron,Butler,165335439,Aaron,Butler,HN10028761P1,,HEARTLAND,,200,,copay,2022-05-23,2022-05-12,2022-06-01,,,,,,,

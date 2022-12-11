@@ -1,17 +1,25 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3620007451,24071751,Kerry,Ahlstrom,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,410,Commissionable - Need to Review,msp,2022-10-31,2022-10-31,2023-01-01,,,,2023-01-01,False,,False
+3620007451,24071751,Kerry,Ahlstrom,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6705901,ACC6705901,AETNA ACCENDO,G,410,Commissionable - Need to Review,msp,2022-10-31,2022-10-31,2023-01-01,,,,2023-01-01,False,,
 3950281140,24071751,Kerry,Ahlstrom,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6718078,ACC6718078,AETNA ACCENDO,G,510,,msp,2022-11-17,2022-11-17,2023-01-01,,2022-11-21,Rejected,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4319256681,24102151,Miguel,Alfonso,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3236731513,,AARP,G,110,,msp,2022-12-06,2022-12-05,2023-03-01,,,,2023-03-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4319417239,25442801,Daysi,Alfonso,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3236731513,,AARP,G,200,,msp,2022-12-08,2022-12-05,2023-03-01,,,,2023-03-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4322953603,25007151,John,Armagost,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3422607501,,AARP,N,200,,msp,2022-12-05,2022-12-05,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3929696264,24563101,Pamela,Augburn,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3285390732,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4053958314,25009251,Diane,Baltz,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,120,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,
+4053958314,25009251,Diane,Baltz,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6721372,ACC6721372,AETNA ACCENDO,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4053958401,24792001,Joesph,Baltz,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,120,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,
+4053958401,24792001,Joesph,Baltz,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6721371,ACC6721371,AETNA ACCENDO,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3270184810,22946401,Brent,Beling,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3357256266,,AARP / UHICA,G,200,,msp,2022-10-18,2022-10-14,2023-01-01,,,,2023-01-01,True,,False
 3173243320,22946401,Brent,Beling,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3357256266,A03626952,AARP,G,510,,msp,2022-10-07,2022-10-06,2023-01-01,,2022-12-31,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4172839070,23484951,Rebecca J,Berge,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6724026,ACC6724026,AETNA ACCENDO,G,110,,msp,2022-11-29,2022-11-28,2023-01-01,,,,2023-01-01,False,False,
+4172839070,23484951,Rebecca J,Berge,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6724026,ACC6724026,AETNA ACCENDO,G,200,,msp,2022-11-29,2022-11-28,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4322436275,25095051,Ranjit,Bhakta,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3321599536,,AARP / UHICA,G,200,,msp,2022-12-05,2022-12-05,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3774669863,24361501,Ronald R,Binding,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3187397009,,AARP,G,200,,msp,2022-11-09,2022-11-08,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -23,9 +31,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177889,22735701,Simon,Boyes,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3233676687,A03622595,AARP,G,200,,msp,2022-09-29,2022-09-29,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4347781177,25449601,Dana L,Bradford,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6730758,ACC6730758,AETNA ACCENDO,F,340,Commissionable - Need to Review,msp,2022-12-06,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3793873048,24355651,Richard,Brock,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3517333112,,AARP,G,200,,msp,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4224177031,25082201,Michael J,Cadle,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,N,120,,msp,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,False,False,
+4224177031,25082201,Michael J,Cadle,229799739,Latesa,Pasley,229799739,Latesa,Pasley,429365-96	,429365-96	,MUTUAL OF OMAHA,N,200,,msp,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259316,22512451,Olga,Castillo,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3457293078,A03622563,AARP,G,200,,msp,2022-09-29,2022-09-29,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -36,6 +46,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3485319783,23588001,Billy,Damon,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3516061300,,AARP,G,200,,msp,2022-10-24,2022-10-24,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3969250062,24680551,Janet A,Dettrey,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHC6669688,AHC6669688,AETNA,G,500,,msp,2022-11-18,2022-11-18,2023-01-01,2022-11-18,,Declined in UW,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4284108559,24806601,Paul,DiRusso,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518386440,,AARP,G,200,,msp,2022-12-05,2022-12-03,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3813310521,24210901,David,Dibs,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3517766253,,AARP,G,200,,msp,2022-11-17,2022-11-17,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -49,13 +61,15 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3948611720,24612151,Ivette C,Etcheverry,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3517794115,,AARP,G,200,,msp,2022-11-17,2022-11-17,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4361987656,25263801,Cynthia,Farley,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3188298453,,AARP,G,200,,msp,2022-12-08,2022-12-07,2023-02-01,,,,2023-02-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3718517535,24087301,Terri,Franklin,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3517096453,,AARP,G,200,,msp,2022-11-07,2022-11-05,2023-04-01,,,,2023-04-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4045960746,24828301,Orlando,Gaitan,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518103225,,AARP,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4070621283,25035851,Landa N,Gee,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3480656556,,AARP,G,200,,msp,2022-11-23,2022-11-23,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4195900709,24892151,Alan,Gilmore,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHC6672858,AHC6672858,AETNA,G,110,,msp,2022-11-30,2022-11-29,2023-02-01,,,,2023-02-01,False,False,
+4195900709,24892151,Alan,Gilmore,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHC6672858,AHC6672858,AETNA,G,200,,msp,2022-11-30,2022-11-29,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259187,22517201,Anthony M,Gorruso,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3514747769,A03621754,AARP,G,200,,msp,2022-09-28,2022-09-28,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -66,6 +80,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3952941686,24805501,Marcelle,Habib,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3517828376,,AARP,G,200,,msp,2022-11-17,2022-11-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243402,23092551,Jerry,Hall,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6692302,ACC6692302,AETNA ACCENDO,G,200,,msp,2022-10-10,2022-10-07,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4250306642,25327551,William R,Heald,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,ANTHEM,G,120,,msp,2022-12-05,2022-12-01,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4045573290,24741101,Mary,Helm,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA,F,340,Not Commissionable,msp,2022-11-22,2022-11-22,2022-12-01,,,,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -81,8 +97,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3333696932,23534601,Kirk,Howsare,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6697246,ACC6697246,AETNA ACCENDO,G,200,,msp,2022-10-18,2022-10-17,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4194710121,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,330,,msp,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,,False
-4192700026,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,420,,msp,2022-11-29,2022-11-29,2023-02-01,2022-11-29,,,2023-01-01,False,False,False
+4194710121,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,510,,msp,2022-11-29,2022-11-29,2023-01-01,,2022-12-01,canceled bc Duplicate ,2023-01-01,True,,False
+4264926524,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,200,,msp,2022-12-02,2022-12-02,2023-01-01,,,,2023-01-01,True,,False
+4192700026,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,510,,msp,2022-11-29,2022-11-29,2023-02-01,2022-11-29,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177954,22934201,James,Johnson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3309588303,,AARP,G,200,,msp,2022-10-05,2022-10-04,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -90,9 +107,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3635643702,23659301,Carolyn,Ketchie,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHC6663925,AHC6663925,AETNA,G,200,,msp,2022-11-01,2022-11-01,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4023359580,24937251,Melvin E,Lewis,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,120,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+4323513209,24409851,James,Krebec,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3519151421,,AARP / UHICA,G,200,,msp,2022-12-06,2022-12-05,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4023359580,24937251,Melvin E,Lewis,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6719938,ACC6719938,AETNA ACCENDO,G,200,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4025372498,24938351,Karen S,Lewis,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6719937	,ACC6719937	,AETNA ACCENDO,G,450,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4244635029,24612651,Lawrenece,Liepack,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3384099671,,AARP / UHICA,G,200,,msp,2022-12-01,2022-12-01,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3522477969,23881751,Noel,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3147458156,,AARP / UHICA,G,200,,msp,2022-10-26,2022-10-26,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -108,7 +129,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3546979478,22574001,Pamela,McSweeney,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3434589697,,AARP,M1A,200,,msp,2022-10-30,2022-10-27,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4246504231,24776551,Cassandra,Mcfadden,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3041982673,,AARP,N,200,,msp,2022-12-05,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3503066296,22944851,Ronald,Meadley,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHC6661740,AHC6661740,AETNA,G,200,,msp,2022-10-25,2022-10-25,2022-11-01,,,,2022-11-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4282994792,25310151,Jerry,Meadows,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHC6674709,AHC6674709,AETNA,G,330,,msp,2022-12-03,2022-12-03,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4044041259,24794151,Richard,Melton,229799739,Latesa,Pasley,229799739,Latesa,Pasley,340780352,,AARP,G,340,Commissionable - Need to Review,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -136,6 +161,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3380225341,22555701,Kenneth,Perpich,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3513512362,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4358682801,24742601,Dewayne,Peterson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3345286979,,AARP,G,200,,msp,2022-12-07,2022-12-07,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4322248586,25444801,Rudy H,Petrovsky,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6728892,ACC6728892,AETNA ACCENDO,WBP,330,,msp,2022-12-05,2022-12-05,2023-02-01,,,,2023-02-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243417,23043951,Roy,Phillips,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6691684,ACC6691684,AETNA ACCENDO,G,200,,msp,2022-10-07,2022-10-06,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3929901351,15560001,Yolanda,Pitzer,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3192778110,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-02-01,,,,2023-02-01,True,False,False
@@ -143,6 +172,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3928119160,24437351,Ellen,Porter,229799739,Latesa,Pasley,229799739,Latesa,Pasley,0936096718,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3355434422,23116251,Hobart,Powell Jr,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3515985087,,AARP,G,200,,msp,2022-10-18,2022-10-18,2022-12-01,,,,2022-12-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4348079368,25226151,Allan G,Ramusiewicz,229799739,Latesa,Pasley,229799739,Latesa,Pasley,340159456,,AARP,M1A,120,,msp,2022-12-06,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177911,22899551,Harriet,Reese,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3144350356,A03625945,AARP,G,200,,msp,2022-10-06,2022-10-05,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -192,9 +223,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3425403949,23698451,Eland,Williams,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHL6312101,AHL6312101,AETNA,G,200,,msp,2022-10-24,2022-10-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4197760307,24488351,Martha E,Bills,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,HumanaChoice Florida,110,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,False,
+4266352440,25317551,Tammara J,Williams,229799739,Latesa,Pasley,229799739,Latesa,Pasley,ACC6727588,ACC6727588,AETNA ACCENDO,G,450,,msp,2022-12-02,2022-12-02,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4197760307,24488351,Martha E,Bills,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H71548748,,HUMANA,HumanaChoice Florida,200,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3186785204,23109101,David,Box,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H73523338,,HUMANA,Humana USAA Honor with Rx (PPO) ,200,,map,2022-10-17,2022-10-15,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4199322171,25223001,Kim P,Briggs,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,HumanaChoiceFlorida,110,,map,2022-12-01,2022-12-01,2023-03-01,,,,2023-03-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3719704103,24246001,Valerie,Broxton,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H67441819,,HUMANA,HumanaChoice ,200,,map,2022-11-07,2022-11-05,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -202,30 +237,36 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3657745205,23510601,ENRIQUE,DOMINGUEZ,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101581465900,,AETNA, Aetna Medicare Select (HMO),200,,map,2022-11-02,2022-11-02,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4027832488,23997951,Cher,Darling,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,ALLWELL,Wellcare Dual Select (HMO D-SNP),110,,map,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+4027832488,23997951,Cher,Darling,229799739,Latesa,Pasley,229799739,Latesa,Pasley,C4068790501,,ALLWELL,Wellcare Dual Select (HMO D-SNP),200,,map,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3439693618,23692251,Richard,Davis,229799739,Latesa,Pasley,229799739,Latesa,Pasley,35572111,,WELLCARE,Wellcare Giveback Open (PPO),200,,map,2022-10-24,2022-10-22,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4194710116,24108701,Kellie,Dunlap,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AETNA,Aetna Medicare Premier (PPO),110,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,,
-3793872685,24108701,Kellie,Dunlap,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101588369700,,AETNA,Aetna Medicare Premier (PPO),200,,map,2022-11-10,2022-11-09,2023-01-01,,,,2023-01-01,True,False,
+3793872685,24108701,Kellie,Dunlap,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101588369700,,AETNA,Aetna Medicare Premier (PPO),200,,map,2022-11-10,2022-11-09,2023-01-01,,,,2023-01-01,True,,False
+4194710116,24108701,Kellie,Dunlap,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101588369700,,AETNA,Aetna Medicare Premier (PPO),200,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4071094619,24831201,Gerald,Dunn,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,Humana Honor (PPO),110,,map,2022-11-25,2022-11-23,2023-01-01,,,,2023-01-01,False,False,
+4071094619,24831201,Gerald,Dunn,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H63068664,,HUMANA,Humana Honor (PPO),200,,map,2022-11-25,2022-11-23,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4343672175,25402801,Acquenetta,Favor,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,WELLCARE,Wellcare NoPremium Open(PPO),110,,map,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3815028001,22665001,Andrew P,Gannon,229799739,Latesa,Pasley,229799739,Latesa,Pasley,124668974,,AARP/UHC,UnitedHealthcare Dual Complete® Choice (PPO D-SNP),200,,map,2022-11-11,2022-11-10,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4250337909,25045301,Mary,Heald,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Freedom Plus (HMO-POS),110,,map,2022-12-02,2022-12-01,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3561686571,23349751,George,Hunter,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H77105542,,HUMANA,Humana Honor (PPO) ,200,,map,2022-10-28,2022-10-28,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3792405107,23902401,Katherine,Isom,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),110,,map,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,False,False,
+3792405107,23902401,Katherine,Isom,229799739,Latesa,Pasley,229799739,Latesa,Pasley,986639270,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-11-09,2022-11-09,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3424092951,22895401,Bernard,Jackson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,994268547,,AARP/UHC,AARP® Medicare Advantage Patriot (PPO),200,,map,2022-10-24,2022-10-21,2022-11-01,,,,2022-11-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4343672425,25504851,William L,Lyons,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Walgreens (PPO),110,,map,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3249667330,23338451,Cordelia,Mills,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101563784800,,AETNA, Aetna Medicare Eagle Plan (PPO),200,,map,2022-10-17,2022-10-15,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3701643271,23980201,Walter P,Moore,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101583803500,,AETNA, Aetna Medicare Choice Plan (PPO),200,,map,2022-11-04,2022-11-04,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3904280427,24681601,Michael J,Morgan,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,Humana Honor (PPO) ,110,,map,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,False,False,
+3904280427,24681601,Michael J,Morgan,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H69555619,,HUMANA,Humana Honor (PPO) ,200,,map,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3907341976,24237701,Julia R,Morgan,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,Humana Honor (PPO) ,110,,map,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,False,False,
+3907341976,24237701,Julia R,Morgan,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H71530368,,HUMANA,Humana Honor (PPO) ,200,,map,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3328682259,23414401,Adesegun,Owolabi,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H75542436,,HUMANA,Humana Gold Plus ,200,,map,2022-10-18,2022-10-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -239,11 +280,15 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3953223707,24661401,Carolyn,Robinson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,101598961800,,AETNA,Aetna Medicare Eagle Plan (PPO),200,,map,2022-11-18,2022-11-17,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3683102026,23688601,Virginia,Shaffer,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),110,,map,2022-11-25,2022-11-24,2023-01-01,,,,2023-01-01,False,False,
+3683102026,23688601,Virginia,Shaffer,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),330,,map,2022-11-25,2022-11-24,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3774968156,24395851,A G,Snowhite,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,Humana Honor (PPO),110,,map,2022-11-08,2022-11-08,2023-01-01,,,,2023-01-01,False,False,
+4347295550,24866651,Kimberlee,Sherman,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,WELLCARE,Wellcare No Premium Open(PPO),110,,map,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3774968156,24395851,A G,Snowhite,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H77539705,,HUMANA,Humana Honor (PPO),200,,map,2022-11-08,2022-11-08,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3251732230,23030351,Deborah,Spoonts,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,HUMANA,Humana Honor (PPO),500,,map,,2022-10-28,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3502160005,23778051,Linda,Vindiola,229799739,Latesa,Pasley,229799739,Latesa,Pasley,H60766525,,HUMANA,Humana Gold Plus ,200,,map,2022-10-25,2022-10-25,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4272694674,25090901,William Steven,Wilson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,,WELLCARE,Wellcare Dual Access Open (PPO D-SNP),110,,map,2022-12-05,2022-12-02,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

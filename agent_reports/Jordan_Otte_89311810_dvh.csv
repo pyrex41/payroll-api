@@ -19,6 +19,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172288036,19674451,Laurie,Cancellieri,89311810,Jordan,Otte,89311810,Jordan,Otte,26250113450,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-15,2022-09-15,2022-10-31,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4366528521,25290101,Carla,Chambers,89311810,Jordan,Otte,89311810,Jordan,Otte,847276875,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-08,2022-12-07,2023-01-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3833478301,22890701,Darlene,Chester,192985888,Jordan,Seifert,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-11,,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219207,20829201,Michael,Crews,89311810,Jordan,Otte,89311810,Jordan,Otte,10250900795,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-30,2022-08-30,2022-10-01,,,,,,,
@@ -57,7 +59,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252337,21878001,Cecil,Gorman,89311810,Jordan,Otte,89311810,Jordan,Otte,10250907159	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-09,2022-09-08,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172322165,5477801,Marion,Haughton,89311810,Jordan,Otte,89311810,Jordan,Otte,10250640499,,AMERITAS,PrimeStar® Access,200,,dvh,2021-09-10,,2021-12-01,,,,,,,
+3172322165,5477801,Marion,Haughton,89311810,Jordan,Otte,89311810,Jordan,Otte,10250640499,,AMERITAS,PrimeStar® Access,500,,dvh,2021-09-10,,2021-12-01,,2022-11-30,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252316,10248551,Terry,Hopper,89311810,Jordan,Otte,89311810,Jordan,Otte,00250757196,,AMERITAS,PrimeStar® Value,200,,dvh,2022-01-19,2022-01-19,2022-04-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -98,6 +100,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172342287,7538551,Joy,May,89311810,Jordan,Otte,89311810,Jordan,Otte,10250675814,,AMERITAS,PrimeStar® Access,200,,dvh,2021-10-28,,2021-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252182,6012251,Cindy,Mayhew,89311810,Jordan,Otte,89311810,Jordan,Otte,102507-26252,,AMERITAS,PrimeStar® Value,200,,dvh,2021-12-14,,2022-02-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3423478104,23515651,Ivy,McLemore,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-30,2022-12-15,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172362020,13289001,Gary,Merritt,89311810,Jordan,Otte,89311810,Jordan,Otte,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-12,2022-10-06,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -155,6 +159,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172392014,11588651,Deborah,Smith,89311810,Jordan,Otte,89311810,Jordan,Otte,10250831387,,AMERITAS,PrimeStar® Value,200,,dvh,2022-05-06,2022-05-03,2022-05-07,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172392016,11668301,Charles,Smith,89311810,Jordan,Otte,89311810,Jordan,Otte,10250778015,,AMERITAS,PrimeStar® Value,200,,dvh,2022-02-17,2022-02-17,2022-05-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4266303060,14414951,Duane,Summons,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-06,2022-12-02,2023-03-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322404,9097751,Sheena,Thomson,89311810,Jordan,Otte,89311810,Jordan,Otte,10250813741	,,AMERITAS,PrimeStar® Total,200,,dvh,2022-04-11,2022-04-04,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
