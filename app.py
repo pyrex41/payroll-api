@@ -823,7 +823,10 @@ templates = Jinja2Templates(directory="templates/")
 def form_post(request: Request, usr: str = Depends(get_current_username)):
     tod = datetime.now()
     year = tod.year
-    month = tod.month
+    month = tod.month - 1
+    if month < 1:
+        month = 12
+        year -= 1
     print(year)
     print(month)
     msg = "NA"
