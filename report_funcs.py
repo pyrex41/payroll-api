@@ -606,7 +606,7 @@ def write_workbook(group, recent_month_adds, recent_month_cancel, bob_old, bob_n
 
     front.write("A11", "Details", leftBold)
     front.write("A12", "Total Core Plan Submissions Last Month", right)
-    front.write("A13", "Core Plan Cancelations Posted Last Month", right)
+    #front.write("A13", "Core Plan Cancelations Posted Last Month", right)
 
     front.write("A15", "Residuals", leftBold)
     front.write("A16", "Residual-Eligible Core Plans", right)
@@ -636,7 +636,7 @@ def write_workbook(group, recent_month_adds, recent_month_cancel, bob_old, bob_n
     front.write("B9", '=MAX(0, B8*{})'.format(commission_amount), currency_format_bold)
 
     front.write("B12", len(recent_month_adds), right)
-    front.write("B13", len(recent_month_cancel), right)
+    #front.write("B13", len(recent_month_cancel), right)
 
     front.write("B16", str(residual_counter), right)
     front.write("B17", '=SUM(Core!T:T)', currency_format_bold)
@@ -862,9 +862,7 @@ def month_filt(group, field, record_year, record_month):
         if dtraw:
             try:
                 dt = datetime.strptime(dtraw, "%Y-%m-%d")
-                if dt.year == int(record_year) and dt.month >= int(record_month):
-                    is_month = True
-                elif dt.year > int(record_year):
+                if dt.year == int(record_year) and dt.month == int(record_month):
                     is_month = True
             except:
                 pass
