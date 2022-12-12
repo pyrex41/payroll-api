@@ -139,6 +139,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173228727,661501,Roger,Hoke,49727299,Inactive,Agent,49727299,Inactive,Agent,3478417599,A03183321,AARP,G,200,,msp,2021-01-20,,2021-02-01,,,,2021-02-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173126162,1361501,Burton,Horne,49727299,Inactive,Agent,229799738,Darrin,Neal,336622183,A03236893,AARP,G,200,,msp,2021-04-08,,2021-05-01,,,,2021-05-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177246,1514401,Susan,Johnson,49727299,Inactive,Agent,49727299,Inactive,Agent,3231668447,A03238927,AARP,G,200,,msp,2021-04-13,,2021-05-01,,,,2021-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173080712,778501,Bradly,Joslin,49727299,Inactive,Agent,49727299,Inactive,Agent,3135339707,A03262727,AARP,G,200,,msp,2021-05-21,,2021-07-01,,,,2021-07-01,True,True,
@@ -211,6 +213,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173323648,4584877,Linda,Miller,49727299,Inactive,Agent,49727299,Inactive,Agent,3480693245,A03214740,AARP,G,200,,msp,2021-03-08,,2021-05-01,,,,2021-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057629,4571462,Monty,Montgomery,49727299,Inactive,Agent,49727299,Inactive,Agent,336290956,A03026303,AARP,G,200,,msp,2020-08-18,,2020-09-01,,,,2020-09-01,True,True,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3170711474,95651,Suzanne,Moore,49727299,Inactive,Agent,50312260,Pete,Scalzo,3256308341,A03080199,AARP,G,200,,msp,2021-01-01,2020-10-26,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173298331,1768051,Keith,Morgan,49727299,Inactive,Agent,49727299,Inactive,Agent,3440882029,A03244839,AARP,G,200,,msp,2021-04-21,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -381,6 +385,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173207714,4573302,Mary,Zorich,49727299,Inactive,Agent,49727299,Inactive,Agent,Pending Member ID,A03233317,AARP,G,200,,msp,2021-04-02,,2021-05-01,,,,2021-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168264711,4584757,Susan,Barringer,49727299,Inactive,Agent,49727299,Inactive,Agent,977034935,,AARP/UHC,Walgreens PPO,200,,map,2020-10-30,,2022-01-01,,,,2022-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168543082,4585203,Dan,Boham,49727299,Inactive,Agent,49727299,Inactive,Agent,H69086828,,HUMANA,HUMANA GOLD PLUS HMO H5619-144,410,,map,2020-08-27,,2020-09-01,2022-10-09,2021-12-31,,2020-09-01,True,,
+3799880527,4585203,Dan,Boham,50109414,Marvin,Musick,49727299,Inactive,Agent,Pending Member ID,,HUMANA,HUMANA GOLD PLUS HMO ,200,,map,2020-08-27,,2022-01-01,,,,2020-09-01,True,True,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167055400,4585065,Rose,Darr,49727299,Inactive,Agent,49727299,Inactive,Agent,Pending Member ID,,AARP/UHC,HMO,480,,map,2020-07-24,,2020-08-01,2021-12-22,2021-12-22,,2020-08-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

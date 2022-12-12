@@ -123,9 +123,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323639,4584762,Diane,Grassmann,49751982,Josh,Musick,49751982,Josh,Musick,346833879,A02968931,AARP,G,200,,msp,2020-05-29,,2020-06-01,,,,2020-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173324709,4577746,Kathryn,Gray,50109414,Marvin,Musick,49751982,Josh,Musick,AHL6247789,AHL6247789,AETNA,G,500,,msp,2019-12-05,,2020-01-01,,,No cancellation reason given on original contact record (flat file),2020-01-01,True,,
-3173344800,4577746,Kathryn,Gray,49751982,Josh,Musick,49751982,Josh,Musick,AHL6247089 ,AHL6247089 ,AETNA,G,200,,msp,2019-12-05,,2020-01-01,,,,2020-01-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125655,4578202,Gregory,Guental,49751982,Josh,Musick,49751982,Josh,Musick,Pending Member ID,Pending Member ID,TRANSAMERICA,G,200,,msp,2019-09-25,,2019-10-01,,,,2019-10-01,True,True,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332325,13299111,Nancy,Hack,49751982,Josh,Musick,49751982,Josh,Musick,AHC6464238,AHC6464238,AETNA,G,200,,msp,2021-01-05,,2021-02-01,,,,2021-02-01,True,True,

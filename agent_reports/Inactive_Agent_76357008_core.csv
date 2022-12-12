@@ -296,8 +296,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323283,3633501,Kevin,Kelley,76357008,Inactive,Agent,76357008,Inactive,Agent,AHL6291962,AHL6291962,AETNA,G,200,,msp,2021-08-06,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173184837,6459551,Kim,Kellner,76357008,Inactive,Agent,168441184,EnlightNuUsaLLC,House,330040359,A03374285,AARP,G,200,,msp,2021-10-05,,2022-01-01,,,,2022-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150074,6959501,Paula,Kelly,76357008,Inactive,Agent,76357008,Inactive,Agent,313200692,313200692,AARP,G,200,,msp,2021-10-14,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173149853,5670101,Stephan,Kemp,76357008,Inactive,Agent,76357008,Inactive,Agent,AHC6577097,AHC6577097,AETNA,N,200,,msp,2021-11-12,,2022-03-01,,,,2022-03-01,True,False,
@@ -353,9 +351,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173185103,11015551,Nancy,Mercure,76357008,Inactive,Agent,76357008,Inactive,Agent,Pending Member ID,A03496442,AARP,G,200,,msp,2022-02-23,2022-02-23,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332049,2886601,Sharon,Meredith,76357008,Inactive,Agent,76357008,Inactive,Agent,3287275949,A03288075,AARP,G,200,,msp,2021-07-01,,2021-08-01,,,,2021-08-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168472413,5282301,Elaine,Miner,76357008,Inactive,Agent,76357008,Inactive,Agent,000475774,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),410,,map,2021-10-23,,2021-11-01,2022-10-09,2022-10-31,,2021-11-01,False,False,
-3191933462,5282301,Elaine,Miner,64738322,Gabriel,Rhone,76357008,Inactive,Agent,3492785385,,AARP,G,200,Not Commissionable,msp,2022-10-05,2022-10-05,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286461,5780201,Don,Miner,76357008,Inactive,Agent,76357008,Inactive,Agent,3492785385,A03365685,AARP,G,200,,msp,2021-09-21,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

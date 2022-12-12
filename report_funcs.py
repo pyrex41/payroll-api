@@ -816,6 +816,8 @@ def cancel_counter(dic):
             else:
                 s += 1
         out[k] = i, s
+        if int(k) == 50084738:
+            print(i,s)
     return out
 
 def recent_cancel_counter(dic, report_year, report_month):

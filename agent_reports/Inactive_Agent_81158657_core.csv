@@ -385,9 +385,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168493125,5330851,Bobbie,Shepherd,81158657,Inactive,Agent,81158657,Inactive,Agent,Pending Member ID,,HUMANA,Humana Gold Plus H1036-223 (HMO),200,,map,2021-08-31,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167091334,6821051,Judson,Simon,81158657,Inactive,Agent,81158657,Inactive,Agent,Pending Member ID,,CIGNA,Cigna Preferred Medicare (HMO),410,,map,2021-11-05,,2021-12-01,2022-10-09,,,2021-12-01,True,,False
-3799452754,6821051,Judson,Simon,168441184,EnlightNuUsaLLC,House,81158657,Inactive,Agent,36470901,,CIGNA,Cigna Alliance Medicare (HMO) ,200,,map,2021-12-07,,2022-01-01,,,,2021-12-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168472996,7736751,Betty,Stecher,81158657,Inactive,Agent,81158657,Inactive,Agent,33400963,,WELLCARE,Wellcare Giveback Open (PPO),200,,map,2021-10-31,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168326694,9386801,Carolyn,Sturbaum,81158657,Inactive,Agent,81158657,Inactive,Agent,H69383569,,HUMANA,HumanaChoice H5216-285 (PPO),200,,map,2021-12-11,,2022-01-01,,,,2022-01-01,True,False,

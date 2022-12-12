@@ -473,8 +473,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4246065570,25020801,James,Gerds,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3092200363,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4246504208,25021101,Denise,Gerds,57373696,Garrett,McKinzie,76355971,Mark,Files,3092200363,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711432,1084401,Kevin,Gilbert,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,AHC6494204,AHC6494204,AETNA,G,500,,msp,2021-03-29,,2021-04-01,2021-09-01,2021-08-31,,2021-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3254145588,19934001,Patricia,Gill-Thielen,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3170060358,,AARP,G,200,,msp,2022-10-14,2022-10-13,2023-01-01,,,,2023-01-01,True,False,False
@@ -741,9 +739,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286187,17861701,Daniel,Kennedy,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3509360404,A03567886,AARP,G,200,,msp,2022-06-21,2022-06-21,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3166973830,1403151,Collette,Kilpatrick,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AARP/UHC,AARP Medicare Advantage (HMO-POS),480,,map,2021-12-01,,2022-01-01,2021-10-14,2021-10-14,,2022-01-01,False,False,False
-3929696159,1403151,Collette,Kilpatrick,224486180,Rebecca,Sublette,57373696,Garrett,McKinzie,3517708164,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163879,3191601,Robert,King,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,AHC6540356,AHC6540356,AETNA,N,200,,msp,2021-08-17,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126200,1333101,Theresa,Klinkert,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,346329835,A03216603,AARP,G,200,,msp,2021-03-10,,2021-05-01,,,,2021-05-01,True,True,
@@ -974,8 +969,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308728,14604351,Delyse,Nash,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3507058927,A03543893,AARP,G,200,,msp,2022-05-10,2022-05-10,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173195846,9428051,Michael A,Neil,76539239,Inactive,Agent,57373696,Garrett,McKinzie,3351979954,A03472106,AARP,G,410,,msp,2022-01-13,,2022-02-01,2022-11-08,,,2022-02-01,False,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126315,3968101,Peggy,Nelson,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,ACC6425792,ACC6425792,AETNA ACCENDO,G,200,,msp,2021-08-13,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184872,6193701,Alice,Nelson,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,ACC6451457,ACC6451457,AETNA ACCENDO,G,500,,msp,2021-09-28,,2022-01-01,2021-10-25,2021-10-25,,2022-01-01,False,False,
@@ -983,9 +976,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173057813,10537001,George,Nichols,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3161257328,A03475279,AARP,G,200,,msp,2022-01-19,2022-01-19,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393013,1543901,Pamela,Nichols,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3161257328,A03324510,AARP,G,200,,msp,2021-08-17,,2021-11-01,,,,2021-11-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168673630,13143301,Maureen,Noble,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,000158473,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus,200,,map,2022-04-28,2022-04-28,2022-05-01,,,,2022-05-01,True,False,
-4030631092,13143301,Maureen,Noble,224486180,Rebecca,Sublette,57373696,Garrett,McKinzie,3518063510,,AARP,G,200,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141781,16152901,Charles R,Norris,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,ACC6611258,ACC6611258,AETNA ACCENDO,G,200,,msp,2022-05-20,2022-05-20,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1216,9 +1206,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173287019,20285201,LEWIS J,SMEDLEY,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,AHC6646500,AHC6646500,AETNA,G,200,,msp,2022-08-05,2022-08-05,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3253599787,22348801,PAMELA,SUBLETT,50084738,Adrian,Hardin,57373696,Garrett,McKinzie,343230306,,AARP,G,500,,msp,2022-10-13,,2022-11-01,2022-10-17,2022-10-17,Denied in UW,2022-11-01,False,False,False
-3543955021,22348801,PAMELA,SUBLETT,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,9038613,,AARP/UHC,AARP® Medicare Advantage SecureHorizons® Plan 1,200,,map,2022-10-27,2022-10-27,2023-01-01,,,,2023-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173272971,3079801,Marie,Sabo,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,348800591,A03295937,AARP,G,200,,msp,2021-07-12,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286221,3495351,John,Sabo,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,348800591,A03299042,AARP,G,200,,msp,2021-07-14,,2021-09-01,,,,2021-09-01,True,True,
@@ -1320,9 +1307,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3170711866,12343151,Martha,Snider,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,AHC6621496,AHC6621496,AETNA,G,200,,msp,2022-03-25,2022-03-25,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3912443742,24496951,Karen,Snyder,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,CLI6922502,CLI6922502,AETNA,G,200,,msp,2022-11-16,2022-11-15,2023-01-01,,,,2023-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173216315,4574151,Richard,Sonner,50109414,Marvin,Musick,57373696,Garrett,McKinzie,AHL6275438,AHL6275438,AETNA,G,500,,msp,2020-11-12,,2020-12-01,2021-12-13,2021-12-31,,2020-12-01,False,False,
-3480980016,4574151,Richard,Sonner,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,H65223953,,HUMANA,Humana Gold Plus,200,,map,2022-10-25,2022-10-24,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173253901,4396901,Susan ,Spiegel ,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3498273634,349827363-1,AARP,G,200,,msp,2021-12-20,,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -21,6 +21,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196122,16774588,Phillipe,Johnson,168441184,EnlightNuUsaLLC,House,168441184,EnlightNuUsaLLC,House,34088476511,A03482577 (legacyAdd-UHC),AARP,G,200,,msp,2022-04-01,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173184837,6459551,Kim,Kellner,76357008,Inactive,Agent,168441184,EnlightNuUsaLLC,House,330040359,A03374285,AARP,G,200,,msp,2021-10-05,,2022-01-01,,,,2022-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286698,16775892,Melba,Mars,168441184,EnlightNuUsaLLC,House,168441184,EnlightNuUsaLLC,House,34072190611,A03119309 (legacyAdd-UHC),AARP,G,200,,msp,2020-12-01,,2020-12-01,,,,2020-12-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286710,16775922,Deborah,Mcgavock,168441184,EnlightNuUsaLLC,House,168441184,EnlightNuUsaLLC,House,33656285111,A03222157 (legacyAdd-UHC),AARP,G,200,,msp,2021-05-01,,2021-05-01,,,,2021-05-01,True,True,
@@ -45,9 +47,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168411539,313301,Janice,Campbell,60051536,Inactive,Agent,168441184,EnlightNuUsaLLC,House,101361665300,,AETNA,,500,,map,2020-11-18,2020-11-18,2021-01-01,2022-10-09,2021-12-31,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167039925,6922601,Margaret(Peg),Colyar,76356149,Inactive,Agent,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP Medicare Advantage Choice (PPO),410,,map,2021-10-28,2021-10-28,2022-01-01,2022-10-09,2022-01-01,,2022-01-01,True,,False
-3798777905,6922601,Margaret(Peg),Colyar,168441184,EnlightNuUsaLLC,House,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP MA Patriot ,200,,map,2021-11-23,,2022-01-01,,,,2022-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167095955,16778215,Charles,Dudley,168441184,EnlightNuUsaLLC,House,168441184,EnlightNuUsaLLC,House,984477394,,AARP/UHC,,200,,map,2022-01-01,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167164288,12382351,John,Johnson,76539239,Inactive,Agent,168441184,EnlightNuUsaLLC,House,Pending Member ID,,HUMANA,HumanaChoice H5216-265 (PPO),410,,map,2022-03-15,2022-03-15,2022-05-01,2022-10-09,,,2022-05-01,True,,
@@ -55,4 +54,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168434998,9263551,Norma,Price,76539239,Inactive,Agent,76539239,Inactive,Agent,986186468,,AARP/UHC,AARP Medicare Advantage Choice (PPO),410,,map,2022-01-25,2022-01-25,2022-03-01,2022-10-09,2022-03-31,,2022-03-01,True,,
 3798777767,9263551,Norma,Price,168441184,EnlightNuUsaLLC,House,76539239,Inactive,Agent,Pending Member ID,,HUMANA,Honor PPO,200,,map,2022-03-24,,2022-04-01,,,,2022-03-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3167091334,6821051,Judson,Simon,81158657,Inactive,Agent,81158657,Inactive,Agent,Pending Member ID,,CIGNA,Cigna Preferred Medicare (HMO),410,,map,2021-11-05,,2021-12-01,2022-10-09,,,2021-12-01,True,,False
+3799452754,6821051,Judson,Simon,168441184,EnlightNuUsaLLC,House,81158657,Inactive,Agent,36470901,,CIGNA,Cigna Alliance Medicare (HMO) ,200,,map,2021-12-07,,2022-01-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

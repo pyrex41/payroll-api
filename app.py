@@ -250,7 +250,14 @@ def process_agent_reports(report_month, report_year):
     last_month_cancel_dic = {agent: apply_month_to_date_filter(arr, "date_cancel_notification", report_year, report_month) for agent, arr in adcore.items()}
 
 
-    agent_longterm_cancels = cancel_counter(psup) | cancel_counter(pmap)
+    agent_map_cancels = cancel_counter(pmap)
+    agent_longterm_cancels = cancel_counter(psup)
+    for k,tup in agent_map_cancels.items():
+        x,y = tup
+        a,b = agent_map_cancels.get(k, (0,0))
+        agent_longterm_cancels[k] = (a+x, y+b)
+
+    print('Combo:',agent_longterm_cancels.get('50084738'))
 
     agent_dvh_cancels = cancel_counter(pdvh)
     agent_copay_cancels = cancel_counter(pcopay)
@@ -740,24 +747,21 @@ def remove_agent(agent_id: int, username: str = Depends(get_current_username)):
 Save the pickles
 """
 @app.post("/pickles/backup")
-async def save_pickles(usr: str = Depends(get_current_username)):
-    at = []
+def save_pickles(background_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
     for pick in os.listdir():
         if ".pickle" in pick:
-            at.append(asyncio.create_task(pickle_put(drive, pick)))
-    return await asyncio.gather(*at)
+            background_tasks.add_task(pickle_put(drive, pick))
 
-async def pickle_put(drive, fname):
-    return await drive.put(fname, path="./"+fname)
+def pickle_put(drive, fname):
+    return drive.put(fname, path="./"+fname)
 
 @app.get("/pickles/load_from_backup")
-async def load_pickles(usr: str = Depends(get_current_username)):
+def load_pickles(backgound_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
     pickle_list = drive.list().get('names')
-    at = []
     for pick in pickle_list:
         if ".pickle" in pick:
-            at.append(asyncio.create_task(sync_to_async(fetch_and_save(pick))))
-    return await asyncio.gather(*at)
+            background_tasks.add_task(fetch_and_save(pick))
+    return {'msg': 'loading from backup'}
 
 
 

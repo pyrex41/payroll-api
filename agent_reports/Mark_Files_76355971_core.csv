@@ -391,6 +391,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308752,14620451,Gary,Geisler,76355971,Mark,Files,76355971,Mark,Files,ACC6596318,ACC6596318,AETNA ACCENDO,G,200,,msp,2022-04-26,2022-04-26,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4246504208,25021101,Denise,Gerds,57373696,Garrett,McKinzie,76355971,Mark,Files,3092200363,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141584,13239201,Mikhail,Geykhman,76355971,Mark,Files,76355971,Mark,Files,3509129494,A03566532,AARP,G,200,,msp,2022-06-16,2022-03-31,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286994,20295851,Alan,Gilpin,76355971,Mark,Files,76355971,Mark,Files,AHC6647385,AHC6647385,AETNA,G,200,,msp,2022-08-11,2022-08-10,2022-09-01,,,,2022-09-01,True,False,
@@ -1651,9 +1653,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3201204408,20799401,Catherine,Serna,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,WELLCARE,Wellcare No Premium Open (PPO),330,,map,2022-11-09,2022-11-09,2023-01-01,,,,2022-09-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3352853263,23573151,Robert,Sexton,76355971,Mark,Files,76355971,Mark,Files,35535753,,WELLCARE,Wellcare No Premium (HMO),200,,map,2022-10-19,2022-10-19,2023-01-01,,,,2023-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168531348,7624801,Steve,Shaw,76355971,Mark,Files,76355971,Mark,Files,33807945 / 204957307,,WELLCARE,Wellcare No Premium Open (PPO),510,,map,2021-11-22,,2021-12-01,2022-12-09,,,2021-12-01,True,,
-4194580747,7624801,Steve,Shaw,64738322,Gabriel,Rhone,76355971,Mark,Files,990015685,,AARP/UHC,Shaw,200,,map,2022-11-30,2022-11-29,2023-01-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167055706,4612801,Shelley,Showell,76355971,Mark,Files,76355971,Mark,Files,943424044,,AARP/UHC,AARP Medicare Advantage Choice (PPO),480,,map,2021-08-19,,2021-09-01,2022-08-03,2022-08-31,,2021-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
