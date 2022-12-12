@@ -751,6 +751,7 @@ def save_pickles(background_tasks: BackgroundTasks, usr: str = Depends(get_curre
     for pick in os.listdir():
         if ".pickle" in pick:
             background_tasks.add_task(pickle_put(drive, pick))
+    return {'msg': 'saving to backup'}
 
 def pickle_put(drive, fname):
     return drive.put(fname, path="./"+fname)
