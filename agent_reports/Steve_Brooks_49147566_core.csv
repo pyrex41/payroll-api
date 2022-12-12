@@ -227,6 +227,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057292,4578816,James,Notman,49147566,Steve,Brooks,49147566,Steve,Brooks,ACC6202374,ACC6202374,AETNA,G,200,,msp,2020-04-14,,2020-05-01,,,,2020-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3192269469,8130751,Martina,Nowak,49147566,Steve,Brooks,49751982,Josh,Musick,AHC6570879,AHC6570879,AETNA,G,200,,msp,2021-11-03,,2021-12-01,,,,2021-12-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323899,4577352,Cindy,O'Hara,49147566,Steve,Brooks,49147566,Steve,Brooks,ACC6224496,ACC6224496,AETNA,G,200,,msp,2020-07-30,,2020-08-01,,,,2020-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258834,4578654,Sharolyn,Overby,49147566,Steve,Brooks,49147566,Steve,Brooks,AHC6336731,AHC6336731,AETNA,G,200,,msp,2020-05-26,,2020-06-01,,,,2020-06-01,True,True,

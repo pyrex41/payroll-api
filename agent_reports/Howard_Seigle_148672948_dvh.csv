@@ -39,13 +39,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219046,15451551,Pat,Denning,148672948,Howard,Seigle,148672948,Howard,Seigle,10250847456,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-02,2022-06-01,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3424923516,13291401,Karyn,Dobmeier,192985888,Jordan,Seifert,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-21,,2022-12-01,,,,,,,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172287780,12386451,Randall,Duvall,148672948,Howard,Seigle,148672948,Howard,Seigle,10250827860,,AMERITAS,PrimeStar® Access,200,,dvh,2022-05-02,2022-05-01,2022-07-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3717774183,24107401,Reynold,Eguia,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-11-08,2022-11-07,2022-12-01,,,,,,,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172219065,15874851,Sandra,Erickson,192985888,Jordan,Seifert,148672948,Howard,Seigle,10250897600,,AMERITAS,PrimeStar® Total,200,,dvh,2022-08-25,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172297265,18483751,Melanee,Erwin,148672948,Howard,Seigle,148672948,Howard,Seigle,10250868483,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-08,2022-07-08,2022-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -81,8 +77,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3249778438,21512251,Melissa,Hufford,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-13,2022-10-13,2022-12-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4407208744,24442251,Mary,Johnson,192985888,Jordan,Seifert,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-09,2022-12-09,2023-01-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 4368075806,20903551,Roderick,Johnston,148672948,Howard,Seigle,148672948,Howard,Seigle,847276784,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-08,2022-12-08,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219224,20741951,Marilyn (Kris),Jolley,148672948,Howard,Seigle,148672948,Howard,Seigle,10250910786,,AMERITAS,PrimeStar® Value,200,,dvh,2022-09-15,2022-09-14,2022-09-16,,,,,,,
@@ -103,8 +97,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219237,20755901,Daniel,Mathias,148672948,Howard,Seigle,148672948,Howard,Seigle,10250892391,,AMERITAS,PrimeStar® Value,200,,dvh,2022-08-17,2022-08-16,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172310910,17878651,James,McClain,192985888,Jordan,Seifert,148672948,Howard,Seigle,10250870985,,AMERITAS,PrimeStar® Total,200,,dvh,2022-07-13,2022-07-13,2022-08-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310897,17875851,Robert,McCoy,148672948,Howard,Seigle,148672948,Howard,Seigle,10250883867,,AMERITAS,PrimeStar® Value,200,,dvh,2022-08-03,2022-08-03,2022-11-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172391986,11360551,Alice,McHard,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,PrimeStar® Total,200,,dvh,2022-10-10,2022-10-10,2023-01-01,,,,,,,False
@@ -124,10 +116,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172310906,17558601,Steve,Neese,148672948,Howard,Seigle,148672948,Howard,Seigle,NA,,AMERITAS,,200,,dvh,2022-06-24,2022-06-16,2022-06-16,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172219171,14911751,Deanna,Neese,148672948,Howard,Seigle,148672948,Howard,Seigle,10250860049,,AMERITAS,PrimeStar® Total,200,,dvh,2022-06-24,2022-06-16,2022-06-16,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-4322813572,15463351,Teresa,Pancotto,192985888,Jordan,Seifert,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-05,2022-12-05,2023-01-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-4322813596,14700651,Michael,Pancotto,192985888,Jordan,Seifert,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-05,2022-12-05,2023-01-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3293659560,23383251,Linda,Peterson,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-10-25,2022-10-17,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -166,8 +154,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172219169,15668151,Thomas,Snyder,148672948,Howard,Seigle,148672948,Howard,Seigle,10250838720,,AMERITAS,PrimeStar® Access,200,,dvh,2022-05-18,2022-05-17,2022-06-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310873,17597001,Nancy,Snyder,148672948,Howard,Seigle,148672948,Howard,Seigle,10250860106,,AMERITAS,PrimeStar® Value,200,,dvh,2022-06-24,2022-06-21,2022-07-01,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172362009,13575451,Dale,Sorenson,192985888,Jordan,Seifert,148672948,Howard,Seigle,10250875673,,AMERITAS,,200,,dvh,2022-07-21,,2022-09-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172252451,21802551,Walter,Soverow,148672948,Howard,Seigle,148672948,Howard,Seigle,10250914124,,AMERITAS,PrimeStar® Total,200,,dvh,2022-09-21,2022-09-12,2022-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

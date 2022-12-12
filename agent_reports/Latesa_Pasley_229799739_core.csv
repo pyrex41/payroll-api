@@ -115,6 +115,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4244635029,24612651,Lawrenece,Liepack,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3384099671,,AARP / UHICA,G,200,,msp,2022-12-01,2022-12-01,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168472421,5386801,Edward,MCGuire,76357008,Inactive,Agent,229799739,Latesa,Pasley,905396419,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2021-09-09,,2021-10-01,,,,2021-10-01,True,True,
+3191933362,5386801,Edward,MCGuire,229799739,Latesa,Pasley,229799739,Latesa,Pasley,AHL6311119,AHL6311119,AETNA,G,200,,msp,2022-10-04,,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3522477969,23881751,Noel,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3147458156,,AARP / UHICA,G,200,,msp,2022-10-26,2022-10-26,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3522478009,23837751,Janice,Martinez,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3147458156,,AARP / UHICA,G,200,,msp,2022-10-27,2022-10-26,2023-01-01,,,,2023-01-01,True,False,False

@@ -34,6 +34,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308690,14590051,Teresa,Beasley,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,CLI6842544,CLI6842544,AETNA,G,500,,msp,2022-05-13,2022-05-13,2022-11-01,2022-08-22,2022-10-31,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4386810447,16639251,Gail,Beauregard,165338462,Ken,Tomberlin,148672948,Howard,Seigle,3170112951,,AARP,G,200,,msp,2022-12-08,2022-12-08,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 4195809315,24509701,Robin,Beavers,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,G,320,,msp,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3760094588,24368601,Charles,Beckman,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6710695,ACC6710695,AETNA ACCENDO,G,450,,msp,2022-11-07,2022-11-07,2023-01-01,2022-11-10,,,2023-01-01,True,,
@@ -614,6 +616,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168632605,16887851,JAY,BIENICK,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,35046037,,WELLCARE,Wellcare Giveback Dividend (HMO),200,,map,2022-06-09,2022-06-09,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167036750,3582101,Winda,Baldwin,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,CareFree (HMO),200,,map,2022-08-24,2022-08-22,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168479100,20427151,Johanna,Barr,57373696,Garrett,McKinzie,165338462,Ken,Tomberlin,101266841700,,AETNA,Aetna Medicare Premier Plan (PPO),480,,map,2022-08-17,2022-08-16,2022-09-01,2022-09-06,2022-09-01,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4030870343,24805351,Doug,Bland,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,975853753,,AARP/UHC,AARP Medicare Advantage Choice Rebate (PPO),200,,map,2022-11-22,2022-11-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

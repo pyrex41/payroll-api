@@ -224,14 +224,24 @@ def date_filter(date):
     else:
         return datetime.fromisoformat("2300-01-01")
 
-def sort_by_agents(dic, originating):
+
+def combo_catch(all_dics):
+    return list(set([x['agent_originating'] for x in all_dics if x] + [x['hubspot_owner_id'] for x in all_dics if x]))
+
+def origin_only(all_dics):
+    return list(set([x['agent_originating'] for x in all_dics if x]))
+
+def sort_by_agents(dic, originating: bool):
     all_dics = foldl(lambda a,b: a + b, [], list(dic.values()))
-    originating_agents = list(set([x['agent_originating'] for x in all_dics if x] + [x['hubspot_owner_id'] for x in all_dics if x]))
+    if originating:
+        originating_agents = origin_only(all_dics)
+    else:
+        originating_agents = combo_catch(all_dics)
     ad = {}
     agent_errors = []
 
     for group in dic.values():
-        possible_agents = get_possible_agents(group)
+        possible_agents = get_possible_agents(group, originating)
         if len(possible_agents) > 1 or len(possible_agents) == 0:
             remove_report = False
             for d in group:
@@ -253,8 +263,11 @@ def sort_by_agents(dic, originating):
 
     return ad, agent_errors
 
-def get_possible_agents(group):
-    possible_set = set([x['agent_originating'] for x in group if x]).union(set([x['hubspot_owner_id'] for x in group if x]))
+def get_possible_agents(group, originating: bool):
+    if originating:
+        possible_set = set([x['agent_originating'] for x in group if x])
+    else:
+        possible_set = set([x['agent_originating'] for x in group if x]).union(set([x['hubspot_owner_id'] for x in group if x]))
     possible_agents = list(filter(lambda x: x != None and x != '', list(possible_set)))
     return possible_agents
 

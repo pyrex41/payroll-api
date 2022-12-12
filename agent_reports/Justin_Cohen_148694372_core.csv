@@ -61,8 +61,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117015,21045101,Terry L,Blanton,148694372,Justin,Cohen,148694372,Justin,Cohen,339356560,A03603451,AARP / UHICA,G,200,,msp,2022-08-24,2022-08-24,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173216297,4576976,Victoria,Boand,148694372,Justin,Cohen,50109414,Marvin,Musick,AHC6304879,AHC6304879,AETNA,G,200,,msp,2020-03-04,,2020-04-01,,,,2020-04-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125385,20239801,Kathy,Boddie,148694372,Justin,Cohen,148694372,Justin,Cohen,3502592920,A03600509,AARP / UHICA,G,200,,msp,2022-08-19,2022-08-18,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393929,18077401,Lorinda M,Bollwitt,148694372,Justin,Cohen,148694372,Justin,Cohen,351022104,A03592642,AARP,G,200,,msp,2022-08-04,2022-08-04,2022-10-01,,,,2022-10-01,True,False,
@@ -590,8 +588,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3660414004,21894651,Victoria L,Owen,148694372,Justin,Cohen,148694372,Justin,Cohen,CLI6920250,CLI6920250,AETNA,G,510,,msp,2022-11-11,2022-11-11,2023-02-01,2022-11-30,2022-11-30,,2023-02-01,False,,
 4260569245,21894651,Victoria L,Owen,148694372,Justin,Cohen,148694372,Justin,Cohen,CLI6934685,CLI6934685,AETNA,G,110,,msp,2022-12-05,2022-12-05,2023-02-01,,,,2023-02-01,False,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3191933449,4585202,Barbara,Parness,148694372,Justin,Cohen,50109414,Marvin,Musick,AHC6655954,AHC6655954,AETNA,G,500,,msp,2022-09-30,,2022-11-01,,,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125942,15896251,Tony,Parrinella,148694372,Justin,Cohen,148694372,Justin,Cohen,350739750,,AARP,G,200,,msp,2022-11-21,2022-11-21,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
