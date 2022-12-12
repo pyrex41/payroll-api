@@ -854,6 +854,25 @@ def recent_cancel_test(group, report_year, report_month):
                 return True
     return False
 
+def month_to_date_filt(group, field, record_year, record_month):
+    is_month = False
+    for d in group:
+        dtraw = d.get(field)
+        if dtraw:
+            try:
+                dt = datetime.strptime(dtraw, "%Y-%m-%d")
+                if dt.year == int(record_year) and dt.month >= int(record_month):
+                    is_month = True
+                elif dt.year > int(record_year):
+                    is_month = True
+            except:
+                pass
+    return is_month
+
+def apply_month_to_date_filter(arr, field, report_year, report_month):
+    arr = filter(lambda x: month_to_date_filt(x, field, report_year, report_month), arr)
+    return sorted(arr, key=datesort)
+
 
 def month_filt(group, field, record_year, record_month):
     is_month = False

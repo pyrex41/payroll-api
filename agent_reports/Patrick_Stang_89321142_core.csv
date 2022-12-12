@@ -153,7 +153,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173229057,4716501,Margaret,Chambers,89321142,Patrick,Stang,89321142,Patrick,Stang,3182726764,A03351018,AARP,G,200,,msp,2021-08-24,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3253022506,23274101,Mary,Check,89321142,Patrick,Stang,89321142,Patrick,Stang,3099838124,,AARP,G,420,,msp,2022-10-14,2022-10-14,2023-01-01,,,,2023-01-01,False,False,False
+3253022506,23274101,Mary,Check,89321142,Patrick,Stang,89321142,Patrick,Stang,3099838124,,AARP,G,420,,msp,2022-10-14,2022-10-14,2023-01-01,2022-10-17,2022-10-17,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057543,7282701,William,Cheng,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6632868,AHC6632868,AETNA,G,200,,msp,2022-05-24,2022-05-24,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -304,7 +304,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3332922714,23323001,Ann,Germain,89321142,Patrick,Stang,89321142,Patrick,Stang,3514926462,,AARP,G,200,,msp,2022-10-18,2022-10-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4027265584,24614551,Tamra,Gilbert Carville,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6670419,AHC6670419,AETNA,G,470,,msp,2022-11-21,2022-11-21,2023-02-01,,2023-01-31,,2023-02-01,False,False,
+4027265584,24614551,Tamra,Gilbert Carville,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6670419,AHC6670419,AETNA,G,470,,msp,2022-11-21,2022-11-21,2023-02-01,2022-12-07,2023-01-31,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126060,19381301,Kenneth,Glade,89321142,Patrick,Stang,89321142,Patrick,Stang,AHL6308582,AHL6308582,AETNA,G,200,,msp,2022-07-21,2022-07-21,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -456,7 +456,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173344911,20498201,Marilyn,Lane,89321142,Patrick,Stang,89321142,Patrick,Stang,3194238055,,AARP,G,200,,msp,2022-08-18,2022-08-18,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173259282,22501801,Larry,Larson,89321142,Patrick,Stang,89321142,Patrick,Stang,3087547588,,AARP,G,500,,msp,2022-09-26,2022-09-26,2022-10-01,,2022-09-30,UW app that was approved at level 2 rate so canceled ,2022-10-01,False,False,False
+3173259282,22501801,Larry,Larson,89321142,Patrick,Stang,89321142,Patrick,Stang,3087547588,,AARP,G,500,,msp,2022-09-26,2022-09-26,2022-10-01,2022-11-01,2022-09-30,UW app that was approved at level 2 rate so canceled ,2022-10-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243566,22367401,Cheryl,Larson,89321142,Patrick,Stang,89321142,Patrick,Stang,3087547588,A03620194,AARP,G,200,,msp,2022-09-26,2022-09-26,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -464,7 +464,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173309004,9937801,Victoria,Lawrence,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6605959,AHC6605959,AETNA,G,500,,msp,2022-01-13,2022-01-12,2022-03-01,2022-05-15,2022-02-28,,2022-03-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173216256,4574751,Susan,LeBlanc,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6539980,AHC6539980,AETNA,G,470,,msp,2021-08-16,,2021-09-01,,2022-12-31,,2021-09-01,False,False,
+3173216256,4574751,Susan,LeBlanc,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6539980,AHC6539980,AETNA,G,470,,msp,2021-08-16,,2021-09-01,2022-12-07,2022-12-31,,2021-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3227118517,23220701,Richard,Lehrer,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6658327,AHC6658327,AETNA,G,200,,msp,2022-10-13,2022-10-12,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -526,7 +526,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150264,18524401,Mike,McClellan,89321142,Patrick,Stang,89321142,Patrick,Stang,3510031721,A03575370,AARP,G,200,,msp,2022-07-07,2022-07-06,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3887108422,24393151,Darlene,McCulloch,89321142,Patrick,Stang,89321142,Patrick,Stang,323436649-1,,AARP,G,450,,msp,2022-11-14,2022-11-14,2023-01-01,,2022-11-23,declined in UW,2023-01-01,False,False,False
+3887108422,24393151,Darlene,McCulloch,89321142,Patrick,Stang,89321142,Patrick,Stang,323436649-1,,AARP,G,450,,msp,2022-11-14,2022-11-14,2023-01-01,2022-11-23,2022-11-23,declined in UW,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393219,5180851,Beth,McDonald,89321142,Patrick,Stang,89321142,Patrick,Stang,3173367578,A03356809,AARP,G,200,,msp,2021-09-02,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -544,7 +544,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3889320229,23947701,Dana,Meister,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6667973,AHC6667973,AETNA,G,200,,msp,2022-11-14,2022-11-14,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173150231,18491601,Nailia,Menne,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6646317,AHC6646317,AETNA,G,500,,msp,2022-08-04,2022-08-02,2022-10-01,,2022-10-31,client canceled bc moving out of country ,2022-10-01,False,False,
+3173150231,18491601,Nailia,Menne,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6646317,AHC6646317,AETNA,G,500,,msp,2022-08-04,2022-08-02,2022-10-01,2022-10-12,2022-10-31,client canceled bc moving out of country ,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141250,13900301,Michelle,Meredith,89321142,Patrick,Stang,89321142,Patrick,Stang,3505651897,A03528241,AARP,G,200,,msp,2022-04-14,2022-04-13,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -616,7 +616,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4339928865,25175001,Maureen,O’Connor,89321142,Patrick,Stang,89321142,Patrick,Stang,3519212694,,AARP,G,200,,msp,2022-12-07,2022-12-06,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4052729934,24795301,Joyce,Pasley,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,Pending Member ID,AETNA,G,420,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,False,False,False
+4052729934,24795301,Joyce,Pasley,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,Pending Member ID,AETNA,G,420,,msp,2022-11-22,2022-11-22,2023-01-01,2022-11-22,,,2023-01-01,False,False,False
 4050962592,24795301,Joyce,Pasley,89321142,Patrick,Stang,89321142,Patrick,Stang,986198255,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-11-28,2022-11-22,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3525962288,23396251,Lawrence,Payne,89321142,Patrick,Stang,89321142,Patrick,Stang,3516432063,,AARP,M1A,200,,msp,2022-10-27,2022-10-26,2022-12-01,,,,2022-12-01,True,False,False
@@ -813,7 +813,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273734,17436201,Karen,VonKalow,89321142,Patrick,Stang,89321142,Patrick,Stang,3509026849,A03564719,AARP,G,200,,msp,2022-06-15,2022-06-14,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4173459532,24856701,Linda,VonMohr,89321142,Patrick,Stang,89321142,Patrick,Stang,AHL6314498,AHL6314498,AETNA,G,450,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,False,False,
+4173459532,24856701,Linda,VonMohr,89321142,Patrick,Stang,89321142,Patrick,Stang,AHL6314498,AHL6314498,AETNA,G,450,,msp,2022-11-28,2022-11-28,2023-01-01,2022-11-28,,,2023-01-01,False,False,
 4175901466,24856701,Linda,VonMohr,89321142,Patrick,Stang,89321142,Patrick,Stang,954532701,,AARP/UHC,AARP® Medicare Advantage Plan 1 (HMO-POS),200,,map,2022-11-29,2022-11-28,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125490,7536601,Mary,Voytek,89321142,Patrick,Stang,89321142,Patrick,Stang, 0270383516,027038351,AARP,G,200,,msp,2021-10-26,2021-12-01,2021-12-01,,,,2021-12-01,True,False,
@@ -854,9 +854,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117542,19244201,Karen,Wright,89321142,Patrick,Stang,89321142,Patrick,Stang,321043184,A03582478,AARP,G,200,,msp,2022-07-19,2022-07-19,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173324547,12502651,Robbie,Wright,89321142,Patrick,Stang,89321142,Patrick,Stang,3173780853,A03525451,AARP,G,420,,msp,2022-04-10,2022-04-07,2022-07-01,,,,2022-07-01,False,False,
+3173324547,12502651,Robbie,Wright,89321142,Patrick,Stang,89321142,Patrick,Stang,3173780853,A03525451,AARP,G,420,,msp,2022-04-10,2022-04-07,2022-07-01,2022-10-13,,,2022-07-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173184893,6115401,Linda,Yaffa,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6553221,AHC6553221,AETNA,G,475,,msp,2021-09-29,,2022-01-01,,,,2022-01-01,False,False,
+3173184893,6115401,Linda,Yaffa,89321142,Patrick,Stang,89321142,Patrick,Stang,AHC6553221,AHC6553221,AETNA,G,475,,msp,2021-09-29,,2022-01-01,2022-11-23,,,2022-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173149873,5560401,Jing,Yang,89321142,Patrick,Stang,89321142,Patrick,Stang,3100307598,A03362227,AARP,G,200,,msp,2021-09-14,2021-09-14,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -918,7 +918,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167095157,11828101,Robert,Chainhalt,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,HUMANA,Humana Gold Plus H1036-146 (HMO),200,,map,2022-09-01,2022-09-01,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168400923,19736301,Barbara,Charleson,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AARP/UHC,UnitedHealthcare Medicare Advantage Patriot (Regional PPO),500,,map,2022-08-26,2022-08-25,2022-09-01,,,,2022-09-01,False,False,False
+3168400923,19736301,Barbara,Charleson,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,,AARP/UHC,UnitedHealthcare Medicare Advantage Patriot (Regional PPO),500,,map,2022-08-26,2022-08-25,2022-09-01,2022-10-26,,,2022-09-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168752018,22395851,Leslie,Clauson,89321142,Patrick,Stang,89321142,Patrick,Stang,101565291400,,AETNA,Aetna Medicare Premier Plan (HMO-POS),200,,map,2022-10-19,2022-10-17,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -974,7 +974,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3325724526,23503401,Robert,Glover,89321142,Patrick,Stang,89321142,Patrick,Stang,35504982,,WELLCARE,Wellcare No Premium Open (PPO),200,,map,2022-10-17,2022-10-17,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168437558,11276501,William,Gonzalez,89321142,Patrick,Stang,89321142,Patrick,Stang,983321873,,AARP/UHC,UnitedHealthcare Dual Complete (PPO D-SNP),510,,map,2022-03-10,2022-03-10,2022-04-01,,2022-10-31,enrolled into a WellCare MAPD,2022-04-01,True,,
+3168437558,11276501,William,Gonzalez,89321142,Patrick,Stang,89321142,Patrick,Stang,983321873,,AARP/UHC,UnitedHealthcare Dual Complete (PPO D-SNP),510,,map,2022-03-10,2022-03-10,2022-04-01,2022-11-06,2022-10-31,enrolled into a WellCare MAPD,2022-04-01,True,,
 3351035036,11276501,William,Gonzalez,89321142,Patrick,Stang,89321142,Patrick,Stang,35529897,,WELLCARE,Wellcare No Premium (HMO),200,,map,2022-10-19,2022-10-18,2022-11-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168515506,22629551,Dinah,Gordon,89321142,Patrick,Stang,89321142,Patrick,Stang,783005,,AARP/UHC,UnitedHealthcare Medicare Advantage Assure (HMO),200,,map,2022-09-30,2022-09-30,2022-10-01,,,,2022-10-01,True,False,

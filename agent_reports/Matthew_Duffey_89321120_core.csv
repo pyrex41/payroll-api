@@ -129,7 +129,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125294,20083101,Thomas,Chisholm,89321120,Matthew,Duffey,89321120,Matthew,Duffey,AHC6645869,AHC6645869,AETNA,G,200,,msp,2022-08-02,,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3182891354,22849101,David,Cholvin,89321120,Matthew,Duffey,89321120,Matthew,Duffey,351546405,,AARP,G,500,,msp,2022-10-10,,2022-11-01,,2022-10-17,Denied in UW,2022-11-01,False,False,False
+3182891354,22849101,David,Cholvin,89321120,Matthew,Duffey,89321120,Matthew,Duffey,351546405,,AARP,G,500,,msp,2022-10-10,,2022-11-01,2022-10-17,2022-10-17,Denied in UW,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117048,20859051,Arlene,Clark,89321120,Matthew,Duffey,89321120,Matthew,Duffey,317077021,A03599850,AARP,G,200,,msp,2022-08-18,2022-08-17,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -292,9 +292,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117258,22099551,Norman,Gordon,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3383788811,A03615317,AARP,N,200,,msp,2022-09-16,2022-09-15,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3566337817,10852351,Kim,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,440,,msp,2022-11-16,,2023-02-01,,,See pinned note. Check with Matt or Kellie for any updates ,2023-02-01,False,False,False
+3566337817,10852351,Kim,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,200,,msp,2022-11-16,,2023-02-01,,,See pinned note. Check with Matt or Kellie for any updates ,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3598866328,24048101,George,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,440,,msp,2022-11-14,2022-11-01,2023-02-01,,,Please see pinned note ,2023-02-01,False,False,False
+3598866328,24048101,George,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,200,,msp,2022-11-14,2022-11-01,2023-02-01,2022-12-08,,Please see pinned note ,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141667,16186501,Cindy,Gray,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3509836601,A03574836,AARP,G,200,,msp,2022-07-06,2022-07-05,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -312,7 +312,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3564330166,23979651,Fred,Hall,89321120,Matthew,Duffey,89321120,Matthew,Duffey,AHL6312487,AHL6312487,AETNA,G,200,,msp,2022-10-28,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173185573,20859451,Darrell,Hallock,89321120,Matthew,Duffey,89321120,Matthew,Duffey,CLI6879616 ,CLI6879616 ,AETNA,G,510,,msp,2022-08-18,,2022-11-01,,2022-10-31,Terminated - Eff date reissue,2022-11-01,True,,
+3173185573,20859451,Darrell,Hallock,89321120,Matthew,Duffey,89321120,Matthew,Duffey,CLI6879616 ,CLI6879616 ,AETNA,G,510,,msp,2022-08-18,,2022-11-01,2022-10-14,2022-10-31,Terminated - Eff date reissue,2022-11-01,True,,
 3658596212,20859451,Darrell,Hallock,89321120,Matthew,Duffey,89321120,Matthew,Duffey,CLI0021518,CLI0021518,AETNA,G,510,,msp,2022-08-18,,2022-11-01,2022-11-02,2022-08-19,app entered in error,2022-11-01,True,,
 3173117013,20859451,Darrell,Hallock,89321120,Matthew,Duffey,89321120,Matthew,Duffey,CLI0021517,CLI0021517,AETNA,G,200,,msp,2022-08-18,2022-08-18,2023-01-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -500,7 +500,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173150304,18637401,Carol,Mason,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3510090602,A03577243,AARP,G,200,,msp,2022-07-11,2022-07-07,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3256345357,21557651,Paula,Matos,89321120,Matthew,Duffey,89321120,Matthew,Duffey,AHC6658623,AHC6658623,AETNA,G,200,,msp,2022-10-14,2022-10-14,2022-12-01,,,,2022-12-01,True,False,
-3168616706,21557651,Paula,Matos,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AETNA,Aetna Medicare Essential Plan (PPO),510,,map,2022-10-10,2022-10-21,2022-12-01,,2022-11-30,MAPD submitted but never effective - client changed to supp/pdp instead,2022-12-01,False,False,False
+3168616706,21557651,Paula,Matos,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AETNA,Aetna Medicare Essential Plan (PPO),510,,map,2022-10-10,2022-10-21,2022-12-01,2022-10-19,2022-11-30,MAPD submitted but never effective - client changed to supp/pdp instead,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4073114539,24584551,Dan,Matthews,89321120,Matthew,Duffey,89321120,Matthew,Duffey,332550308,,AARP,N,200,,msp,2022-11-23,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -734,7 +734,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273711,17211701,Robert,Stack,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3288478039,A03562788,AARP,G,200,,msp,2022-06-09,2022-06-09,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117462,19160451,Thomas,Stafford,89321120,Matthew,Duffey,89321120,Matthew,Duffey,336048914,A03582212,AARP,G,500,,msp,2022-07-19,2022-07-18,2022-09-01,,,,2022-09-01,False,False,
+3173117462,19160451,Thomas,Stafford,89321120,Matthew,Duffey,89321120,Matthew,Duffey,336048914,A03582212,AARP,G,500,,msp,2022-07-19,2022-07-18,2022-09-01,2022-10-27,,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286286,17622151,Johnna,Stafford,89321120,Matthew,Duffey,89321120,Matthew,Duffey,336048914,A03566716,AARP,G,200,,msp,2022-06-17,2022-06-17,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -766,7 +766,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216797,18777001,Ron,Tews,89321120,Matthew,Duffey,89321120,Matthew,Duffey,CLI6865703,CLI6865703,AETNA,G,200,,msp,2022-07-13,2022-07-13,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3480026192,22649901,Maureen,Therrien Frank,89321120,Matthew,Duffey,89321120,Matthew,Duffey,342310136,,AARP,G,410,,msp,2022-10-11,,2023-01-01,,,,2023-01-01,False,False,False
+3480026192,22649901,Maureen,Therrien Frank,89321120,Matthew,Duffey,89321120,Matthew,Duffey,342310136,,AARP,G,410,,msp,2022-10-11,,2023-01-01,2022-12-01,2022-12-01,,2023-01-01,False,False,False
 3778264845,22649901,Maureen,Therrien Frank,89321120,Matthew,Duffey,89321120,Matthew,Duffey,986229995,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-11-09,2022-11-09,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323440,13506751,Renee,Thomas,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3505297949,A03524298,AARP,G,200,,msp,2022-04-07,2022-04-07,2022-05-01,,,,2022-05-01,True,False,
@@ -899,7 +899,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168598884,22680301,Anthony,Alexander,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H42656474,,HUMANA,HumanaChoice H5216-325 (PPO),200,,map,2022-10-18,2022-10-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168564097,7851851,Robert,Allison,89321120,Matthew,Duffey,89321120,Matthew,Duffey,C4043527501,,WELLCARE,Ascension Complete Seton Access (PPO),500,,map,2022-01-31,,2022-02-01,,2022-12-31,started new mapd,2022-02-01,False,False,
+3168564097,7851851,Robert,Allison,89321120,Matthew,Duffey,89321120,Matthew,Duffey,C4043527501,,WELLCARE,Ascension Complete Seton Access (PPO),500,,map,2022-01-31,,2022-02-01,2022-12-09,2022-12-31,started new mapd,2022-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168454190,8993351,Darlene F,Anderson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,117528916,,AARP/UHC,UnitedHealthcare Dual Complete RP (Regional PPO D-SNP),200,,map,2022-07-01,2022-07-01,2022-08-01,2022-06-13,2022-06-02,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -934,7 +934,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3833047697,24447651,Angelika,Boyer,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-279 (PPO),500,,map,2022-11-11,2022-11-11,2023-01-01,2022-11-21,2022-11-21,,2023-01-01,False,,False
 3796998430,24447651,Angelika,Boyer,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AETNA,Aetna Medicare Premier Plus Plan (PPO)  H5521 ‑ 319,500,,map,2022-11-10,2022-11-09,2023-01-01,2022-11-30,2022-11-30,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167055753,5526601,Kim,Boyer-Curtis,89321120,Matthew,Duffey,229799739,Latesa,Pasley,985445035,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2022-04-28,2022-04-25,2022-06-01,,,,2022-06-01,False,False,
+3167055753,5526601,Kim,Boyer-Curtis,89321120,Matthew,Duffey,229799739,Latesa,Pasley,985445035,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2022-04-28,2022-04-25,2022-06-01,2022-10-19,,,2022-06-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168418689,5634501,Anthony,Brown,89321120,Matthew,Duffey,89321120,Matthew,Duffey,925367445,,AARP/UHC,AARP Medicare Advantage Choice (PPO),480,,map,2021-09-08,,2021-12-01,2021-12-31,2021-12-31,,2021-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -996,7 +996,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167182661,17128901,Steven,D Bernstein,89321120,Matthew,Duffey,89321120,Matthew,Duffey,990630300,,AARP/UHC,UnitedHealthcare Medicare Advantage Assure (PPO),200,,map,2022-06-09,,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168654216,17633751,Gary L,Davidson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,996148037,,AARP/UHC,AARP Medicare Advantage Patriot (HMO),500,,map,2022-06-20,,2022-08-01,,2022-10-31,moved from service area,2022-08-01,False,False,
+3168654216,17633751,Gary L,Davidson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,996148037,,AARP/UHC,AARP Medicare Advantage Patriot (HMO),500,,map,2022-06-20,,2022-08-01,2022-11-07,2022-10-31,moved from service area,2022-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168541581,4176501,Patricia,Davies,89321120,Matthew,Duffey,89321120,Matthew,Duffey,NG101493960800.,,AETNA,Aetna Medicare Prime Value (HMO-POS),200,,map,2021-11-22,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1082,7 +1082,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3796998286,23987851,Terry,Jackson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H69549005,,HUMANA,Humana Honor PPO,200,,map,2022-11-10,2022-11-09,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167060104,13745651,Robin,James,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete (PPO D-SNP),510,,map,2022-10-12,2022-10-10,2022-11-01,,2022-10-31,,2022-11-01,False,False,False
+3167060104,13745651,Robin,James,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete (PPO D-SNP),510,,map,2022-10-12,2022-10-10,2022-11-01,2022-11-10,2022-10-31,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168283656,4603901,Roderick,James,89321120,Matthew,Duffey,89321120,Matthew,Duffey,36568757,,CIGNA,Cigna True Choice Medicare (PPO),200,,map,2022-06-14,2022-06-14,2022-07-01,2022-06-13,2022-06-08,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1116,7 +1116,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168325153,5389801,Cheryl,Laster,89321120,Matthew,Duffey,89321120,Matthew,Duffey,462W12367,,ANTHEM,Anthem MediBlue Service (PPO),200,,map,2022-04-05,2022-04-05,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167165542,20497951,Wendell,Lee,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60734124,,HUMANA,Humana Honor R1390-003 (Regional PPO),470,,map,2022-08-25,2022-08-25,2022-09-01,,,,2022-09-01,False,False,
+3167165542,20497951,Wendell,Lee,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60734124,,HUMANA,Humana Honor R1390-003 (Regional PPO),470,,map,2022-08-25,2022-08-25,2022-09-01,2022-12-08,,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168378117,6574951,Harold,Leist,89321120,Matthew,Duffey,89321120,Matthew,Duffey,101512532900,,AETNA,Aetna Medicare Eagle Plan (PPO),480,,map,2021-12-08,,2022-02-01,2022-06-22,2022-04-30,,2022-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1199,7 +1199,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168306980,10539801,Michael,Pasqualetto,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,HumanaChoice H5216-265 (PPO),200,,map,2022-01-20,,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167091464,7430601,Carol,Pastore,89321120,Matthew,Duffey,89321120,Matthew,Duffey,994017380,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2021-10-21,,2021-12-01,,2022-10-31,,2021-12-01,False,False,
+3167091464,7430601,Carol,Pastore,89321120,Matthew,Duffey,89321120,Matthew,Duffey,994017380,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2021-10-21,,2021-12-01,2022-11-07,2022-10-31,,2021-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168574817,10106451,Mark,Pearson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,HUMANA,Humana Honor (HMO),200,,map,2022-03-25,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1269,13 +1269,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168534132,10474301,Stacey,Sult,89321120,Matthew,Duffey,89321120,Matthew,Duffey,983926774,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-01-27,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168695122,20071051,Nelia,Taboy,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AETNA,Aetna Medicare Eagle Plan (PPO),500,,map,2022-10-03,2022-10-03,2022-11-01,,2022-10-31,no part b,2022-11-01,False,False,False
+3168695122,20071051,Nelia,Taboy,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,,AETNA,Aetna Medicare Eagle Plan (PPO),500,,map,2022-10-03,2022-10-03,2022-11-01,2022-11-01,2022-10-31,no part b,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168396196,9234151,Cal,Tenhet,89321120,Matthew,Duffey,89321120,Matthew,Duffey,987867249,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-01-03,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168357459,8417601,Doug,Thomas,89321120,Matthew,Duffey,89321120,Matthew,Duffey,101496185100,,AETNA,Aetna Medicare Eagle Plan (PPO),200,,map,2021-11-24,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3202247066,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,988055089,,AARP/UHC,AARP Medicare Advantage Choice (PPO),510,,map,2022-04-27,,2022-05-01,,2022-08-31,,2022-05-01,True,,
+3202247066,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,988055089,,AARP/UHC,AARP Medicare Advantage Choice (PPO),510,,map,2022-04-27,,2022-05-01,2022-10-20,2022-08-31,,2022-05-01,True,,
 3202247241,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,C4061836401,,WELLCARE,Wellcare No Prem Open (PPO),200,,map,2022-08-03,2022-08-03,2022-09-01,,,,2022-05-01,True,,
 4030440043,8838751,Sharon,Thompson,89321120,Matthew,Duffey,89321120,Matthew,Duffey,H60823279,,HUMANA,HumanaChoice H5216-281 (PPO) ,200,,map,2022-11-21,2022-11-21,2023-01-01,,,,2022-05-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

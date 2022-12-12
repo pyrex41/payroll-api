@@ -1,6 +1,6 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
 3173184852,6565401,ARMANDO,AGUILAR,81157249,Carie,Wright,81157249,Carie,Wright,AHC6553676,AHC6553676,AETNA,G,500,,msp,2021-09-30,,2021-10-01,2021-10-04,2021-10-04,,2021-10-01,False,,
-3192269493,6565401,ARMANDO,AGUILAR,81157249,Carie,Wright,81157249,Carie,Wright,AHC6553634,AHC6553634,AETNA,G,500,,msp,2021-12-30,,2021-12-01,,,,2021-10-01,False,False,
+3192269493,6565401,ARMANDO,AGUILAR,81157249,Carie,Wright,81157249,Carie,Wright,AHC6553634,AHC6553634,AETNA,G,500,,msp,2021-12-30,,2021-12-01,2022-10-11,,,2021-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126270,4021901,Lori,Adams,81157249,Carie,Wright,81157249,Carie,Wright,3100716582,A03383405,AARP,N,200,,msp,2021-10-18,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -468,7 +468,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184885,6208701,April,Thompson,81157249,Carie,Wright,81157249,Carie,Wright,3493434876,A03366481,AARP,G,200,,msp,2021-09-22,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173324175,3857251,Denise,Thompson,81157249,Carie,Wright,81157249,Carie,Wright,3477729887,A03361586,AARP,G,420,,msp,2021-09-13,,2021-10-01,,2022-10-31,,2021-10-01,False,False,
+3173324175,3857251,Denise,Thompson,81157249,Carie,Wright,81157249,Carie,Wright,3477729887,A03361586,AARP,G,420,,msp,2021-09-13,,2021-10-01,2022-11-06,2022-10-31,,2021-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711722,8282701,Phyllis,Tinker,81157249,Carie,Wright,81157249,Carie,Wright,3496760996,349676099,AARP,G,200,,msp,2021-12-20,2021-12-20,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

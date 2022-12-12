@@ -9,7 +9,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3275255827,20816351,Zeny,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,3512561998,,AARP,G,200,,msp,2022-10-14,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3275255838,21101151,Dante,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,351256199,,AARP,G,500,,msp,2022-10-14,,2023-01-01,,2022-11-18,Denied in UW,2023-01-01,True,,False
+3275255838,21101151,Dante,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,351256199,,AARP,G,500,,msp,2022-10-14,,2023-01-01,2022-11-18,2022-11-18,Denied in UW,2023-01-01,True,,False
 4026785548,21101151,Dante,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,3512561998,,AARP,G,200,Not Commissionable,msp,2022-11-21,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177718,18296251,Annette,Aldridge,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6639189,AHC6639189,AETNA,N,200,,msp,2022-06-27,,2022-08-01,,,,2022-08-01,True,False,
@@ -173,11 +173,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173332242,13361651,Wanda,Busekist,66410900,Nick,Thompson,66410900,Nick,Thompson,3509773440,A03536881,AARP,G,200,,msp,2022-04-28,,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173116553,6752301,Sandra,Butler,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6556039,AHC6556039,AETNA,G,500,,msp,2021-10-06,,2021-11-01,2022-04-09,2021-10-31,,2021-11-01,False,,
-3173243753,6752301,Sandra,Butler,66410900,Nick,Thompson,66410900,Nick,Thompson,349521951,,AARP,G,500,,msp,2021-10-25,,2022-01-01,,2021-12-31,,2021-11-01,False,False,False
+3173243753,6752301,Sandra,Butler,66410900,Nick,Thompson,66410900,Nick,Thompson,349521951,,AARP,G,500,,msp,2021-10-25,,2022-01-01,2022-10-11,2021-12-31,,2021-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711181,1978601,Gail,Buttrick,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6643940,CLI6643940,AETNA,G,500,,msp,2021-04-29,2021-04-28,2021-09-01,2022-05-15,2022-03-31,,2021-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170712243,21587501,Gloria,Cabrera,66410900,Nick,Thompson,66410900,Nick,Thompson,3515179160,,AARP,G,500,,msp,2022-10-05,,2023-01-01,,2022-10-10,Denied in UW,2023-01-01,False,False,False
+3170712243,21587501,Gloria,Cabrera,66410900,Nick,Thompson,66410900,Nick,Thompson,3515179160,,AARP,G,500,,msp,2022-10-05,,2023-01-01,2022-10-11,2022-10-10,Denied in UW,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3948753080,24380701,Michael,Campbell,66410900,Nick,Thompson,66410900,Nick,Thompson,3517798355,,AARP,N,200,,msp,2022-11-17,,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -219,7 +219,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177003,2058401,Bruce,Chastain,66410900,Nick,Thompson,66410900,Nick,Thompson,3486573441,A03268372,AARP,G,200,,msp,2021-06-01,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173149780,5938651,Ann,Chavenson,66410900,Nick,Thompson,66410900,Nick,Thompson,576445472,576445472,AARP,M1A,470,,msp,2021-10-15,,2021-11-01,,2022-10-31,,2021-11-01,False,False,
+3173149780,5938651,Ann,Chavenson,66410900,Nick,Thompson,66410900,Nick,Thompson,576445472,576445472,AARP,M1A,470,,msp,2021-10-15,,2021-11-01,2022-12-04,2022-10-31,,2021-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286666,2642951,James,Chester,66410900,Nick,Thompson,66410900,Nick,Thompson,3261893170,A03351153,AARP,G,200,,msp,2021-08-24,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -317,13 +317,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3685694064,24170901,Mary,Decker,66410900,Nick,Thompson,66410900,Nick,Thompson,3516992017,,AARP / UHICA,G,200,,msp,2022-11-03,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3499888415,23836301,Carol,Del Gallo,66410900,Nick,Thompson,66410900,Nick,Thompson,3131747747,,AARP,G,500,,msp,2022-10-25,,2023-01-01,,2022-10-31,Denied in UW,2023-01-01,False,,False
-3549799041,23836301,Carol,Del Gallo,66410900,Nick,Thompson,66410900,Nick,Thompson,No ID- canceled,No ID- canceled,MUTUAL OF OMAHA,G,500,,msp,2022-10-27,,2023-01-01,,2022-10-31,,2023-01-01,False,False,
+3499888415,23836301,Carol,Del Gallo,66410900,Nick,Thompson,66410900,Nick,Thompson,3131747747,,AARP,G,500,,msp,2022-10-25,,2023-01-01,2022-10-31,2022-10-31,Denied in UW,2023-01-01,False,,False
+3549799041,23836301,Carol,Del Gallo,66410900,Nick,Thompson,66410900,Nick,Thompson,No ID- canceled,No ID- canceled,MUTUAL OF OMAHA,G,500,,msp,2022-10-27,,2023-01-01,2022-11-08,2022-10-31,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3268976422,23228501,John,Delaney,66410900,Nick,Thompson,66410900,Nick,Thompson,3410884435,,AARP / UHICA,G,200,,msp,2022-10-14,,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4231443743,24721401,Carmen,Della Terza,66410900,Nick,Thompson,66410900,Nick,Thompson,H77567774,,HUMANA,G,200,,msp,2022-11-30,,2023-01-01,,,,2023-01-01,True,,False
-3969119609,24721401,Carmen,Della Terza,66410900,Nick,Thompson,66410900,Nick,Thompson,417373-96,417373-96,MUTUAL OF OMAHA,N,510,,msp,2022-11-22,2022-11-18,2023-01-01,,2022-11-30,Declined in UW,2023-01-01,True,,
+3969119609,24721401,Carmen,Della Terza,66410900,Nick,Thompson,66410900,Nick,Thompson,417373-96,417373-96,MUTUAL OF OMAHA,N,510,,msp,2022-11-22,2022-11-18,2023-01-01,2022-11-29,2022-11-30,Declined in UW,2023-01-01,True,,
 4231205445,24721401,Carmen,Della Terza,66410900,Nick,Thompson,66410900,Nick,Thompson,80Y0436465,80Y0436465,CIGNA,G,330,,msp,2022-11-30,,2023-01-01,,,,2023-01-01,True,,
 4247488065,24721401,Carmen,Della Terza,66410900,Nick,Thompson,66410900,Nick,Thompson,80Y0436635,80Y0436635,CIGNA,N,330,,msp,2022-12-01,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -434,7 +434,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173392971,1636101,Jay,Fritz,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6573195,AHC6573195,AETNA,G,200,,msp,2021-11-06,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173273398,10674901,Rosaber,Fuentes,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6648699,AHC6648699,AETNA,N,500,,msp,2022-08-18,,2022-10-01,,2022-11-01,,2022-10-01,False,False,
+3173273398,10674901,Rosaber,Fuentes,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6648699,AHC6648699,AETNA,N,500,,msp,2022-08-18,,2022-10-01,2022-11-16,2022-11-01,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185317,12761201,KEVIN,GETTY,66410900,Nick,Thompson,66410900,Nick,Thompson,3373773963,A03512244,AARP,N,200,,msp,2022-03-21,2022-03-18,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -485,7 +485,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173142040,4948751,Julie,Gudmundsen,66410900,Nick,Thompson,66410900,Nick,Thompson,3493069383,A03363365,AARP,G,200,,msp,2021-09-15,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4045573017,19567251,Stanley,Guerra,66410900,Nick,Thompson,66410900,Nick,Thompson,3178250092,,AARP,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2023-01-01,True,,False
-3173196316,19567251,Stanley,Guerra,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6645316,AHC6645316,AETNA,N,410,,msp,2022-07-29,,2023-01-01,,,,2023-01-01,True,False,
+3173196316,19567251,Stanley,Guerra,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6645316,AHC6645316,AETNA,N,410,,msp,2022-07-29,,2023-01-01,2022-11-22,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184784,6420051,Carolyn,Gunnels,66410900,Nick,Thompson,66410900,Nick,Thompson,3017647698,A03373542,AARP,G,200,,msp,2021-09-29,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -511,7 +511,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259300,22606201,Anitra,Harris,66410900,Nick,Thompson,66410900,Nick,Thompson,3432086449,,AARP,G,200,,msp,2022-11-16,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4270627757,25138801,Anita,Harrison,66410900,Nick,Thompson,66410900,Nick,Thompson,438368-96,438368-96,MUTUAL OF OMAHA,G,450,,msp,2022-12-05,,2023-01-01,,2022-12-08,declined in UW,2023-01-01,False,False,
+4270627757,25138801,Anita,Harrison,66410900,Nick,Thompson,66410900,Nick,Thompson,438368-96,438368-96,MUTUAL OF OMAHA,G,450,,msp,2022-12-05,,2023-01-01,2022-12-08,2022-12-08,declined in UW,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177115,2043201,Michele,Hart,66410900,Nick,Thompson,66410900,Nick,Thompson,3162414498,A03253110,AARP,G,200,,msp,2021-05-05,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -608,8 +608,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4319594566,25370151,Raymond,Karwacki,66410900,Nick,Thompson,66410900,Nick,Thompson,60Y0052010,60Y0052010,CIGNA,G,200,,msp,2022-12-05,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4178336525,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,3059786669,,AARP,G,510,,msp,2022-11-28,2022-11-28,2023-01-01,,,,2023-01-01,True,,False
-4110445066,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6927791,CLI6927791,AETNA,G,510,,msp,2022-11-23,,2023-01-01,,2022-12-31,She went with Anthem instead,2023-01-01,True,,
+4178336525,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,3059786669,,AARP,G,510,,msp,2022-11-28,2022-11-28,2023-01-01,2022-11-30,,,2023-01-01,True,,False
+4110445066,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6927791,CLI6927791,AETNA,G,510,,msp,2022-11-23,,2023-01-01,2022-12-01,2022-12-31,She went with Anthem instead,2023-01-01,True,,
 4176534444,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,813W14830,813W14830,ANTHEM,G,200,,msp,2022-11-28,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3557924532,23844351,Stephen,Kaye,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6662728,AHC6662728,AETNA,G,200,,msp,2022-10-28,,2023-01-01,,,,2023-01-01,True,False,
@@ -683,7 +683,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4249944179,25182051,Melinda,Leahy,66410900,Nick,Thompson,66410900,Nick,Thompson,3408026429,,AARP,G,200,,msp,2022-12-01,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3697095512,23889401,Eugene,Lebron,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6664963,AHC6664963,AETNA,N,500,,msp,2022-11-04,,2023-01-01,,2022-11-04,,2023-01-01,False,False,
+3697095512,23889401,Eugene,Lebron,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6664963,AHC6664963,AETNA,N,500,,msp,2022-11-04,,2023-01-01,2022-12-09,2022-11-04,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117273,22201601,David,Lee,66410900,Nick,Thompson,66410900,Nick,Thompson,AHL6310573,AHL6310573,AETNA,G,200,,msp,2022-09-19,,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -762,7 +762,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258761,2200751,Fruma,Markowitz,66410900,Nick,Thompson,66410900,Nick,Thompson,3142814213,A03260245,AARP,G,200,,msp,2021-05-13,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173216854,18760101,Valic,Marsh,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,*PENDING,ANTHEM,G,500,,msp,2022-10-29,,2022-11-01,,2022-11-01,She never signed the app so never actually submitted ,2022-11-01,False,False,
+3173216854,18760101,Valic,Marsh,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,*PENDING,ANTHEM,G,500,,msp,2022-10-29,,2022-11-01,2022-11-04,2022-11-01,She never signed the app so never actually submitted ,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286322,3574951,Jaime,Martinez,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6529734,AHC6529734,AETNA,G,200,,msp,2021-07-15,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -830,7 +830,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258771,2264051,Jose,Mendoza,66410900,Nick,Thompson,66410900,Nick,Thompson,3275411712,A03260495,AARP,G,200,,msp,2021-05-18,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173057668,10515101,Judith,Menendez,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6624003,AHC6624003,AETNA,N,510,,msp,2022-04-07,,2022-08-01,,2022-12-31,went on a MAPD,2022-08-01,False,False,
+3173057668,10515101,Judith,Menendez,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6624003,AHC6624003,AETNA,N,510,,msp,2022-04-07,,2022-08-01,2022-12-08,2022-12-31,went on a MAPD,2022-08-01,False,False,
 4199846438,10515101,Judith,Menendez,66410900,Nick,Thompson,66410900,Nick,Thompson,H77564315,,HUMANA,Humana Honor,200,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324670,13582951,George,Menendez,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6635394 ,AHC6635394 ,AETNA,F,510,,msp,2022-06-07,,2022-07-01,,,,2022-07-01,False,,
@@ -890,7 +890,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323782,4566603,Bruce,Murphy,66410900,Nick,Thompson,66410900,Nick,Thompson,334355025,A02980922,AARP,G,200,,msp,2020-06-15,,2020-07-01,,,,2020-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3293259406,22989351,Donna,Musick,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,Pending Member ID,AETNA,N,480,,msp,,2022-11-01,2023-05-01,,,,2023-05-01,True,,False
+3293259406,22989351,Donna,Musick,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,Pending Member ID,AETNA,N,480,,msp,,2022-11-01,2023-05-01,2022-10-21,2022-10-21,,2023-05-01,True,,False
 3428242857,22989351,Donna,Musick,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6663752,AHC6663752,AETNA,G,200,,msp,2022-11-01,2022-11-01,2023-05-01,,,,2023-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323352,14250351,Carolina,Myers,66410900,Nick,Thompson,66410900,Nick,Thompson,3514071855,,AARP,G,200,,msp,2022-10-31,,2022-12-01,,,,2022-12-01,True,False,False
@@ -906,11 +906,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173273696,17343151,Marquita,Nelson,66410900,Nick,Thompson,66410900,Nick,Thompson,ACC6626510,ACC6626510,AETNA ACCENDO,G,200,,msp,2022-06-15,,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3547576440,23847451,William,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,*PENDING,AETNA,G,510,,msp,2022-10-26,,2023-01-01,2022-10-27,2022-10-31,,2023-01-01,False,,
-3549798951,23847451,William,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,380937-96,380937-96,MUTUAL OF OMAHA,G,500,,msp,2022-10-27,,2023-01-01,,2022-11-02,Denied in UW,2023-01-01,False,False,
+3549798951,23847451,William,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,380937-96,380937-96,MUTUAL OF OMAHA,G,500,,msp,2022-10-27,,2023-01-01,2022-11-03,2022-11-02,Denied in UW,2023-01-01,False,False,
 3835021222,23847451,William,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,H69553344,,HUMANA,Choice PPO ,200,,map,2022-11-12,2022-11-11,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3549799007,23951601,Yolonda,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6661999,AHC6661999,AETNA,G,200,,msp,2022-10-26,,2023-01-01,,,,2023-01-01,True,,
-3549799016,23951601,Yolonda,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,389085-96,389085-96,MUTUAL OF OMAHA,G,510,,msp,2022-10-27,,2023-01-01,,2022-12-08,,2023-01-01,True,False,
+3549799016,23951601,Yolonda,Newman,66410900,Nick,Thompson,66410900,Nick,Thompson,389085-96,389085-96,MUTUAL OF OMAHA,G,510,,msp,2022-10-27,,2023-01-01,2022-12-08,2022-12-08,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125501,7604351,Cynthia,Newsome,66410900,Nick,Thompson,66410900,Nick,Thompson,3193841875,319384187-1,AARP,G,200,,msp,2021-11-15,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -952,9 +952,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173185370,12913301,James,Orellana,66410900,Nick,Thompson,66410900,Nick,Thompson,3515351991,,AARP / UHICA,G,200,,msp,2022-10-08,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4138704478,24637051,Brenda,Osentoski,66410900,Nick,Thompson,66410900,Nick,Thompson,3518283191,,AARP,G,200,,msp,2022-11-26,,2023-01-01,,,,2023-01-01,True,,False
-3889320243,24637051,Brenda,Osentoski,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6921259,CLI6921259,AETNA,N,510,,msp,2022-11-14,,2023-01-01,,2022-12-14,,2023-01-01,True,,
+3889320243,24637051,Brenda,Osentoski,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6921259,CLI6921259,AETNA,N,510,,msp,2022-11-14,,2023-01-01,2022-12-09,2022-12-14,,2023-01-01,True,,
 3896290343,24637051,Brenda,Osentoski,66410900,Nick,Thompson,66410900,Nick,Thompson,420501-96,420501-96,MUTUAL OF OMAHA,G,200,,msp,2022-11-14,,2023-01-01,,,,2023-01-01,True,,
-4138704505,24637051,Brenda,Osentoski,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6928255,CLI6928255,AETNA,G,510,,msp,2022-11-26,,2023-01-01,,2022-12-26,,2023-01-01,True,False,
+4138704505,24637051,Brenda,Osentoski,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6928255,CLI6928255,AETNA,G,510,,msp,2022-11-26,,2023-01-01,2022-12-09,2022-12-26,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4111227320,23823451,David,O’Neal,66410900,Nick,Thompson,66410900,Nick,Thompson,3518281286,,AARP / UHICA,N,200,,msp,2022-11-25,,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -979,7 +979,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173324194,3881601,Diana,Patterson,66410900,Nick,Thompson,66410900,Nick,Thompson,ACI6229216,ACI6229216,AETNA,G,200,,msp,2021-07-26,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4261761904,24964451,Sandra,Pearson,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,*PENDING,MUTUAL OF OMAHA,N,110,,msp,2022-12-02,2022-12-01,2023-01-01,,,,2023-01-01,False,,
-4031305063,24964451,Sandra,Pearson,66410900,Nick,Thompson,66410900,Nick,Thompson,417366-96,417366-96,MUTUAL OF OMAHA,N,510,,msp,2022-11-22,2022-11-21,2023-01-01,,2022-11-23,,2023-01-01,False,False,
+4031305063,24964451,Sandra,Pearson,66410900,Nick,Thompson,66410900,Nick,Thompson,417366-96,417366-96,MUTUAL OF OMAHA,N,510,,msp,2022-11-22,2022-11-21,2023-01-01,2022-12-08,2022-11-23,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324408,12379101,Kathleen,Peltier,66410900,Nick,Thompson,66410900,Nick,Thompson,3116404942,A03512912,AARP,G,200,,msp,2022-03-22,,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1017,7 +1017,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185348,12859201,Wray,Powell,66410900,Nick,Thompson,66410900,Nick,Thompson,3504436175,A03515716,AARP,G,200,,msp,2022-03-25,,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173149810,5686501,Dana,Prieto,66410900,Nick,Thompson,66410900,Nick,Thompson,3492638816,A03359297,AARP,G,470,,msp,2021-09-08,,2021-10-01,,2022-11-30,,2021-10-01,False,False,
+3173149810,5686501,Dana,Prieto,66410900,Nick,Thompson,66410900,Nick,Thompson,3492638816,A03359297,AARP,G,470,,msp,2021-09-08,,2021-10-01,2022-12-09,2022-11-30,,2021-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125537,7568451,Sharon,Prince,66410900,Nick,Thompson,66410900,Nick,Thompson,3216474183,A03387973,AARP,G,200,,msp,2021-10-22,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1027,7 +1027,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332112,13465901,Doris,Quiggle,66410900,Nick,Thompson,66410900,Nick,Thompson,3377220177,A03526904,AARP,G,200,,msp,2022-04-12,,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3222742023,21088201,Robin,Quinn,66410900,Nick,Thompson,66410900,Nick,Thompson,3515601437,,AARP,G,500,,msp,2022-10-13,,2023-01-01,,2022-10-20,Denied in UW,2023-01-01,True,,False
+3222742023,21088201,Robin,Quinn,66410900,Nick,Thompson,66410900,Nick,Thompson,3515601437,,AARP,G,500,,msp,2022-10-13,,2023-01-01,2022-10-20,2022-10-20,Denied in UW,2023-01-01,True,,False
 3481147262,21088201,Robin,Quinn,66410900,Nick,Thompson,66410900,Nick,Thompson,126W14341,126W14341,ANTHEM,G,200,,msp,2022-10-24,,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057389,7220452,Charles,Racke,66410900,Nick,Thompson,66410900,Nick,Thompson,784594-95,784594-95,MUTUAL OF OMAHA,G,200,,msp,2021-10-25,,2022-01-01,,,,2022-01-01,True,False,
@@ -1036,7 +1036,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177391,4149351,Michael,Rager,66410900,Nick,Thompson,66410900,Nick,Thompson,3397062211,A03313736,AARP,G,200,,msp,2021-08-03,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170711821,12364551,Michelle,Randolph-Jones,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6851926,CLI6851926,AETNA,G,420,,msp,2022-06-07,,2022-12-01,,,,2022-12-01,False,False,
+3170711821,12364551,Michelle,Randolph-Jones,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6851926,CLI6851926,AETNA,G,420,,msp,2022-06-07,,2022-12-01,2022-11-11,,going through employer,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4286328848,25385151,Ruth,Ranieri,66410900,Nick,Thompson,66410900,Nick,Thompson,3191684822,,AARP / UHICA,G,200,,msp,2022-12-03,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1129,7 +1129,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173116849,6924501,Robert,Seaman,66410900,Nick,Thompson,66410900,Nick,Thompson,764886-95,764886-95,MUTUAL OF OMAHA,HDPG,200,,msp,2021-10-08,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3544627120,23701901,Monica,Sebenick,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6910045,CLI6910045,AETNA,G,500,,msp,2022-10-27,,2022-11-01,,2022-11-02,declined in UW,2022-11-01,False,,
+3544627120,23701901,Monica,Sebenick,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6910045,CLI6910045,AETNA,G,500,,msp,2022-10-27,,2022-11-01,2022-11-03,2022-11-02,declined in UW,2022-11-01,False,,
 3850801676,23701901,Monica,Sebenick,66410900,Nick,Thompson,66410900,Nick,Thompson,3119120701,,AARP,G,330,,msp,2022-11-12,,2023-01-01,,,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258763,2250301,Sterling,Seville,66410900,Nick,Thompson,66410900,Nick,Thompson,ACI6228572,ACI6228572,AETNA,G,500,,msp,2021-05-27,,2021-07-01,2022-05-15,2021-12-31,,2021-07-01,False,False,
@@ -1218,7 +1218,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323952,149751,Ruofei,Sun,66410900,Nick,Thompson,66410900,Nick,Thompson,3485264034,A03253938,AARP,G,200,,msp,2021-05-06,2021-05-06,2021-06-01,,,,2021-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3271353667,23404001,Paul,Swoboda,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6658836,AHC6658836,AETNA,G,420,,msp,2022-10-14,,2022-11-01,,2022-11-30,,2022-11-01,False,False,
+3271353667,23404001,Paul,Swoboda,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6658836,AHC6658836,AETNA,G,420,,msp,2022-10-14,,2022-11-01,2022-12-04,2022-11-30,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4348079400,25368101,SUZANNE,TATE,66410900,Nick,Thompson,66410900,Nick,Thompson,AHC6676314,AHC6676314,AETNA,G,120,,msp,2022-12-06,,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1369,7 +1369,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173323421,13644601,Susan,Wood,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6831509,CLI6831509,AETNA,N,200,,msp,2022-04-18,2022-04-18,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3718517812,24165701,Patricia,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6914002,CLI6914002,AETNA,G,200,,msp,2022-11-02,,2023-01-01,,,,2023-01-01,True,,
-3718517830,24165701,Patricia,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,393262-96,393262-96,MUTUAL OF OMAHA,G,510,,msp,2022-11-05,,2023-01-01,,2022-11-09,Declined in UW ,2023-01-01,True,False,
+3718517830,24165701,Patricia,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,393262-96,393262-96,MUTUAL OF OMAHA,G,510,,msp,2022-11-05,,2023-01-01,2022-11-10,2022-11-09,Declined in UW ,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3995497652,23443251,Dennis,Worthem,66410900,Nick,Thompson,66410900,Nick,Thompson,CLI6925306,CLI6925306,AETNA,G,200,,msp,2022-11-19,,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1426,7 +1426,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166999364,8186301,Thelma,Allard,66410900,Nick,Thompson,66410900,Nick,Thompson,991660684,,AARP/UHC,Medicare Advantage Choice PPO,200,,map,2021-11-04,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168304043,7183351,Donald,Allard,66410900,Nick,Thompson,66410900,Nick,Thompson,938676498,,AARP/UHC,AARP Medicare Advantage Choice PPO,430,,map,2021-11-15,,2022-01-01,,,,2022-01-01,False,False,
+3168304043,7183351,Donald,Allard,66410900,Nick,Thompson,66410900,Nick,Thompson,938676498,,AARP/UHC,AARP Medicare Advantage Choice PPO,430,,map,2021-11-15,,2022-01-01,2022-10-19,,,2022-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168265590,6146201,Martha,Alvarado-Hernandez,66410900,Nick,Thompson,66410900,Nick,Thompson,101523472500,,AETNA,Medicare Value H5521-086,480,,map,2022-01-27,2022-01-28,2022-02-01,2022-06-22,2022-05-31,,2022-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1434,8 +1434,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167001707,10501601,Glen,Babcock,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,HUMANA,Humana Honor (PPO),200,,map,2022-03-22,2022-03-22,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3892992086,22550951,Edward,Baber,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,HUMANA,Gold Plus HMO ,470,,map,2022-11-14,,2022-12-01,,,No Policy Found- no part b,2022-12-01,False,,False
-3624556189,22550951,Edward,Baber,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,WELLCARE,Giveback Open PPO ,510,,map,,2022-11-04,2022-12-01,,,,2022-12-01,False,False,False
+3892992086,22550951,Edward,Baber,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,HUMANA,Gold Plus HMO ,470,,map,2022-11-14,,2022-12-01,2022-12-08,,No Policy Found- no part b,2022-12-01,False,,False
+3624556189,22550951,Edward,Baber,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,WELLCARE,Giveback Open PPO ,510,,map,,2022-11-04,2022-12-01,2022-11-14,,,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168360030,12627801,David,Baker,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),330,,map,2022-10-28,2022-10-28,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1530,7 +1530,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168694626,17485801,Carol,Frye,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,HUMANA,Humana Gold Plus H6622-013 (HMO),200,,map,2022-06-14,,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3757994666,24360351,Vernita,Gardner,66410900,Nick,Thompson,66410900,Nick,Thompson,017W14526,,ANTHEM,MediBlue Plus ,200,,map,2022-11-10,2022-11-07,2022-12-01,,,,2022-12-01,True,,
-3758928902,24360351,Vernita,Gardner,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERIVANTAGE,MyChoice CalPlus HMO,480,,map,,,,,2022-11-08,,2022-12-01,True,False,False
+3758928902,24360351,Vernita,Gardner,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AMERIVANTAGE,MyChoice CalPlus HMO,480,,map,,,,2022-11-09,2022-11-08,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168245117,4078551,Ronnie,George,66410900,Nick,Thompson,66410900,Nick,Thompson,MEBVXX7C,,AETNA,Medicare Freedom PPO,200,,map,2021-09-21,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1557,7 +1557,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168468151,2439501,Paul,Hays,66410900,Nick,Thompson,66410900,Nick,Thompson,913560951,,AARP/UHC,AARP MEDICARE ADVANTAGE CHOICE PLAN 2 (PPO),200,,map,2021-06-01,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168716390,21784251,Susan,Helms,66410900,Nick,Thompson,66410900,Nick,Thompson,35594177,,WELLCARE,Giveback HMO ,200,,map,2022-10-25,2022-10-19,2022-11-01,,,,2022-11-01,True,,
-3361541010,21784251,Susan,Helms,66410900,Nick,Thompson,66410900,Nick,Thompson,995020170,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),510,,map,2022-10-19,2022-11-15,2023-01-01,,2022-12-31,,2022-11-01,True,,False
+3361541010,21784251,Susan,Helms,66410900,Nick,Thompson,66410900,Nick,Thompson,995020170,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),510,,map,2022-10-19,2022-11-15,2023-01-01,2022-10-31,2022-12-31,,2022-11-01,True,,False
 3620206733,21784251,Susan,Helms,66410900,Nick,Thompson,66410900,Nick,Thompson,995020170,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-11-15,2022-11-15,2023-01-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167180617,10836201,Cindy,Helou,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,HUMANA,Gold Plus H0028-030,200,,map,2022-01-31,2022-01-31,2022-03-01,,,,2022-03-01,True,False,
@@ -1796,7 +1796,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168858916,21319251,carl,griffin,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,HUMANA,HumanaChoice H5216-043 (PPO),200,,map,2022-09-13,2022-09-12,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168579913,22632551,Patricia,iolavera,66410900,Nick,Thompson,66410900,Nick,Thompson,988473449,,AARP/UHC,AARP Medicare Advantage Patriot (PPO),500,,map,2022-10-07,,2022-11-01,,2022-11-30,got group coverage,2022-11-01,False,False,
+3168579913,22632551,Patricia,iolavera,66410900,Nick,Thompson,66410900,Nick,Thompson,988473449,,AARP/UHC,AARP Medicare Advantage Patriot (PPO),500,,map,2022-10-07,,2022-11-01,2022-12-09,2022-11-30,got group coverage,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168573595,8078501,Esther,miller,66410900,Nick,Thompson,66410900,Nick,Thompson,981849216,,AARP/UHC,Choice Plan 1 PPO,200,,map,2021-12-30,,2022-01-01,2021-12-07,2021-12-07,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

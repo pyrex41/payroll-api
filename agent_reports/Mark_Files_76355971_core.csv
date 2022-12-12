@@ -3,7 +3,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324570,12493901,Bethany,ALEXANDER,76355971,Mark,Files,76355971,Mark,Files,ACC6570509,ACC6570509,AETNA ACCENDO,G,200,,msp,2022-03-16,2022-03-16,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3989854112,24448951,Syed,Ahmed,76355971,Mark,Files,76355971,Mark,Files,3517933002,,AARP,G,450,,msp,2022-11-24,2022-11-19,2023-01-01,,,This app was denied due to Underwriting's review of the medical history,2023-01-01,False,False,False
+3989854112,24448951,Syed,Ahmed,76355971,Mark,Files,76355971,Mark,Files,3517933002,,AARP,G,450,,msp,2022-11-24,2022-11-19,2023-01-01,2022-12-01,,This app was denied due to Underwriting's review of the medical history,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3794504369,24448101,Pamela,Alexander,76355971,Mark,Files,76355971,Mark,Files,3087832154,,AARP,G,200,,msp,2022-11-17,2022-11-11,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -13,7 +13,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126302,3949901,Debra,Anderson,76355971,Mark,Files,76355971,Mark,Files,CLI6688139,CLI6688139,AETNA,G,500,,msp,2021-07-27,,2021-08-01,2022-02-08,2021-12-31,,2021-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173195937,9345501,Timothy,Angleton,76355971,Mark,Files,76355971,Mark,Files,ACI6231399,ACI6231399,AETNA,G,475,,msp,2022-02-08,2022-02-08,2022-04-01,,,,2022-04-01,False,False,
+3173195937,9345501,Timothy,Angleton,76355971,Mark,Files,76355971,Mark,Files,ACI6231399,ACI6231399,AETNA,G,475,,msp,2022-02-08,2022-02-08,2022-04-01,2022-11-09,,,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216592,3280801,Steven,Anglin,76355971,Mark,Files,76355971,Mark,Files,AHC6527409,AHC6527409,AETNA,G,200,,msp,2021-07-08,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -51,7 +51,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4343156918,25225001,Leonard,Bauman,76355971,Mark,Files,76355971,Mark,Files,3460633898,,AARP,G,330,,msp,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3709196635,24245751,Kathryn,Bauman,76355971,Mark,Files,76355971,Mark,Files,CLI6915936,CLI6915936,AETNA,G,500,,msp,2022-11-04,2022-11-05,2022-12-01,,2022-11-07,declined in UW,2022-12-01,False,False,
+3709196635,24245751,Kathryn,Bauman,76355971,Mark,Files,76355971,Mark,Files,CLI6915936,CLI6915936,AETNA,G,500,,msp,2022-11-04,2022-11-05,2022-12-01,2022-11-08,2022-11-07,declined in UW,2022-12-01,False,False,
 4074037350,24245751,Kathryn,Bauman,76355971,Mark,Files,76355971,Mark,Files,H65277026,,HUMANA,HumanaChoice Florida H7284-006 (PPO),200,,map,2022-11-28,2022-11-25,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173149775,5911501,Loraine,Baxter,76355971,Mark,Files,76355971,Mark,Files,3146781228,A03365846,AARP,G,200,,msp,2021-09-21,,2021-11-01,,,,2021-11-01,True,True,
@@ -232,7 +232,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117267,22151501,Kathy,Creamer,76355971,Mark,Files,76355971,Mark,Files,AHC6653440,AHC6653440,AETNA,G,200,,msp,2022-09-16,2022-09-16,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332805,21242251,Sheree,Crews,76355971,Mark,Files,76355971,Mark,Files,3513616064,,AARP,G,500,,msp,2022-09-08,2022-09-09,2022-10-01,,2022-10-03,GI paperwork not received in time,2022-10-01,True,,False
+3173332805,21242251,Sheree,Crews,76355971,Mark,Files,76355971,Mark,Files,3513616064,,AARP,G,500,,msp,2022-09-08,2022-09-09,2022-10-01,2022-10-17,2022-10-03,GI paperwork not received in time,2022-10-01,True,,False
 3333697044,21242251,Sheree,Crews,76355971,Mark,Files,76355971,Mark,Files,3513616064,A03638692,AARP,G,200,Commissionable - Reviewed,msp,2022-10-18,2022-10-18,2022-11-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3620007513,21523201,Laurie,Cunningham,76355971,Mark,Files,76355971,Mark,Files,AHC6663643,AHC6663643,AETNA,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,2023-01-01,True,False,
@@ -296,7 +296,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4248264042,25036651,James,Dunn,76355971,Mark,Files,76355971,Mark,Files,ACC6726850,ACC6726850,AETNA ACCENDO,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4248511391,25322651,Brenda,Dunn,76355971,Mark,Files,76355971,Mark,Files,ACC6726898,ACC6726898,AETNA ACCENDO,G,450,,msp,2022-12-01,2022-12-01,2023-01-01,,2022-12-07,Denied in UW,2023-01-01,False,False,
+4248511391,25322651,Brenda,Dunn,76355971,Mark,Files,76355971,Mark,Files,ACC6726898,ACC6726898,AETNA ACCENDO,G,450,,msp,2022-12-01,2022-12-01,2023-01-01,2022-12-07,2022-12-07,Denied in UW,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126305,3964901,Peggy,Duvall,76355971,Mark,Files,76355971,Mark,Files,AHC6553603,AHC6553603,AETNA,G,200,,msp,2021-09-30,2021-09-30,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -390,8 +390,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3989740207,24692001,Wilhelmina,Gebeal,76355971,Mark,Files,76355971,Mark,Files,3517933002,,AARP,G,200,,msp,2022-11-24,2022-11-19,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308752,14620451,Gary,Geisler,76355971,Mark,Files,76355971,Mark,Files,ACC6596318,ACC6596318,AETNA ACCENDO,G,200,,msp,2022-04-26,2022-04-26,2022-07-01,,,,2022-07-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-4246504208,25021101,Denise,Gerds,57373696,Garrett,McKinzie,76355971,Mark,Files,3092200363,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141584,13239201,Mikhail,Geykhman,76355971,Mark,Files,76355971,Mark,Files,3509129494,A03566532,AARP,G,200,,msp,2022-06-16,2022-03-31,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -646,7 +644,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273145,8454001,Russell,Lowe,76355971,Mark,Files,76355971,Mark,Files,3083904676,A03424592,AARP,G,200,,msp,2021-11-18,2021-11-18,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173286553,2591001,Judy,Loy,76355971,Mark,Files,76355971,Mark,Files,AHC6540432,AHC6540432,AETNA,G,500,,msp,2021-08-17,,2022-02-01,,,,2022-02-01,False,False,
+3173286553,2591001,Judy,Loy,76355971,Mark,Files,76355971,Mark,Files,AHC6540432,AHC6540432,AETNA,G,500,,msp,2021-08-17,,2022-02-01,2022-11-02,,,2022-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163806,3141851,Barbara,Lyle,76355971,Mark,Files,76355971,Mark,Files,AHC6526262,AHC6526262,AETNA,G,200,,msp,2021-07-02,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -660,6 +658,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057465,7207251,Renita,Marek,76355971,Mark,Files,76355971,Mark,Files,3369621937,A03390225,AARP,G,200,,msp,2021-10-25,2021-10-15,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4444828986,25569901,Jake,Mariani,76355971,Mark,Files,76355971,Mark,Files,304358911,,AARP,G,330,,msp,2022-12-07,2022-12-07,2023-02-01,,,,2023-02-01,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163817,3128751,Gregg,Markovich,76355971,Mark,Files,76355971,Mark,Files,3487921490,A03291015,AARP,G,200,,msp,2021-07-02,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323308,14128651,Marc,Marks,76355971,Mark,Files,76355971,Mark,Files,3506035397,A03534092,AARP,G,200,,msp,2022-04-25,2022-04-21,2022-06-01,,,,2022-06-01,True,False,
@@ -668,7 +668,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126010,19541251,Lynn,Marshall,76355971,Mark,Files,76355971,Mark,Files,714463387,A03611819,AARP,G,200,,msp,2022-09-08,2022-09-08,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177904,22830151,Vicky,Martin,76355971,Mark,Files,76355971,Mark,Files,3157762596,,AARP / UHICA,G,500,,msp,2022-10-04,2022-10-04,2022-11-01,,2022-10-31,,2022-11-01,False,False,False
+3173177904,22830151,Vicky,Martin,76355971,Mark,Files,76355971,Mark,Files,3157762596,,AARP / UHICA,G,500,,msp,2022-10-04,2022-10-04,2022-11-01,2022-10-28,2022-10-31,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142025,4844351,Terri,Martines,76355971,Mark,Files,76355971,Mark,Files,AHC6543845,AHC6543845,AETNA,G,200,,msp,2021-08-29,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -891,7 +891,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184876,6150401,Kevin,Petty,76355971,Mark,Files,76355971,Mark,Files,ACC6450829,ACC6450829,AETNA ACCENDO,G,200,,msp,2021-09-27,2021-09-27,2021-11-01,,2022-11-30,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173393703,6317451,Teresa,Petty,76355971,Mark,Files,76355971,Mark,Files,ACC6451812,ACC6451812,AETNA ACCENDO,G,500,,msp,2021-09-27,,2021-12-01,,2022-11-30,,2021-12-01,False,False,
+3173393703,6317451,Teresa,Petty,76355971,Mark,Files,76355971,Mark,Files,ACC6451812,ACC6451812,AETNA ACCENDO,G,500,,msp,2021-09-27,,2021-12-01,2022-12-06,2022-11-30,,2021-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177679,11172501,David,Phelps,76355971,Mark,Files,76355971,Mark,Files,ACC6545248,ACC6545248,AETNA ACCENDO,G,200,,msp,2022-02-07,2022-02-07,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -917,7 +917,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196305,19617801,Susan,Poliwka,76355971,Mark,Files,76355971,Mark,Files,3417530668,A03607610,AARP,G,200,,msp,2022-08-31,2022-07-29,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173308709,14339801,Marcia,Poole,76355971,Mark,Files,76355971,Mark,Files,249298266,,AARP,G,510,,msp,2022-10-25,2022-10-28,2023-01-01,,2022-11-03,Denied in UW,2023-01-01,False,False,False
+3173308709,14339801,Marcia,Poole,76355971,Mark,Files,76355971,Mark,Files,249298266,,AARP,G,510,,msp,2022-10-25,2022-10-28,2023-01-01,2022-12-08,2022-11-03,Denied in UW,2023-01-01,False,False,False
 3683101514,14339801,Marcia,Poole,76355971,Mark,Files,76355971,Mark,Files,994977219,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (PPO),200,,map,2022-11-07,2022-11-04,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259103,7368451,James,Poole,76355971,Mark,Files,76355971,Mark,Files,249298266,A03515793,AARP,G,200,,msp,2022-03-25,2022-03-24,2022-08-01,,,,2022-08-01,True,False,
@@ -1024,7 +1024,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163910,4433151,Ernesto G,Santiago,76355971,Mark,Files,76355971,Mark,Files,AHC6546028,AHC6546028,AETNA,G,200,,msp,2021-09-03,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173393550,15426852,Daniel,Sass,76355971,Mark,Files,76355971,Mark,Files,3507200040,,AARP,G,500,,msp,2022-11-10,2022-11-11,2023-01-01,,2022-12-31,He was approved at level 2 rate ,2023-01-01,False,False,False
+3173393550,15426852,Daniel,Sass,76355971,Mark,Files,76355971,Mark,Files,3507200040,,AARP,G,500,,msp,2022-11-10,2022-11-11,2023-01-01,2022-12-01,2022-12-31,He was approved at level 2 rate ,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308767,14620251,Peggy,Sass,76355971,Mark,Files,76355971,Mark,Files,3507200040,A03546848,AARP,G,200,,msp,2022-05-16,2022-05-16,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1066,7 +1066,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258917,5441351,Jeanne,Seay,76355971,Mark,Files,76355971,Mark,Files,ACC6457956,ACC6457956,AETNA ACCENDO,G,200,,msp,2021-10-07,2021-10-07,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173216646,13050201,Anna,Shafranovich,76355971,Mark,Files,76355971,Mark,Files,3509129494,21557273,AARP,G,500,,msp,2022-06-16,2022-03-31,2022-07-01,,2022-11-30,Client passed away ,2022-07-01,False,False,
+3173216646,13050201,Anna,Shafranovich,76355971,Mark,Files,76355971,Mark,Files,3509129494,21557273,AARP,G,500,,msp,2022-06-16,2022-03-31,2022-07-01,2022-12-09,2022-11-30,Client passed away ,2022-07-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125398,20094501,Wendy,Shawhan,76355971,Mark,Files,76355971,Mark,Files,3512450481,A03601176,AARP,G,200,,msp,2022-08-20,2022-08-05,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1094,7 +1094,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4223792255,20607801,Sherry,Simanis,76355971,Mark,Files,76355971,Mark,Files,CLI6931841,CLI6931841,AETNA,G,200,,msp,2022-12-01,2022-12-01,2023-03-01,,,,2023-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4100310295,24833451,Doreen,Simcoe,76355971,Mark,Files,76355971,Mark,Files,CLI6930512,CLI6930512,AETNA,G,450,,msp,2022-11-29,2022-11-28,2023-01-01,,2022-11-30,,2023-01-01,False,False,
+4100310295,24833451,Doreen,Simcoe,76355971,Mark,Files,76355971,Mark,Files,CLI6930512,CLI6930512,AETNA,G,450,,msp,2022-11-29,2022-11-28,2023-01-01,2022-12-05,2022-11-30,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393686,6273451,Melodie,Simon,76355971,Mark,Files,76355971,Mark,Files,AHC6596456,AHC6596456,AETNA,G,200,,msp,2021-12-09,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1231,11 +1231,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173253918,4258301,Sharron,Travis,76355971,Mark,Files,76355971,Mark,Files,3508271586,A03555740,AARP,G,200,,msp,2022-05-31,2022-05-31,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173164072,21656001,Steven,Trent,76355971,Mark,Files,76355971,Mark,Files,3368048793,A03612383,AARP,G,470,,msp,2022-09-12,2022-09-12,2022-10-01,,2022-11-30,,2022-10-01,False,False,
+3173164072,21656001,Steven,Trent,76355971,Mark,Files,76355971,Mark,Files,3368048793,A03612383,AARP,G,470,,msp,2022-09-12,2022-09-12,2022-10-01,2022-12-09,2022-11-30,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308996,9914401,Carol,Tresenriter,76355971,Mark,Files,76355971,Mark,Files,3169561598,A03555852,AARP,G,200,,msp,2022-05-31,2022-05-25,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3552321432,23923401,Warren,Trobaugh,76355971,Mark,Files,76355971,Mark,Files,351391737-1,,AARP,G,500,,msp,2022-10-27,2022-10-27,2023-01-01,,,,2023-01-01,False,False,False
+3552321432,23923401,Warren,Trobaugh,76355971,Mark,Files,76355971,Mark,Files,351391737-1,,AARP,G,500,,msp,2022-10-27,2022-10-27,2023-01-01,2022-11-11,2022-11-11,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177430,4123601,Jerry,Truelove,76355971,Mark,Files,76355971,Mark,Files,3145031633,A03326137,AARP,G,500,,msp,2021-08-18,,2021-09-01,2022-01-07,2021-12-31,,2021-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1265,7 +1265,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141133,13813351,Vincent,Villa,76355971,Mark,Files,76355971,Mark,Files,3505591275,A03528893,AARP,G,200,,msp,2022-04-15,2022-04-15,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177876,22765151,Evelyn,Virnau,76355971,Mark,Files,76355971,Mark,Files,AHC6656302,AHC6656302,AETNA,G,500,,msp,2022-10-03,2022-10-03,2022-11-01,,2022-10-14,Declined in UW,2022-11-01,False,False,
+3173177876,22765151,Evelyn,Virnau,76355971,Mark,Files,76355971,Mark,Files,AHC6656302,AHC6656302,AETNA,G,500,,msp,2022-10-03,2022-10-03,2022-11-01,2022-10-17,2022-10-14,Declined in UW,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286534,2574901,Erich,Von Behren,76355971,Mark,Files,76355971,Mark,Files,3118803042,A03419761,AARP,G,200,Not Commissionable,msp,2021-11-19,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1395,6 +1395,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173149796,5671501,Ann,Zimmer,76355971,Mark,Files,76355971,Mark,Files,CLI6717834,CLI6717834,AETNA,G,200,,msp,2021-09-27,,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4345997315,25276801,Christine,Zinge,76355971,Mark,Files,76355971,Mark,Files,3460633898,,AARP,G,110,,msp,2022-12-07,2022-12-07,2023-01-01,,,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163904,4549401,syed,razi,76355971,Mark,Files,76355971,Mark,Files,AHC6540121,AHC6540121,AETNA,G,500,,msp,2021-08-17,,2021-09-01,2022-05-15,2022-02-28,,2021-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711717,8312351,patsy,strange,76355971,Mark,Files,76355971,Mark,Files,3187896232,A03408589,AARP,G,200,,msp,2021-11-09,,2022-01-01,,,,2022-01-01,True,False,
@@ -1484,7 +1486,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3531565996,22932401,John,Eden,76355971,Mark,Files,76355971,Mark,Files,985968688,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (PPO),200,,map,2022-10-27,2022-10-27,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3361540997,23194201,Ella,Emerson,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,HUMANA,HumanaChoice H5216-203-(PPO),470,,map,2022-10-21,2022-10-20,2022-11-01,,,,2022-11-01,False,,False
+3361540997,23194201,Ella,Emerson,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,HUMANA,HumanaChoice H5216-203-(PPO),470,,map,2022-10-21,2022-10-20,2022-11-01,2022-11-01,2022-11-01,,2022-11-01,False,,False
 3403516167,23194201,Ella,Emerson,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,HUMANA,HumanaChoice H5216-279 (PPO),330,,map,2022-10-24,2022-10-24,2023-01-01,,,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168438942,15606651,Ronald,Everett,76355971,Mark,Files,76355971,Mark,Files,MENG101542275700,,AETNA,Aetna Medicare Freedom Plan (PPO),200,,map,2022-05-16,2022-05-16,2022-06-01,,,,2022-06-01,True,False,
@@ -1542,7 +1544,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168510895,10335451,Rhea,Knudson,76355971,Mark,Files,76355971,Mark,Files,980845452,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-06-22,2022-06-22,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168818836,22953651,James,Kostan,76355971,Mark,Files,76355971,Mark,Files,124222143,,AARP/UHC,UnitedHealthcare Dual Complete Choice (PPO D-SNP),480,,map,2022-10-12,2022-10-10,2022-11-01,,,,2022-11-01,False,False,
+3168818836,22953651,James,Kostan,76355971,Mark,Files,76355971,Mark,Files,124222143,,AARP/UHC,UnitedHealthcare Dual Complete Choice (PPO D-SNP),480,,map,2022-10-12,2022-10-10,2022-11-01,2022-10-31,,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168543355,6409551,William,Kulik,76355971,Mark,Files,76355971,Mark,Files,101509561700,,AETNA,Aetna Medicare Advantra Silver Plus (PPO),200,,map,2021-12-07,2021-12-07,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1650,7 +1652,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3352853263,23573151,Robert,Sexton,76355971,Mark,Files,76355971,Mark,Files,35535753,,WELLCARE,Wellcare No Premium (HMO),200,,map,2022-10-19,2022-10-19,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168531348,7624801,Steve,Shaw,76355971,Mark,Files,76355971,Mark,Files,33807945 / 204957307,,WELLCARE,Wellcare No Premium Open (PPO),510,,map,2021-11-22,,2021-12-01,,,,2021-12-01,True,,
+3168531348,7624801,Steve,Shaw,76355971,Mark,Files,76355971,Mark,Files,33807945 / 204957307,,WELLCARE,Wellcare No Premium Open (PPO),510,,map,2021-11-22,,2021-12-01,2022-12-09,,,2021-12-01,True,,
 4194580747,7624801,Steve,Shaw,64738322,Gabriel,Rhone,76355971,Mark,Files,990015685,,AARP/UHC,Shaw,200,,map,2022-11-30,2022-11-29,2023-01-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167055706,4612801,Shelley,Showell,76355971,Mark,Files,76355971,Mark,Files,943424044,,AARP/UHC,AARP Medicare Advantage Choice (PPO),480,,map,2021-08-19,,2021-09-01,2022-08-03,2022-08-31,,2021-09-01,False,False,
@@ -1702,7 +1704,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168577859,16155901,David,Wolfe,76355971,Mark,Files,76355971,Mark,Files,101544558700,,AETNA,Aetna Medicare Premier Plus (PPO),200,,map,2022-05-31,2022-05-24,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168597401,18796201,John,Womack,76355971,Mark,Files,76355971,Mark,Files,MENG101552236200,,AETNA,Aetna Medicare Eagle Plan (PPO),470,,map,2022-07-20,2022-07-20,2022-09-01,,2022-10-31,,2022-09-01,False,False,
+3168597401,18796201,John,Womack,76355971,Mark,Files,76355971,Mark,Files,MENG101552236200,,AETNA,Aetna Medicare Eagle Plan (PPO),470,,map,2022-07-20,2022-07-20,2022-09-01,2022-11-07,2022-10-31,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168448263,2870101,Inita,mccullum,76355971,Mark,Files,76355971,Mark,Files,Pending Member ID,,HUMANA,HumanaChoice H5216-251 (PPO),200,,map,2021-09-30,2021-09-30,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

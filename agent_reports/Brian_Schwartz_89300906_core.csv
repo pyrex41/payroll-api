@@ -7,7 +7,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4026221420,24410651,Christina,Acuna,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3518041946,,AARP,G,200,,msp,2022-11-22,2022-11-21,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168472473,6525351,Bernard,Agbayani,89300906,Brian,Schwartz,89300906,Brian,Schwartz,991005634,,AARP/UHC,AARP Medicare Advantage Choice (PPO),510,,map,2021-10-21,,2022-01-01,,2022-02-28,,2022-01-01,False,False,
+3168472473,6525351,Bernard,Agbayani,89300906,Brian,Schwartz,89300906,Brian,Schwartz,991005634,,AARP/UHC,AARP Medicare Advantage Choice (PPO),510,,map,2021-10-21,,2022-01-01,2022-10-11,2022-02-28,,2022-01-01,False,False,
 3193572520,6525351,Bernard,Agbayani,89300906,Brian,Schwartz,89300906,Brian,Schwartz,316071760,A03493846,AARP,G,200,,msp,2022-02-18,,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117097,21055051,Lori,Alexander,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3287265692,A03603263,AARP,G,200,,msp,2022-08-24,2022-08-24,2022-11-01,,,,2022-11-01,True,False,
@@ -370,7 +370,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196548,21996951,LIYU,HSU,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6656888,AHC6656888,AETNA,G,200,,msp,2022-10-05,2022-10-05,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177948,22887251,KITTY,HUI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3514994072,,AARP,G,500,,msp,2022-10-03,,2023-01-01,,2023-01-01,client canceled ,2023-01-01,True,,False
+3173177948,22887251,KITTY,HUI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3514994072,,AARP,G,500,,msp,2022-10-03,,2023-01-01,2022-10-10,2023-01-01,client canceled ,2023-01-01,True,,False
 4178336563,22887251,KITTY,HUI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3514994072,,AARP,G,200,,msp,2022-11-28,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141124,13799851,Linda,Haffner,89300906,Brian,Schwartz,89300906,Brian,Schwartz, 3502366952,A03525682,AARP,G,200,,msp,2022-04-11,,2022-05-01,,,,2022-05-01,True,False,
@@ -401,7 +401,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3831864631,24381251,Jeffrey,Hastings,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3204454395,,AARP,G,200,,msp,2022-11-11,2022-11-11,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173243689,22399401,Geraldine,Heesch,89300906,Brian,Schwartz,89300906,Brian,Schwartz,0487734543,,AARP,G,500,,msp,2022-10-04,,2023-01-01,,2022-12-31,Approved at level 2 rate so client canceled ,2023-01-01,False,False,False
+3173243689,22399401,Geraldine,Heesch,89300906,Brian,Schwartz,89300906,Brian,Schwartz,0487734543,,AARP,G,500,,msp,2022-10-04,,2023-01-01,2022-10-26,2022-12-31,Approved at level 2 rate so client canceled ,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308705,14601551,Patricia,Heflin,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3506328495,A03535794,AARP,G,200,,msp,2022-04-27,,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -453,7 +453,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4343672327,24511601,Richard,Jenne,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3466659285,,AARP,G,200,,msp,2022-11-29,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170712244,21514651,Daryl,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3429451465,,AARP,G,500,,msp,2022-08-31,,2022-10-01,,2022-09-30,client never reached out to UHC even after being notified repeatedly ,2022-10-01,False,False,False
+3170712244,21514651,Daryl,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3429451465,,AARP,G,500,,msp,2022-08-31,,2022-10-01,2022-10-10,2022-09-30,client never reached out to UHC even after being notified repeatedly ,2022-10-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3894277024,22076451,Robert,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3517584086,,AARP,G,200,,msp,2022-11-15,2022-11-14,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -461,7 +461,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243311,22973501,Ross,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3469340057,A03625455,AARP,G,200,,msp,2022-10-05,2022-10-05,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4327513255,22541701,Betty,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,CLI6935438,CLI6935438,AETNA,G,500,,msp,2022-12-05,,2023-01-01,,2022-12-07,Declined in UW,2023-01-01,False,False,
+4327513255,22541701,Betty,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,CLI6935438,CLI6935438,AETNA,G,500,,msp,2022-12-05,,2023-01-01,2022-12-07,2022-12-07,Declined in UW,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3399683741,22683951,JAMES,KANTHAK,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3490385089,,AARP,G,200,,msp,2022-10-20,2022-10-20,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -469,7 +469,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173208087,11898001,JOHN,KITCHIN,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3502202694,A03497496,AARP,G,200,,msp,2022-02-24,,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3484837723,23805601,PAUL,KNEELAND,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-31,2022-10-24,2023-04-01,,2023-03-31,He did not want the plan anymore ,2023-04-01,False,False,False
+3484837723,23805601,PAUL,KNEELAND,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-31,2022-10-24,2023-04-01,2022-11-16,2023-03-31,He did not want the plan anymore ,2023-04-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173207961,11894601,CHARLIE,"KNIGHT, III",89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6615466,AHC6615466,AETNA,G,200,,msp,2022-02-23,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -499,7 +499,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125184,7803251,Helen,Kirk,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3166867360,316686736,AARP,G,200,,msp,2021-10-27,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3485319711,23339251,SUSANNE,Kneeland,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-24,,2022-11-01,,2022-10-31,She decided she did not want the plan,2022-11-01,False,False,False
+3485319711,23339251,SUSANNE,Kneeland,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-24,,2022-11-01,2022-11-16,2022-10-31,She decided she did not want the plan,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141139,13825901,Constance,Knopp,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6627348,AHC6627348,AETNA,G,200,,msp,2022-04-26,,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -509,7 +509,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216363,8831001,Dale,Kohn,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3160777888,A03526791,AARP,G,200,,msp,2022-04-12,,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3192129389,4765251,Andrew,Kordulewski,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP,G,510,,msp,2021-08-18,,2021-09-01,,,,2021-09-01,False,False,False
+3192129389,4765251,Andrew,Kordulewski,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP,G,510,,msp,2021-08-18,,2021-09-01,2022-10-14,,,2021-09-01,False,False,False
 3168283666,4765251,Andrew,Kordulewski,89300906,Brian,Schwartz,89300906,Brian,Schwartz,972027004,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2021-10-27,,2022-01-01,2021-09-29,2021-09-29,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150308,18633301,Karen,Kruger,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3489007470,A03577012,AARP,G,200,,msp,2022-07-11,2022-07-08,2022-08-01,,,,2022-08-01,True,False,
@@ -661,7 +661,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141585,13286101,Roger,McDonald,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3389228267,A03584124,AARP,G,200,,msp,2022-07-21,2022-07-20,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4224390515,25280101,Melba,McGarity,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHL6314809,AHL6314809,AETNA,G,500,,msp,2022-11-30,,2023-01-01,,,,2023-01-01,False,False,
+4224390515,25280101,Melba,McGarity,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHL6314809,AHL6314809,AETNA,G,500,,msp,2022-11-30,,2023-01-01,2022-12-01,2022-12-01,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712213,21478001,Edward,McKenna,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3184163800,A03607251,AARP,G,200,,msp,2022-08-31,2022-08-30,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -683,7 +683,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4049990483,24208201,Milt,Moltich,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3339552816,,AARP,G,200,,msp,2022-11-22,,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173309091,10138301,Debra,Monachino,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3124916523,A03472334,AARP,G,500,,msp,2022-01-13,,2022-06-01,,2022-10-31,,2022-06-01,True,,
+3173309091,10138301,Debra,Monachino,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3124916523,A03472334,AARP,G,500,,msp,2022-01-13,,2022-06-01,2022-11-08,2022-10-31,,2022-06-01,True,,
 3778922789,10138301,Debra,Monachino,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3124916523,,AARP,G,200,,msp,2022-11-09,2022-11-08,2022-12-01,,,,2022-06-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712130,5232251,Leigh,Montalbano,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3492206432,A03361711,AARP,G,200,,msp,2021-09-13,,2021-10-01,,,,2021-10-01,True,True,
@@ -726,14 +726,14 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141774,16206701,Thomas,Nelson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3282168123,A03551265,AARP,G,200,,msp,2022-05-23,,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3404628902,23143801,Theresa,Newsuan Reyes,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6660276,AHC6660276,AETNA,N,500,,msp,2022-10-20,,2022-12-01,,2022-10-23,Denied in UW,2022-12-01,False,False,
+3404628902,23143801,Theresa,Newsuan Reyes,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6660276,AHC6660276,AETNA,N,500,,msp,2022-10-20,,2022-12-01,2022-10-24,2022-10-23,Denied in UW,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168673424,12578501,Viet,Nguyen,89300906,Brian,Schwartz,89300906,Brian,Schwartz,NG 101542889600,,AETNA,Aetna Medicare Premier Plus (PPO),200,,map,2022-05-19,2022-05-19,2022-08-01,,,,2022-08-01,True,False,
 3620166782,12578501,Viet,Nguyen,89300906,Brian,Schwartz,89300906,Brian,Schwartz,317739976,,AARP,G,340,Commissionable - Need to Review,msp,2022-10-31,,2023-01-01,,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243677,22437301,Mark,Nicholas,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3315026991,A03619149,AARP,G,200,,msp,2022-09-23,2022-09-22,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173208069,11808751,Steven,Nichols,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3345119501,A03497611,AARP,G,410,,msp,2022-02-24,2022-02-24,2022-08-01,,,,2022-08-01,True,,
+3173208069,11808751,Steven,Nichols,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3345119501,A03497611,AARP,G,410,,msp,2022-02-24,2022-02-24,2022-08-01,2022-11-28,,,2022-08-01,True,,
 4171266585,11808751,Steven,Nichols,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3345119501,,AARP,G,200,,msp,2022-11-29,2022-11-28,2023-01-01,,,,2022-08-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173309055,10275051,Shirin,Nikamal-Fard,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3285924399,A03596130,AARP,G,200,,msp,2022-08-11,2022-08-10,2022-09-01,,,,2022-09-01,True,False,
@@ -874,7 +874,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711929,14818301,Lori,Robinson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3285076489,A03537026,AARP,G,200,,msp,2022-04-28,,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3681144353,11287151,Frances,Robinson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6664952,AHC6664952,AETNA,G,510,,msp,2022-11-04,2022-11-03,2023-02-01,,,,2023-02-01,False,,
+3681144353,11287151,Frances,Robinson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6664952,AHC6664952,AETNA,G,510,,msp,2022-11-04,2022-11-03,2023-02-01,2022-12-28,2022-12-28,,2023-02-01,False,,
 4178336543,11287151,Frances,Robinson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,AHC6675062,AHC6675062,AETNA,G,110,,msp,2022-12-05,2022-12-02,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057401,7166451,Margie,Rodriguez,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3289117545,328911754 / A03392544,AARP,G,200,,msp,2021-10-27,,2021-12-01,,,,2021-12-01,True,False,
@@ -1259,7 +1259,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3327172732,22143201,Elizabeth,Decker,89300906,Brian,Schwartz,89300906,Brian,Schwartz,989549125,,AARP/UHC,AARP® Medicare Advantage Choice (PPO,200,,map,2022-10-17,2022-10-17,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168716422,21996201,David,Doerflein,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),470,,map,2022-09-12,2022-09-12,2022-12-01,,,,2022-12-01,True,,False
+3168716422,21996201,David,Doerflein,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),470,,map,2022-09-12,2022-09-12,2022-12-01,2022-11-14,,,2022-12-01,True,,False
 3705573231,21996201,David,Doerflein,89300906,Brian,Schwartz,89300906,Brian,Schwartz,980320915,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-11-04,2022-11-04,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167183421,21756801,Tracy,Doerflein,89300906,Brian,Schwartz,89300906,Brian,Schwartz,996613828,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-09-27,2022-09-12,2022-10-01,,,,2022-10-01,True,False,
@@ -1295,7 +1295,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168325036,4594851,Elbert Lee,"Herring, Jr",89300906,Brian,Schwartz,89300906,Brian,Schwartz,984477519,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-05-09,2022-05-05,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168458779,21877701,Gerald,Hetrick,89300906,Brian,Schwartz,89300906,Brian,Schwartz,No ID - Canceled ,,HUMANA,Humana Gold Plus H1036-025 (HMO),510,,map,2022-09-12,2022-09-08,2022-11-01,,2022-10-31,canceled bc no part b,2022-11-01,True,,False
+3168458779,21877701,Gerald,Hetrick,89300906,Brian,Schwartz,89300906,Brian,Schwartz,No ID - Canceled ,,HUMANA,Humana Gold Plus H1036-025 (HMO),510,,map,2022-09-12,2022-09-08,2022-11-01,2022-11-15,2022-10-31,canceled bc no part b,2022-11-01,True,,False
 3908780390,21877701,Gerald,Hetrick,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H63039313,,HUMANA,Humana Gold Plus H1036-025 (HMO),200,,map,2022-11-15,2022-11-15,2023-01-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3479376784,23607351,Ronald,Higgs,89300906,Brian,Schwartz,89300906,Brian,Schwartz,983235512,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-10-24,2022-10-24,2022-12-01,,,,2022-12-01,True,False,
@@ -1387,13 +1387,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4344334978,25229901,Kirk,Piper,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,Humana Choice PPO,110,,map,2022-12-07,2022-12-06,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3967307550,24796051,James,Randall,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,Humana Honor,470,,map,2022-11-18,2022-11-18,2023-01-01,,,,2023-01-01,False,False,False
+3967307550,24796051,James,Randall,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,Humana Honor,470,,map,2022-11-18,2022-11-18,2023-01-01,2022-12-08,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168303941,5257951,Lyndon C,Reynolds,89300906,Brian,Schwartz,89300906,Brian,Schwartz,945779482,,AARP/UHC,AARP Medicare Advantage Choice (PPO),480,,map,2021-09-01,,2021-11-01,2021-11-01,2021-11-01,,2021-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168497476,17045651,Raymond,Rivera,89300906,Brian,Schwartz,89300906,Brian,Schwartz,H71208423,,HUMANA,Humana Honor (PPO),200,,map,2022-10-17,2022-10-15,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168536596,12815951,Lillian,Rogers,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,Humana Honor (PPO),500,,map,2022-09-12,2022-09-12,2022-12-01,,2022-12-31,,2022-12-01,False,False,
+3168536596,12815951,Lillian,Rogers,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,HUMANA,Humana Honor (PPO),500,,map,2022-09-12,2022-09-12,2022-12-01,2022-10-25,2022-12-31,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168378027,6196701,Debra,Rudd,89300906,Brian,Schwartz,89300906,Brian,Schwartz,995360168,,AARP/UHC,AARP Medicare Advantage Patriot (PPO),200,,map,2021-12-13,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

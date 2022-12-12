@@ -247,8 +247,7 @@ def process_agent_reports(report_month, report_year):
 
     last_month_new_dic = {agent: apply_month_filter(arr, "date_actual_submission", report_year, report_month) for agent, arr in adcore.items()}
 
-    # No longer being used
-    last_month_cancel_dic = {agent: apply_month_filter(arr, "date_cancel_notification", report_year, report_month) for agent, arr in adcore.items()}
+    last_month_cancel_dic = {agent: apply_month_to_date_filter(arr, "date_cancel_notification", report_year, report_month) for agent, arr in adcore.items()}
 
 
     agent_longterm_cancels = cancel_counter(psup) | cancel_counter(pmap)

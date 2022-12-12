@@ -1,7 +1,7 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
 3404109366,23233301,,,165338462,Ken,Tomberlin,,Inactive,Agent,373501-96,373501-96,MUTUAL OF OMAHA,N,200,,msp,2022-10-24,2022-10-20,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3483196832,23810451,Winston,Achacoso,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,374809-96,374809-96,MUTUAL OF OMAHA,G,510,,msp,2022-10-24,2022-10-24,2022-11-01,,2022-10-25,Denied in UW,2022-11-01,True,,
+3483196832,23810451,Winston,Achacoso,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,374809-96,374809-96,MUTUAL OF OMAHA,G,510,,msp,2022-10-24,2022-10-24,2022-11-01,2022-11-25,2022-10-25,Denied in UW,2022-11-01,True,,
 3662525843,23810451,Winston,Achacoso,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6707647,ACC6707647,AETNA ACCENDO,G,200,,msp,2022-11-02,2022-11-02,2023-01-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3488100441,23792551,Paulita,Achacoso,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,374085-96	,374085-96	,MUTUAL OF OMAHA,G,200,,msp,2022-10-24,2022-10-24,2022-11-01,,,,2022-11-01,True,False,
@@ -158,7 +158,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4031518377,24748051,Toni,Downs,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6720583,ACC6720583,AETNA ACCENDO,G,200,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3779327868,15962001,Tom,Dunlop,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,397017-96,397017-96,MUTUAL OF OMAHA,G,500,,msp,2022-11-08,2022-11-08,2023-01-01,,2022-11-15,Declined in UW,2023-01-01,False,False,
+3779327868,15962001,Tom,Dunlop,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,397017-96,397017-96,MUTUAL OF OMAHA,G,500,,msp,2022-11-08,2022-11-08,2023-01-01,2022-11-16,2022-11-15,Declined in UW,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173208162,15173451,Denise,Dykstra,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3439126594,A03542037,AARP,G,200,,msp,2022-05-06,2022-05-04,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -192,12 +192,12 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3788329804,24347151,David,Garber,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,60Y0047146,60Y0047146,CIGNA,G,200,,msp,2022-11-14,2022-11-09,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173243674,22405701,Richard,Garcia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3497763833,,AARP,G,450,,msp,2022-09-26,2022-09-26,2022-10-01,,,,2022-10-01,False,False,False
+3173243674,22405701,Richard,Garcia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3497763833,,AARP,G,450,,msp,2022-09-26,2022-09-26,2022-10-01,2022-10-19,,,2022-10-01,False,False,False
 3356573330,22405701,Richard,Garcia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,720695,,AARP/UHC,AARP® Medicare Advantage SecureHorizons® Focus (HMO-POS),200,,map,2022-10-24,2022-10-20,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4358682545,25259951,Glenn,Gillaspia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,Pending Member ID,AETNA ACCENDO,G,110,,msp,2022-12-07,2022-12-07,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173196067,19853201,Pamela,Goff,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6652507,ACC6652507,AETNA ACCENDO,G,420,,msp,2022-07-28,2022-07-28,2022-10-01,,2022-10-31,,2022-10-01,False,False,
+3173196067,19853201,Pamela,Goff,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6652507,ACC6652507,AETNA ACCENDO,G,420,,msp,2022-07-28,2022-07-28,2022-10-01,2022-11-02,2022-10-31,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125393,20152001,Gilbert,Gonzalez,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3113062586,A03594778,AARP,G,200,,msp,2022-08-05,2022-08-05,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -286,11 +286,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196451,22049901,Diane,Kinner,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,CLI6889823,CLI6889823,AETNA,G,200,,msp,2022-09-14,2022-09-14,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173259304,22606701,Donna,Kirkpatrick,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6686085,ACC6686085,AETNA ACCENDO,G,420,,msp,2022-09-28,2022-09-28,2023-01-01,,2022-12-31,,2023-01-01,False,False,
+3173259304,22606701,Donna,Kirkpatrick,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,ACC6686085,ACC6686085,AETNA ACCENDO,G,420,,msp,2022-09-28,2022-09-28,2023-01-01,2022-11-12,2022-12-31,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308741,14389201,Rebecca,Kiser,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3444197002,A03539317,AARP,G,200,,msp,2022-05-02,2022-05-02,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3251170744,23345551,Maurice,Klabunde,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,CLI6901536,CLI6901536,AETNA,G,500,,msp,2022-10-13,,2023-01-01,,2022-12-31,,2023-01-01,False,False,
+3251170744,23345551,Maurice,Klabunde,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,CLI6901536,CLI6901536,AETNA,G,500,,msp,2022-10-13,,2023-01-01,2022-11-09,2022-12-31,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4326516822,25034201,Thomas,Kolton,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3220570828,,AARP,G,200,,msp,2022-12-06,2022-12-05,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -528,7 +528,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173164140,21758151,Gary,Torrejos,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3324805500,A03609712,AARP / UHICA,G,200,,msp,2022-09-06,2022-09-06,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173243407,23058651,Sandra,Tracy,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,AHL6311273,AHL6311273,AETNA,G,500,,msp,2022-10-07,2022-10-06,2023-03-01,,2022-10-25,,2023-03-01,False,False,
+3173243407,23058651,Sandra,Tracy,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,AHL6311273,AHL6311273,AETNA,G,500,,msp,2022-10-07,2022-10-06,2023-03-01,2022-10-25,2022-10-25,,2023-03-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243422,23072201,Richard,Tracy,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,AHL6311272,AHL6311272,AETNA,G,200,,msp,2022-10-07,2022-10-06,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -615,6 +615,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167036750,3582101,Winda,Baldwin,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,CareFree (HMO),200,,map,2022-08-24,2022-08-22,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168479100,20427151,Johanna,Barr,57373696,Garrett,McKinzie,165338462,Ken,Tomberlin,101266841700,,AETNA,Aetna Medicare Premier Plan (PPO),480,,map,2022-08-17,2022-08-16,2022-09-01,2022-09-06,2022-09-01,,2022-09-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 4030870343,24805351,Doug,Bland,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,975853753,,AARP/UHC,AARP Medicare Advantage Choice Rebate (PPO),200,,map,2022-11-22,2022-11-21,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167164697,14833351,Joshua,Bonnett,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,Humana Gold Plus SNP-DE H6622-015 (HMO D-SNP),200,,map,2022-06-07,2022-06-03,2022-07-01,,,,2022-07-01,True,False,
@@ -627,13 +629,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168548892,20081901,Felecia,Bowles,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,989688141,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-08-02,2022-08-02,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168514196,20734551,David,Brown,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2022-08-23,2022-08-22,2022-10-01,,,,2022-10-01,False,False,False
+3168514196,20734551,David,Brown,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),500,,map,2022-08-23,2022-08-22,2022-10-01,2022-11-30,,,2022-10-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4176534618,23525551,Marion Kenneth,Bryson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Patriot (Regional PPO),330,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,,False
-3483196576,23525551,Marion Kenneth,Bryson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,Humana Honor (PPO),410,,map,2022-10-26,2022-10-25,2023-01-01,,,,2023-01-01,False,False,False
+3483196576,23525551,Marion Kenneth,Bryson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,Humana Honor (PPO),410,,map,2022-10-26,2022-10-25,2023-01-01,2022-11-28,2022-11-28,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4176534637,23814751,Shelan,Bryson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),330,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,False,,False
-3483196591,23814751,Shelan,Bryson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,HumanaChoice Florida,410,,map,2022-10-26,2022-10-25,2023-01-01,,,,2023-01-01,False,False,False
+3483196591,23814751,Shelan,Bryson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,HumanaChoice Florida,410,,map,2022-10-26,2022-10-25,2023-01-01,2022-11-28,2022-11-28,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168673704,13938801,Eric,Bullock,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,NG 101547146800,,AETNA,Aetna Medicare Value Plan (HMO),200,,map,2022-06-15,2022-06-15,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -652,7 +654,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3624046222,13445601,Darryl,Carter,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,35876643,,WELLCARE,Wellcare TexanPlus No Premium (HMO),200,,map,2022-11-08,2022-10-31,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168695936,22586451,Jaime,Cervantes Figueroa,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H62987907,,HUMANA,Humana Gold Plus H1468-013 (HMO),470,,map,2022-11-07,2022-11-07,2022-12-01,,,Not accepted by CMS,2022-12-01,False,False,False
+3168695936,22586451,Jaime,Cervantes Figueroa,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H62987907,,HUMANA,Humana Gold Plus H1468-013 (HMO),470,,map,2022-11-07,2022-11-07,2022-12-01,2022-12-08,,Not accepted by CMS,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168577927,16626751,Teresa,Chandler,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,36652859,,CIGNA,Cigna True Choice Medicare (PPO),200,,map,2022-11-07,2022-11-01,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -702,7 +704,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168858955,21822451,John,Gallivan,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,994174773,,AARP/UHC,AARP Medicare Advantage (HMO),200,,map,2022-09-07,2022-09-06,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168458403,19827151,Rita,Gandotra,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,793457,,AARP/UHC,UnitedHealthcare Medicare Advantage Assure (HMO),470,,map,2022-08-10,2022-08-08,2022-09-01,,2022-11-30,,2022-09-01,False,False,
+3168458403,19827151,Rita,Gandotra,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,793457,,AARP/UHC,UnitedHealthcare Medicare Advantage Assure (HMO),470,,map,2022-08-10,2022-08-08,2022-09-01,2022-12-04,2022-11-30,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168694375,16717951,Deborah,Gaona,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,984117896,,AARP/UHC,AARP Medicare Advantage Plan 1 (HMO),200,,map,2022-07-12,2022-07-11,2022-08-01,2022-07-11,2022-07-11,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -720,7 +722,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168791342,19942901,Elizabeth,Graves,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H76154960,,HUMANA,HumanaChoice H5216-284 (PPO),200,,map,2022-08-22,2022-08-18,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168480130,22546301,Cornelius,Greene,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H62738498,,HUMANA,Humana Honor (PPO),500,,map,2022-09-28,2022-09-27,2022-10-01,,2022-10-31,,2022-10-01,False,False,
+3168480130,22546301,Cornelius,Greene,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H62738498,,HUMANA,Humana Honor (PPO),500,,map,2022-09-28,2022-09-27,2022-10-01,2022-11-07,2022-10-31,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168751107,21223801,Edward,Griffin,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,737454,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus (HMO),510,,map,2022-09-01,2022-09-01,2022-12-01,2022-10-08,2022-11-30,,2022-12-01,True,,False
 3182890820,21223801,Edward,Griffin,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,737454,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus (HMO),200,,map,2022-10-12,2022-10-10,2022-12-01,,,,2022-12-01,True,False,False
@@ -773,7 +775,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168496963,13016551,Judy,Hogue,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,981237202,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),200,,map,2022-07-13,2022-07-12,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168578109,16868851,Regina,Holts,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,6UX0TY0MW24,,WELLCARE,Wellcare Giveback (HMO),410,,map,2022-07-12,2022-07-12,2022-08-01,,,,2022-08-01,True,,
+3168578109,16868851,Regina,Holts,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,6UX0TY0MW24,,WELLCARE,Wellcare Giveback (HMO),410,,map,2022-07-12,2022-07-12,2022-08-01,2022-11-14,,,2022-08-01,True,,
 3545755274,16868851,Regina,Holts,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,779976,,AARP/UHC,AARP® Medicare Advantage Walgreens (HMO-POS),200,,map,2022-10-28,2022-10-27,2022-11-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167096189,18986801,Julie,Hostetter,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,991056296,,AARP/UHC,UnitedHealthcare Dual Complete Choice (PPO D-SNP),200,,map,2022-09-20,2022-09-19,2022-10-01,,,,2022-10-01,True,False,
@@ -806,7 +808,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3377997233,21422551,Michelle,Lehr,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,985326317,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-11-16,2022-10-28,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3830248205,23930851,Jerry,Lieby,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,WELLCARE,Cigna Preferred Savings Medicare (HMO),470,,map,2022-11-17,2022-11-11,2023-01-01,,,,2023-01-01,False,False,False
+3830248205,23930851,Jerry,Lieby,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,CIGNA,Cigna Preferred Savings Medicare (HMO),110,,map,2022-11-17,2022-11-11,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3778264730,24348051,Bianca,Lindstrom,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,669953001,,HUMANA,CareOne Plus (HMO),200,,map,2022-11-09,2022-11-08,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -862,7 +864,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168497211,15288001,Jeanne Ann,Peterkin,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,HUMANA,Humana Honor (HMO),200,,map,2022-05-13,2022-05-12,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3657521731,24078351,Rita,Philbrick,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H75579306,,HUMANA,Humana Honor (PPO) H5216-257 ,470,,map,2022-11-07,2022-11-02,2023-01-01,,2022-12-08,Prefers/enrolled in another Humana plan	,2023-01-01,False,False,False
+3657521731,24078351,Rita,Philbrick,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H75579306,,HUMANA,Humana Honor (PPO) H5216-257 ,470,,map,2022-11-07,2022-11-02,2023-01-01,2022-12-08,2022-12-08,Prefers/enrolled in another Humana plan	,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3912458026,23977951,Antoinette,Polito,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,35964237,,WELLCARE,Wellcare Assist Open (PPO),200,,map,2022-11-16,2022-11-15,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -907,7 +909,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4173835636,25168651,Shirley,Sylvia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,983099013,,AARP/UHC,UnitedHealthcare Dual Complete® (PPO D-SNP),200,,map,2022-11-29,2022-11-28,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3204821377,23041651,Sylvia,Thompson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H65222364,,HUMANA,Humana Gold Plus,470,,map,2022-10-24,2022-10-24,2022-12-01,,2022-12-08,Prefers/enrolled in another Humana plan	,2022-12-01,False,False,False
+3204821377,23041651,Sylvia,Thompson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H65222364,,HUMANA,Humana Gold Plus,470,,map,2022-10-24,2022-10-24,2022-12-01,2022-12-08,2022-12-08,Prefers/enrolled in another Humana plan	,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168655425,22526151,Tresa,Thompson,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,101562929400,,AETNA,Aetna Medicare Premier Plan (HMO),200,,map,2022-10-15,2022-10-04,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -921,7 +923,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168479328,21475301,James,Vrabel,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,983545316,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-09-01,2022-09-01,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168360969,18134501,Ronald,Waldorf,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H60707880,,HUMANA,umanaChoice H5216-285 (PPO),500,,map,2022-06-28,2022-06-27,2022-07-01,,2022-10-31,Prefers/enrolled in another Humana plan	,2022-07-01,False,False,
+3168360969,18134501,Ronald,Waldorf,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,H60707880,,HUMANA,umanaChoice H5216-285 (PPO),500,,map,2022-06-28,2022-06-27,2022-07-01,2022-12-08,2022-10-31,Prefers/enrolled in another Humana plan	,2022-07-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4217481246,24119751,Ronnie,Wallace,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,995817591,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),200,,map,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

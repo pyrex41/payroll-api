@@ -122,7 +122,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3593099167,22488701,Celeste,Cirillo,148672948,Howard,Seigle,148672948,Howard,Seigle,89869713,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173142106,20748901,Brian,Clarke,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6648909,AHC6648909,AETNA,N,500,,msp,2022-08-19,2022-08-19,2022-09-01,,2022-10-15,,2022-09-01,False,False,
+3173142106,20748901,Brian,Clarke,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6648909,AHC6648909,AETNA,N,500,,msp,2022-08-19,2022-08-19,2022-09-01,2022-10-20,2022-10-15,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141109,13972251,Deborah,Cleary,148672948,Howard,Seigle,148672948,Howard,Seigle,AHL6307452,AHL6307452,AETNA,G,200,,msp,2022-06-20,2022-06-20,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -148,7 +148,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243690,22386601,Donna,Cuatt,148672948,Howard,Seigle,148672948,Howard,Seigle,3146874643,,AARP,G,200,,msp,2022-09-21,2022-09-21,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173286157,17846651,John,Cuatt,148672948,Howard,Seigle,148672948,Howard,Seigle,3146874643,A03611704,AARP,G,510,,msp,2022-09-09,2022-09-07,2022-11-01,,2022-10-31,client needed a later effective date so resubmitted ,2022-11-01,True,,
+3173286157,17846651,John,Cuatt,148672948,Howard,Seigle,148672948,Howard,Seigle,3146874643,A03611704,AARP,G,510,,msp,2022-09-09,2022-09-07,2022-11-01,2022-10-20,2022-10-31,client needed a later effective date so resubmitted ,2022-11-01,True,,
 3400126568,17846651,John,Cuatt,148672948,Howard,Seigle,148672948,Howard,Seigle,3146874643,,AARP,G,200,,msp,2022-10-25,2022-10-25,2023-02-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323341,14042551,KRUBOR,D ONABAJO,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6633537,AHC6633537,AETNA,G,200,,msp,2022-05-27,2022-05-27,2022-10-01,,,,2022-10-01,True,False,
@@ -223,7 +223,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3408382813,23645601,Hugh,Ferguson-Walker,148672948,Howard,Seigle,148672948,Howard,Seigle,3516154030 AARP,,AARP,G,200,,msp,2022-10-31,2022-10-31,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3908780623,24376701,Joseph,Flanagan,148672948,Howard,Seigle,148672948,Howard,Seigle,312422497-1,,AARP / UHICA,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,,2022-11-23,APPLICATION WITHDRAWN BY REQUEST,2023-01-01,False,False,False
+3908780623,24376701,Joseph,Flanagan,148672948,Howard,Seigle,148672948,Howard,Seigle,312422497-1,,AARP / UHICA,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,2022-11-23,2022-11-23,APPLICATION WITHDRAWN BY REQUEST,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4324122947,22909251,Glenda,Ford,148672948,Howard,Seigle,148672948,Howard,Seigle,503110660,,AARP,G,110,,msp,2022-12-06,2022-12-05,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -277,7 +277,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141427,9614951,Connie,Hampe,148672948,Howard,Seigle,148672948,Howard,Seigle,CLI6827581,CLI6827581,AETNA,G,200,,msp,2022-04-07,2022-04-06,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173196452,22009101,Elvin,Hardeman,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6670325,AHC6670325,AETNA,G,470,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,False,False,
+3173196452,22009101,Elvin,Hardeman,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6670325,AHC6670325,AETNA,G,470,,msp,2022-11-21,2022-11-21,2023-01-01,2022-12-04,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4086429344,23685601,Arleita,Harmon,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6671371,AHC6671371,AETNA,N,200,,msp,2022-11-23,2022-11-23,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -287,7 +287,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125378,20125601,Ken,Hatcher,148672948,Howard,Seigle,148672948,Howard,Seigle,3199676424,A03594414,AARP,G,200,,msp,2022-08-09,2022-08-09,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173243414,23075201,Eric,Hawkins,148672948,Howard,Seigle,148672948,Howard,Seigle,CLI6898768,CLI6898768,AETNA,N,500,,msp,2022-10-06,2022-10-06,2023-01-01,,2022-10-07,Auto-Declined in UW,2023-01-01,False,False,
+3173243414,23075201,Eric,Hawkins,148672948,Howard,Seigle,148672948,Howard,Seigle,CLI6898768,CLI6898768,AETNA,N,500,,msp,2022-10-06,2022-10-06,2023-01-01,2022-10-11,2022-10-07,Auto-Declined in UW,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3266542651,21562301,Linda,Hawkins,148672948,Howard,Seigle,148672948,Howard,Seigle,CLI6901906,CLI6901906,AETNA,N,200,,msp,2022-10-14,2022-10-14,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -339,7 +339,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323527,13586551,Denise,Johnson,148672948,Howard,Seigle,148672948,Howard,Seigle,3161689991,A03534352,AARP,G,200,,msp,2022-04-25,2022-04-25,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117072,20903551,Roderick,Johnston,148672948,Howard,Seigle,148672948,Howard,Seigle,3515099467,,AARP,G,450,,msp,2022-11-21,2022-10-12,2023-01-01,,2022-12-07,Denied in UW,2023-01-01,False,False,False
+3173117072,20903551,Roderick,Johnston,148672948,Howard,Seigle,148672948,Howard,Seigle,3515099467,,AARP,G,450,,msp,2022-11-21,2022-10-12,2023-01-01,2022-12-07,2022-12-07,Denied in UW,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142145,20741951,Marilyn (Kris),Jolley,148672948,Howard,Seigle,148672948,Howard,Seigle,3512526835,A03603154,AARP,G,200,,msp,2022-08-24,2022-08-24,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -535,7 +535,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243296,16439401,Naomi,Reid,148672948,Howard,Seigle,148672948,Howard,Seigle,3508264219,A03558638,AARP,G,200,,msp,2022-05-31,2022-05-31,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173150289,18570801,Thomas,Richards,148672948,Howard,Seigle,148672948,Howard,Seigle,3113382372,,AARP,G,500,,msp,2022-10-06,2022-10-06,2023-01-01,,2022-10-10,denied in UW,2023-01-01,False,False,False
+3173150289,18570801,Thomas,Richards,148672948,Howard,Seigle,148672948,Howard,Seigle,3113382372,,AARP,G,500,,msp,2022-10-06,2022-10-06,2023-01-01,2022-10-11,2022-10-10,denied in UW,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323449,13613551,Julia,Riddick,148672948,Howard,Seigle,148672948,Howard,Seigle,3281302798,A03570401,AARP,G,200,,msp,2022-06-27,2022-06-27,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -543,7 +543,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126146,19527051,Patrick,Roark,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6654782,AHC6654782,AETNA,G,200,,msp,2022-09-26,2022-09-26,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173150633,12532551,Pamela,Robertson,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6620352,AHC6620352,AETNA,G,420,,msp,2022-03-21,2022-03-17,2022-09-01,,,,2022-09-01,False,False,
+3173150633,12532551,Pamela,Robertson,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6620352,AHC6620352,AETNA,G,420,,msp,2022-03-21,2022-03-17,2022-09-01,2022-11-16,,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332759,21308601,Jim,Rockot,148672948,Howard,Seigle,148672948,Howard,Seigle,AHC6650324,AHC6650324,AETNA,N,200,,msp,2022-08-29,2022-08-29,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -551,7 +551,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141788,16161651,Judith (Diane),Rogers,148672948,Howard,Seigle,148672948,Howard,Seigle,ACC6613101,ACC6613101,AETNA ACCENDO,G,200,,msp,2022-05-24,2022-05-24,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117534,19145151,Stephanie,Rogers-Adams,148672948,Howard,Seigle,148672948,Howard,Seigle,ACC6649825,ACC6649825,AETNA ACCENDO,G,500,,msp,2022-07-25,2022-07-25,2022-08-01,,2022-11-30,she is keeping employer insurance ,2022-08-01,False,False,
+3173117534,19145151,Stephanie,Rogers-Adams,148672948,Howard,Seigle,148672948,Howard,Seigle,ACC6649825,ACC6649825,AETNA ACCENDO,G,500,,msp,2022-07-25,2022-07-25,2022-08-01,2022-11-29,2022-11-30,she is keeping employer insurance ,2022-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711921,14730751,Tina,Romans,148672948,Howard,Seigle,148672948,Howard,Seigle,ACC6619171,ACC6619171,AETNA ACCENDO,G,200,,msp,2022-06-02,2022-06-02,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -605,7 +605,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168434489,7759851,Robert,Smethurst,148672948,Howard,Seigle,148672948,Howard,Seigle,925778237 (legacyAdd-UHC),,AARP/UHC,,410,,map,2021-12-31,,2022-01-01,2022-10-09,2022-04-30,,2022-01-01,False,False,
 3173125208,7759851,Robert,Smethurst,148672948,Howard,Seigle,148672948,Howard,Seigle,3505132831,A03522097,AARP,G,200,,msp,2022-04-05,2022-04-05,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173216828,18739701,Bruce,Smith,148672948,Howard,Seigle,148672948,Howard,Seigle,CLI6869588,CLI6869588,AETNA,G,500,,msp,2022-07-22,2022-07-22,2022-11-01,,2022-10-31,,2022-11-01,False,False,
+3173216828,18739701,Bruce,Smith,148672948,Howard,Seigle,148672948,Howard,Seigle,CLI6869588,CLI6869588,AETNA,G,500,,msp,2022-07-22,2022-07-22,2022-11-01,2022-11-13,2022-10-31,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125401,20102051,Iona,Smith Nze,148672948,Howard,Seigle,148672948,Howard,Seigle,3506411317,A03596876,AARP,G,200,,msp,2022-08-12,2022-08-12,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -715,7 +715,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3542230386,23609601,Diana,Wise,148672948,Howard,Seigle,148672948,Howard,Seigle,3132885405,,AARP,G,200,,msp,2022-10-27,2022-10-27,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173286288,17693701,Kenneth,Wodehouse,148672948,Howard,Seigle,148672948,Howard,Seigle,3413159330,A03614620,AARP,G,500,,msp,2022-09-15,2022-09-14,2022-12-01,,,,2022-12-01,False,False,
+3173286288,17693701,Kenneth,Wodehouse,148672948,Howard,Seigle,148672948,Howard,Seigle,3413159330,A03614620,AARP,G,500,,msp,2022-09-15,2022-09-14,2022-12-01,2022-11-30,,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243308,23065201,Joe ,Ybarra,148672948,Howard,Seigle,148672948,Howard,Seigle,ACC6692133,ACC6692133,AETNA ACCENDO,G,200,,msp,2022-10-10,2022-10-07,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -847,6 +847,10 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168597059,16429551,Sharon,Oliver,148672948,Howard,Seigle,148672948,Howard,Seigle,5T64EK1FT79,,WELLCARE,Wellcare Dual Access Open (PPO D-SNP),200,,map,2022-06-06,2022-06-01,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168476676,11217001,Angela,Paul,71859731,Rhi,Neal,148672948,Howard,Seigle,Pending Member ID,,HUMANA,HumanaChoice H5970-024 (PPO),510,,map,2022-02-28,2022-02-28,2022-03-01,2022-11-08,2022-10-31,,2022-03-01,True,,
+3399683653,11217001,Angela,Paul,148672948,Howard,Seigle,148672948,Howard,Seigle,35552403,,WELLCARE,Wellcare No Premium Open (PPO),200,,map,2022-10-21,2022-10-21,2022-11-01,,,,2022-03-01,True,,
+4220291486,11217001,Angela,Paul,148672948,Howard,Seigle,148672948,Howard,Seigle,101617415800,,AETNA,Value Plan (PPO) | ,200,,map,2022-11-30,2022-11-30,2023-01-01,,,,2022-03-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168736644,19009601,Elana,Phelps,148672948,Howard,Seigle,148672948,Howard,Seigle,985447973,,AARP/UHC,AARP Medicare Advantage Patriot (HMO-POS),200,,map,2022-07-22,2022-07-22,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168633383,21011101,Linda,Pirkle,148672948,Howard,Seigle,148672948,Howard,Seigle,997493428,,AARP/UHC,UnitedHealthcare Medicare Advantage Choice Plan 1 (PPO),200,,map,2022-09-01,2022-09-01,2022-12-01,,,,2022-12-01,True,False,
@@ -875,7 +879,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168400313,16350401,Stan,Sykes,148672948,Howard,Seigle,148672948,Howard,Seigle,743180,,AARP/UHC,AARP Medicare Advantage Plan 2 (HMO),480,,map,2022-07-12,2022-07-12,2022-08-01,2022-08-10,2022-08-01,,2022-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168633874,22188101,Mark,Tobias,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,UnitedHealthcare Chronic Complete Assure (PPO C-SNP),500,,map,2022-09-26,2022-09-26,2022-10-01,,2022-10-21,NEVER went effective; could not get verification from his previous doctor so app was canceled bc of an incomplete application ,2022-10-01,False,False,False
+3168633874,22188101,Mark,Tobias,148672948,Howard,Seigle,148672948,Howard,Seigle,Pending Member ID,,AARP/UHC,UnitedHealthcare Chronic Complete Assure (PPO C-SNP),500,,map,2022-09-26,2022-09-26,2022-10-01,2022-10-24,2022-10-21,NEVER went effective; could not get verification from his previous doctor so app was canceled bc of an incomplete application ,2022-10-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3514571274,23580001,Teddy,Turner,148672948,Howard,Seigle,148672948,Howard,Seigle,36027941	,,WELLCARE,Wellcare No Premium ,200,,map,2022-11-22,2022-11-22,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

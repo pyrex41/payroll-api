@@ -123,7 +123,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324032,112101,Gary,Becatti,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3124830500,A03062725,AARP,G,200,,msp,2020-10-09,,2020-12-01,,,,2020-12-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3544627110,23563501,Donna,Bell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3508623687,,AARP,G,420,,msp,2022-11-15,2022-10-27,2023-02-01,,,,2023-02-01,False,False,False
+3544627110,23563501,Donna,Bell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3508623687,,AARP,G,420,,msp,2022-11-15,2022-10-27,2023-02-01,2022-12-06,2022-12-06,,2023-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173344639,274001,Alexander G,Bell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,A03124415,AARP,G,200,,msp,2020-11-25,,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -353,8 +353,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286197,17657701,Mark (Kevan),Conkling,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3509572537,A03572499,AARP,G,200,,msp,2022-06-30,2022-06-30,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4366964484,7736351,William,Conlon,224486180,Rebecca,Sublette,50312260,Pete,Scalzo,AHC6676862,AHC6676862,AETNA,G,200,,msp,2022-12-07,2022-12-07,2023-01-01,,,,2023-01-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185293,2396151,James,Conway,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3178630327,A03280348,AARP,G,200,,msp,2021-06-17,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324406,12431201,Debora D,Conway,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3178630327,A03515874,AARP,G,200,,msp,2022-03-25,2022-03-24,2022-06-01,,,,2022-06-01,True,False,
@@ -373,7 +371,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273014,3090401,Stephen,Cotter,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3204349215,A03293998,AARP,G,200,,msp,2021-07-08,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173308740,14608901,James C,Cotton Jr,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6627615,AHC6627615,AETNA,G,500,,msp,2022-04-27,2022-04-27,2022-06-01,,2022-11-30,,2022-06-01,False,False,
+3173308740,14608901,James C,Cotton Jr,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6627615,AHC6627615,AETNA,G,500,,msp,2022-04-27,2022-04-27,2022-06-01,2022-11-17,2022-11-30,,2022-06-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324467,12477501,Michael,Couch,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3505974901,A03532452,AARP,G,200,,msp,2022-04-21,2022-04-20,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -586,7 +584,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173207888,4569253,Deborah,Fern,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6492205,AHC6492205,AETNA,G,200,,msp,2021-03-23,,2021-06-01,,,,2021-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3614465081,23850251,Ernie,Fields,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3473085565,,AARP,G,420,,msp,2022-11-17,2022-10-31,2023-02-01,,,,2023-02-01,False,False,False
+3614465081,23850251,Ernie,Fields,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3473085565,,AARP,G,420,,msp,2022-11-17,2022-10-31,2023-02-01,2022-11-28,2022-11-28,,2023-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177703,11118251,Steven B,Fish,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3463824379,A03558789,AARP,G,200,,msp,2022-06-05,2022-06-03,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -624,7 +622,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173207653,4572512,Janelle,Fulks,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,A03198342,AARP,G,200,,msp,2021-02-11,,2021-03-01,,,,2021-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3794504491,24157401,Steven,Funes,50312260,Pete,Scalzo,50312260,Pete,Scalzo,CLI6918595,CLI6918595,AETNA,G,500,,msp,2022-11-09,2022-11-09,2022-12-01,,2022-11-14,Declined in UW,2022-12-01,False,,
+3794504491,24157401,Steven,Funes,50312260,Pete,Scalzo,50312260,Pete,Scalzo,CLI6918595,CLI6918595,AETNA,G,500,,msp,2022-11-09,2022-11-09,2022-12-01,2022-11-14,2022-11-14,Declined in UW,2022-12-01,False,,
 4270029682,24157401,Steven,Funes,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,HUMANA,G,330,,msp,2022-12-07,2022-12-07,2023-01-01,,,,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286457,5699101,Diane,G Marshall,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3493042372,A03363900,AARP,G,200,,msp,2021-09-16,,2021-10-01,,,,2021-10-01,True,True,
@@ -682,7 +680,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173080872,2939351,Susan,Gitterman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHL6290436,AHL6290436,AETNA,G,200,,msp,2021-07-02,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173324078,116151,Mari,Glau,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6451925,AHC6451925,AETNA,G,470,,msp,2020-12-07,,2021-01-01,,,,2021-01-01,False,False,
+3173324078,116151,Mari,Glau,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6451925,AHC6451925,AETNA,G,470,,msp,2020-12-07,,2021-01-01,2022-11-28,,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711664,8297601,Carolyn B,Goldwasser,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6596393,AHC6596393,AETNA,G,200,,msp,2021-12-09,,2022-03-01,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -716,7 +714,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184909,6163701,William,Green,50312260,Pete,Scalzo,50312260,Pete,Scalzo,"AHC6553314 (active), AHC6553316 (inactive)","AHC6553314 (active), AHC6553316 (inactive)",AETNA,G,200,,msp,2021-09-29,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3582026612,24005201,Jean A,Greenawalt,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3188643377,,AARP,G,420,,msp,2022-10-31,2022-10-29,2023-02-01,,,,2023-02-01,False,False,False
+3582026612,24005201,Jean A,Greenawalt,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3188643377,,AARP,G,420,,msp,2022-10-31,2022-10-29,2023-02-01,2022-11-21,2022-11-21,,2023-02-01,False,False,False
 4022046248,24005201,Jean A,Greenawalt,50312260,Pete,Scalzo,50312260,Pete,Scalzo,985958152,,AARP/UHC,AARP® Medicare Advantage Choice (PPO,200,,map,2022-11-21,2022-11-21,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177526,4585101,Geoffrey,Greenleaf,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3144886094,A03161286,AARP,G,200,,msp,2020-12-21,,2021-02-01,,,,2021-02-01,True,True,
@@ -1059,7 +1057,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173207670,4573201,Mary,Kinart,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3044212078,A03182038,AARP,G,200,,msp,2021-01-19,,2021-03-01,,,,2021-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125256,7772951,Esther K,Kinder,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6574282,AHC6574282,AETNA,N,500,Not Commissionable,msp,2021-11-09,,2022-01-01,2022-04-28,2022-04-28,No cancellation reason given on original contact record (flat file),2022-01-01,False,,
-3192269492,7772951,Esther K,Kinder,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6574715,AHC6574715,AETNA,N,500,,msp,2021-11-09,,2022-01-01,,,,2022-01-01,False,False,
+3192269492,7772951,Esther K,Kinder,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6574715,AHC6574715,AETNA,N,500,,msp,2021-11-09,,2022-01-01,2022-10-13,,,2022-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185459,15490801,Stephen R,King,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID ,,AARP,G,200,,msp,2022-07-19,2022-07-19,2022-08-01,,,,2022-08-01,True,,False
 3173393591,15490801,Stephen R,King,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6642582,AHC6642582,AETNA,G,510,,msp,2022-07-15,2022-07-15,2022-09-01,,,,2022-08-01,True,False,
@@ -1157,7 +1155,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393205,5044151,Rina,Lee,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6563107,AHC6563107,AETNA,G,200,,msp,2021-10-21,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3774968328,24196001,Jennifer,Legner,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3308138407,,AARP,G,420,,msp,2022-11-03,2022-11-03,2023-01-01,,,,2023-01-01,False,False,False
+3774968328,24196001,Jennifer,Legner,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3308138407,,AARP,G,420,,msp,2022-11-03,2022-11-03,2023-01-01,2022-11-25,2022-11-25,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711048,362401,Jerry,Lehew,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6458126,AHC6458126,AETNA,G,200,,msp,2020-12-16,,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1259,7 +1257,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125409,20063601,Michael,Marcum,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6647941,AHC6647941,AETNA,G,200,,msp,2022-08-15,2022-08-12,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332754,21265751,Bill,Markland,50312260,Pete,Scalzo,50312260,Pete,Scalzo,N/A,N/A,AETNA,G,430,Not Commissionable,msp,,2022-09-01,2023-01-01,,,,2023-01-01,False,False,False
+3173332754,21265751,Bill,Markland,50312260,Pete,Scalzo,50312260,Pete,Scalzo,N/A,N/A,AETNA,G,430,Not Commissionable,msp,,2022-09-01,2023-01-01,2022-11-17,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125380,20070201,Maureen,Markland,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6647176,AHC6647176,AETNA,G,200,,msp,2022-08-10,2022-08-08,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1433,7 +1431,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258902,5446801,Katherine,Mingucci,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6581066,AHC6581066,AETNA,G,200,,msp,2021-11-18,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3813394356,24472301,Eva,Mitchell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,AARP,G,450,,msp,,2022-11-11,2023-01-01,,,,2023-01-01,False,False,False
+3813394356,24472301,Eva,Mitchell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,AARP,G,450,,msp,,2022-11-11,2023-01-01,2022-11-29,2022-11-29,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273480,16779862,Richard,Mitchell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,33059597312,A03148283 (legacyAdd-UHC),AARP,G,200,,msp,2020-12-10,,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1895,8 +1893,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286405,3540201,Verona S,Smith,50312260,Pete,Scalzo,50312260,Pete,Scalzo,316306256 or 3163062569,A03323591,AARP,G,200,,msp,2021-08-16,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173286785,16775939,Stephen,Smith,49712426,Inactive,Agent,50312260,Pete,Scalzo,34431524711,A02663791 (legacyAdd-UHC),AARP,G,200,,msp,2019-03-01,,2019-03-01,,,,2019-03-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393820,17943501,Susan,Smith,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3508679754,A03613126,AARP,G,200,,msp,2022-09-13,2022-09-12,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3205341592,9579151,Michael,Smith,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6662159,AHC6662159,AETNA,G,200,,msp,2022-10-26,2022-10-11,2023-01-01,,,,2023-01-01,True,False,
@@ -2041,7 +2037,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323327,14250451,Lori J,Thomsen,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6628750,AHC6628750,AETNA,G,200,,msp,2022-05-03,2022-05-03,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332905,2938201,Terry ,Thorman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6526835,AHC6526835,AETNA,G,500,,msp,2021-07-06,,2021-11-01,,,,2021-11-01,True,,
+3173332905,2938201,Terry ,Thorman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6526835,AHC6526835,AETNA,G,500,,msp,2021-07-06,,2021-11-01,2022-10-14,,,2021-11-01,True,,
 3173332095,2938201,Terry ,Thorman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6567060,AHC6567060,AETNA,G,200,,msp,2021-10-28,,2021-12-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259324,22673401,Ann,Timmons,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3502588829,A03624911,AARP,G,200,,msp,2022-10-04,2022-10-04,2022-12-01,,,,2022-12-01,True,False,
@@ -2114,9 +2110,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216639,13179051,Pamela S,Wagner,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6626960,AHC6626960,AETNA,G,200,,msp,2022-04-25,2022-04-25,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177656,11210151,Billie,Wakeman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6613250,AHC6613250,AETNA,G,470,,msp,2022-02-14,2022-02-14,2022-03-01,,,,2022-03-01,False,False,
+3173177656,11210151,Billie,Wakeman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6613250,AHC6613250,AETNA,G,470,,msp,2022-02-14,2022-02-14,2022-03-01,2022-12-09,2022-11-30,,2022-03-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173242977,11544051,Robert,Wakeman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6613981,AHC6613981,AETNA,G,420,,msp,2022-02-16,2022-02-16,2022-03-01,,,,2022-03-01,False,False,
+3173242977,11544051,Robert,Wakeman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6613981,AHC6613981,AETNA,G,420,,msp,2022-02-16,2022-02-16,2022-03-01,2022-12-09,,,2022-03-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185285,2306051,Randy,Walker,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,A03264498,AARP,G,200,,msp,2021-05-25,,2021-06-01,,,,2021-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2136,7 +2132,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286273,17549451,Kathleen L,Ward-Marcum,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6638948,AHC6638948,AETNA,G,200,,msp,2022-06-27,2022-06-22,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173141873,18924851,Aaron,Watkins,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6645943,AHC6645943,AETNA,G,420,,msp,2022-08-03,2022-08-02,2022-11-01,,,,2022-11-01,False,False,
+3173141873,18924851,Aaron,Watkins,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6645943,AHC6645943,AETNA,G,420,,msp,2022-08-03,2022-08-02,2022-11-01,2022-10-14,,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150306,18482151,Kathleen A,Watkins,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6645944,AHC6645944,AETNA,G,200,,msp,2022-08-03,2022-08-02,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2156,7 +2152,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711703,8305751,Mary E,Welzenbach,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6584759,AHC6584759,AETNA,G,200,,msp,2021-11-23,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170711709,8401901,Dennis P,Welzenbach,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6584758,AHC6584758,AETNA,G,420,,msp,2021-11-23,,2022-01-01,,2022-12-31,,2022-01-01,False,False,
+3170711709,8401901,Dennis P,Welzenbach,50312260,Pete,Scalzo,50312260,Pete,Scalzo,AHC6584758,AHC6584758,AETNA,G,420,,msp,2021-11-23,,2022-01-01,2022-11-30,2022-12-31,,2022-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173057640,4571776,William,Wendel,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,A03179432,AARP,G,200,,msp,2021-01-14,,2021-03-01,,,,2021-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2295,7 +2291,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168276243,753501,Brenda,Chandler,50312260,Pete,Scalzo,50312260,Pete,Scalzo,916506256,,AARP/UHC,Choice Plan 2 PPO,200,,map,2021-01-26,,2021-02-01,,,,2021-02-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4025009819,24664001,Elizabeth,Charles,50312260,Pete,Scalzo,50312260,Pete,Scalzo,H76693119,,HUMANA,HumanaChoice,200,,map,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,,False
-4176534313,24664001,Elizabeth,Charles,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,HUMANA,Humana Choice PPO,410,,map,,2022-11-28,2023-01-01,,,,2023-01-01,True,False,False
+4176534313,24664001,Elizabeth,Charles,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,HUMANA,Humana Choice PPO,410,,map,,2022-11-28,2023-01-01,2022-11-30,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168486743,134001,Rosemary,Ciesielski,50312260,Pete,Scalzo,50312260,Pete,Scalzo,499W06555,,BCBS,Anthem Mediblue Plus,200,,map,2020-11-03,2020-10-15,2020-12-01,,,,2020-12-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

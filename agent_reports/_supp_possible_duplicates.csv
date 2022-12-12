@@ -7,7 +7,7 @@ missing_commission_id,3173149844,5683151,Jeffrey W,Chiles,50312260,Pete,Scalzo,5
 missing_commission_id,3173228836,675401,Pamela,Valerio,49712324,David,Strehlow,49712324,David,Strehlow,N/A,N/A,AETNA,G,500,,msp,,,2021-05-01,,2021-04-30,,,,,False
 missing_commission_id,3173286526,2550001,James,Rasco,49712324,David,Strehlow,49712324,David,Strehlow,N/A,N/A,AETNA,G,500,,msp,,2021-09-01,2022-03-01,2021-09-30,2021-09-30,,,,,False
 missing_commission_id,3173332152,13418851,Doug,Whittum,89311810,Jordan,Otte,89311810,Jordan,Otte,N/A,N/A,AETNA,G,420,,msp,,2022-04-20,2022-09-01,2022-10-10,2022-04-21,,,,,False
-missing_commission_id,3173332754,21265751,Bill,Markland,50312260,Pete,Scalzo,50312260,Pete,Scalzo,N/A,N/A,AETNA,G,430,Not Commissionable,msp,,2022-09-01,2023-01-01,,,,,,,False
+missing_commission_id,3173332754,21265751,Bill,Markland,50312260,Pete,Scalzo,50312260,Pete,Scalzo,N/A,N/A,AETNA,G,430,Not Commissionable,msp,,2022-09-01,2023-01-01,2022-11-17,,,,,,False
 missing_commission_id,3170711060,398851,Yususn,Hitt,50084738,Adrian,Hardin,50084738,Adrian,Hardin,N/A,N/A,MUTUAL OF OMAHA,G,500,,msp,2020-12-03,,2021-01-01,,2020-12-31,,,,,False
 missing_commission_id,3170711072,407151,Robert,Hitt Jr,50084738,Adrian,Hardin,50084738,Adrian,Hardin,N/A,N/A,MUTUAL OF OMAHA,G,500,,msp,2020-12-07,,2021-01-01,,2020-12-31,,,,,False
 missing_commission_id,3173116827,4582251,Melvin,Miller,50109414,Marvin,Musick,50109414,Marvin,Musick,N/A,N/A,MUTUAL OF OMAHA,F,500,,msp,2016-08-03,,2016-09-01,2021-12-07,2020-03-01,,,,,False
@@ -43,8 +43,8 @@ missing_commission_id,3170712187,21573851,Margaret,Stooker,219526179,Mark,Abkeme
 missing_commission_id,3170712202,21563951,Patricia,Santolla,82267662,Nick,Oberle,82267662,Nick,Oberle,3250543687,,AARP,G,200,,msp,2022-09-07,2022-09-07,2023-02-01,,,,,,,False
 missing_commission_id,3170712224,21570801,Andrew,Shepard,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AARP,G,200,,msp,2022-10-11,2022-10-10,2022-12-01,,,,,,,False
 missing_commission_id,3170712235,21613151,Carol,THOMPSON,148694372,Justin,Cohen,148694372,Justin,Cohen,3319524116,,AARP,G,200,,msp,2022-09-12,2022-09-08,2023-03-01,,,,,,,False
-missing_commission_id,3170712243,21587501,Gloria,Cabrera,66410900,Nick,Thompson,66410900,Nick,Thompson,3515179160,,AARP,G,500,,msp,2022-10-05,,2023-01-01,,2022-10-10,Denied in UW,,,,False
-missing_commission_id,3170712244,21514651,Daryl,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3429451465,,AARP,G,500,,msp,2022-08-31,,2022-10-01,,2022-09-30,client never reached out to UHC even after being notified repeatedly ,,,,False
+missing_commission_id,3170712243,21587501,Gloria,Cabrera,66410900,Nick,Thompson,66410900,Nick,Thompson,3515179160,,AARP,G,500,,msp,2022-10-05,,2023-01-01,2022-10-11,2022-10-10,Denied in UW,,,,False
+missing_commission_id,3170712244,21514651,Daryl,Johnson,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3429451465,,AARP,G,500,,msp,2022-08-31,,2022-10-01,2022-10-10,2022-09-30,client never reached out to UHC even after being notified repeatedly ,,,,False
 missing_commission_id,3170712248,21476901,Loraine,Frey,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3515143646,,AARP,G,200,,msp,2022-10-05,2022-10-05,2023-01-01,,,,,,,False
 missing_commission_id,3173057371,4578763,Michael,Trader,50109414,Marvin,Musick,50109414,Marvin,Musick,N/A,,AARP,G,500,,msp,2019-12-05,,2020-01-01,2022-01-26,2022-01-26,No cancellation reason given on original contact record (flat file),,,,False
 missing_commission_id,3173057375,4578907,Michael,Valente,49147566,Steve,Brooks,49147566,Steve,Brooks,3248362729,,AARP,G,500,,msp,2020-07-02,,2020-08-01,2022-01-29,2022-01-29,,,,,False
@@ -57,7 +57,7 @@ missing_commission_id,3173117042,20914351,Lynn,Merkle,66410900,Nick,Thompson,664
 missing_commission_id,3173117051,20890751,Donald,Winkle,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3513947865,,AARP,G,200,,msp,2022-09-15,2022-09-15,2023-03-01,,,,,,,False
 missing_commission_id,3173117059,20973101,Doreen,Banca,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AARP,G,200,,msp,2022-10-10,,2023-01-01,,,,,,,False
 missing_commission_id,3173117061,20875501,June,K Blair,49712324,David,Strehlow,49712324,David,Strehlow,3512391248,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-06-01,,,,,,,False
-missing_commission_id,3173117072,20903551,Roderick,Johnston,148672948,Howard,Seigle,148672948,Howard,Seigle,3515099467,,AARP,G,450,,msp,2022-11-21,2022-10-12,2023-01-01,,2022-12-07,Denied in UW,,,,False
+missing_commission_id,3173117072,20903551,Roderick,Johnston,148672948,Howard,Seigle,148672948,Howard,Seigle,3515099467,,AARP,G,450,,msp,2022-11-21,2022-10-12,2023-01-01,2022-12-07,2022-12-07,Denied in UW,,,,False
 missing_commission_id,3173117074,20931251,Daniel,M Daley,49712324,David,Strehlow,49712324,David,Strehlow,3512445127,,AARP,G,500,,msp,2022-08-20,2022-08-20,2022-11-01,2022-10-10,2022-10-31,App was withdrawn for no response to UW,,,,False
 missing_commission_id,3173117081,21015301,Karl,Pulver,50183183,Rhee,Cano,50183183,Rhee,Cano,3513460745,,AARP,G,500,,msp,2022-09-06,,2023-03-01,2022-09-15,2022-09-15,,,,,False
 missing_commission_id,3173117084,20901601,Silvia,Devescovi,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3512364153,,AARP,G,200,,msp,2022-11-01,2022-11-01,2023-02-01,,,,,,,False
@@ -121,7 +121,7 @@ missing_commission_id,3173149809,5592451,Terrence ,Toon,66410900,Nick,Thompson,6
 missing_commission_id,3173150000,12152701,Mary Lee,Stenstrom,82267662,Nick,Oberle,82267662,Nick,Oberle,3448319347,,AARP,N,500,,msp,2022-03-02,2022-03-02,2022-06-01,2022-03-10,2022-03-10,,,,,False
 missing_commission_id,3173150069,7096901,George R,"Bryan, III",49712324,David,Strehlow,49712324,David,Strehlow,3438164372,,AARP,G,500,,msp,2021-10-17,,2022-01-01,2021-10-31,2021-10-31,,,,,False
 missing_commission_id,3173150260,18483651,Linda,Vournas,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3311599868,,AARP,G,200,,msp,2022-08-01,2022-08-01,2023-02-01,,,,,,,False
-missing_commission_id,3173150289,18570801,Thomas,Richards,148672948,Howard,Seigle,148672948,Howard,Seigle,3113382372,,AARP,G,500,,msp,2022-10-06,2022-10-06,2023-01-01,,2022-10-10,denied in UW,,,,False
+missing_commission_id,3173150289,18570801,Thomas,Richards,148672948,Howard,Seigle,148672948,Howard,Seigle,3113382372,,AARP,G,500,,msp,2022-10-06,2022-10-06,2023-01-01,2022-10-11,2022-10-10,denied in UW,,,,False
 missing_commission_id,3173150318,18447901,Daniel,Smith,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3508679754,,AARP,G,200,Commissionable - Need to Review,msp,2022-10-26,2022-09-13,2022-11-01,,,,,,,False
 missing_commission_id,3173150737,12624801,Charles,kohl,76357008,Inactive,Agent,76357008,Inactive,Agent,346501216-8,,AARP,G,500,,msp,2022-03-14,2022-03-14,2022-07-01,2022-04-26,2022-04-26,,,,,False
 missing_commission_id,3173163932,4546151,Sally,Peavey,148694372,Justin,Cohen,148694372,Justin,Cohen,339163711,,AARP,G,200,,msp,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
@@ -145,7 +145,7 @@ missing_commission_id,3173177167,1532601,Johnnie,Wetsel,50183183,Rhee,Cano,50183
 missing_commission_id,3173177172,1513951,Clarence,Day,49712326,Matthew,Cano,49712326,Matthew,Cano,309252108-1,,AARP,F,500,Not Commissionable,msp,2021-03-24,,2021-04-01,,2021-03-31,,,,,False
 missing_commission_id,3173177268,4234951,Krystal,Brown,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3143084154,,AARP,G,500,,msp,2021-08-17,,2021-09-01,2021-10-30,2021-08-31,,,,,False
 missing_commission_id,3173177404,4231101,Susan A,Silva,71859731,Rhi,Neal,71859731,Rhi,Neal,3490594508,,AARP,G,500,,msp,2021-08-04,,2021-09-01,2021-09-03,2021-08-31,,,,,False
-missing_commission_id,3173177690,11144351,Willa M,Ivory,50183183,Rhee,Cano,50183183,Rhee,Cano,3508411737,,AARP,G,500,,msp,2022-06-02,,2022-12-01,,,,,,,False
+missing_commission_id,3173177690,11144351,Willa M,Ivory,50183183,Rhee,Cano,50183183,Rhee,Cano,3508411737,,AARP,G,500,,msp,2022-06-02,,2022-12-01,2022-10-31,,,,,,False
 missing_commission_id,3173177712,18227201,Germaine,Barb,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3510116969,,AARP,G,500,,msp,2022-07-11,2022-07-08,2022-08-01,2022-07-21,2022-08-01,,,,,False
 missing_commission_id,3173177756,18296051,Firman,Leung,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3397261367,,AARP,G,200,,msp,2022-10-10,2022-10-07,2022-11-01,,,,,,,False
 missing_commission_id,3173177759,18357301,David,Hesselink,148694372,Justin,Cohen,148694372,Justin,Cohen,315122944,,AARP,G,200,,msp,2022-10-27,2022-10-25,2023-01-01,,,,,,,False
@@ -164,7 +164,7 @@ missing_commission_id,3173177935,22787751,Patricia,Reis,66410900,Nick,Thompson,6
 missing_commission_id,3173177936,22754401,Theresa,Shelton,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3515251720,,AARP,G,200,,msp,2022-10-10,2022-10-07,2022-12-01,,,,,,,False
 missing_commission_id,3173177938,22887301,Bruce,Baldwin,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3500627348,,AARP,G,200,,msp,2022-10-06,2022-10-05,2023-01-01,,,,,,,False
 missing_commission_id,3173177945,22733001,Shawn,Munns,148694372,Justin,Cohen,148694372,Justin,Cohen,333039846,,AARP,G,200,,msp,2022-10-20,2022-10-19,2022-11-01,,,,,,,False
-missing_commission_id,3173177948,22887251,KITTY,HUI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3514994072,,AARP,G,500,,msp,2022-10-03,,2023-01-01,,2023-01-01,client canceled ,,,,False
+missing_commission_id,3173177948,22887251,KITTY,HUI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3514994072,,AARP,G,500,,msp,2022-10-03,,2023-01-01,2022-10-10,2023-01-01,client canceled ,,,,False
 missing_commission_id,3173177949,22829151,Michael,Ciampa,49712324,David,Strehlow,49712324,David,Strehlow,3515314627,,AARP,M1A,200,,msp,2022-10-18,2022-10-17,2022-11-01,,,,,,,False
 missing_commission_id,3173177952,22780151,Jerry A,Stalzer,165335439,Aaron,Butler,165335439,Aaron,Butler,3514922263,,AARP,WBP,200,,msp,2022-10-03,2022-10-03,2023-01-01,,,,,,,False
 missing_commission_id,3173177954,22934201,James,Johnson,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3309588303,,AARP,G,200,,msp,2022-10-05,2022-10-04,2023-02-01,,,,,,,False
@@ -260,14 +260,14 @@ missing_commission_id,3173243651,22399201,Thomas,Davis,89311810,Jordan,Otte,8931
 missing_commission_id,3173243663,22439201,Gregory A,Meadows,165335439,Aaron,Butler,165335439,Aaron,Butler,3514464041,,AARP,G,200,,msp,2022-10-26,2022-10-26,2022-12-01,,,,,,,False
 missing_commission_id,3173243669,22326701,William,Douglas,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3514921786,,AARP,G,200,,msp,2022-10-03,2022-10-01,2023-01-01,,,,,,,False
 missing_commission_id,3173243671,22317201,Duane,Richards,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,,AARP,G,200,,msp,2022-09-19,2022-09-19,2022-10-01,,,,,,,False
-missing_commission_id,3173243674,22405701,Richard,Garcia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3497763833,,AARP,G,450,,msp,2022-09-26,2022-09-26,2022-10-01,,,,,,,False
+missing_commission_id,3173243674,22405701,Richard,Garcia,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3497763833,,AARP,G,450,,msp,2022-09-26,2022-09-26,2022-10-01,2022-10-19,,,,,,False
 missing_commission_id,3173243678,22300501,Dorothy,Trest,165335439,Aaron,Butler,165335439,Aaron,Butler,3514246416,,AARP,G,500,,msp,2022-09-20,2022-09-19,2022-10-01,2022-10-04,2022-09-28,,,,,False
 missing_commission_id,3173243687,22296501,Robert,Vest,165335439,Aaron,Butler,165335439,Aaron,Butler,3514307358,,AARP,G,200,,msp,2022-10-10,2022-10-07,2022-11-01,,,,,,,False
-missing_commission_id,3173243689,22399401,Geraldine,Heesch,89300906,Brian,Schwartz,89300906,Brian,Schwartz,0487734543,,AARP,G,500,,msp,2022-10-04,,2023-01-01,,2022-12-31,Approved at level 2 rate so client canceled ,,,,False
+missing_commission_id,3173243689,22399401,Geraldine,Heesch,89300906,Brian,Schwartz,89300906,Brian,Schwartz,0487734543,,AARP,G,500,,msp,2022-10-04,,2023-01-01,2022-10-26,2022-12-31,Approved at level 2 rate so client canceled ,,,,False
 missing_commission_id,3173243690,22386601,Donna,Cuatt,148672948,Howard,Seigle,148672948,Howard,Seigle,3146874643,,AARP,G,200,,msp,2022-09-21,2022-09-21,2023-02-01,,,,,,,False
 missing_commission_id,3173243691,22390301,Eileen,Schaefer,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3516050071,,AARP,G,200,,msp,2022-10-20,2022-10-20,2023-01-01,,,,,,,False
 missing_commission_id,3173243693,22449951,Mary,Bosch,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3516754649,,AARP,G,200,,msp,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
-missing_commission_id,3173243753,6752301,Sandra,Butler,66410900,Nick,Thompson,66410900,Nick,Thompson,349521951,,AARP,G,500,,msp,2021-10-25,,2022-01-01,,2021-12-31,,,,,False
+missing_commission_id,3173243753,6752301,Sandra,Butler,66410900,Nick,Thompson,66410900,Nick,Thompson,349521951,,AARP,G,500,,msp,2021-10-25,,2022-01-01,2022-10-11,2021-12-31,,,,,False
 missing_commission_id,3173253684,932551,Steven I,Foley,50183183,Rhee,Cano,50183183,Rhee,Cano,3120819630,,AARP,G,200,,msp,2022-10-07,2022-10-06,2023-02-01,,,,,,,False
 missing_commission_id,3173253930,4428101,Jacqueline,Mcdermott,50183183,Rhee,Cano,50183183,Rhee,Cano,3408155582,,AARP,G,500,,msp,2021-10-18,,2022-04-01,2022-03-04,2022-03-31,,,,,False
 missing_commission_id,3173253931,4277501,Michael S,Cook,49712324,David,Strehlow,49712324,David,Strehlow,3116201132,,AARP,G,200,,msp,2022-10-10,2022-10-07,2022-12-01,,,,,,,False
@@ -285,7 +285,7 @@ missing_commission_id,3173259192,22513351,Aldrich,Mitchell III,229799738,Darrin,
 missing_commission_id,3173259268,22614001,Lisa,Kelso,165335439,Aaron,Butler,165335439,Aaron,Butler,3202709899,,AARP,G,200,,msp,2022-10-07,2022-10-06,2023-04-01,,,,,,,False
 missing_commission_id,3173259276,22503201,Jacquelyn,Pendarvis,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3124778428,,AARP,G,500,,msp,2022-09-26,2022-09-26,2022-10-01,2022-10-06,2022-09-27,App never went past LEAN; incorrect info and client withdrew ,,,,False
 missing_commission_id,3173259280,22668051,Gary,Ausdahl,76355971,Mark,Files,76355971,Mark,Files,3512160684,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
-missing_commission_id,3173259282,22501801,Larry,Larson,89321142,Patrick,Stang,89321142,Patrick,Stang,3087547588,,AARP,G,500,,msp,2022-09-26,2022-09-26,2022-10-01,,2022-09-30,UW app that was approved at level 2 rate so canceled ,,,,False
+missing_commission_id,3173259282,22501801,Larry,Larson,89321142,Patrick,Stang,89321142,Patrick,Stang,3087547588,,AARP,G,500,,msp,2022-09-26,2022-09-26,2022-10-01,2022-11-01,2022-09-30,UW app that was approved at level 2 rate so canceled ,,,,False
 missing_commission_id,3173259283,22592201,Kenney,Pellegrino,165335439,Aaron,Butler,165335439,Aaron,Butler,3514773955,,AARP,G,200,,msp,2022-09-30,2022-09-29,2023-02-01,,,,,,,False
 missing_commission_id,3173259288,22693801,Rudiger,Wolf,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3119355554,,AARP,G,200,,msp,2022-09-30,2022-09-30,2022-12-01,,,,,,,False
 missing_commission_id,3173259293,22468151,Mary,Royals,49712324,David,Strehlow,49712324,David,Strehlow,3514794464,,AARP,G,200,,msp,2022-09-29,2022-09-29,2023-03-01,,,,,,,False
@@ -294,7 +294,7 @@ missing_commission_id,3173259300,22606201,Anitra,Harris,66410900,Nick,Thompson,6
 missing_commission_id,3173259321,22466351,Debra,Eskie,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3514867534,,AARP,G,200,,msp,2022-11-03,2022-09-30,2023-04-01,,,,,,,False
 missing_commission_id,3173259323,22619101,Shirley,Butler,89321142,Patrick,Stang,89321142,Patrick,Stang,3129438374,,AARP,G,200,,msp,2022-10-03,2022-10-03,2023-04-01,,,,,,,False
 missing_commission_id,3173259329,22675501,John,Cavanaugh,148694372,Justin,Cohen,148694372,Justin,Cohen,3186857672,,AARP,G,200,,msp,2022-10-05,2022-10-04,2023-01-01,,,,,,,False
-missing_commission_id,3173259334,22670301,Jozef,Van Keer,49712324,David,Strehlow,49712324,David,Strehlow,3287207694,,AARP,G,500,,msp,2022-10-03,2022-10-03,2022-11-01,,2022-10-31,Accepted at level 2 rate ,,,,False
+missing_commission_id,3173259334,22670301,Jozef,Van Keer,49712324,David,Strehlow,49712324,David,Strehlow,3287207694,,AARP,G,500,,msp,2022-10-03,2022-10-03,2022-11-01,2022-11-30,2022-10-31,Accepted at level 2 rate ,,,,False
 missing_commission_id,3173273149,8550751,Sarah A,Didier,49712324,David,Strehlow,49712324,David,Strehlow,3197395191,,AARP,G,450,,msp,2021-12-06,,2022-01-01,2022-10-10,2022-01-18,,,,,False
 missing_commission_id,3173273194,8583801,Maria,Garcia,81158745,Inactive,Agent,81158745,Inactive,Agent,3150168825,,AARP,G,500,,msp,2021-11-16,2021-11-16,2021-12-01,2021-11-30,2021-11-30,,,,,False
 missing_commission_id,3173273227,11381251,Kelly,Hauck,76355971,Mark,Files,76355971,Mark,Files,3142717671,,AARP,G,200,,msp,2022-10-13,2022-10-10,2023-01-01,,,,,,,False
@@ -318,11 +318,11 @@ missing_commission_id,3173287004,20422401,James ,J Roberts,49712324,David,Strehl
 missing_commission_id,3173287029,20425001,Cathy,Drechsel,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3107046025,,AARP,G,200,,msp,2022-10-03,2022-10-03,2023-01-01,,,,,,,False
 missing_commission_id,3173287030,20386351,William,R Leath,49712324,David,Strehlow,49712324,David,Strehlow,3312101383,,AARP,G,200,,msp,2022-08-15,2022-08-13,2023-02-01,,,,,,,False
 missing_commission_id,3173287038,20254801,Robert,Seward,148694372,Justin,Cohen,148694372,Justin,Cohen,316384824,,AARP,G,200,,msp,2022-11-07,2022-11-05,2023-01-01,,,,,,,False
-missing_commission_id,3173287067,20293501,John,Stephani,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3259704181,,AARP,G,510,,msp,2022-08-09,2022-08-05,2023-02-01,,2023-01-31,,,,,False
+missing_commission_id,3173287067,20293501,John,Stephani,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3259704181,,AARP,G,510,,msp,2022-08-09,2022-08-05,2023-02-01,2022-10-12,2023-01-31,,,,,False
 missing_commission_id,3173298474,1658551,Kevin,Lipine,50183183,Rhee,Cano,50183183,Rhee,Cano,3450833375,,AARP,G,500,,msp,2021-04-09,,2021-08-01,2021-07-12,2021-07-12,,,,,False
 missing_commission_id,3173308507,3456751,Laura,Bluestone,76539239,Inactive,Agent,76539239,Inactive,Agent,3371542873,,AARP,G,500,,msp,2021-07-19,,2022-01-01,2021-07-20,2021-07-20,,,,,False
 missing_commission_id,3173308560,3363851,Dorcas,Cefaratti,49712326,Matthew,Cano,49712326,Matthew,Cano,3488760012,,AARP,G,500,,msp,2021-07-12,,2021-10-01,2021-08-23,2021-08-23,,,,,False
-missing_commission_id,3173308709,14339801,Marcia,Poole,76355971,Mark,Files,76355971,Mark,Files,249298266,,AARP,G,510,,msp,2022-10-25,2022-10-28,2023-01-01,,2022-11-03,Denied in UW,,,,False
+missing_commission_id,3173308709,14339801,Marcia,Poole,76355971,Mark,Files,76355971,Mark,Files,249298266,,AARP,G,510,,msp,2022-10-25,2022-10-28,2023-01-01,2022-12-08,2022-11-03,Denied in UW,,,,False
 missing_commission_id,3173308723,14641701,Adele,Gagne,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3419439744,,AARP,G,200,,msp,2022-10-04,2022-10-04,2023-02-01,,,,,,,False
 missing_commission_id,3173308744,14424601,John,Evans,148694372,Justin,Cohen,148694372,Justin,Cohen,3165283312,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
 missing_commission_id,3173308748,14511001,Linda,Jackson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3513202832,,AARP,G,200,,msp,2022-09-06,2022-09-02,2023-02-01,,,,,,,False
@@ -357,7 +357,7 @@ missing_commission_id,3173332767,21264351,Angela,Kovalick,66410900,Nick,Thompson
 missing_commission_id,3173332771,21436901,Melanie,Kolski,89321142,Patrick,Stang,89321142,Patrick,Stang,3290429020,,AARP,G,200,,msp,2022-09-06,2022-09-02,2023-02-01,,,,,,,False
 missing_commission_id,3173332789,21397051,Cheryl,A Bromfman,49712324,David,Strehlow,49712324,David,Strehlow,3217621055,,AARP,G,500,,msp,2022-08-30,2022-08-30,2022-09-01,2022-09-12,2022-08-31,,,,,False
 missing_commission_id,3173332794,21368551,Bradly,Hohenstein,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3513413728,,AARP,G,200,,msp,2022-09-06,2022-09-06,2023-02-01,,,,,,,False
-missing_commission_id,3173332805,21242251,Sheree,Crews,76355971,Mark,Files,76355971,Mark,Files,3513616064,,AARP,G,500,,msp,2022-09-08,2022-09-09,2022-10-01,,2022-10-03,GI paperwork not received in time,,,,False
+missing_commission_id,3173332805,21242251,Sheree,Crews,76355971,Mark,Files,76355971,Mark,Files,3513616064,,AARP,G,500,,msp,2022-09-08,2022-09-09,2022-10-01,2022-10-17,2022-10-03,GI paperwork not received in time,,,,False
 missing_commission_id,3173332807,21386201,Steven,"V Turdici, Sr",49712324,David,Strehlow,49712324,David,Strehlow,3180006920,,AARP,G,200,,msp,2022-10-17,2022-10-17,2023-01-01,,,,,,,False
 missing_commission_id,3173332810,21326551,Frank,Bramley,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3324348303,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
 missing_commission_id,3173333036,3211651,Sheila,Garris,71859731,Rhi,Neal,71859731,Rhi,Neal,327385709,,AARP,G,500,,msp,2021-07-06,,2021-09-01,,2021-08-31,,,,,False
@@ -376,7 +376,7 @@ missing_commission_id,3173393004,1649101,Bradley,Harding,50312260,Pete,Scalzo,50
 missing_commission_id,3173393009,1581751,Robin,Gray,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3303718336,,AARP,G,200,,msp,2022-10-03,2022-10-01,2023-01-01,,,,,,,False
 missing_commission_id,3173393182,5071351,Earl,Mowen,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3097677101,,AARP,G,500,,msp,2021-08-24,,2021-09-01,2021-10-30,2021-08-31,,,,,False
 missing_commission_id,3173393226,5096951,Wanda,Mowen,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3097677102,,AARP,G,500,,msp,2021-08-24,,2022-04-01,2022-02-18,2022-02-18,,,,,False
-missing_commission_id,3173393550,15426852,Daniel,Sass,76355971,Mark,Files,76355971,Mark,Files,3507200040,,AARP,G,500,,msp,2022-11-10,2022-11-11,2023-01-01,,2022-12-31,He was approved at level 2 rate ,,,,False
+missing_commission_id,3173393550,15426852,Daniel,Sass,76355971,Mark,Files,76355971,Mark,Files,3507200040,,AARP,G,500,,msp,2022-11-10,2022-11-11,2023-01-01,2022-12-01,2022-12-31,He was approved at level 2 rate ,,,,False
 missing_commission_id,3173393587,15471601,KAY,BLOND,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3180545042,,AARP,G,200,,msp,2022-08-15,2022-08-12,2023-02-01,,,,,,,False
 missing_commission_id,3173393791,18004151,Thomas,Wilda,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3025278650,,AARP,G,500,,msp,2022-06-27,,2022-09-01,2022-08-22,2022-08-22,,,,,False
 missing_commission_id,3173393825,17972851,Jerry,Gullette,49712324,David,Strehlow,49712324,David,Strehlow,3491686493,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
@@ -391,7 +391,7 @@ missing_commission_id,3182706229,22892001,Virgil,Bailey,89321142,Patrick,Stang,8
 missing_commission_id,3182890923,21080401,Keith,Mosby,165335439,Aaron,Butler,165335439,Aaron,Butler,3231177886,,AARP,G,200,,msp,2022-11-08,2022-11-10,2022-12-01,,,,,,,False
 missing_commission_id,3182891177,23210551,Debra,Morgan,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3267124117,,AARP,G,200,,msp,2022-10-11,2022-10-10,2023-01-01,,,,,,,False
 missing_commission_id,3182891314,21162101,Patricia,Mosby,165335439,Aaron,Butler,165335439,Aaron,Butler,Pending Account #,,AARP,G,200,,msp,2022-10-10,2022-10-10,2022-12-01,,,,,,,False
-missing_commission_id,3182891354,22849101,David,Cholvin,89321120,Matthew,Duffey,89321120,Matthew,Duffey,351546405,,AARP,G,500,,msp,2022-10-10,,2022-11-01,,2022-10-17,Denied in UW,,,,False
+missing_commission_id,3182891354,22849101,David,Cholvin,89321120,Matthew,Duffey,89321120,Matthew,Duffey,351546405,,AARP,G,500,,msp,2022-10-10,,2022-11-01,2022-10-17,2022-10-17,Denied in UW,,,,False
 missing_commission_id,3182978189,20858451,Guillermo,Raffaele,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3447676010 ,,AARP,G,200,,msp,2022-10-11,2022-10-10,2023-01-01,,,,,,,False
 missing_commission_id,3183136794,23207001,Robert,Wynn,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP,G,200,,msp,2022-10-11,2022-10-10,2023-01-01,,,,,,,False
 missing_commission_id,3184220485,23210351,Nelda,Wynn,89311810,Jordan,Otte,89311810,Jordan,Otte,3515451619,,AARP,G,200,,msp,2022-10-19,2022-10-18,2023-01-01,,,,,,,False
@@ -410,8 +410,8 @@ missing_commission_id,3191933455,13365801,Peter,Wakitsch,89300906,Brian,Schwartz
 missing_commission_id,3191933461,21283051,Karen,Lamb,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3482200569,,AARP,G,200,,msp,2022-10-11,2022-10-10,2023-03-01,,,,,,,False
 missing_commission_id,3191933462,5282301,Elaine,Miner,64738322,Gabriel,Rhone,76357008,Inactive,Agent,3492785385,,AARP,G,200,Not Commissionable,msp,2022-10-05,2022-10-05,2022-11-01,,,,,,,False
 missing_commission_id,3191933467,22341601,Kathleen,Korczakowski,49712326,Matthew,Cano,49712326,Matthew,Cano,UHC withdrawn,,AARP,G,510,,msp,2022-09-21,,2022-10-01,,,,,,,False
-missing_commission_id,3192129339,4574851,William,Jones,50084738,Adrian,Hardin,50084738,Adrian,Hardin,316082446,,AARP,G,510,,msp,2021-08-12,,2021-11-01,,2021-10-31,,,,,False
-missing_commission_id,3192129389,4765251,Andrew,Kordulewski,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP,G,510,,msp,2021-08-18,,2021-09-01,,,,,,,False
+missing_commission_id,3192129339,4574851,William,Jones,50084738,Adrian,Hardin,50084738,Adrian,Hardin,316082446,,AARP,G,510,,msp,2021-08-12,,2021-11-01,2022-10-12,2021-10-31,,,,,False
+missing_commission_id,3192129389,4765251,Andrew,Kordulewski,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP,G,510,,msp,2021-08-18,,2021-09-01,2022-10-14,,,,,,False
 missing_commission_id,3193179458,23225351,Angela,Yu,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,,AARP,G,200,,msp,2022-10-11,2022-10-10,2022-11-01,,,,,,,False
 missing_commission_id,3193179487,23008351,Gary,Ryder,229799738,Darrin,Neal,229799738,Darrin,Neal,3099963252 ,,AARP,G,200,,msp,2022-10-11,2022-10-10,2023-01-01,,,,,,,False
 missing_commission_id,3193572504,19736101,Bernardo,Garcia-Reyes,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AARP,F,200,,msp,2022-08-09,2022-08-09,2022-09-01,,,,,,,False
@@ -420,7 +420,7 @@ missing_commission_id,3193572608,15210151,Anne,Neibert,165338462,Ken,Tomberlin,1
 missing_commission_id,3193572628,2655101,Dwain,Kruse,50109414,Marvin,Musick,50109414,Marvin,Musick,Pending Member ID,,AARP,G,200,,msp,2022-07-18,2022-07-18,2022-08-01,,,,,,,False
 missing_commission_id,3193572632,3738401,Dennis,Pence,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,,AARP,G,200,,msp,2022-03-02,,2022-04-01,,,,,,,False
 missing_commission_id,3193572637,10657001,Karen,Correa,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,,AARP,G,200,,msp,2022-02-01,,2022-08-01,,,,,,,False
-missing_commission_id,3193590577,22956451,Michael,Benavides,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP,G,500,,msp,2022-10-11,2022-10-11,2022-11-01,,2022-10-31,,,,,False
+missing_commission_id,3193590577,22956451,Michael,Benavides,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP,G,500,,msp,2022-10-11,2022-10-11,2022-11-01,2022-11-16,2022-10-31,,,,,False
 missing_commission_id,3198768762,23043301,Walter,Kennedy,148672948,Howard,Seigle,148672948,Howard,Seigle, 3505533442,,AARP,G,200,,msp,2022-10-14,2022-10-14,2022-11-01,,,,,,,False
 missing_commission_id,3199287847,22077301,Sharon,Smith,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3330886106,,AARP,G,200,,msp,2022-10-11,2022-10-11,2023-01-01,,,,,,,False
 missing_commission_id,3202843564,21285301,Gary,Grubb,50109414,Marvin,Musick,50109414,Marvin,Musick,0265168120,,AARP,G,200,,msp,2022-10-11,2022-10-11,2023-01-02,,,,,,,False
@@ -443,7 +443,7 @@ missing_commission_id,3209789218,22980751,Michael,Mjehovich,229799739,Latesa,Pas
 missing_commission_id,3209789287,23007201,Barbara,Lampkins,89300906,Brian,Schwartz,89300906,Brian,Schwartz,0264802356,,AARP,G,200,,msp,2022-10-11,,2023-01-01,2022-11-14,,,,,,False
 missing_commission_id,3210071382,23263601,James,Wheatley,229799738,Darrin,Neal,229799738,Darrin,Neal,3097851186,,AARP,G,200,,msp,2022-10-12,2022-10-11,2022-12-01,,,,,,,False
 missing_commission_id,3210219586,23112801,Beatrice,Cain-Picot,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3515551913,,AARP,G,200,,msp,2022-10-11,2022-10-11,2022-11-01,,,,,,,False
-missing_commission_id,3210596255,16466301,Randy,Moore,50084738,Adrian,Hardin,50084738,Adrian,Hardin, 3406593461,,AARP,G,500,,msp,2022-10-27,2022-10-12,2023-01-01,,2022-11-30,weird issue with his aarp # belonging to another Randy Moore and this Randy Moore did not want to help fix issue ,,,,False
+missing_commission_id,3210596255,16466301,Randy,Moore,50084738,Adrian,Hardin,50084738,Adrian,Hardin, 3406593461,,AARP,G,500,,msp,2022-10-27,2022-10-12,2023-01-01,2022-11-30,2022-11-30,weird issue with his aarp # belonging to another Randy Moore and this Randy Moore did not want to help fix issue ,,,,False
 missing_commission_id,3210596469,23269101,Juliana,Wooley,229799738,Darrin,Neal,229799738,Darrin,Neal,3515542458,,AARP,G,200,,msp,2022-10-12,2022-10-11,2023-01-01,,,,,,,False
 missing_commission_id,3210596475,22891401,Susan,Bakken,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3516550542,,AARP,G,200,,msp,2022-10-27,,2023-01-01,,,,,,,False
 missing_commission_id,3211554574,23270301,Donald,Bakken,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3516550542,,AARP,G,200,,msp,2022-10-27,2022-10-12,2023-01-01,,,,,,,False
@@ -455,7 +455,7 @@ missing_commission_id,3220811892,23017151,Jorgo,Kamberi,165335439,Aaron,Butler,1
 missing_commission_id,3220811927,22886101,Robert (Mark),Winstead,148672948,Howard,Seigle,148672948,Howard,Seigle,3516329988,,AARP,G,200,,msp,2022-10-25,2022-10-25,2022-12-01,,,,,,,False
 missing_commission_id,3220811931,22650851,Glen,Duncan,82267662,Nick,Oberle,82267662,Nick,Oberle,3191866734,,AARP,G,200,,msp,2022-10-12,2022-10-12,2023-01-01,,,,,,,False
 missing_commission_id,3222741885,23078801,Julie,Cluster,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3243861709,,AARP,G,200,,msp,2022-10-13,2022-10-12,2023-02-01,,,,,,,False
-missing_commission_id,3222742023,21088201,Robin,Quinn,66410900,Nick,Thompson,66410900,Nick,Thompson,3515601437,,AARP,G,500,,msp,2022-10-13,,2023-01-01,,2022-10-20,Denied in UW,,,,False
+missing_commission_id,3222742023,21088201,Robin,Quinn,66410900,Nick,Thompson,66410900,Nick,Thompson,3515601437,,AARP,G,500,,msp,2022-10-13,,2023-01-01,2022-10-20,2022-10-20,Denied in UW,,,,False
 missing_commission_id,3223917671,23090451,Susan,Sneed,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3457235152,,AARP,G,200,,msp,2022-10-12,2022-10-12,2023-01-01,,,,,,,False
 missing_commission_id,3224103578,23178651,Joan,Dale,148694372,Justin,Cohen,148694372,Justin,Cohen,347111932,,AARP,G,350,,msp,2022-10-13,2022-10-12,2023-06-01,,,,,,,False
 missing_commission_id,3224116871,22079051,Alan,Nakamoto,148672948,Howard,Seigle,148672948,Howard,Seigle,3515605164,,AARP,N,200,,msp,2022-10-12,2022-10-12,2022-11-01,,,,,,,False
@@ -468,9 +468,9 @@ missing_commission_id,3224563368,20293501,John,Stephani,165335440,Cory,Caldwell,
 missing_commission_id,3224563381,23303051,Katherine,Kerr,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3515628000,,AARP,G,200,,msp,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
 missing_commission_id,3224776087,19621901,Dave,Kerr,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3515628000,,AARP,G,200,,msp,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
 missing_commission_id,3226580064,17635601,Deborah,Bulkley,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3515634651,,AARP,G,200,,msp,2022-10-13,2022-10-12,2023-01-01,,,,,,,False
-missing_commission_id,3226687289,22932451,Mary,Chapman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,450,,msp,2022-10-12,2022-10-12,2023-01-01,,,,,,,False
+missing_commission_id,3226687289,22932451,Mary,Chapman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,450,,msp,2022-10-12,2022-10-12,2023-01-01,2022-10-26,2022-10-26,,,,,False
 missing_commission_id,3226687300,23164351,Stan,Mucinic,89311810,Jordan,Otte,89311810,Jordan,Otte,3508781485,,AARP,G,200,,msp,2022-10-13,2022-10-12,2022-11-01,,,,,,,False
-missing_commission_id,3226687348,23306701,Paul,Chapman Jr,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,500,,msp,2022-10-12,2022-10-12,2023-01-01,,2022-10-17,Denied in Underwriting ,,,,False
+missing_commission_id,3226687348,23306701,Paul,Chapman Jr,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,500,,msp,2022-10-12,2022-10-12,2023-01-01,2022-10-17,2022-10-17,Denied in Underwriting ,,,,False
 missing_commission_id,3227118691,23309601,Eddie,Key,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3173588744,,AARP,G,200,,msp,2022-10-13,2022-10-12,2022-11-01,,,,,,,False
 missing_commission_id,3227314723,22393901,Brent,Flavel,148694372,Justin,Cohen,148694372,Justin,Cohen,340254231,,AARP,G,200,,msp,2022-10-13,2022-10-12,2022-11-01,,,,,,,False
 missing_commission_id,3227663957,23309801,William,Simpson,49712326,Matthew,Cano,49712326,Matthew,Cano,338808542,,AARP,G,200,,msp,2022-10-12,,2022-11-01,,,,,,,False
@@ -484,13 +484,13 @@ missing_commission_id,3249907093,23255151,Lori,A Francis,50312260,Pete,Scalzo,50
 missing_commission_id,3250121871,15788751,Sally,Walker,148694372,Justin,Cohen,148694372,Justin,Cohen,351568894,,AARP,G,200,,msp,2022-10-13,2022-10-13,2023-04-01,,,,,,,False
 missing_commission_id,3250636702,23102551,Yvette,Davis,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,350433223-12,,AARP,G,200,,msp,2022-10-13,2022-10-13,2022-11-01,,,,,,,False
 missing_commission_id,3250636714,22995301,Joseph,Kaneta,82267662,Nick,Oberle,82267662,Nick,Oberle,3515688962,,AARP,G,200,,msp,2022-10-13,2022-10-13,2023-01-01,,,,,,,False
-missing_commission_id,3251101828,22887951,Diane,Murrell,82267662,Nick,Oberle,82267662,Nick,Oberle,327244864,,AARP,G,500,,msp,2022-10-13,2022-10-13,2023-01-01,,2022-10-29,,,,,False
+missing_commission_id,3251101828,22887951,Diane,Murrell,82267662,Nick,Oberle,82267662,Nick,Oberle,327244864,,AARP,G,500,,msp,2022-10-13,2022-10-13,2023-01-01,2022-11-03,2022-10-29,,,,,False
 missing_commission_id,3251560202,17548501,Lesa,Jones,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3515718223,,AARP,G,200,,msp,2022-10-14,2022-10-13,2023-01-01,,,,,,,False
 missing_commission_id,3251732257,23126751,Elizabeth,Garofalo,148694372,Justin,Cohen,148694372,Justin,Cohen,351575384,,AARP,M1A,200,,msp,2022-11-28,2022-11-25,2023-01-01,,,,,,,False
 missing_commission_id,3251732264,22547001,Donna,Gilsinan,165335439,Aaron,Butler,165335439,Aaron,Butler,3167482557,,AARP,G,200,,msp,2022-10-14,2022-10-13,2023-01-01,,,,,,,False
 missing_commission_id,3251732318,23166551,Michael,Dalia,82267662,Nick,Oberle,82267662,Nick,Oberle,3056751559,,AARP,G,200,,msp,2022-10-13,2022-10-13,2023-01-01,,,,,,,False
-missing_commission_id,3253022506,23274101,Mary,Check,89321142,Patrick,Stang,89321142,Patrick,Stang,3099838124,,AARP,G,420,,msp,2022-10-14,2022-10-14,2023-01-01,,,,,,,False
-missing_commission_id,3253599787,22348801,PAMELA,SUBLETT,50084738,Adrian,Hardin,57373696,Garrett,McKinzie,343230306,,AARP,G,500,,msp,2022-10-13,,2022-11-01,,2022-10-17,Denied in UW,,,,False
+missing_commission_id,3253022506,23274101,Mary,Check,89321142,Patrick,Stang,89321142,Patrick,Stang,3099838124,,AARP,G,420,,msp,2022-10-14,2022-10-14,2023-01-01,2022-10-17,2022-10-17,,,,,False
+missing_commission_id,3253599787,22348801,PAMELA,SUBLETT,50084738,Adrian,Hardin,57373696,Garrett,McKinzie,343230306,,AARP,G,500,,msp,2022-10-13,,2022-11-01,2022-10-17,2022-10-17,Denied in UW,,,,False
 missing_commission_id,3253889406,6243051,Christine,Gaughan,50109414,Marvin,Musick,50109414,Marvin,Musick,3473807125,,AARP,G,200,,msp,2022-10-13,2022-10-13,2022-11-01,,,,,,,False
 missing_commission_id,3254075418,22675751,Edward,Buntenbach,76355971,Mark,Files,76355971,Mark,Files,3371040464,,AARP,G,200,,msp,2022-10-14,2022-10-14,2022-11-01,,,,,,,False
 missing_commission_id,3254075483,23246051,Diane,Foerster,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3257172969,,AARP,G,200,,msp,2022-10-14,2022-10-14,2022-12-01,,,,,,,False
@@ -515,7 +515,7 @@ missing_commission_id,3271353615,23266001,Edward,Lamorey,148694372,Justin,Cohen,
 missing_commission_id,3274971479,23403301,Paul,Dixon,50084738,Adrian,Hardin,50084738,Adrian,Hardin,See notes at bottom. ,,AARP,G,200,,msp,2022-10-21,2022-10-17,2023-02-01,,,,,,,False
 missing_commission_id,3274971480,23008801,Patti Jo,Dixon,50084738,Adrian,Hardin,50084738,Adrian,Hardin,347775732,,AARP,G,200,,msp,2022-10-19,2022-10-17,2023-02-01,,,,,,,False
 missing_commission_id,3275255827,20816351,Zeny,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,3512561998,,AARP,G,200,,msp,2022-10-14,,2023-01-01,,,,,,,False
-missing_commission_id,3275255838,21101151,Dante,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,351256199,,AARP,G,500,,msp,2022-10-14,,2023-01-01,,2022-11-18,Denied in UW,,,,False
+missing_commission_id,3275255838,21101151,Dante,Alano,66410900,Nick,Thompson,66410900,Nick,Thompson,351256199,,AARP,G,500,,msp,2022-10-14,,2023-01-01,2022-11-18,2022-11-18,Denied in UW,,,,False
 missing_commission_id,3288394057,19998701,Lesfavel,Francis,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3317193476,,AARP,G,200,,msp,2022-10-18,2022-10-15,2023-01-01,,,,,,,False
 missing_commission_id,3293754155,23390551,Richard,Larrabee,148694372,Justin,Cohen,148694372,Justin,Cohen,351583751,,AARP,G,200,,msp,2022-10-15,2022-10-15,2023-01-01,,,,,,,False
 missing_commission_id,3293890471,23251751,James,A Sperbeck,49712324,David,Strehlow,49712324,David,Strehlow,3093102907,,AARP,G,200,,msp,2022-10-15,2022-10-15,2022-11-01,,,,,,,False
@@ -596,15 +596,15 @@ missing_commission_id,3373713423,23393601,Ellaree,Wolvin,165335439,Aaron,Butler,
 missing_commission_id,3373713566,23602651,Theresa,Hommema,82267662,Nick,Oberle,82267662,Nick,Oberle,3241918659,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
 missing_commission_id,3373713727,23603201,Rodney,Spencer,229799738,Darrin,Neal,229799738,Darrin,Neal,3202498022,,AARP,G,200,,msp,2022-10-20,2022-10-20,2023-02-01,,,,,,,False
 missing_commission_id,3376020239,23512901,James,Hommema,82267662,Nick,Oberle,82267662,Nick,Oberle,3241918659,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
-missing_commission_id,3376711577,23331851,Sharon,Weiderhold,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3515893000,,AARP,G,510,,msp,2022-10-19,2022-10-19,2023-01-01,,2022-10-19,Never fully submitted bc signature was sent as Voice Sig but the client did not complete so another app was submitted to get electronic sig,,,,False
-missing_commission_id,3376711591,23120451,George,Weiderhold,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3515893000 ,,AARP,G,510,,msp,2022-10-19,2022-10-19,2023-01-01,,2022-10-19,Never fully submitted bc signature was sent as Voice Signature but client never completed so another app was submitted to redo signature ,,,,False
+missing_commission_id,3376711577,23331851,Sharon,Weiderhold,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3515893000,,AARP,G,510,,msp,2022-10-19,2022-10-19,2023-01-01,2022-11-24,2022-10-19,Never fully submitted bc signature was sent as Voice Sig but the client did not complete so another app was submitted to get electronic sig,,,,False
+missing_commission_id,3376711591,23120451,George,Weiderhold,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3515893000 ,,AARP,G,510,,msp,2022-10-19,2022-10-19,2023-01-01,2022-10-24,2022-10-19,Never fully submitted bc signature was sent as Voice Signature but client never completed so another app was submitted to redo signature ,,,,False
 missing_commission_id,3376711708,22688801,John,Sica,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,096946405,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
 missing_commission_id,3376712011,10858751,John,Jaeschke,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3381179427,,AARP,G,200,,msp,2022-10-31,2022-10-19,2022-11-01,,,,,,,False
-missing_commission_id,3377708688,23607501,Linda,Sica,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,096946405,,AARP,G,500,,msp,2022-10-19,2022-10-19,2023-01-01,,2022-11-24,got approved at level 2 rate so staying with her UHC plan N,,,,False
+missing_commission_id,3377708688,23607501,Linda,Sica,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,096946405,,AARP,G,500,,msp,2022-10-19,2022-10-19,2023-01-01,2022-11-16,2022-11-24,got approved at level 2 rate so staying with her UHC plan N,,,,False
 missing_commission_id,3377997331,23204751,Gregory,Malone,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3198524179,,AARP,G,350,,msp,2022-10-19,2022-10-19,2023-07-01,,,,,,,False
 missing_commission_id,3380225338,23610351,Kim,Malone,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3198524179,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-05-01,,,,,,,False
 missing_commission_id,3380225341,22555701,Kenneth,Perpich,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3513512362,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
-missing_commission_id,3380225375,23516401,Donald C,Taylor,229799738,Darrin,Neal,229799738,Darrin,Neal,3132148259,,AARP,G,510,Not Commissionable,msp,2022-10-19,,2023-01-01,,2022-11-21,GI paperwork never received ,,,,False
+missing_commission_id,3380225375,23516401,Donald C,Taylor,229799738,Darrin,Neal,229799738,Darrin,Neal,3132148259,,AARP,G,510,Not Commissionable,msp,2022-10-19,,2023-01-01,2022-11-21,2022-11-21,GI paperwork never received ,,,,False
 missing_commission_id,3380225454,14252601,Neal,Smith,82267662,Nick,Oberle,82267662,Nick,Oberle,3516059288,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
 missing_commission_id,3380225547,23610601,Joan,Smith,82267662,Nick,Oberle,82267662,Nick,Oberle,3516059288,,AARP,G,200,,msp,2022-10-19,2022-10-19,2023-01-01,,,,,,,False
 missing_commission_id,3382119955,18522751,Douglas,Emrick,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,325937187,,AARP,G,200,,msp,2022-10-20,2022-10-19,2023-01-01,,,,,,,False
@@ -656,7 +656,7 @@ missing_commission_id,3418492241,23682951,Keith,Miscione,219526179,Mark,Abkemeie
 missing_commission_id,3419395509,23448551,Sinell,M Sambour,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3255220901,,AARP,G,200,,msp,2022-10-21,2022-10-21,2022-11-01,,,,,,,False
 missing_commission_id,3419395659,23674251,Marlene,Mancia,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3381805617,,AARP,G,200,,msp,2022-10-24,2022-10-21,2022-11-01,,,,,,,False
 missing_commission_id,3419395713,23457351,Azar,Aminian Licato,148694372,Justin,Cohen,148694372,Justin,Cohen,349080036,,AARP,G,200,,msp,2022-10-30,2022-10-28,2023-01-01,,,,,,,False
-missing_commission_id,3419395875,23687401,Anthony,Passalaqua,229799738,Darrin,Neal,229799738,Darrin,Neal,3174046288,,AARP,G,510,,msp,2022-10-21,,2022-12-01,,2022-11-30,Canceled bc level 2 rate,,,,False
+missing_commission_id,3419395875,23687401,Anthony,Passalaqua,229799738,Darrin,Neal,229799738,Darrin,Neal,3174046288,,AARP,G,510,,msp,2022-10-21,,2022-12-01,2022-11-28,2022-11-30,Canceled bc level 2 rate,,,,False
 missing_commission_id,3419396142,23398301,Sandra,Hollingsworth,50084738,Adrian,Hardin,,Inactive,Agent, 2460720307 ,,AARP,G,200,,msp,2022-10-31,2022-10-21,2023-01-01,,,,,,,False
 missing_commission_id,3419484529,22182651,Alan,Holtzman JR,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3167791569,,AARP,G,200,,msp,2022-10-21,2022-10-21,2023-01-01,,,,,,,False
 missing_commission_id,3423478138,23192951,Janie A. ,Griffin,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3516177759,,AARP,G,200,,msp,2022-10-21,2022-10-21,2022-11-01,,,,,,,False
@@ -691,7 +691,7 @@ missing_commission_id,3479090764,23788851,Pamela,Hutchins,76355971,Mark,Files,76
 missing_commission_id,3479090795,23566051,Francisco,Santiago,229799738,Darrin,Neal,229799738,Darrin,Neal,3516295908,,AARP,N,200,,msp,2022-10-24,,2022-11-01,,,,,,,False
 missing_commission_id,3479307434,23788101,Wesley,Drown,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,310473579 ,,AARP,G,200,,msp,2022-10-24,2022-10-24,2023-01-01,,,,,,,False
 missing_commission_id,3479376780,22879701,Robert,Gray,148672948,Howard,Seigle,148672948,Howard,Seigle,3516298183,,AARP,G,200,,msp,2022-10-25,2022-10-24,2022-11-01,,,,,,,False
-missing_commission_id,3480026192,22649901,Maureen,Therrien Frank,89321120,Matthew,Duffey,89321120,Matthew,Duffey,342310136,,AARP,G,410,,msp,2022-10-11,,2023-01-01,,,,,,,False
+missing_commission_id,3480026192,22649901,Maureen,Therrien Frank,89321120,Matthew,Duffey,89321120,Matthew,Duffey,342310136,,AARP,G,410,,msp,2022-10-11,,2023-01-01,2022-12-01,2022-12-01,,,,,False
 missing_commission_id,3481113709,23781351,Robert,Shultz,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,N,200,,msp,2022-10-24,,2023-01-01,,,,,,,False
 missing_commission_id,3481390254,23393051,Merri,Wismer,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3077762700,,AARP,G,200,,msp,2022-10-24,,2023-01-01,,,,,,,False
 missing_commission_id,3481620766,23697901,Kimberly,Wheeler,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3184896144,,AARP,G,200,,msp,2022-10-24,2022-10-24,2022-11-01,,,,,,,False
@@ -699,8 +699,8 @@ missing_commission_id,3481657661,22478251,Michael,Berrey,89321120,Matthew,Duffey
 missing_commission_id,3483196568,23567651,Jeanne,Hardesty,229799738,Darrin,Neal,229799738,Darrin,Neal,3467224675,,AARP,G,200,,msp,2022-10-25,2022-10-24,2023-01-01,,,,,,,False
 missing_commission_id,3483197049,23393001,James (Mike),Coleman,148672948,Howard,Seigle,148672948,Howard,Seigle,3096587310,,AARP,G,200,,msp,2022-10-25,2022-10-25,2022-11-01,,,,,,,False
 missing_commission_id,3484323247,23622551,Barbara,Elkins,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3090374392,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-05-01,,,,,,,False
-missing_commission_id,3484837723,23805601,PAUL,KNEELAND,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-31,2022-10-24,2023-04-01,,2023-03-31,He did not want the plan anymore ,,,,False
-missing_commission_id,3485319711,23339251,SUSANNE,Kneeland,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-24,,2022-11-01,,2022-10-31,She decided she did not want the plan,,,,False
+missing_commission_id,3484837723,23805601,PAUL,KNEELAND,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-31,2022-10-24,2023-04-01,2022-11-16,2023-03-31,He did not want the plan anymore ,,,,False
+missing_commission_id,3485319711,23339251,SUSANNE,Kneeland,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3471966287 ,,AARP,G,500,,msp,2022-10-24,,2022-11-01,2022-11-16,2022-10-31,She decided she did not want the plan,,,,False
 missing_commission_id,3485319732,23647351,Carl,Rivera,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3296696309,,AARP,G,200,,msp,2022-10-24,2022-10-24,2023-01-01,,,,,,,False
 missing_commission_id,3485319783,23588001,Billy,Damon,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3516061300,,AARP,G,200,,msp,2022-10-24,2022-10-24,2023-01-01,,,,,,,False
 missing_commission_id,3485829125,23804901,Kelli,Seten-Coolidge,229799738,Darrin,Neal,229799738,Darrin,Neal,3516311721,,AARP,G,200,,msp,2022-10-25,2022-10-24,2023-04-01,,,,,,,False
@@ -708,7 +708,7 @@ missing_commission_id,3485829139,23613751,Kevin,Coolidge,229799738,Darrin,Neal,2
 missing_commission_id,3488100373,23721901,David,Collins,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3191413636,,AARP,G,200,,msp,2022-10-25,2022-10-24,2023-02-01,,,,,,,False
 missing_commission_id,3498526862,23374501,William,Sherman,165335439,Aaron,Butler,165335439,Aaron,Butler,3516341736,,AARP,G,200,,msp,2022-10-25,2022-10-25,2023-01-01,,,,,,,False
 missing_commission_id,3499588722,23834951,Mary,Scott,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3516346347,,AARP,G,200,,msp,2022-10-25,2022-10-25,2023-01-01,,,,,,,False
-missing_commission_id,3499888415,23836301,Carol,Del Gallo,66410900,Nick,Thompson,66410900,Nick,Thompson,3131747747,,AARP,G,500,,msp,2022-10-25,,2023-01-01,,2022-10-31,Denied in UW,,,,False
+missing_commission_id,3499888415,23836301,Carol,Del Gallo,66410900,Nick,Thompson,66410900,Nick,Thompson,3131747747,,AARP,G,500,,msp,2022-10-25,,2023-01-01,2022-10-31,2022-10-31,Denied in UW,,,,False
 missing_commission_id,3499888482,23247801,John ,Scott,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3516346347,,AARP,G,200,,msp,2022-10-26,2022-10-25,2023-01-01,,,,,,,False
 missing_commission_id,3501598547,23832501,Debra,Housworth,148672948,Howard,Seigle,148672948,Howard,Seigle,3516346610,,AARP,G,200,,msp,2022-10-26,2022-10-25,2022-12-01,,,,,,,False
 missing_commission_id,3501829715,23517651,Judith,Macauley,66410900,Nick,Thompson,66410900,Nick,Thompson,*PENDING,,AARP,G,200,,msp,2022-10-25,,2022-11-01,,,,,,,False
@@ -753,7 +753,7 @@ missing_commission_id,3524735299,23697501,Jean,Quinn,57373696,Garrett,McKinzie,5
 missing_commission_id,3525205567,23404551,Michael,Adair,66410900,Nick,Thompson,66410900,Nick,Thompson,349695035,,AARP,G,200,,msp,2022-10-26,,2023-01-01,,,,,,,False
 missing_commission_id,3525205599,23887651,Michael,Zesch,89321120,Matthew,Duffey,89321120,Matthew,Duffey,336893897,,AARP,G,200,,msp,2022-10-26,2022-10-26,2023-01-01,,,,,,,False
 missing_commission_id,3525962288,23396251,Lawrence,Payne,89321142,Patrick,Stang,89321142,Patrick,Stang,3516432063,,AARP,M1A,200,,msp,2022-10-27,2022-10-26,2022-12-01,,,,,,,False
-missing_commission_id,3527712062,23790551,Jack,Peacock,82267662,Nick,Oberle,82267662,Nick,Oberle,3106891504,,AARP,G,500,,msp,2022-10-26,2022-10-26,2023-01-01,,2022-10-28,Denied in UW,,,,False
+missing_commission_id,3527712062,23790551,Jack,Peacock,82267662,Nick,Oberle,82267662,Nick,Oberle,3106891504,,AARP,G,500,,msp,2022-10-26,2022-10-26,2023-01-01,2022-10-28,2022-10-28,Denied in UW,,,,False
 missing_commission_id,3528348932,23261951,Michael,Bair,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3361358470,,AARP,G,200,,msp,2022-11-04,2022-11-03,2023-01-01,,,,,,,False
 missing_commission_id,3528348949,23100601,Darlene,Elesky,89321142,Patrick,Stang,89321142,Patrick,Stang,3213061058,,AARP,G,200,,msp,2022-10-27,2022-10-26,2023-01-01,,,,,,,False
 missing_commission_id,3528349032,23433851,Ok N,Lau,229799738,Darrin,Neal,229799738,Darrin,Neal,3392971234,,AARP,G,340,,msp,2022-10-26,,2023-01-01,,,,,,,False
@@ -772,7 +772,7 @@ missing_commission_id,3542676817,23512401,Nadine,Wheeler,229799738,Darrin,Neal,2
 missing_commission_id,3543842597,22138601,Chris,Crandall,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3516421041,,AARP,G,200,,msp,2022-10-28,2022-10-27,2023-01-01,,,,,,,False
 missing_commission_id,3543842602,22138651,Stacy,Crandall,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3516421041,,AARP,G,200,,msp,2022-10-30,2022-10-27,2023-02-01,,,,,,,False
 missing_commission_id,3543955075,23542851,Tom,Stolberg,82267662,Nick,Oberle,82267662,Nick,Oberle,3516511437,,AARP,G,200,,msp,2022-10-27,2022-10-27,2023-01-01,,,,,,,False
-missing_commission_id,3544627110,23563501,Donna,Bell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3508623687,,AARP,G,420,,msp,2022-11-15,2022-10-27,2023-02-01,,,,,,,False
+missing_commission_id,3544627110,23563501,Donna,Bell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3508623687,,AARP,G,420,,msp,2022-11-15,2022-10-27,2023-02-01,2022-12-06,2022-12-06,,,,,False
 missing_commission_id,3544627339,23906451,Judith,Pennell,66410900,Nick,Thompson,66410900,Nick,Thompson,3471838494,,AARP,G,420,,msp,,2022-10-27,2023-01-01,2022-10-27,,,,,,False
 missing_commission_id,3544627486,21299101,Patricia,Peterson,82267662,Nick,Oberle,82267662,Nick,Oberle,3075487748,,AARP,G,200,,msp,2022-10-27,2022-10-27,2023-01-01,,,,,,,False
 missing_commission_id,3545432872,23843751,Jeannine,Bowtruczyk,82267662,Nick,Oberle,82267662,Nick,Oberle,3426713495,,AARP,N,200,,msp,2022-10-27,2022-10-27,2023-01-01,,,,,,,False
@@ -790,7 +790,7 @@ missing_commission_id,3550365297,23952401,Bradley S,Emerson,229799738,Darrin,Nea
 missing_commission_id,3550365310,23289551,Joyce B,Emerson,229799738,Darrin,Neal,229799738,Darrin,Neal,316799378,,AARP,M1A,200,,msp,2022-10-28,2022-10-27,2023-01-01,,,,,,,False
 missing_commission_id,3550365493,23954301,Beth,Wesley,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,G,200,,msp,2022-10-27,,2023-01-01,,,,,,,False
 missing_commission_id,3551155089,23869001,Melinda,Westfall,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3353486057,,AARP,G,200,,msp,2022-10-28,2022-10-27,2022-12-01,,,,,,,False
-missing_commission_id,3552321432,23923401,Warren,Trobaugh,76355971,Mark,Files,76355971,Mark,Files,351391737-1,,AARP,G,500,,msp,2022-10-27,2022-10-27,2023-01-01,,,,,,,False
+missing_commission_id,3552321432,23923401,Warren,Trobaugh,76355971,Mark,Files,76355971,Mark,Files,351391737-1,,AARP,G,500,,msp,2022-10-27,2022-10-27,2023-01-01,2022-11-11,2022-11-11,,,,,False
 missing_commission_id,3557924722,23662301,Kevin,Adams,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3203457340,,AARP,G,500,,msp,,,,2022-10-28,,app withdrawn by request ,,,,False
 missing_commission_id,3557924783,23898251,Terri,White,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3516586223,,AARP,G,200,,msp,2022-10-28,2022-10-28,2023-01-01,,,,,,,False
 missing_commission_id,3559106714,23927751,Franky,Lewis,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3504620851 ,,AARP,G,200,,msp,2022-10-28,2022-10-27,2022-11-01,,,,,,,False
@@ -810,7 +810,7 @@ missing_commission_id,3565309822,3964851,Nancy,Jacobson,229799738,Darrin,Neal,22
 missing_commission_id,3568164629,23993801,Susan,Freeman,49712324,David,Strehlow,49712324,David,Strehlow,3082994769,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-01-01,,,,,,,False
 missing_commission_id,3575864085,23969701,Marvin,Weingarten,49712324,David,Strehlow,49712324,David,Strehlow,3082994769,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-01-01,,,,,,,False
 missing_commission_id,3580978190,24006851,Linda,Davis,89311810,Jordan,Otte,89311810,Jordan,Otte,3516655333,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-01-01,,,,,,,False
-missing_commission_id,3582026612,24005201,Jean A,Greenawalt,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3188643377,,AARP,G,420,,msp,2022-10-31,2022-10-29,2023-02-01,,,,,,,False
+missing_commission_id,3582026612,24005201,Jean A,Greenawalt,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3188643377,,AARP,G,420,,msp,2022-10-31,2022-10-29,2023-02-01,2022-11-21,2022-11-21,,,,,False
 missing_commission_id,3582026633,23389651,Mark,Davis,89311810,Jordan,Otte,89311810,Jordan,Otte,3516655333,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-01-01,,,,,,,False
 missing_commission_id,3582149415,22072401,Janice,Anderson,89321142,Patrick,Stang,89321142,Patrick,Stang,3516658477,,AARP,G,200,,msp,2022-10-31,2022-10-29,2023-01-01,,,,,,,False
 missing_commission_id,3582354479,23980901,Timothy,Goyette,89311810,Jordan,Otte,89311810,Jordan,Otte,3483429589,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
@@ -822,8 +822,8 @@ missing_commission_id,3587175486,23895151,Robert,Bushnell,49712324,David,Strehlo
 missing_commission_id,3587195685,23892901,Sung Yun,Kang,49712324,David,Strehlow,49712324,David,Strehlow,0266923721,,AARP,G,200,,msp,2022-10-29,2022-10-29,2022-12-01,,,,,,,False
 missing_commission_id,3588961406,23885601,"Gwendolyn ""GIGI""",Pierce,148672948,Howard,Seigle,148672948,Howard,Seigle,3516685462,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
 missing_commission_id,3593099167,22488701,Celeste,Cirillo,148672948,Howard,Seigle,148672948,Howard,Seigle,89869713,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-03-01,,,,,,,False
-missing_commission_id,3613522552,23504051,Rosemary,Willis,165335440,Cory,Caldwell,165335440,Cory,Caldwell,090305575-1,,AARP,G,420,,msp,,2022-10-26,2023-01-01,,,,,,,False
-missing_commission_id,3614465081,23850251,Ernie,Fields,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3473085565,,AARP,G,420,,msp,2022-11-17,2022-10-31,2023-02-01,,,,,,,False
+missing_commission_id,3613522552,23504051,Rosemary,Willis,165335440,Cory,Caldwell,165335440,Cory,Caldwell,090305575-1,,AARP,G,420,,msp,,2022-10-26,2023-01-01,2022-10-31,2022-10-31,,,,,False
+missing_commission_id,3614465081,23850251,Ernie,Fields,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3473085565,,AARP,G,420,,msp,2022-11-17,2022-10-31,2023-02-01,2022-11-28,2022-11-28,,,,,False
 missing_commission_id,3615554225,23462201,Valda,Robinson ,76355971,Mark,Files,76355971,Mark,Files,3516757386,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
 missing_commission_id,3615554226,23900601,Michael,Brown,229799738,Darrin,Neal,229799738,Darrin,Neal,3185674532,,AARP,G,200,,msp,2022-10-31,2022-10-31,2022-11-01,,,,,,,False
 missing_commission_id,3615554233,23897151,Stephen,Brough,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3204289478,,AARP,G,200,,msp,2022-11-01,2022-11-01,2023-01-01,,,,,,,False
@@ -857,7 +857,7 @@ missing_commission_id,3622027906,24087151,Gregory,Mathisen,148694372,Justin,Cohe
 missing_commission_id,3622125635,24087201,Jean,Cook,89321142,Patrick,Stang,89321142,Patrick,Stang,3331904486,,AARP,G,200,,msp,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
 missing_commission_id,3622614153,23531051,Mark,Morin,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3316645617,,AARP,G,200,,msp,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
 missing_commission_id,3624046217,5187701,Michael,Wright,50183183,Rhee,Cano,50183183,Rhee,Cano,3398419535,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-01-01,,,,,,,False
-missing_commission_id,3624556156,23849851,Pamela,Elliott,49712324,David,Strehlow,49712324,David,Strehlow,3517183939,,AARP,G,500,,msp,2022-11-08,2022-11-07,2023-02-01,,2022-12-07,,,,,False
+missing_commission_id,3624556156,23849851,Pamela,Elliott,49712324,David,Strehlow,49712324,David,Strehlow,3517183939,,AARP,G,500,,msp,2022-11-08,2022-11-07,2023-02-01,2022-12-07,2022-12-07,,,,,False
 missing_commission_id,3631472803,23506301,Arthur,Hatcher,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3516882358,,AARP,G,200,,msp,2022-11-04,2022-11-03,2023-01-01,,,,,,,False
 missing_commission_id,3635643558,23932101,Jeff,Luginbill,165335439,Aaron,Butler,165335439,Aaron,Butler,3516829805,,AARP,G,200,,msp,2022-11-01,2022-11-01,2022-12-01,,,,,,,False
 missing_commission_id,3635674649,24111201,John,Cancellliere,49712326,Matthew,Cano,49712326,Matthew,Cano,350134554,,AARP,G,200,,msp,2022-11-01,,2023-01-01,,,,,,,False
@@ -880,7 +880,7 @@ missing_commission_id,3642653021,24017501,James,Ligue,89300906,Brian,Schwartz,89
 missing_commission_id,3642653268,22763901,John,Eckert,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3516852559,,AARP,G,200,,msp,2022-11-02,2022-11-02,2023-02-01,,,,,,,False
 missing_commission_id,3643857176,23953601,EDWARD,BERKOWITZ,49712326,Matthew,Cano,49712326,Matthew,Cano,343944834,,AARP,G,200,,msp,2022-11-01,,2023-01-01,,,,,,,False
 missing_commission_id,3643857283,24126951,Donna S,Bodin,229799738,Darrin,Neal,229799738,Darrin,Neal,3186993964,,AARP,G,200,,msp,2022-11-02,2022-11-01,2022-12-01,,,,,,,False
-missing_commission_id,3644069011,23613051,Jose,Sanchez,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3024953717,,AARP,G,420,,msp,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
+missing_commission_id,3644069011,23613051,Jose,Sanchez,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3024953717,,AARP,G,420,,msp,2022-11-02,2022-11-02,2023-01-01,2022-11-01,2022-11-01,,,,,False
 missing_commission_id,3647409203,18746851,Rick,Brenner,76355971,Mark,Files,76355971,Mark,Files, 3516869215,,AARP,G,200,,msp,2022-11-03,2022-11-03,2023-01-01,,,,,,,False
 missing_commission_id,3655139361,23723451,Susan,Humes,165335439,Aaron,Butler,165335439,Aaron,Butler,3516878091,,AARP,G,200,,msp,2022-11-02,2022-11-02,2023-04-01,,,,,,,False
 missing_commission_id,3655259004,22765951,Jacqueline,McKnight,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3495929428,,AARP,G,200,,msp,2022-11-04,2022-11-04,2023-02-01,,,,,,,False
@@ -901,7 +901,7 @@ missing_commission_id,3661792062,23909301,Jeannine,Woolsey,165338461,Stephanie,K
 missing_commission_id,3662105909,16424201,Jayvardhan,Pandit,89321120,Matthew,Duffey,89321120,Matthew,Duffey,3505525216,,AARP,G,200,,msp,2022-11-03,2022-11-02,2023-01-01,,,,,,,False
 missing_commission_id,3662106250,23988851,Renee,Bazinet,148694372,Justin,Cohen,148694372,Justin,Cohen,351695989,,AARP,G,200,,msp,2022-11-04,2022-11-03,2023-01-01,,,,,,,False
 missing_commission_id,3662526065,21785651,Joanne,Castelli,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3516990888,,AARP,G,200,,msp,2022-11-04,2022-11-03,2022-12-01,,,,,,,False
-missing_commission_id,3662875778,23986651,Phyllis,Clover,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3095538827,,AARP,G,420,,msp,2022-11-02,2022-11-02,2022-12-01,,,,,,,False
+missing_commission_id,3662875778,23986651,Phyllis,Clover,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3095538827,,AARP,G,420,,msp,2022-11-02,2022-11-02,2022-12-01,2022-11-09,2022-11-30,,,,,False
 missing_commission_id,3662875831,23421951,Jamie,Bruno,76355971,Mark,Files,76355971,Mark,Files,3516648239,,AARP,G,200,,msp,2022-11-02,2022-11-02,2023-01-01,,,,,,,False
 missing_commission_id,3663790712,23909501,Dorothy,Grimmett,89321142,Patrick,Stang,89321142,Patrick,Stang,3199232715,,AARP,G,200,,msp,2022-11-04,2022-11-02,2023-02-01,,,,,,,False
 missing_commission_id,3664624948,23938651,,,165335440,Cory,Caldwell,,Inactive,Agent,3147086965,,AARP,G,200,,msp,2022-11-10,,2023-01-01,,,,,,,False
@@ -936,7 +936,7 @@ missing_commission_id,3687488118,22202651,Joyce,Johnson,165338461,Stephanie,Kiel
 missing_commission_id,3687488129,23855001,Christy,Swift,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3516305764,,AARP,G,200,,msp,2022-11-04,2022-11-03,2023-02-01,,,,,,,False
 missing_commission_id,3687488151,23042301,Rosemarie ,Rolnicki,229799738,Darrin,Neal,229799738,Darrin,Neal,3132290572,,AARP,G,200,,msp,2022-11-04,2022-11-03,2023-01-01,,,,,,,False
 missing_commission_id,3687488283,19331951,Warren,Keyes,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3381018203,,AARP,G,200,,msp,2022-11-10,2022-11-03,2023-04-01,,,,,,,False
-missing_commission_id,3687488616,24171801,Elsa,Aguila,49712326,Matthew,Cano,49712326,Matthew,Cano,026940125-1,,AARP,G,500,,msp,2022-11-03,,2023-01-01,,2022-11-18,Denied in UW,,,,False
+missing_commission_id,3687488616,24171801,Elsa,Aguila,49712326,Matthew,Cano,49712326,Matthew,Cano,026940125-1,,AARP,G,500,,msp,2022-11-03,,2023-01-01,2022-11-18,2022-11-18,Denied in UW,,,,False
 missing_commission_id,3687488663,24223051,Briccio,Aguila,49712326,Matthew,Cano,49712326,Matthew,Cano,026940125-1,,AARP,G,500,,msp,2022-11-03,,2023-01-01,2022-11-14,2022-11-14,,,,,False
 missing_commission_id,3699173778,23979301,Donna,Brand,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3174040752,,AARP,G,500,,msp,2022-11-04,2022-11-04,2023-01-01,2022-11-08,2022-11-08,,,,,False
 missing_commission_id,3700439661,23838851,Theresa,Palomo,165335439,Aaron,Butler,165335439,Aaron,Butler,3295643674,,AARP,G,200,,msp,2022-11-04,2022-11-04,2023-01-01,,,,,,,False
@@ -1009,7 +1009,7 @@ missing_commission_id,3774669863,24361501,Ronald R,Binding,229799739,Latesa,Pasl
 missing_commission_id,3774811278,23167251,Sharon,Jurman,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3517241661,,AARP,G,200,,msp,2022-11-08,2022-11-08,2022-12-01,,,,,,,False
 missing_commission_id,3774968153,23204001,Debra (Debbie),Reed,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,322525018-1,,AARP,G,200,,msp,2022-11-10,2022-11-08,2022-12-01,,,,,,,False
 missing_commission_id,3774968163,23701401,Michael,Hartnett,89321142,Patrick,Stang,89321142,Patrick,Stang,3517242826,,AARP,G,200,,msp,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
-missing_commission_id,3774968328,24196001,Jennifer,Legner,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3308138407,,AARP,G,420,,msp,2022-11-03,2022-11-03,2023-01-01,,,,,,,False
+missing_commission_id,3774968328,24196001,Jennifer,Legner,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3308138407,,AARP,G,420,,msp,2022-11-03,2022-11-03,2023-01-01,2022-11-25,2022-11-25,,,,,False
 missing_commission_id,3775041128,19171201,Stephen,Reyner,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3323921704 ,,AARP,G,200,,msp,2022-11-14,2022-11-08,2023-01-01,,,,,,,False
 missing_commission_id,3775414692,24259201,Nathan,Moule,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3517244566,,AARP,G,200,,msp,2022-11-08,2022-11-08,2022-12-01,,,,,,,False
 missing_commission_id,3775414805,24396951,Catherine,Lawson,89311810,Jordan,Otte,89311810,Jordan,Otte,3266258577,,AARP,G,200,,msp,2022-11-08,2022-11-08,2023-02-01,,,,,,,False
@@ -1081,7 +1081,7 @@ missing_commission_id,3813159793,20098952,Kenneth D,Iley,229799738,Darrin,Neal,2
 missing_commission_id,3813310521,24210901,David,Dibs,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3517766253,,AARP,G,200,,msp,2022-11-17,2022-11-17,2023-03-01,,,,,,,False
 missing_commission_id,3813310546,23095651,Rymona,Hayes,148672948,Howard,Seigle,148672948,Howard,Seigle,3517373860,,AARP,G,200,,msp,2022-11-10,2022-11-10,2022-12-01,,,,,,,False
 missing_commission_id,3813310597,22298251,Kathleen,Barragan,50183183,Rhee,Cano,50183183,Rhee,Cano,3517376665,,AARP,G,200,,msp,2022-11-10,2022-11-10,2023-04-01,,,,,,,False
-missing_commission_id,3813394356,24472301,Eva,Mitchell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,AARP,G,450,,msp,,2022-11-11,2023-01-01,,,,,,,False
+missing_commission_id,3813394356,24472301,Eva,Mitchell,50312260,Pete,Scalzo,50312260,Pete,Scalzo,Pending Member ID,,AARP,G,450,,msp,,2022-11-11,2023-01-01,2022-11-29,2022-11-29,,,,,False
 missing_commission_id,3814263362,24477751,Anthony,Vangelos,76355971,Mark,Files,76355971,Mark,Files,344368117,,AARP,G,200,,msp,2022-11-10,2022-11-10,2023-01-01,,,,,,,False
 missing_commission_id,3814748929,24481801,Catherine aka Jill,Sample,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3253095487,,AARP,G,200,,msp,2022-11-14,2022-11-11,2023-02-01,,,,,,,False
 missing_commission_id,3814748938,24289751,Kathleen,Alexander,82267662,Nick,Oberle,82267662,Nick,Oberle,3323143275,,AARP,MN - EB w/o B Ded,200,,msp,2022-11-10,2022-11-10,2023-02-01,,,,,,,False
@@ -1143,7 +1143,7 @@ missing_commission_id,3886328896,24472101,Alicia L,Stevenson,229799738,Darrin,Ne
 missing_commission_id,3886328903,24078951,Laurie,Bick,76355971,Mark,Files,76355971,Mark,Files,3517569129,,AARP,G,200,,msp,2022-11-14,2022-11-14,2023-01-01,,,,,,,False
 missing_commission_id,3886328906,23829001,Carolann,Tiberia-Sterrett,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3487530598,,AARP,M1A,200,,msp,2022-11-14,2022-11-14,2022-12-01,,,,,,,False
 missing_commission_id,3887011100,21422901,Kevin,J Clifton,49712324,David,Strehlow,49712324,David,Strehlow,3291811499,,AARP,G,200,,msp,2022-11-15,2022-11-14,2023-05-01,,,,,,,False
-missing_commission_id,3887108422,24393151,Darlene,McCulloch,89321142,Patrick,Stang,89321142,Patrick,Stang,323436649-1,,AARP,G,450,,msp,2022-11-14,2022-11-14,2023-01-01,,2022-11-23,declined in UW,,,,False
+missing_commission_id,3887108422,24393151,Darlene,McCulloch,89321142,Patrick,Stang,89321142,Patrick,Stang,323436649-1,,AARP,G,450,,msp,2022-11-14,2022-11-14,2023-01-01,2022-11-23,2022-11-23,declined in UW,,,,False
 missing_commission_id,3887232615,24626901,James,House,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3427235241,,AARP,G,200,,msp,2022-11-14,2022-11-14,2023-01-01,,,,,,,False
 missing_commission_id,3889034132,24434901,Thomas,Buffonge,89321142,Patrick,Stang,89321142,Patrick,Stang,3039659424,,AARP,G,200,,msp,2022-11-15,2022-11-14,2023-01-01,,,,,,,False
 missing_commission_id,3889034372,24164551,Darrell,Tordsen,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3181970793,,AARP,G,200,,msp,2022-11-15,2022-11-14,2023-01-01,,,,,,,False
@@ -1166,7 +1166,7 @@ missing_commission_id,3907013283,24526451,Carl,Bennett,57373696,Garrett,McKinzie
 missing_commission_id,3907342174,24510051,Michael,Nicholson,165335440,Cory,Caldwell,165335440,Cory,Caldwell,3316481039,,AARP,G,200,,msp,2022-11-17,2022-11-15,2022-12-01,,,,,,,False
 missing_commission_id,3907722905,24213751,Mark,Evans,49712326,Matthew,Cano,49712326,Matthew,Cano,326923674-1,,AARP,G,200,,msp,2022-11-15,,2023-02-01,,,,,,,False
 missing_commission_id,3907895628,24235101,Diane,Reardon,76355971,Mark,Files,76355971,Mark,Files,3493110849,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-04-01,,,,,,,False
-missing_commission_id,3907895649,23976201,Mary,Jones,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3517638627,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,,,,,,,False
+missing_commission_id,3907895649,23976201,Mary,Jones,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3517638627,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,2022-11-23,2022-11-23,,,,,False
 missing_commission_id,3907895705,24389051,Craig,DeVitto,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3517634279,,AARP,G,200,,msp,2022-11-15,,2023-01-01,,,,,,,False
 missing_commission_id,3907895721,24690051,Kathleen,Perry,49712326,Matthew,Cano,49712326,Matthew,Cano,327722600-1,,AARP,G,200,,msp,2022-11-15,,2023-04-01,,,,,,,False
 missing_commission_id,3907895855,22862451,Sherry,Hughes,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,3181664859,,AARP,G,200,,msp,2022-11-15,,2022-12-01,,,,,,,False
@@ -1252,7 +1252,7 @@ missing_commission_id,3953223706,21951351,Bruce,Stroube,165335440,Cory,Caldwell,
 missing_commission_id,3953223718,24798851,Keith,Knabe,49712324,David,Strehlow,49712324,David,Strehlow,3159464391,,AARP,G,200,,msp,2022-11-18,2022-11-18,2023-02-01,,,,,,,False
 missing_commission_id,3953223744,24780501,Barry,Melvin,76355971,Mark,Files,76355971,Mark,Files,3326725466,,AARP,G,200,,msp,2022-11-21,2022-11-18,2023-02-01,,,,,,,False
 missing_commission_id,3953416116,24807251,Linda,Melvin,76355971,Mark,Files,76355971,Mark,Files,3326725466,,AARP,G,200,,msp,2022-11-18,2022-11-18,2023-02-01,,,,,,,False
-missing_commission_id,3953416210,258601,June,Duran,224486180,Rebecca,Sublette,76539239,Inactive,Agent,Pending Member ID,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,,2023-01-01,,,,,False
+missing_commission_id,3953416210,258601,June,Duran,224486180,Rebecca,Sublette,76539239,Inactive,Agent,Pending Member ID,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,2022-11-17,2023-01-01,,,,,False
 missing_commission_id,3953416283,24591851,James M,Rugh,229799738,Darrin,Neal,229799738,Darrin,Neal,3167536998,,AARP,G,200,,msp,2022-11-16,,2023-01-01,,,,,,,False
 missing_commission_id,3964781715,24092551,Maurice,Rogers,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3517855361,,AARP,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,,,,False
 missing_commission_id,3967749969,24548251,Rathin,Basu,49712326,Matthew,Cano,49712326,Matthew,Cano,066906478-1,,AARP,G,200,,msp,2022-11-18,,2023-01-01,,,,,,,False
@@ -1275,7 +1275,7 @@ missing_commission_id,3978493500,24703301,Dennis,Jenkins,49712324,David,Strehlow
 missing_commission_id,3978844837,24485151,Susan,Jenkins,49712324,David,Strehlow,49712324,David,Strehlow,3334673799,,AARP,G,200,,msp,2022-11-21,2022-11-21,2022-12-01,,,,,,,False
 missing_commission_id,3978844976,23776501,Michele,Beswick,49712324,David,Strehlow,49712324,David,Strehlow,3147816569,,AARP,G,200,,msp,2022-11-18,2022-11-18,2023-01-01,,,,,,,False
 missing_commission_id,3989740207,24692001,Wilhelmina,Gebeal,76355971,Mark,Files,76355971,Mark,Files,3517933002,,AARP,G,200,,msp,2022-11-24,2022-11-19,2023-01-01,,,,,,,False
-missing_commission_id,3989854112,24448951,Syed,Ahmed,76355971,Mark,Files,76355971,Mark,Files,3517933002,,AARP,G,450,,msp,2022-11-24,2022-11-19,2023-01-01,,,This app was denied due to Underwriting's review of the medical history,,,,False
+missing_commission_id,3989854112,24448951,Syed,Ahmed,76355971,Mark,Files,76355971,Mark,Files,3517933002,,AARP,G,450,,msp,2022-11-24,2022-11-19,2023-01-01,2022-12-01,,This app was denied due to Underwriting's review of the medical history,,,,False
 missing_commission_id,3989881733,24643201,Paul,Wilson,165335439,Aaron,Butler,165335439,Aaron,Butler,3098793718,,AARP,G,200,,msp,2022-12-02,2022-12-02,2023-01-01,,,,,,,False
 missing_commission_id,3991416082,24684451,Mark,Arsement,76355971,Mark,Files,76355971,Mark,Files,3202698332,,AARP,G,200,,msp,2022-11-19,2022-11-21,2023-02-01,,,,,,,False
 missing_commission_id,3991934340,24799751,Richard,Pilachowski,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3082416185,,AARP,G,200,,msp,2022-11-21,2022-11-19,2023-01-01,,,,,,,False
@@ -1405,7 +1405,7 @@ missing_commission_id,4176534298,25077551,Michael J,Williams,229799738,Darrin,Ne
 missing_commission_id,4176534640,24465401,Jennie,Mcdaniel,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,0308571066,,AARP,G,200,,msp,2022-11-28,2022-11-28,2023-01-01,,,,,,,False
 missing_commission_id,4177451084,17873501,Thomas,Cromie,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3518423797,,AARP,G,200,,msp,2022-11-29,2022-11-28,2023-01-01,,,,,,,False
 missing_commission_id,4177451138,24508551,PAMELA,ROBBINS,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3108303094,,AARP,G,200,,msp,2022-11-29,2022-11-28,2023-04-01,,,,,,,False
-missing_commission_id,4178336525,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,3059786669,,AARP,G,510,,msp,2022-11-28,2022-11-28,2023-01-01,,,,,,,False
+missing_commission_id,4178336525,24840551,Georgeanne,Kaufman,66410900,Nick,Thompson,66410900,Nick,Thompson,3059786669,,AARP,G,510,,msp,2022-11-28,2022-11-28,2023-01-01,2022-11-30,,,,,,False
 missing_commission_id,4178336563,22887251,KITTY,HUI,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3514994072,,AARP,G,200,,msp,2022-11-28,,2023-01-01,,,,,,,False
 missing_commission_id,4178336663,25176851,Keiren,Brady,148694372,Justin,Cohen,148694372,Justin,Cohen,317214432,,AARP,G,200,,msp,2022-11-29,2022-11-28,2023-01-01,,,,,,,False
 missing_commission_id,4178336775,25175151,Denise,Williams,229799738,Darrin,Neal,229799738,Darrin,Neal,3518491380,,AARP,G,200,,msp,2022-11-29,2022-11-28,2022-12-01,,,,,,,False
@@ -1413,7 +1413,7 @@ missing_commission_id,4179991322,24887951,Karen,Palmer,57373696,Garrett,McKinzie
 missing_commission_id,4179991361,25184801,Francesca,Bajaj,89311810,Jordan,Otte,89311810,Jordan,Otte,0983790239,,AARP,M1A,200,,msp,2022-11-29,2022-11-28,2023-01-01,,,,,,,False
 missing_commission_id,4179991366,24408151,Joe,Robbins,89300906,Brian,Schwartz,89300906,Brian,Schwartz,3108303094,,AARP,G,200,,msp,2022-11-29,2022-11-28,2023-04-01,,,,,,,False
 missing_commission_id,4179991372,25157701,Mahesh,Bajaj,89311810,Jordan,Otte,89311810,Jordan,Otte,0983790239,,AARP,M1A,200,,msp,2022-11-29,2022-11-28,2023-01-01,,,,,,,False
-missing_commission_id,4180436356,23726951,Ligaya,San Pedro,229799738,Darrin,Neal,229799738,Darrin,Neal,3096239177,,AARP,N,510,,msp,2022-11-28,,2023-01-01,,2022-12-31,approved at level 2 rate ,,,,False
+missing_commission_id,4180436356,23726951,Ligaya,San Pedro,229799738,Darrin,Neal,229799738,Darrin,Neal,3096239177,,AARP,N,510,,msp,2022-11-28,,2023-01-01,2022-12-05,2022-12-31,approved at level 2 rate ,,,,False
 missing_commission_id,4180668186,25129701,Julius,Gasso,66410900,Nick,Thompson,66410900,Nick,Thompson,3424852543,,AARP,G,200,,msp,2022-11-29,,2023-01-01,,,,,,,False
 missing_commission_id,4189464883,24912751,Linda,Platten,148672948,Howard,Seigle,148672948,Howard,Seigle,3518607761,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 missing_commission_id,4191848276,25201951,Gwen,DeGraaf,165335439,Aaron,Butler,165335439,Aaron,Butler,3518616366,,AARP,G,200,,msp,2022-11-29,2022-11-29,2022-12-01,,,,,,,False
@@ -1428,7 +1428,7 @@ missing_commission_id,4194110872,25209401,Michael,Steffes,89300906,Brian,Schwart
 missing_commission_id,4194297602,25213251,Helen,Conway,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,097207418,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 missing_commission_id,4194297732,24578451,William,Conway,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,097207418,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 missing_commission_id,4194580638,24934051,Gary,Mitchell,165335439,Aaron,Butler,165335439,Aaron,Butler,3458770421,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-02-01,,,,,,,False
-missing_commission_id,4194710121,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,510,,msp,2022-11-29,2022-11-29,2023-01-01,,2022-12-01,canceled bc Duplicate ,,,,False
+missing_commission_id,4194710121,25156801,Robert M.,Jennings,229799739,Latesa,Pasley,229799739,Latesa,Pasley,3518622695,,AARP,G,510,,msp,2022-11-29,2022-11-29,2023-01-01,2022-12-01,2022-12-01,canceled bc Duplicate ,,,,False
 missing_commission_id,4194710192,24727851,Garry,Best,82267662,Nick,Oberle,82267662,Nick,Oberle,3518643543,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 missing_commission_id,4194710276,24527701,Patricia,Nash,229799738,Darrin,Neal,229799738,Darrin,Neal,0612419846,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 missing_commission_id,4194710338,24941601,Ivan J,Almeida,229799738,Darrin,Neal,229799738,Darrin,Neal,3501866440,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-04-01,,,,,,,False
@@ -1618,6 +1618,7 @@ missing_commission_id,4401164610,25590001,Phyllis,London,165335440,Cory,Caldwell
 missing_commission_id,4406184970,25574901,Virginia,R Dixon,49712324,David,Strehlow,49712324,David,Strehlow,3471311716,,AARP,G,200,,msp,2022-12-09,2022-12-09,2023-02-01,,,,,,,False
 missing_commission_id,4406386714,24955001,john,sheppard,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3387132016,,AARP,G,200,,msp,2022-12-09,2022-12-09,2023-01-01,,,,,,,False
 missing_commission_id,4410884880,25601751,Christa,Moore,66410900,Nick,Thompson,66410900,Nick,Thompson,3167748908,,AARP,G,200,,msp,2022-12-09,2022-12-09,2023-01-01,,,,,,,False
+missing_commission_id,4444828986,25569901,Jake,Mariani,76355971,Mark,Files,76355971,Mark,Files,304358911,,AARP,G,330,,msp,2022-12-07,2022-12-07,2023-02-01,,,,,,,False
 missing_commission_id,3173142096,20766951,Allen,Andrus,165335439,Aaron,Butler,165335439,Aaron,Butler,N/A,,,G,500,,msp,2022-08-17,2022-08-17,2022-09-01,2022-08-22,2022-08-22,,,,,False
 missing_commission_id,3173216383,8761851,Charles,Anderson,66410900,Nick,Thompson,66410900,Nick,Thompson,N/A,,,,500,,msp,,,,2021-12-07,2021-12-07,,,,,False
 missing_commission_id,3173254065,199751,Zenaida,Guzman Martinez,50183183,Rhee,Cano,50183183,Rhee,Cano,N/A,,,G,500,,msp,2020-10-28,,2021-01-01,,2020-12-31,,,,,False
@@ -1627,9 +1628,9 @@ missing_commission_id,3170712324,21504151,Donald,Redmond,148694372,Justin,Cohen,
 missing_commission_id,3173117026,20919651,Elias,Negron,89321120,Matthew,Duffey,89321120,Matthew,Duffey,351513118,,AARP / UHICA,G,200,,msp,2022-10-05,2022-10-05,2023-01-01,,,,,,,False
 missing_commission_id,3173117088,20941251,Beverly,Schmidt,148694372,Justin,Cohen,148694372,Justin,Cohen,348103645,,AARP / UHICA,G,200,,msp,2022-09-21,2022-09-01,2023-03-01,,,,,,,False
 missing_commission_id,3173164122,21626001,Paul,Chappell,49712326,Matthew,Cano,49712326,Matthew,Cano,351322337-1,,AARP / UHICA,G,350,,msp,2022-09-02,,2023-06-01,,,,,,,False
-missing_commission_id,3173177904,22830151,Vicky,Martin,76355971,Mark,Files,76355971,Mark,Files,3157762596,,AARP / UHICA,G,500,,msp,2022-10-04,2022-10-04,2022-11-01,,2022-10-31,,,,,False
+missing_commission_id,3173177904,22830151,Vicky,Martin,76355971,Mark,Files,76355971,Mark,Files,3157762596,,AARP / UHICA,G,500,,msp,2022-10-04,2022-10-04,2022-11-01,2022-10-28,2022-10-31,,,,,False
 missing_commission_id,3173177944,22874201,John,Kelly,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,3055289452,,AARP / UHICA,G,200,,msp,2022-10-24,2022-10-06,2023-01-01,,,,,,,False
-missing_commission_id,3173177958,22745151,Jacqueline,Paro,229799738,Darrin,Neal,229799738,Darrin,Neal,3514820574,,AARP / UHICA,G,500,,msp,2022-09-29,2022-09-29,2022-10-01,,2022-10-01,approved at level 2 rate and she canceled it ,,,,False
+missing_commission_id,3173177958,22745151,Jacqueline,Paro,229799738,Darrin,Neal,229799738,Darrin,Neal,3514820574,,AARP / UHICA,G,500,,msp,2022-09-29,2022-09-29,2022-10-01,2022-10-10,2022-10-01,approved at level 2 rate and she canceled it ,,,,False
 missing_commission_id,3173185370,12913301,James,Orellana,66410900,Nick,Thompson,66410900,Nick,Thompson,3515351991,,AARP / UHICA,G,200,,msp,2022-10-08,,2023-01-01,,,,,,,False
 missing_commission_id,3173243421,22994751,Boyce,Curry,66410900,Nick,Thompson,66410900,Nick,Thompson,3515506651,,AARP / UHICA,G,200,,msp,2022-10-11,,2023-01-01,,,,,,,False
 missing_commission_id,3173243438,22995251,Janelle,Gbur,148694372,Justin,Cohen,148694372,Justin,Cohen,315609624,,AARP / UHICA,G,200,,msp,2022-10-05,2022-10-05,2023-01-01,,,,,,,False
@@ -1651,7 +1652,7 @@ missing_commission_id,3377948570,21571151,James,Young,165335440,Cory,Caldwell,16
 missing_commission_id,3395710508,23647551,Gregory S,Dockrey,148694372,Justin,Cohen,148694372,Justin,Cohen,320644267,,AARP / UHICA,G,340,Not Commissionable,msp,2022-10-20,2022-10-20,2022-11-01,,,,,,,False
 missing_commission_id,3400726026,23006901,Michael,Canzler,66410900,Nick,Thompson,66410900,Nick,Thompson,3345609477,,AARP / UHICA,N,200,,msp,2022-10-20,,2022-12-01,,,,,,,False
 missing_commission_id,3405047352,22798051,Philip,Arnold,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3285131631,,AARP / UHICA,G,200,,msp,2022-10-31,2022-10-31,2022-12-01,,,,,,,False
-missing_commission_id,3423516454,23648201,Robert ,Olsen,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351618167,,AARP / UHICA,G,510,,msp,2022-10-21,2022-10-21,2022-11-01,,,,,,,False
+missing_commission_id,3423516454,23648201,Robert ,Olsen,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351618167,,AARP / UHICA,G,510,,msp,2022-10-21,2022-10-21,2022-11-01,2022-11-08,2022-11-08,,,,,False
 missing_commission_id,3479640726,23389901,Beverly,Alkire,50312260,Pete,Scalzo,50312260,Pete,Scalzo,3516300880,,AARP / UHICA,G,200,,msp,2022-10-25,2022-10-24,2023-02-01,,,,,,,False
 missing_commission_id,3479796249,14051151,Kay,Milinowicz,148694372,Justin,Cohen,148694372,Justin,Cohen,302878355,,AARP / UHICA,G,200,,msp,2022-10-25,2022-10-24,2023-01-01,,,,,,,False
 missing_commission_id,3481657735,23803701,John,Milinowicz,148694372,Justin,Cohen,148694372,Justin,Cohen,302878355,,AARP / UHICA,G,200,,msp,2022-10-25,2022-10-24,2023-01-01,,,,,,,False
@@ -1675,7 +1676,7 @@ missing_commission_id,3832267550,23698201,Venice ,Churilov,89300906,Brian,Schwar
 missing_commission_id,3833478415,22691751,Sherry,Hoover,148694372,Justin,Cohen,148694372,Justin,Cohen,311834536,,AARP / UHICA,G,200,,msp,2022-11-15,2022-11-11,2022-12-01,,,,,,,False
 missing_commission_id,3889319970,24620301,Stephen,McLean,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3517580092,,AARP / UHICA,G,200,,msp,2022-11-14,2022-11-14,2023-02-01,,,,,,,False
 missing_commission_id,3894715044,24416551,Jaime,Joniaux,66410900,Nick,Thompson,66410900,Nick,Thompson,3517590570,,AARP / UHICA,G,200,,msp,2022-11-14,,2022-12-01,,,,,,,False
-missing_commission_id,3908780623,24376701,Joseph,Flanagan,148672948,Howard,Seigle,148672948,Howard,Seigle,312422497-1,,AARP / UHICA,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,,2022-11-23,APPLICATION WITHDRAWN BY REQUEST,,,,False
+missing_commission_id,3908780623,24376701,Joseph,Flanagan,148672948,Howard,Seigle,148672948,Howard,Seigle,312422497-1,,AARP / UHICA,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,2022-11-23,2022-11-23,APPLICATION WITHDRAWN BY REQUEST,,,,False
 missing_commission_id,3926232981,24539401,Robert C,Ellis,148694372,Justin,Cohen,148694372,Justin,Cohen,351769523,,AARP / UHICA,N,200,,msp,2022-11-17,2022-11-16,2022-12-01,,,,,,,False
 missing_commission_id,3928206421,24626301,Carmelyn,Drisdelle,66410900,Nick,Thompson,66410900,Nick,Thompson,059448265,,AARP / UHICA,G,200,,msp,2022-11-16,,2023-01-01,,,,,,,False
 missing_commission_id,3929696166,24737451,David,Drisdelle,66410900,Nick,Thompson,66410900,Nick,Thompson,059448265,,AARP / UHICA,G,200,,msp,2022-11-16,,2023-01-01,,,,,,,False
@@ -1805,8 +1806,8 @@ possible_duplicate,3947074182,24636551,Keith,Kinsley,89311810,Jordan,Otte,893118
 possible_duplicate,3173125396,20114301,Mark,Purcell,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,Pending Member ID,ANTHEM,G,200,,msp,2022-09-26,,2022-10-01,,,,,,,False
 possible_duplicate,3173177883,22736851,Jerry,Thomas,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,Pending Member ID,ANTHEM,G,310,,msp,2022-10-24,2022-10-21,2023-01-01,,,,,,,False
 possible_duplicate,3367606908,23593401,Dennis,Davis,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,Pending Member ID,ANTHEM,G,200,,msp,2022-10-24,,2023-01-01,,,,,,,False
-possible_duplicate,3566337817,10852351,Kim,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,440,,msp,2022-11-16,,2023-02-01,,,See pinned note. Check with Matt or Kellie for any updates ,,,,False
-possible_duplicate,3598866328,24048101,George,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,440,,msp,2022-11-14,2022-11-01,2023-02-01,,,Please see pinned note ,,,,False
+possible_duplicate,3566337817,10852351,Kim,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,200,,msp,2022-11-16,,2023-02-01,,,See pinned note. Check with Matt or Kellie for any updates ,,,,False
+possible_duplicate,3598866328,24048101,George,Gralewski,89321120,Matthew,Duffey,89321120,Matthew,Duffey,Pending Member ID,Pending Member ID,ANTHEM,WBP,200,,msp,2022-11-14,2022-11-01,2023-02-01,2022-12-08,,Please see pinned note ,,,,False
 possible_duplicate,3625043543,22216651,jonathan,mortenson,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,Pending Member ID,ANTHEM,G,200,,msp,2022-10-28,,2023-01-01,,,,,,,False
 possible_duplicate,3774968086,24394301,Robert,Pasenelli,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,ANTHEM,G,200,,msp,2022-11-08,2022-11-08,2023-01-01,,,,,,,False
 possible_duplicate,3907895896,24362801,Stephen,Riexinger,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,ANTHEM,G,310,,msp,2022-11-15,2022-11-15,2023-02-01,,,,,,,False
@@ -1817,18 +1818,18 @@ possible_duplicate,3173185578,7875601,Debra,Witkowski,57373696,Garrett,McKinzie,
 possible_duplicate,3173243430,22954201,  ELVA ,R WILSON,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-10-06,2022-10-05,2022-11-01,,,,,,,False
 possible_duplicate,3206057249,22886251,Michelle,Ward,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-10-11,2022-10-11,2022-11-01,,,,,,,False
 possible_duplicate,3206057341,23260601,James,Ward,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-10-11,,,,,,,,,False
-possible_duplicate,3293259406,22989351,Donna,Musick,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,Pending Member ID,AETNA,N,480,,msp,,2022-11-01,2023-05-01,,,,,,,False
+possible_duplicate,3293259406,22989351,Donna,Musick,66410900,Nick,Thompson,66410900,Nick,Thompson,Pending Member ID,Pending Member ID,AETNA,N,480,,msp,,2022-11-01,2023-05-01,2022-10-21,2022-10-21,,,,,False
 possible_duplicate,3662875815,23852301,Sharon D,Woods,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,AETNA,G,500,,msp,2022-11-02,,2023-01-01,2022-11-07,2022-11-07,,,,,False
 possible_duplicate,3899766189,24650001,Agneta,Pusok,165335440,Cory,Caldwell,165335440,Cory,Caldwell,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-14,2022-11-14,2023-01-01,,,,,,,False
 possible_duplicate,3907013420,24641001,Martin,Ford,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-15,2022-11-15,2023-01-01,,,,,,,False
 possible_duplicate,3949619517,24527951,Shirley,Sketteno,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-17,2022-11-17,2022-12-01,,,,,,,False
 possible_duplicate,4027832647,24951601,William,Freeland,50084738,Adrian,Hardin,50084738,Adrian,Hardin,Pending Member ID,Pending Member ID,AETNA,G,500,,msp,2022-11-21,,2022-12-01,2022-11-21,2022-11-21,,,,,False
 possible_duplicate,4045573290,24741101,Mary,Helm,229799739,Latesa,Pasley,229799739,Latesa,Pasley,Pending Member ID,Pending Member ID,AETNA,F,340,Not Commissionable,msp,2022-11-22,2022-11-22,2022-12-01,,,,,,,False
-possible_duplicate,4052729934,24795301,Joyce,Pasley,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,Pending Member ID,AETNA,G,420,,msp,2022-11-22,2022-11-22,2023-01-01,,,,,,,False
+possible_duplicate,4052729934,24795301,Joyce,Pasley,89321142,Patrick,Stang,89321142,Patrick,Stang,Pending Member ID,Pending Member ID,AETNA,G,420,,msp,2022-11-22,2022-11-22,2023-01-01,2022-11-22,,,,,,False
 possible_duplicate,4171266856,24840851,Raynald,Cooney ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-28,2022-11-28,2023-01-01,,,,,,,False
 possible_duplicate,4175901570,24642501,Beth,Borray,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-28,,2023-02-01,,,,,,,False
 possible_duplicate,4195528491,24523901,Linda,Melvin,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,Pending Member ID,AETNA,G,200,,msp,2022-11-29,,2023-01-01,,,,,,,False
-possible_duplicate,4195666722,24887201,Mary J,German ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,500,Commissionable - Need to Review,msp,2022-11-29,2022-11-29,2023-01-01,,2022-11-30,,,,,False
+possible_duplicate,4195666722,24887201,Mary J,German ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,500,Commissionable - Need to Review,msp,2022-11-29,2022-11-29,2023-01-01,2022-12-07,2022-11-30,,,,,False
 possible_duplicate,4319151616,8452601,Cary,miller,64738322,Gabriel,Rhone,71859731,Rhi,Neal,Pending Member ID,Pending Member ID,AETNA,G,450,,msp,2022-12-02,2022-12-02,2023-01-01,2022-12-05,,,,,,False
 possible_duplicate,4365146926,24550451,Leonard,Reitzer,89300906,Brian,Schwartz,89300906,Brian,Schwartz,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-12-07,,2023-02-01,,,,,,,False
 possible_duplicate,4365811604,24749051,Richard A,Edgington Sr,229799738,Darrin,Neal,229799738,Darrin,Neal,Pending Member ID,Pending Member ID,AETNA,G,330,,msp,2022-12-07,,2023-02-01,,,,,,,False
@@ -1840,12 +1841,12 @@ possible_duplicate,3869495609,24593001,Victoria,Beckner,165338462,Ken,Tomberlin,
 possible_duplicate,4195809315,24509701,Robin,Beavers,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,G,320,,msp,2022-11-29,2022-11-29,2023-01-01,,,,,,,False
 possible_duplicate,4364833317,24730301,David,Ring,165338462,Ken,Tomberlin,165338462,Ken,Tomberlin,Pending Member ID,Pending Member ID,MUTUAL OF OMAHA,G,330,,msp,2022-12-07,2022-12-07,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-missing_commission_id,3173057720,10528451,Sherri,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,3368043612,,AARP,G,500,,msp,2022-01-31,,2022-06-01,,2022-05-31,,,,,False
-missing_commission_id,3173185051,11017651,Mark,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,G,500,,msp,2022-01-31,,2022-06-01,,2022-05-31,,,,,False
+missing_commission_id,3173057720,10528451,Sherri,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,3368043612,,AARP,G,500,,msp,2022-01-31,,2022-06-01,2022-11-03,2022-05-31,,,,,False
+missing_commission_id,3173185051,11017651,Mark,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,G,500,,msp,2022-01-31,,2022-06-01,2022-11-03,2022-05-31,,,,,False
 missing_commission_id,3173259269,22619701,James,Butler,89321142,Patrick,Stang,89321142,Patrick,Stang,3129438374,,AARP,G,200,,msp,2022-10-03,2022-10-03,2023-04-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
-possible_duplicate,3173117348,8598951,Patricia,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,2021-11-15,2022-01-01,,,,,,,False
-possible_duplicate,3173117441,8598751,Harold,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,,2022-01-01,,,,,,,False
+possible_duplicate,3173117348,8598951,Patricia,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,2021-11-15,2022-01-01,2022-11-03,,Not AOR ~ Previous AOR gets commission. ,,,,False
+possible_duplicate,3173117441,8598751,Harold,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,,2022-01-01,2022-11-03,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,
 possible_duplicate,3173229354,9256851,Dan,Stanisavljevic,49712324,David,Strehlow,49712324,David,Strehlow,3171544491,3171544491,AARP,G,200,Not Commissionable,msp,2021-12-05,,2022-01-01,,,,,,,False
 possible_duplicate,3173229392,9206351,Nancy,Stanisavljevic,49712324,David,Strehlow,49712324,David,Strehlow,3171544491,3171544491,AARP,G,200,Not Commissionable,msp,2021-12-05,,2022-01-01,,,,,,,False

@@ -13,7 +13,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393841,17925151,Robin,Adkison,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03584362,AARP,G,200,,msp,2022-07-21,,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3687488616,24171801,Elsa,Aguila,49712326,Matthew,Cano,49712326,Matthew,Cano,026940125-1,,AARP,G,500,,msp,2022-11-03,,2023-01-01,,2022-11-18,Denied in UW,2023-01-01,False,False,False
+3687488616,24171801,Elsa,Aguila,49712326,Matthew,Cano,49712326,Matthew,Cano,026940125-1,,AARP,G,500,,msp,2022-11-03,,2023-01-01,2022-11-18,2022-11-18,Denied in UW,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3687488663,24223051,Briccio,Aguila,49712326,Matthew,Cano,49712326,Matthew,Cano,026940125-1,,AARP,G,500,,msp,2022-11-03,,2023-01-01,2022-11-14,2022-11-14,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -73,9 +73,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173163949,4521201,Dale,Baniak,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03329642,AARP,G,200,,msp,2021-08-19,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173057720,10528451,Sherri,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,3368043612,,AARP,G,500,,msp,2022-01-31,,2022-06-01,,2022-05-31,,2022-06-01,False,False,False
+3173057720,10528451,Sherri,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,3368043612,,AARP,G,500,,msp,2022-01-31,,2022-06-01,2022-11-03,2022-05-31,,2022-06-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173185051,11017651,Mark,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,G,500,,msp,2022-01-31,,2022-06-01,,2022-05-31,,2022-06-01,False,False,False
+3173185051,11017651,Mark,Bankord,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,AARP,G,500,,msp,2022-01-31,,2022-06-01,2022-11-03,2022-05-31,,2022-06-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711949,14678351,Frank,Barajas,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6627487,AHC6627487,AETNA,G,200,,msp,2022-04-27,,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -389,7 +389,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173253970,4421201,Deborah,Ellis,49712326,Matthew,Cano,49712326,Matthew,Cano,0612962530,A03364512,AARP,G,200,,msp,2021-09-17,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173150043,11943701,Earl,Englehart,49712326,Matthew,Cano,49712326,Matthew,Cano,340180697,A03513676,AARP,G,500,,msp,2022-03-22,,2022-05-01,,2022-11-30,Client passed away,2022-05-01,False,False,
+3173150043,11943701,Earl,Englehart,49712326,Matthew,Cano,49712326,Matthew,Cano,340180697,A03513676,AARP,G,500,,msp,2022-03-22,,2022-05-01,2022-12-04,2022-11-30,Client passed away,2022-05-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126297,3928201,Dorothy,Englis,49712326,Matthew,Cano,49712326,Matthew,Cano,305W12085,305W12085,ANTHEM,G,200,,msp,2022-03-01,2022-03-01,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -944,7 +944,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173228812,669701,Mike,Nosbush,49712326,Matthew,Cano,49712326,Matthew,Cano,ACI6228756,ACI6228756,AETNA,G,200,,msp,2021-06-14,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3191933567,47701,Frank J,Nowak,60051536,Inactive,Agent,49712326,Matthew,Cano,80Y0366788,80Y0366788,CIGNA,G,510,,msp,2020-10-14,,2020-11-01,,,,2020-11-01,True,,
+3191933567,47701,Frank J,Nowak,60051536,Inactive,Agent,49712326,Matthew,Cano,80Y0366788,80Y0366788,CIGNA,G,510,,msp,2020-10-14,,2020-11-01,2022-11-03,,,2020-11-01,True,,
 3192269462,47701,Frank J,Nowak,49712326,Matthew,Cano,49712326,Matthew,Cano,AHC6570832,AHC6570832,AETNA,G,200,,msp,2021-11-03,,2021-12-01,,,,2020-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173228813,699251,Joan,Null,49712326,Matthew,Cano,49712326,Matthew,Cano,AHL6282043,AHL6282043,AETNA,G,200,,msp,2021-01-15,,2021-02-01,,,,2021-02-01,True,True,
@@ -1333,9 +1333,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324181,3839651,Rebecca,Utley,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03308195,AARP,G,200,,msp,2021-07-26,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173141524,9523601,April,V Johnson,49712326,Matthew,Cano,49712326,Matthew,Cano,339065601,A03473702,AARP,G,420,,msp,2022-01-17,,2022-04-01,,2022-09-30,,2022-04-01,False,False,
+3173141524,9523601,April,V Johnson,49712326,Matthew,Cano,49712326,Matthew,Cano,339065601,A03473702,AARP,G,420,,msp,2022-01-17,,2022-04-01,2022-11-06,2022-09-30,,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173150123,7067551,Annette,Vallejos,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03388335,AARP,G,500,,msp,2021-10-22,,2022-01-01,,2022-10-31,,2022-01-01,False,False,
+3173150123,7067551,Annette,Vallejos,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,A03388335,AARP,G,500,,msp,2021-10-22,,2022-01-01,2022-11-16,2022-10-31,,2022-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173258641,2143651,Victoria,Van de Waarsenburg,49712326,Matthew,Cano,49712326,Matthew,Cano,246W08681,246W08681,ANTHEM,G,200,Not Commissionable,msp,2021-05-18,,2021-06-01,,,,2021-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1519,7 +1519,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167088485,2096401,Almaz,Beshaw,49712326,Matthew,Cano,49712326,Matthew,Cano,931145304,,AARP/UHC,Medicare Advantage HMO-POS,200,,map,2021-05-04,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168654217,17661251,Charles,Betts,49712326,Matthew,Cano,49712326,Matthew,Cano,000727711,,AARP/UHC,AARP Medicare Advantage Patriot (HMO),470,,map,2022-08-02,,2022-11-01,,2022-11-30,,2022-11-01,False,False,
+3168654217,17661251,Charles,Betts,49712326,Matthew,Cano,49712326,Matthew,Cano,000727711,,AARP/UHC,AARP Medicare Advantage Patriot (HMO),470,,map,2022-08-02,,2022-11-01,2022-12-04,2022-11-30,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168207513,391351,Jeffrey A,Bishop,49712326,Matthew,Cano,49712326,Matthew,Cano,Pending Member ID,,HUMANA,Honor PPO,200,,map,2020-12-01,,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1700,7 +1700,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168469342,3276701,Cynthia,Hagle,49712326,Matthew,Cano,49712326,Matthew,Cano,979880697,,AARP/UHC,AARP Headwater PPO,200,,map,2021-07-12,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168371833,100001,Marlene,Halbrook,49712326,Matthew,Cano,49712326,Matthew,Cano,007469530,,AARP/UHC,SecureHorizons Plan 2 HMO-POS,510,,map,2020-11-05,,2021-01-01,,,,2021-01-01,True,,
+3168371833,100001,Marlene,Halbrook,49712326,Matthew,Cano,49712326,Matthew,Cano,007469530,,AARP/UHC,SecureHorizons Plan 2 HMO-POS,510,,map,2020-11-05,,2021-01-01,2022-11-08,,,2021-01-01,True,,
 3210596446,100001,Marlene,Halbrook,49712326,Matthew,Cano,49712326,Matthew,Cano,985754877,,AARP/UHC,AARP Medicare Advantage Focus (HMO-POS),200,,map,2022-10-18,2022-10-15,2023-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3501932376,22328651,Glenn,Haldane,49712326,Matthew,Cano,49712326,Matthew,Cano,985405791,,AARP/UHC,AARP® Medicare Advantage Choice Plan 2,200,,map,2022-10-25,,2022-11-01,,,,2022-11-01,True,,

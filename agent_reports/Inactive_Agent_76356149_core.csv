@@ -67,9 +67,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173080867,2940701,David,Cary,76356149,Inactive,Agent,76356149,Inactive,Agent,3412484903,A03283578,AARP,G,200,,msp,2021-06-22,,2021-08-01,,,,2021-08-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117348,8598951,Patricia,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,2021-11-15,2022-01-01,,,,2022-01-01,False,False,False
+3173117348,8598951,Patricia,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,2021-11-15,2022-01-01,2022-11-03,,Not AOR ~ Previous AOR gets commission. ,2022-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117441,8598751,Harold,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,,2022-01-01,,,,2022-01-01,False,False,False
+3173117441,8598751,Harold,Chadwick,76356149,Inactive,Agent,76356149,Inactive,Agent,399527632,Not AOR ~ Previous AOR gets commission. ,AARP,G,500,Not Commissionable,msp,2021-11-15,,2022-01-01,2022-11-03,,,2022-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332517,8164051,Linda,Charles,76356149,Inactive,Agent,76356149,Inactive,Agent,AHL6301262,AHL6301262,AETNA,G,200,,msp,2021-12-27,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -434,9 +434,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168266133,8127051,Roger,Clark,76356149,Inactive,Agent,76356149,Inactive,Agent,987211613,,AARP/UHC,AARP MEDICARE ADVANTAGE CHOICE PLAN 2 (PPO),200,,map,2021-11-04,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168354979,4365401,Christine,Cloud,76356149,Inactive,Agent,76356149,Inactive,Agent,911985850,,AARP/UHC,UnitedHealthcare Medicare Advantage Plan 3 (HMO),200,,map,2021-08-19,,2021-09-01,,,,2021-09-01,True,True,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167039925,6922601,Margaret(Peg),Colyar,76356149,Inactive,Agent,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP Medicare Advantage Choice (PPO),410,,map,2021-10-28,2021-10-28,2022-01-01,2022-10-09,2022-01-01,,2022-01-01,True,,False
-3798777905,6922601,Margaret(Peg),Colyar,168441184,EnlightNuUsaLLC,House,76356149,Inactive,Agent,996344619,,AARP/UHC,AARP MA Patriot ,200,,map,2021-11-23,,2022-01-01,,,,2022-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168544619,8961351,Barbara,Comer,76356149,Inactive,Agent,76356149,Inactive,Agent,935281034 / 003866572,,AARP/UHC,AARP Medicare Advantage SecureHorizons (HMO),200,,map,2021-12-02,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

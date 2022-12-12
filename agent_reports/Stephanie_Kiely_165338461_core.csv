@@ -27,11 +27,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125901,15987801,Paul,Borges,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3333757395,3333757395,AARP,G,200,,msp,2022-05-24,2022-05-24,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3636825608,24108751,Joseph,Borocz,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,No ID- Cancelled,No ID- Cancelled,ANTHEM,G,500,,msp,2022-11-01,2022-11-01,2022-12-01,,2022-11-18,cancelled in UW,2022-12-01,False,False,
+3636825608,24108751,Joseph,Borocz,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,No ID- Cancelled,No ID- Cancelled,ANTHEM,G,500,,msp,2022-11-01,2022-11-01,2022-12-01,2022-11-18,2022-11-18,cancelled in UW,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125715,17148201,Lorene,Bottoms,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3514326028,A03617711,AARP,G,200,,msp,2022-09-21,2022-09-20,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170712217,21467051,Phillip,Bowser,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3513012199,A03606957,AARP,G,470,,msp,2022-08-30,2022-08-30,2022-09-01,,2022-10-31,,2022-09-01,False,False,
+3170712217,21467051,Phillip,Bowser,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3513012199,A03606957,AARP,G,470,,msp,2022-08-30,2022-08-30,2022-09-01,2022-12-04,2022-10-31,,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3788851721,21476601,Carole,Bracaglia,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3141524482,,AARP,G,200,,msp,2022-11-09,2022-11-09,2023-04-01,,,,2023-04-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -53,11 +53,14 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323398,14261801,Jeffrey,Chandler,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6627908,AHC6627908,AETNA,G,200,,msp,2022-04-28,2022-04-28,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3226687289,22932451,Mary,Chapman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,450,,msp,2022-10-12,2022-10-12,2023-01-01,,,,2023-01-01,False,False,False
+3226687289,22932451,Mary,Chapman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,450,,msp,2022-10-12,2022-10-12,2023-01-01,2022-10-26,2022-10-26,,2023-01-01,False,False,False
 3545514561,22932451,Mary,Chapman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,35607214,,WELLCARE,Wellcare No Premium Open (PPO),200,,map,2022-10-27,2022-10-27,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3226687348,23306701,Paul,Chapman Jr,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,500,,msp,2022-10-12,2022-10-12,2023-01-01,,2022-10-17,Denied in Underwriting ,2023-01-01,False,False,False
+3226687348,23306701,Paul,Chapman Jr,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351563291,,AARP,G,500,,msp,2022-10-12,2022-10-12,2023-01-01,2022-10-17,2022-10-17,Denied in Underwriting ,2023-01-01,False,False,False
 3499888513,23306701,Paul,Chapman Jr,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,996564691,,AARP/UHC,AARP® Medicare Advantage Choice (PPO),200,,map,2022-10-26,2022-10-25,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3173298341,1782001,Karen,Charleston,49712324,David,Strehlow,165338461,Stephanie,Kiely,0578199556,A03246658,AARP,G,510,,msp,2021-04-22,,2021-05-01,2022-11-03,,,2021-05-01,False,False,
+3331092326,1782001,Karen,Charleston,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,990496779,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (PPO),200,,map,2022-10-17,2022-10-17,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216862,18741051,Ronald J,Chaves,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3221613403,A03587644,AARP,G,200,,msp,2022-07-27,2022-07-27,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -190,16 +193,16 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177967,22716651,Mark,Gaskill,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6655401,AHC6655401,AETNA,G,200,,msp,2022-09-28,2022-09-28,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3267265596,23380352,Caren,Gato,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6659061,AHC6659061,AETNA,G,510,,msp,2022-10-17,2022-10-14,2022-11-01,,2022-10-31,Terminated - Eff date reissue,2022-11-01,True,,
+3267265596,23380352,Caren,Gato,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6659061,AHC6659061,AETNA,G,510,,msp,2022-10-17,2022-10-14,2022-11-01,2022-11-12,2022-10-31,Terminated - Eff date reissue,2022-11-01,True,,
 3661279897,23380352,Caren,Gato,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC0006687,AHC0006687,AETNA,G,200,,msp,2022-10-17,,2022-12-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3297419589,24071901,James,Gato,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6659060,AHC6659060,AETNA,G,200,,msp,2022-10-17,2022-10-15,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3179930297,23087901,Hope,Geoghegan,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AARP,G,200,,msp,2022-10-10,2022-10-10,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4194710342,25213351,John B,German,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,CLI6929951,CLI6929951,AETNA,G,500,Commissionable - Need to Review,msp,2022-11-29,2022-11-29,2023-01-01,,2022-11-30,,2023-01-01,False,False,
+4194710342,25213351,John B,German,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,CLI6929951,CLI6929951,AETNA,G,500,Commissionable - Need to Review,msp,2022-11-29,2022-11-29,2023-01-01,2022-12-07,2022-11-30,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4195666722,24887201,Mary J,German ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,500,Commissionable - Need to Review,msp,2022-11-29,2022-11-29,2023-01-01,,2022-11-30,,2023-01-01,False,False,False
+4195666722,24887201,Mary J,German ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,Pending Member ID,AETNA,G,500,Commissionable - Need to Review,msp,2022-11-29,2022-11-29,2023-01-01,2022-12-07,2022-11-30,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173207940,11804501,Cheryl,Gilbert,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3148314978,A03554471,AARP,G,200,,msp,2022-05-27,2022-05-27,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -215,7 +218,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4218738559,25172051,Barbara,Grandon,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3122546256,,AARP,G,200,,msp,2022-11-30,2022-11-30,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3617489753,23848151,Rosalind,Green,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6663347,AHC6663347,AETNA,G,470,,msp,2022-10-31,2022-10-31,2022-11-01,,2022-10-31,,2022-11-01,False,False,
+3617489753,23848151,Rosalind,Green,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6663347,AHC6663347,AETNA,G,470,,msp,2022-10-31,2022-10-31,2022-11-01,2022-11-21,2022-10-31,,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323425,13528651,Kathy,Grounds,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3020120980,A03544725,AARP,G,200,,msp,2022-05-11,2022-05-11,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -229,7 +232,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712189,21563751,Elizabeth,Harris,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,0978266344,A03609920,AARP,G,200,,msp,2022-09-06,2022-09-06,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173208136,15220201,Lynnette,Hartle,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3506812001,A03543717,AARP,G,510,,msp,2022-05-10,2022-05-06,2022-07-01,,2022-10-31,enrolled into a MAPD,2022-07-01,False,False,
+3173208136,15220201,Lynnette,Hartle,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3506812001,A03543717,AARP,G,510,,msp,2022-05-10,2022-05-06,2022-07-01,2022-11-06,2022-10-31,enrolled into a MAPD,2022-07-01,False,False,
 3360134173,15220201,Lynnette,Hartle,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,35537089,,WELLCARE,Wellcare Giveback (HMO),200,,map,2022-10-19,2022-10-18,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393796,18117451,Herbert,Harvey,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,350958979,A03570236,AARP,G,200,,msp,2022-06-27,2022-06-27,2022-08-01,,,,2022-08-01,True,False,
@@ -317,7 +320,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173150253,18446801,Rosemary,Kot,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3122822699,A03573156,AARP,G,200,,msp,2022-06-30,2022-06-30,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168616119,18443701,Dennis,Kot,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3511594,,WELLCARE,Wellcare No Premium (HMO-POS),200,,map,2022-07-05,2022-07-05,2022-09-01,,,,2022-09-01,True,False,
-3173150324,18443701,Dennis,Kot,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3122822699,A03572805,AARP,G,510,,msp,2022-06-30,2022-06-30,2022-12-01,,2022-11-30,Decided to go on a MAPD and so Supp never went effective ,2022-12-01,False,False,
+3173150324,18443701,Dennis,Kot,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3122822699,A03572805,AARP,G,510,,msp,2022-06-30,2022-06-30,2022-12-01,2022-10-19,2022-11-30,Decided to go on a MAPD and so Supp never went effective ,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259171,22620501,LeAnn,Kreager,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3514776636,,AARP,G,200,,msp,2022-09-29,2022-09-28,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -336,7 +339,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3754836271,24085901,Sherry,Larson,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3125381107,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117194,22096251,Mary Ellen,Latour,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3146145259,A03617022,AARP,G,470,,msp,2022-09-20,2022-09-19,2022-10-01,,2022-11-30,,2022-10-01,False,False,
+3173117194,22096251,Mary Ellen,Latour,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3146145259,A03617022,AARP,G,470,,msp,2022-09-20,2022-09-19,2022-10-01,2022-12-09,2022-11-30,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3265803131,20788701,Charles,Lawton,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6658715,AHC6658715,AETNA,G,200,,msp,2022-10-14,2022-10-14,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -372,7 +375,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3326245496,23267451,Douglas,Marrs,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3516765736,,AARP,G,200,,msp,2022-10-31,2022-10-31,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3798777878,23512151,Lisa,Marrs,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,no ID- cancelled,no ID- cancelled,MEDICO,G,500,,msp,2022-11-09,2022-11-09,2023-01-01,,2022-11-14,declined in UW,2023-01-01,False,False,
+3798777878,23512151,Lisa,Marrs,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,no ID- cancelled,no ID- cancelled,MEDICO,G,500,,msp,2022-11-09,2022-11-09,2023-01-01,2022-11-14,2022-11-14,declined in UW,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173229217,7902051,Carol,Martin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,350964375,A03572966,AARP,G,200,,msp,2022-06-30,2022-06-30,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -380,7 +383,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3817455385,24439201,Salvador,Martinez,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3517407585,,AARP,G,200,,msp,2022-11-11,2022-11-10,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3356550815,22153751,Ramona,Martinez,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6659637,AHC6659637,AETNA,N,500,,msp,2022-10-18,2022-10-18,2022-11-01,,2022-10-21,Declined in UW,2022-11-01,False,False,
+3356550815,22153751,Ramona,Martinez,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6659637,AHC6659637,AETNA,N,500,,msp,2022-10-18,2022-10-18,2022-11-01,2022-10-22,2022-10-21,Declined in UW,2022-11-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3330284930,23319001,Lillian,Martinez ,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3252283282,,AARP,G,200,,msp,2022-10-18,2022-10-17,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -468,7 +471,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3503601799,23566351,Jacqueline,Nieto,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,ACC6702143,ACC6702143,AETNA ACCENDO,G,200,,msp,2022-10-25,2022-10-25,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168596812,14221951,Rekha,Nilkanth,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,MENG101541593900,,AETNA,Aetna Medicare Choice Plan (PPO),410,,map,2022-05-10,2022-05-06,2022-06-01,,,,2022-06-01,False,False,
+3168596812,14221951,Rekha,Nilkanth,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,MENG101541593900,,AETNA,Aetna Medicare Choice Plan (PPO),410,,map,2022-05-10,2022-05-06,2022-06-01,2022-11-21,,,2022-06-01,False,False,
 4026785638,14221951,Rekha,Nilkanth,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3471069900,,AARP,G,200,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216895,18647601,Lois,Noble,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3510119153,A03576183,AARP,G,200,,msp,2022-07-08,2022-07-08,2022-09-01,,,,2022-09-01,True,False,
@@ -476,7 +479,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173243287,16489351,Kathryn,O'Neill,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3183732688,A03603111,AARP,G,200,,msp,2022-08-24,2022-08-23,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3522555398,23648201,Robert ,Olsen,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3516181678,,AARP,G,200,,msp,2022-10-26,2022-10-26,2022-11-01,,,,2022-11-01,True,,False
-3423516454,23648201,Robert ,Olsen,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351618167,,AARP / UHICA,G,510,,msp,2022-10-21,2022-10-21,2022-11-01,,,,2022-11-01,True,False,False
+3423516454,23648201,Robert ,Olsen,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,351618167,,AARP / UHICA,G,510,,msp,2022-10-21,2022-10-21,2022-11-01,2022-11-08,2022-11-08,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142179,20838401,Shaheeda,Omer,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3459623561,,AARP,G,500,,msp,2022-09-30,2022-09-30,2022-11-01,2022-09-30,2022-10-31,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -504,7 +507,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125988,19501551,Luis,Peralta,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3510953023,A03586041,AARP,G,200,,msp,2022-07-25,2022-07-25,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3791038813,23937751,Diane,Peterkin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6666360,AHC6666360,AETNA,G,500,,msp,2022-11-09,2022-11-09,2023-01-01,,2022-11-30,,2023-01-01,False,False,
+3791038813,23937751,Diane,Peterkin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,AHC6666360,AHC6666360,AETNA,G,500,,msp,2022-11-09,2022-11-09,2023-01-01,2022-12-04,2022-11-30,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173125735,16926751,Tina,Puryear,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,3508474974,A03558459,AARP,G,200,,msp,2022-06-03,2022-06-03,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -707,9 +710,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168654164,17132201,Donna,Boardwine,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,118842467,,AARP/UHC,UnitedHealthcare Dual Complete Choice (PPO D-SNP),200,,map,2022-06-21,2022-06-20,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3502529139,21857351,Sandra,Bolin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,WELLCARE,Ascension Complete Seton  Access Plus PPO,200,,map,2022-10-25,2022-10-25,2022-11-01,,,,2022-11-01,True,,False
-3502529096,21857351,Sandra,Bolin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HUMANA,HumanaChoice H0473-001 (PPO),480,,map,,2022-10-25,2023-01-01,,,,2022-11-01,True,False,False
+3502529096,21857351,Sandra,Bolin,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HUMANA,HumanaChoice H0473-001 (PPO),480,,map,,2022-10-25,2023-01-01,2022-10-25,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168597848,21816901,William,Bracaglia,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HUMANA,HumanaChoice Florida H5216-072 (PPO),500,,map,2022-09-07,2022-09-06,2022-10-01,,2022-11-30,,2022-10-01,False,False,
+3168597848,21816901,William,Bracaglia,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HUMANA,HumanaChoice Florida H5216-072 (PPO),500,,map,2022-09-07,2022-09-06,2022-10-01,2022-12-09,2022-11-30,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168716461,22137501,Joseph,Brewer,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,36609476,,CIGNA,Cigna Fundamental Medicare (HMO),200,,map,2022-09-16,2022-09-16,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -773,13 +776,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168459686,22379951,Susan,Grams,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,981916466,,AARP/UHC,AARP MEDICARE ADVANTAGE HEADWATERS (PPO),200,,map,2022-11-01,2022-11-01,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168751405,22098401,Nancy,Hatfield,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HUMANA,HumanaChoice H5216-306 (PPO),420,,map,,2022-11-14,2023-01-01,,,,2023-01-01,False,False,False
+3168751405,22098401,Nancy,Hatfield,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,HUMANA,HumanaChoice H5216-306 (PPO),420,,map,,2022-11-14,2023-01-01,2022-11-14,,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4358682503,25530801,Maureen,Hearne,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,WELLCARE,Wellcare Giveback Open PPO,110,,map,2022-12-07,2022-12-07,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3221598050,23017601,Brian,Hearne,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,34545971,,WELLCARE,Wellcare Giveback Open (PPO),200,,map,2022-10-17,2022-10-15,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168617512,22632601,Raymond,Heringer,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,729310,,AARP/UHC,AARP Medicare Advantage SecureHorizons (HMO,500,,map,2022-09-27,2022-09-26,2022-10-01,,2022-10-31,,2022-10-01,False,False,
+3168617512,22632601,Raymond,Heringer,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,729310,,AARP/UHC,AARP Medicare Advantage SecureHorizons (HMO,500,,map,2022-09-27,2022-09-26,2022-10-01,2022-11-09,2022-10-31,,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3908780326,24683801,Mary,Herman,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice (PPO),110,,map,2022-12-05,2022-12-05,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -796,7 +799,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168457743,14866501,Thirisita,Jones-Elliott,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,997882497,,AARP/UHC,AARP Medicare Advantage Mosaic Choice (PPO),200,,map,2022-04-29,2022-04-29,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168633224,20455951,Lori,Kerfus,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,MENG101555839700,,AETNA,Aetna Medicare Plus Plan (HMO),500,,map,2022-08-16,2022-08-12,2022-09-01,,2022-10-31,client cancelled,2022-09-01,False,False,
+3168633224,20455951,Lori,Kerfus,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,MENG101555839700,,AETNA,Aetna Medicare Plus Plan (HMO),500,,map,2022-08-16,2022-08-12,2022-09-01,2022-11-07,2022-10-31,client cancelled,2022-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168597368,18505951,Elizabeth,Kish,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,720652,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus (HMO),200,,map,2022-10-24,2022-10-24,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -824,7 +827,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4319594545,25437251,Lena,Nisly,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,ANTHEM,Anthem MediBlue Access (PPO),110,,map,2022-12-05,2022-12-05,2023-01-01,,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3687488592,24154401,Dana,Norville,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,H42540384,,HUMANA,Humana Gold Plus H5619-111 (HMO-POS),500,,map,2022-11-04,2022-11-03,2023-01-01,,2022-12-09,Prefers/enrolled in another Humana plan	,2023-01-01,False,False,False
+3687488592,24154401,Dana,Norville,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,H42540384,,HUMANA,Humana Gold Plus H5619-111 (HMO-POS),500,,map,2022-11-04,2022-11-03,2023-01-01,2022-12-09,2022-12-09,Prefers/enrolled in another Humana plan	,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3685202210,24057151,Raymond,Norville,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,986658501,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2022-11-04,2022-11-03,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -833,6 +836,9 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168674383,17618551,Stanley,Plough,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,AARP/UHC,AARP MEDICARE ADVANTAGE CHOICE PLAN 2 (PPO),480,,map,2022-06-21,2022-06-21,2022-07-01,2022-06-25,2022-06-22,,2022-07-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168513568,16511501,Lisa,Plough,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,980300442,,AARP/UHC,AARP MEDICARE ADVANTAGE CHOICE PLAN 2 (PPO),200,,map,2022-06-10,2022-06-09,2022-09-01,,,,2022-09-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168543341,6146351,Jacqueline A,Pronovost,71859731,Rhi,Neal,165338461,Stephanie,Kiely,978682527,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2021-09-22,,2021-10-01,,,,2021-10-01,True,,
+4220291465,6146351,Jacqueline A,Pronovost,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,PDZM00003441907,,AETNA,Aetna Assure Premier Plus (HMO D-SNP) H6399-001,200,,map,2022-11-30,2022-11-30,2023-01-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3425513516,18806501,Dawn,Reed,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,Pending Member ID,,BCBS,Medicare Plus Blue PPO Essential,120,,map,2022-11-30,2022-11-30,2022-12-01,,,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

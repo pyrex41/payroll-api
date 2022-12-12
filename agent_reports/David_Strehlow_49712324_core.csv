@@ -116,7 +116,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170711075,395351,Cindy,Bellotte,49712324,David,Strehlow,49712324,David,Strehlow,ACI6226099,ACI6226099,AETNA,G,200,,msp,2021-01-30,,2021-03-01,,,,2021-03-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3193590577,22956451,Michael,Benavides,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP,G,500,,msp,2022-10-11,2022-10-11,2022-11-01,,2022-10-31,,2022-11-01,False,False,False
+3193590577,22956451,Michael,Benavides,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP,G,500,,msp,2022-10-11,2022-10-11,2022-11-01,2022-11-16,2022-10-31,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184877,6243951,Linda,Bennett,49712324,David,Strehlow,49712324,David,Strehlow,CLI6726669,CLI6726669,AETNA,G,200,,msp,2021-10-11,,2021-10-12,,,,2021-10-12,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -259,7 +259,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168693366,11629001,Peggy J,Carter,49712324,David,Strehlow,49712324,David,Strehlow,963100837,,AARP/UHC,AARP Medicare Advantage Headwaters (PPO),410,,map,2022-02-16,2022-02-16,2022-03-01,2022-10-09,2022-05-31,,2022-03-01,False,False,
 3173242995,11629001,Peggy J,Carter,49712324,David,Strehlow,49712324,David,Strehlow,059468682-1,A03514731,AARP,MN - EB w/o B Ded,200,,msp,2022-03-23,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332601,1262251,Mark,Carter,49712324,David,Strehlow,49712324,David,Strehlow,CLI6621866,CLI6621866,AETNA,G,475,,msp,2021-03-17,2021-03-12,2021-04-01,,,,2021-04-01,False,False,
+3173332601,1262251,Mark,Carter,49712324,David,Strehlow,49712324,David,Strehlow,CLI6621866,CLI6621866,AETNA,G,475,,msp,2021-03-17,2021-03-12,2021-04-01,2022-12-09,,,2021-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3316903717,23305951,Niamh,Carvill,49712324,David,Strehlow,49712324,David,Strehlow,3440905655,,AARP,G,200,,msp,2022-10-16,2022-10-16,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -275,14 +275,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3250121838,22960801,Florence,Chan,49712324,David,Strehlow,49712324,David,Strehlow,AHC6658417,AHC6658417,AETNA,G,200,,msp,2022-10-13,2022-10-13,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173298341,1782001,Karen,Charleston,49712324,David,Strehlow,165338461,Stephanie,Kiely,0578199556,A03246658,AARP,G,510,,msp,2021-04-22,,2021-05-01,,,,2021-05-01,False,False,
-3331092326,1782001,Karen,Charleston,165338461,Stephanie,Kiely,165338461,Stephanie,Kiely,990496779,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (PPO),200,,map,2022-10-17,2022-10-17,2022-11-01,,,,2022-11-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173323305,14312101,Paul W,Charnick,49712324,David,Strehlow,49712324,David,Strehlow,134W12555,134W12555,ANTHEM,G,200,,msp,2022-04-25,2022-04-21,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308738,14643551,William Avery,"Charnick, Jr",49712324,David,Strehlow,49712324,David,Strehlow,3432478992,A03534953,AARP,G,200,,msp,2022-04-26,2022-04-26,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173057714,10338751,Anna,Cheever,49712324,David,Strehlow,49712324,David,Strehlow,AHC6621095,AHC6621095,AETNA,G,500,,msp,2022-03-23,2022-03-23,2022-04-01,,2022-11-30,,2022-04-01,False,False,
+3173057714,10338751,Anna,Cheever,49712324,David,Strehlow,49712324,David,Strehlow,AHC6621095,AHC6621095,AETNA,G,500,,msp,2022-03-23,2022-03-23,2022-04-01,2022-12-05,2022-11-30,,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324631,2386701,Sherry,Chevalier,49712324,David,Strehlow,49712324,David,Strehlow,CLI6658653,CLI6658653,AETNA,G,500,,msp,2021-06-14,,2021-09-01,,,,2021-09-01,True,,
 3191933495,2386701,Sherry,Chevalier,49712324,David,Strehlow,49712324,David,Strehlow,CLI6666724 ,CLI6666724 ,AETNA,G,200,,msp,2021-06-14,,2021-09-01,,,,2021-09-01,True,True,
@@ -461,7 +458,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173344603,8101,Kenneth,Eller,49712324,David,Strehlow,49712324,David,Strehlow,3471277008,A03051617,AARP,G,500,,msp,2020-09-25,,2020-10-01,2022-02-28,2022-02-28,,2020-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3624556156,23849851,Pamela,Elliott,49712324,David,Strehlow,49712324,David,Strehlow,3517183939,,AARP,G,500,,msp,2022-11-08,2022-11-07,2023-02-01,,2022-12-07,,2023-02-01,False,False,False
+3624556156,23849851,Pamela,Elliott,49712324,David,Strehlow,49712324,David,Strehlow,3517183939,,AARP,G,500,,msp,2022-11-08,2022-11-07,2023-02-01,2022-12-07,2022-12-07,,2023-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141795,16225451,Debora A,Ellis,49712324,David,Strehlow,49712324,David,Strehlow,3509373860,A03568123,AARP,G,200,,msp,2022-06-22,2022-06-22,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -544,7 +541,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3170711466,90701,Roger,Full,49712324,David,Strehlow,49712324,David,Strehlow,3473799819,A03056825,AARP,G,200,,msp,2020-09-30,,2020-11-01,,,,2020-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3641614897,20739851,Debra,Furnari,49712324,David,Strehlow,49712324,David,Strehlow,3515320517,,AARP,G,200,,msp,2022-11-10,2022-11-10,2023-03-01,,,,2023-03-01,True,,False
-3173142103,20739851,Debra,Furnari,49712324,David,Strehlow,49712324,David,Strehlow,3515320517,3515320517,AARP,N,510,,msp,2022-10-07,2022-10-07,2023-03-01,,2023-02-28,,2023-03-01,True,False,
+3173142103,20739851,Debra,Furnari,49712324,David,Strehlow,49712324,David,Strehlow,3515320517,3515320517,AARP,N,510,,msp,2022-10-07,2022-10-07,2023-03-01,2022-11-01,2023-02-28,,2023-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259175,22684251,Gwen,Furtney,49712324,David,Strehlow,49712324,David,Strehlow,3514728884,,AARP,G,200,,msp,2022-09-29,2022-09-28,2023-03-01,,,,2023-03-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -552,7 +549,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173142160,20832851,Scott,G Blair,49712324,David,Strehlow,49712324,David,Strehlow,3512391248,A03601383,AARP,G,200,,msp,2022-08-22,2022-08-19,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173196550,21933101,Douglas,G Peebles,49712324,David,Strehlow,49712324,David,Strehlow,CLI6888941,CLI6888941,AETNA,N,500,,msp,2022-09-12,2022-09-12,2022-12-01,,,,2022-12-01,False,False,
+3173196550,21933101,Douglas,G Peebles,49712324,David,Strehlow,49712324,David,Strehlow,CLI6888941,CLI6888941,AETNA,N,500,,msp,2022-09-12,2022-09-12,2022-12-01,2022-11-10,,,2022-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332385,8216001,Donna,Gaetano,49712324,David,Strehlow,49712324,David,Strehlow,3042143440,A03468337,AARP,G,200,,msp,2022-01-07,,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -930,7 +927,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173298437,1701751,Donald,Laneville,49712324,David,Strehlow,49712324,David,Strehlow,CLI6633922,CLI6633922,AETNA,G,200,,msp,2021-04-09,2021-04-09,2021-06-01,,,,2021-06-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173141337,29351,Joyce,Lang,49712324,David,Strehlow,49712324,David,Strehlow,3212909463,A03039917,AARP,G,500,,msp,2020-09-08,,2020-12-01,,2022-10-31,,2020-12-01,False,False,
+3173141337,29351,Joyce,Lang,49712324,David,Strehlow,49712324,David,Strehlow,3212909463,A03039917,AARP,G,500,,msp,2020-09-08,,2020-12-01,2022-11-21,2022-10-31,,2020-12-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173149845,5656151,Edward J,Lange,49712324,David,Strehlow,49712324,David,Strehlow,AHC6546916,AHC6546916,AETNA,G,200,,msp,2021-09-08,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -991,7 +988,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173332024,2906051,Jesse,Luce,49712324,David,Strehlow,49712324,David,Strehlow,AHC6523845,AHC6523845,AETNA,G,200,,msp,2021-06-25,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173228684,683651,Georgina,Lunsford,49712324,David,Strehlow,49712324,David,Strehlow,ACI6226212,ACI6226212,AETNA,G,510,,msp,2021-02-03,,2021-04-01,2022-02-08,2022-02-08,,2021-04-01,False,False,
-3169704842,683651,Georgina,Lunsford,49712324,David,Strehlow,49712324,David,Strehlow,101492195600,,AETNA,Aetna Medicare Choice Plan (PPO),470,,map,2021-11-18,,2022-01-01,,2022-11-30,,2022-01-01,False,False,
+3169704842,683651,Georgina,Lunsford,49712324,David,Strehlow,49712324,David,Strehlow,101492195600,,AETNA,Aetna Medicare Choice Plan (PPO),470,,map,2021-11-18,,2022-01-01,2022-12-08,2022-11-30,,2022-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243008,11492101,Linda C,Luster,49712324,David,Strehlow,49712324,David,Strehlow,3408335028,A03527037,AARP,G,200,,msp,2022-04-12,2022-04-08,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1318,7 +1315,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324172,3867901,Gregory,Quinn,49712324,David,Strehlow,49712324,David,Strehlow,3497956221,A03470471 (legacyAdd-UHC),AARP,G,200,,msp,2022-01-11,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177214,1487751,Mary,Quintana,49712324,David,Strehlow,49712324,David,Strehlow,AHC6491711,AHC6491711,AETNA,G,500,,msp,2021-03-22,2021-03-22,2021-07-01,,2022-10-31,She got employer coverage,2021-07-01,False,False,
+3173177214,1487751,Mary,Quintana,49712324,David,Strehlow,49712324,David,Strehlow,AHC6491711,AHC6491711,AETNA,G,500,,msp,2021-03-22,2021-03-22,2021-07-01,2022-11-04,2022-10-31,She got employer coverage,2021-07-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150298,18635551,Diane C,Quintiliani,49712324,David,Strehlow,49712324,David,Strehlow,3505093843,A03579206,AARP,G,200,,msp,2022-07-14,2022-07-12,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1359,7 +1356,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173344795,253551,Lois,Reeves,49712324,David,Strehlow,49712324,David,Strehlow,AHL6279482,AHL6279482,AETNA,G,500,,msp,2020-12-07,2020-11-23,2021-01-01,2021-09-01,2021-08-31,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173177762,18368251,Richard E,Reichl,49712324,David,Strehlow,49712324,David,Strehlow,AHC6639924,AHC6639924,AETNA,G,420,,msp,2022-06-30,2022-06-29,2022-07-01,,,,2022-07-01,False,False,
+3173177762,18368251,Richard E,Reichl,49712324,David,Strehlow,49712324,David,Strehlow,AHC6639924,AHC6639924,AETNA,G,420,,msp,2022-06-30,2022-06-29,2022-07-01,2022-11-10,,,2022-07-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173308706,14503151,Vicki E,Reisig,49712324,David,Strehlow,49712324,David,Strehlow,3506674146,A03540159,AARP,G,200,,msp,2022-05-03,2022-05-03,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1377,7 +1374,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177626,11171451,Venus D,Ricks,49712324,David,Strehlow,49712324,David,Strehlow,3501361806,A03490533,AARP,G,500,,msp,2022-02-14,2022-02-14,2022-04-01,2022-10-05,2022-08-31,,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173332592,1259001,Karen,Rideout,49712324,David,Strehlow,49712324,David,Strehlow,AHC6494391,AHC6494391,AETNA,G,470,,msp,2021-03-29,,2021-09-01,,,,2021-09-01,False,False,
+3173332592,1259001,Karen,Rideout,49712324,David,Strehlow,49712324,David,Strehlow,AHC6494391,AHC6494391,AETNA,G,470,,msp,2021-03-29,,2021-09-01,2022-12-07,,,2021-09-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243515,21067951,Rita,Rief,49712324,David,Strehlow,49712324,David,Strehlow,AHC6365912,AHC6365912,AETNA,G,200,,msp,2020-08-01,2020-08-01,2020-09-01,,,,2020-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1639,7 +1636,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173298460,1740601,Debra,Valvo,49712324,David,Strehlow,49712324,David,Strehlow,3467641423,A03277518,AARP,G,200,,msp,2021-06-14,,2021-12-01,,,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173259334,22670301,Jozef,Van Keer,49712324,David,Strehlow,49712324,David,Strehlow,3287207694,,AARP,G,500,,msp,2022-10-03,2022-10-03,2022-11-01,,2022-10-31,Accepted at level 2 rate ,2022-11-01,False,False,False
+3173259334,22670301,Jozef,Van Keer,49712324,David,Strehlow,49712324,David,Strehlow,3287207694,,AARP,G,500,,msp,2022-10-03,2022-10-03,2022-11-01,2022-11-30,2022-10-31,Accepted at level 2 rate ,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177160,1528601,Laura,Van Tassell,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,A03227937,AARP,G,200,,msp,2021-03-27,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1663,7 +1660,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173324112,124151,Sharla,Walker,49712324,David,Strehlow,49712324,David,Strehlow,3466373473,A03094739,AARP,G,200,,msp,2020-11-05,2020-10-27,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173344642,292401,Michael,Walker,49712324,David,Strehlow,49712324,David,Strehlow,CLI6566109,CLI6566109,AETNA,G,470,,msp,2020-11-28,,2021-01-01,,,,2021-01-01,False,False,
+3173344642,292401,Michael,Walker,49712324,David,Strehlow,49712324,David,Strehlow,CLI6566109,CLI6566109,AETNA,G,470,,msp,2020-11-28,,2021-01-01,2022-12-07,,,2021-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173184899,6217001,Saundra,Wallace,49712324,David,Strehlow,49712324,David,Strehlow,3419632462,A03372135,AARP,G,200,,msp,2021-09-30,,2021-10-01,,,,2021-10-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1761,7 +1758,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173126257,1336551,Johnnie,Woten,49712324,David,Strehlow,49712324,David,Strehlow,3372200315,A03277483,AARP,G,200,,msp,2021-06-15,,2021-07-01,,,,2021-07-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3170711357,1098401,Dennis,Wright,49712324,David,Strehlow,49712324,David,Strehlow,AHC6484958,AHC6484958,AETNA,G,500,,msp,2021-03-02,,2021-03-03,,2022-10-12,He died,2021-03-03,False,False,
+3170711357,1098401,Dennis,Wright,49712324,David,Strehlow,49712324,David,Strehlow,AHC6484958,AHC6484958,AETNA,G,500,,msp,2021-03-02,,2021-03-03,2022-10-24,2022-10-12,He died,2021-03-03,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173253722,927001,Patricia,Wright,49712324,David,Strehlow,49712324,David,Strehlow,AHC6484957,AHC6484957,AETNA,F,200,Not Commissionable,msp,2021-03-02,,2021-03-03,,,,2021-03-03,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1828,11 +1825,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168497244,15337951,Janell A,Balmas,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,Humana Gold Plus H4623-001 (HMO),200,,map,2022-08-19,2022-08-08,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166974012,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),410,,map,2021-11-18,,2022-02-01,2022-10-09,,,2022-02-01,True,,False
-3202116136,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),510,,map,2021-11-18,,2022-02-01,,2022-09-30,,2022-02-01,True,,False
+3202116136,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),510,,map,2021-11-18,,2022-02-01,2022-11-08,2022-09-30,,2022-02-01,True,,False
 3202305802,1557451,Robyn,Barone,49712324,David,Strehlow,49712324,David,Strehlow,937158478,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-09-22,2022-09-21,2022-10-01,,,,2022-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168352389,2333051,David,Barone,49712324,David,Strehlow,49712324,David,Strehlow,967226589,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),410,,map,2021-11-18,,2022-02-01,2022-10-09,,,2022-02-01,True,,False
-3201189475,2333051,David,Barone,49712324,David,Strehlow,49712324,David,Strehlow,967226589,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),510,,map,2021-11-18,,2022-02-01,,2022-09-30,,2022-02-01,True,,False
+3201189475,2333051,David,Barone,49712324,David,Strehlow,49712324,David,Strehlow,967226589,,AARP/UHC,AARP Medicare Advantage Choice Plan 3 (PPO),510,,map,2021-11-18,,2022-02-01,2022-11-08,2022-09-30,,2022-02-01,True,,False
 3202054190,2333051,David,Barone,49712324,David,Strehlow,49712324,David,Strehlow,967226589,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),200,,map,2022-09-22,2022-09-21,2022-10-01,,,,2022-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3448524594,23108651,Catherine,Barrera,49712324,David,Strehlow,49712324,David,Strehlow,H69511886,,HUMANA,HumanaChoice,200,,map,2022-10-24,2022-10-24,2023-01-01,,,,2023-01-01,True,False,False
@@ -1853,7 +1850,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168486786,1100751,Jackquline,Blanco,49712324,David,Strehlow,49712324,David,Strehlow,101454495200,,AETNA,Medicare Advantra Plan (HMO),200,,map,2021-02-24,,2021-05-01,,,,2021-05-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168818837,22994001,Sydell,Bland,49712324,David,Strehlow,49712324,David,Strehlow,H65216241,,HUMANA,HumanaChoice H5970-024 (PPO),500,,map,2022-10-18,2022-10-17,2023-01-01,,2022-11-26,,2023-01-01,False,False,False
+3168818837,22994001,Sydell,Bland,49712324,David,Strehlow,49712324,David,Strehlow,H65216241,,HUMANA,HumanaChoice H5970-024 (PPO),500,,map,2022-10-18,2022-10-17,2023-01-01,2022-12-09,2022-11-26,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167088955,2970551,Laura,Buchanan,49712324,David,Strehlow,49712324,David,Strehlow,32786236,,WELLCARE,WellCare Dividend Prime (HMO),200,,map,2021-07-31,,2021-09-01,,,,2021-09-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1871,7 +1868,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168616327,19467951,Ann,Carter,49712324,David,Strehlow,49712324,David,Strehlow,379W13589,,ANTHEM,Anthem MediBlue Preferred (HMO),200,,map,2022-07-29,2022-07-27,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168633444,21244601,Eloy,Casas,49712324,David,Strehlow,49712324,David,Strehlow,NO ID-CANCELLED,,HUMANA,Humana Honor PPO,510,,map,2022-11-14,2022-10-17,2023-01-01,,,,2023-01-01,True,,False
+3168633444,21244601,Eloy,Casas,49712324,David,Strehlow,49712324,David,Strehlow,NO ID-CANCELLED,,HUMANA,Humana Honor PPO,510,,map,2022-11-14,2022-10-17,2023-01-01,2022-12-08,,,2023-01-01,True,,False
 4201959437,21244601,Eloy,Casas,49712324,David,Strehlow,49712324,David,Strehlow,H73570717,,HUMANA,Humana Honor PPO,200,,map,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168283800,7013151,Barbara A,Cattell,49712324,David,Strehlow,49712324,David,Strehlow,987360069,,AARP/UHC,AARP Medicare Advantage Choice (PPO),200,,map,2021-11-30,,2022-01-01,,,,2022-01-01,True,False,
@@ -2010,9 +2007,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168612476,9964701,Mark J,Janczak,49712324,David,Strehlow,49712324,David,Strehlow,123305708,,AARP/UHC,UnitedHealthcare Dual Complete Plan 1 (HMO-POS D-SNP),200,,map,2022-04-30,2022-04-30,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167164288,12382351,John,Johnson,76539239,Inactive,Agent,168441184,EnlightNuUsaLLC,House,Pending Member ID,,HUMANA,HumanaChoice H5216-265 (PPO),410,,map,2022-03-15,2022-03-15,2022-05-01,2022-10-09,,,2022-05-01,True,,
-3718517396,12382351,John,Johnson,49712324,David,Strehlow,168441184,EnlightNuUsaLLC,House,990855214,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO),200,,map,2022-11-07,2022-11-07,2023-01-01,,,,2022-05-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 4157403756,22719001,Agnes,Johnson,49712324,David,Strehlow,49712324,David,Strehlow,101615275700,,AETNA,Aetna Medicare Elite Plan (PPO),200,,map,2022-11-28,2022-11-27,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3166960821,123751,Mary,Jones,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Choice Plan 2 (PPO),480,,map,2020-10-30,,2021-01-01,,2020-10-31,,2021-01-01,False,False,False
@@ -2029,7 +2023,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 4056047205,22912001,Paula,Jones-Perrin,49712324,David,Strehlow,49712324,David,Strehlow,981395761,,AARP/UHC,AARP Medicare Advantage Walgreens Plan 1 (HMO-POS),200,,map,2022-11-22,,2023-01-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168752965,22788351,Lee,Jordan,49712324,David,Strehlow,49712324,David,Strehlow,H65254405,,HUMANA,Humana Honor (PPO),200,,map,2022-09-30,2022-09-30,2022-10-01,,2022-10-10,canceled bc of wrong election code- we used SPAP for MA only and in MO,2022-10-01,True,,
-4162731881,22788351,Lee,Jordan,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,Humana Honor (PPO),510,,map,2022-11-29,2022-11-28,2023-01-01,,2022-12-08,,2022-10-01,True,False,False
+4162731881,22788351,Lee,Jordan,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,Humana Honor (PPO),510,,map,2022-11-29,2022-11-28,2023-01-01,2022-12-08,2022-12-08,,2022-10-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168860528,22991401,Anita,Juntereal,49712324,David,Strehlow,49712324,David,Strehlow,36614697,,CIGNA,Cigna Preferred Medicare (HMO),200,,map,2022-10-06,2022-10-06,2022-11-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2072,7 +2066,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167164785,15494802,Billie J,Logan,49712324,David,Strehlow,49712324,David,Strehlow,H79569395,,HUMANA,Humana Gold Plus H0028-043 (HMO),200,,map,2022-07-22,2022-05-30,2022-08-01,2022-08-02,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168673420,12508301,Judith,Lowrey,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,HumanaChoice H9070-003 (PPO),500,,map,2022-03-31,2022-03-31,2022-04-01,,2022-09-30,DECEASED ,2022-04-01,False,False,
+3168673420,12508301,Judith,Lowrey,49712324,David,Strehlow,49712324,David,Strehlow,Pending Member ID,,HUMANA,HumanaChoice H9070-003 (PPO),500,,map,2022-03-31,2022-03-31,2022-04-01,2022-12-08,2022-09-30,DECEASED ,2022-04-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168350760,238951,Sally,Lundberg,49712324,David,Strehlow,49712324,David,Strehlow,101199129100,,AETNA,Medicare Premier Plus (PPO),200,,map,2020-11-17,2020-11-16,2021-01-01,,,,2021-01-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

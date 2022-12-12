@@ -17,7 +17,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173259092,7340751,Mary,Anthony,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6562904,AHC6562904,AETNA,N,200,,msp,2021-10-21,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173195945,19801451,Donald,Arceri,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6655669,AHC6655669,AETNA,G,510,,msp,2022-09-29,2022-09-29,2022-11-01,,2022-10-31,changed eff date from 11/1 to 12/1,2022-11-01,True,,
+3173195945,19801451,Donald,Arceri,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6655669,AHC6655669,AETNA,G,510,,msp,2022-09-29,2022-09-29,2022-11-01,2022-10-13,2022-10-31,changed eff date from 11/1 to 12/1,2022-11-01,True,,
 3251292025,19801451,Donald,Arceri,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC0006638,AHC0006638,AETNA,G,200,,msp,2022-09-29,,2022-12-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286178,17626751,Rudy,Arn,89311810,Jordan,Otte,89311810,Jordan,Otte,3509746925,A03586504,AARP,G,200,,msp,2022-07-26,2022-07-25,2022-08-01,,,,2022-08-01,True,False,
@@ -195,7 +195,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173308711,14389751,Jonathan,Duncan,89311810,Jordan,Otte,89311810,Jordan,Otte,3506201874,A03534763,AARP,G,200,,msp,2022-04-26,2022-04-25,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141137,13962601,Joseph,Dunn,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC0006642,AHC0006642,AETNA,G,200,,msp,2022-08-08,2022-08-05,2022-10-01,,,,2022-10-01,True,,
-3173324678,13962601,Joseph,Dunn,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6646753,AHC6646753,AETNA,G,510,,msp,2022-08-08,,2022-11-01,,2022-10-31,Eff date change to 10/1/22,2022-10-01,True,False,
+3173324678,13962601,Joseph,Dunn,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6646753,AHC6646753,AETNA,G,510,,msp,2022-08-08,,2022-11-01,2022-10-10,2022-10-31,Eff date change to 10/1/22,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173177765,18342451,Pamela,Durham,89311810,Jordan,Otte,89311810,Jordan,Otte,3509690214,A03571933,AARP,G,200,,msp,2022-06-29,2022-06-29,2022-07-01,,,,2022-07-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -248,7 +248,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173216664,13051051,Rosemarie,Gillespie,89311810,Jordan,Otte,89311810,Jordan,Otte,3454126289,A03518186,AARP,N,200,,msp,2022-03-31,2022-03-31,2022-05-01,,,,2022-05-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173286261,17769751,Michael,Gillespie,89311810,Jordan,Otte,89311810,Jordan,Otte,3454126289,A03567740,AARP,N,500,,msp,2022-06-21,2022-06-20,2022-08-01,,2022-11-30,client passed away,2022-08-01,False,False,
+3173286261,17769751,Michael,Gillespie,89311810,Jordan,Otte,89311810,Jordan,Otte,3454126289,A03567740,AARP,N,500,,msp,2022-06-21,2022-06-20,2022-08-01,2022-12-09,2022-11-30,client passed away,2022-08-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4269482517,18997701,Reid,Gliddon,89311810,Jordan,Otte,89311810,Jordan,Otte,3518980135,,AARP,G,200,,msp,2022-12-05,2022-12-02,2023-02-01,,,,2023-02-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -327,7 +327,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173243545,22335601,Cheryl,Hunstock,89311810,Jordan,Otte,89311810,Jordan,Otte,3459208200,,AARP,MN - EB w/o B Ded,500,,msp,2022-10-19,2022-10-05,2022-12-01,2022-11-14,2022-11-14,,2022-12-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117195,22152801,Mark,Hyatt,89311810,Jordan,Otte,89311810,Jordan,Otte,AHL6310775,AHL6310775,AETNA,N,510,,msp,2022-09-26,2022-09-26,2023-01-01,,2022-12-31,,2023-01-01,True,,
+3173117195,22152801,Mark,Hyatt,89311810,Jordan,Otte,89311810,Jordan,Otte,AHL6310775,AHL6310775,AETNA,N,510,,msp,2022-09-26,2022-09-26,2023-01-01,2022-11-21,2022-12-31,,2023-01-01,True,,
 3949102166,22152801,Mark,Hyatt,89311810,Jordan,Otte,89311810,Jordan,Otte,ACC6717991,ACC6717991,AETNA ACCENDO,G,470,,msp,2022-11-17,,2023-01-01,2022-11-21,,,2023-01-01,True,,
 4068474369,22152801,Mark,Hyatt,89311810,Jordan,Otte,89311810,Jordan,Otte,ACC6723166,ACC6723166,AETNA ACCENDO,G,200,,msp,2022-11-28,2022-11-23,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -383,7 +383,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393529,15549001,Ed,Konecki,89311810,Jordan,Otte,89311810,Jordan,Otte,3180345898,A03545304,AARP,G,200,,msp,2022-05-12,2022-05-11,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3930135136,24741201,David,Kouba,89311810,Jordan,Otte,89311810,Jordan,Otte,ACC6717183,ACC6717183,AETNA ACCENDO,N,510,,msp,2022-11-16,,2023-01-01,,,,2023-01-01,False,False,
+3930135136,24741201,David,Kouba,89311810,Jordan,Otte,89311810,Jordan,Otte,ACC6717183,ACC6717183,AETNA ACCENDO,N,510,,msp,2022-11-16,,2023-01-01,2022-11-21,,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173164116,21820851,Evan Jane,Kriss,89311810,Jordan,Otte,89311810,Jordan,Otte,3390351298,A03617828,AARP,G,200,,msp,2022-09-21,2022-09-09,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -450,7 +450,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173332245,13367601,Bijan,Masumian,89311810,Jordan,Otte,89311810,Jordan,Otte,3506754047,A03543624,AARP,G,200,,msp,2022-05-10,2022-05-05,2022-06-01,,,,2022-06-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3929938994,24126401,Julie,Mathiason Kouba,89311810,Jordan,Otte,89311810,Jordan,Otte,ACC6717181,ACC6717181,AETNA ACCENDO,N,500,,msp,2022-11-16,,2023-01-01,,2022-11-21,,2023-01-01,False,False,
+3929938994,24126401,Julie,Mathiason Kouba,89311810,Jordan,Otte,89311810,Jordan,Otte,ACC6717181,ACC6717181,AETNA ACCENDO,N,500,,msp,2022-11-16,,2023-01-01,2022-11-21,2022-11-21,,2023-01-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173185042,11007601,Michael,Mathis,89311810,Jordan,Otte,89311810,Jordan,Otte,3372082986,A03583459,AARP,G,200,,msp,2022-07-20,2022-07-20,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -831,7 +831,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3684073072,23344351,George,Williams,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6667688,AHC6667688,AETNA,G,200,,msp,2022-11-14,2022-11-14,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173286985,20350201,Kathy,Williamson,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6652228,AHC6652228,AETNA,G,510,,msp,2022-09-09,2022-09-08,2023-01-01,,2022-12-31,Needed a later eff date so had to cancel ,2023-01-01,True,,
+3173286985,20350201,Kathy,Williamson,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6652228,AHC6652228,AETNA,G,510,,msp,2022-09-09,2022-09-08,2023-01-01,2022-11-29,2022-12-31,Needed a later eff date so had to cancel ,2023-01-01,True,,
 4195809207,20350201,Kathy,Williamson,89311810,Jordan,Otte,89311810,Jordan,Otte,AHC6672531,AHC6672531,AETNA,G,200,,msp,2022-11-29,2022-11-29,2023-04-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150011,11968101,Frederick,Wilson,89311810,Jordan,Otte,89311810,Jordan,Otte,3502673050,A03501461,AARP,G,200,,msp,2022-03-02,2022-03-02,2022-04-01,,,,2022-04-01,True,False,
@@ -955,7 +955,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168543358,6460551,Lucinda,Goodwin,89311810,Jordan,Otte,89311810,Jordan,Otte,101500517600,,AETNA,Aetna Medicare Choice Plan PPO,200,,map,2021-12-01,,2022-01-01,,,,2022-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167163555,11575851,Loretta,Greer,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AETNA,Aetna Eagle MA only,480,,map,,2022-03-04,2022-04-01,,,,2022-04-01,False,False,False
+3167163555,11575851,Loretta,Greer,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AETNA,Aetna Eagle MA only,480,,map,,2022-03-04,2022-04-01,2022-12-07,,,2022-04-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168715586,16416501,JOCELYN,HENDRIX,89311810,Jordan,Otte,89311810,Jordan,Otte,101558762300,,AETNA,Aetna Medicare Eagle Plan (PPO),200,,map,2022-09-07,2022-09-06,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -971,7 +971,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3167092268,9013101,Garrett,Hicks,89311810,Jordan,Otte,89311810,Jordan,Otte,34398817,,WELLCARE,Wellcare No Premium Open (PPO),200,,map,2022-01-14,,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167060920,19359501,Darlene,Hobson,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete ONE Plus (HMO D-SNP),510,,map,2022-08-10,2022-08-10,2022-11-01,,,,2022-11-01,True,,False
+3167060920,19359501,Darlene,Hobson,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP/UHC,UnitedHealthcare Dual Complete ONE Plus (HMO D-SNP),510,,map,2022-08-10,2022-08-10,2022-11-01,2022-10-18,,,2022-11-01,True,,False
 3227314800,19359501,Darlene,Hobson,89311810,Jordan,Otte,89311810,Jordan,Otte,696W14300,,ANTHEM,Anthem MediBlue Dual Access (PPO D-SNP),200,,map,2022-10-15,2022-10-12,2023-01-01,,,,2022-11-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168513427,15565301,Don,Holland,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,HUMANA,Humana Gold Plus H1036-270 (HMO),500,,map,2022-05-13,2022-05-12,2022-08-01,2022-09-07,2022-08-31,,2022-08-01,False,False,
@@ -1006,11 +1006,11 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168496555,11626001,Brenda,Kidd,89311810,Jordan,Otte,89311810,Jordan,Otte,997315094,,AARP/UHC,UnitedHealthcare Dual Complete Choice Select LP (PPO D-SNP),200,,map,2022-03-09,2022-03-08,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3167184286,22789151,Eleanor,Kirby,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,WELLCARE,Wellcare Giveback Focus (HMO),470,,map,2022-10-17,2022-10-15,2023-01-01,,2022-12-31,,2023-01-01,False,False,False
+3167184286,22789151,Eleanor,Kirby,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,WELLCARE,Wellcare Giveback Focus (HMO),470,,map,2022-10-17,2022-10-15,2023-01-01,2022-10-28,2022-12-31,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168498035,19989051,Gary,Lewis,89311810,Jordan,Otte,89311810,Jordan,Otte,989169159,,AARP/UHC,AARP Medicare Advantage Choice Plan 1 (PPO),200,,map,2022-08-10,2022-08-03,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168578731,21871251,Patricia,Lewis,89311810,Jordan,Otte,89311810,Jordan,Otte,H69408417,,HUMANA,Humana Honor (PPO),470,,map,2022-09-13,2022-09-09,2022-10-01,,2022-11-30,Prefers/enrolled in another Humana plan	,2022-10-01,False,False,
+3168578731,21871251,Patricia,Lewis,89311810,Jordan,Otte,89311810,Jordan,Otte,H69408417,,HUMANA,Humana Honor (PPO),470,,map,2022-09-13,2022-09-09,2022-10-01,2022-12-08,2022-11-30,Prefers/enrolled in another Humana plan	,2022-10-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168395915,8348151,Lola,Linton,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,HUMANA,Humana Honor,200,,map,2022-01-05,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1049,7 +1049,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168493655,8248601,Russ,Merkel,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,HUMANA,Humana Honor (PPO),480,,map,2021-12-01,,2022-01-01,2021-12-27,2021-12-27,,2022-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3813159779,14679701,Leslie,Metzler,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Patriot (PPO),500,,map,2022-11-10,2022-11-10,2023-02-01,,2022-11-10,,2023-02-01,False,False,False
+3813159779,14679701,Leslie,Metzler,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP/UHC,AARP® Medicare Advantage Patriot (PPO),500,,map,2022-11-10,2022-11-10,2023-02-01,2022-11-17,2022-11-10,,2023-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168576002,10532551,Ron,Miller,89311810,Jordan,Otte,89311810,Jordan,Otte,Pending Member ID,,AARP/UHC,AARP Medicare Advantage Patriot Plan 1 (PPO),480,,map,2022-01-19,2022-01-19,2022-02-01,2022-01-21,2022-01-21,,2022-02-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
