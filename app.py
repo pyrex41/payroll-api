@@ -209,15 +209,16 @@ def fetch_hubspot_data():
 Run Reports
 """
 @app.post("/reports/run", tags=["Reports"])
-async def respond_and_process(report_month, report_year, background_tasks: BackgroundTasks,request: Request, usr: str = Depends(get_current_username)):
-    background_tasks.add_task(process_agent_reports, report_month, report_year)
+async def respond_and_process(report_month, report_year, background_tasks: BackgroundTasks,request: Request, usr: str = Depends(get_current_username), refresh: bool=True):
+    background_tasks.add_task(process_agent_reports, report_month, report_year, refresh)
     msg = "Report is being processed in background. Click link below to download:"
     return templates.TemplateResponse('landing.html', context={'request': request, 'msg': msg})
 
 
-def process_agent_reports(report_month, report_year):
+def process_agent_reports(report_month, report_year, refresh):
     status.put(True, "processing_report", expire_in=1000)
-    load_data()
+    if refresh:
+        load_data()
     agents = hs.get_agents()
     contact_props = ['hubspot_owner_id']
 
@@ -254,7 +255,7 @@ def process_agent_reports(report_month, report_year):
     agent_longterm_cancels = cancel_counter(psup)
     for k,tup in agent_map_cancels.items():
         x,y = tup
-        a,b = agent_map_cancels.get(k, (0,0))
+        a,b = agent_longterm_cancels.get(k, (0,0))
         agent_longterm_cancels[k] = (a+x, y+b)
 
     print('Combo:',agent_longterm_cancels.get('50084738'))
@@ -608,6 +609,7 @@ def manual_agent_bob_set(numb: int, rtype: RType, agent_id: int, usr: string = D
         dic[str(agent_id)] = numb
         with open(fname, 'wb') as file:
             pickle.dump(abobs, file)
+        drive.put(fname, path="./"+fname)
         return dic
     else:
         return {'msg': 'invalid agent_id'}
@@ -632,6 +634,7 @@ def lock_generic(hold_file, new_file):
             holder.append(new_dic)
         with open(hold_file, 'wb') as file:
             pickle.dump(holder, file)
+        drive.put(hold_file, path="./"+hold_file)
         os.remove(new_file)
         return holder
     else:
@@ -646,6 +649,7 @@ def pop_last_abob(rtype: RType, username: str = Depends(get_current_username)):
         abobs.pop()
     with open(fname, 'wb') as file:
         pickle.dump(abobs, file)
+    drive.put(fname, path="./"+fname)
     return abobs
 
 @app.delete("/bob/{rtype}/wipe", tags=["BOB Funcs"])
@@ -750,18 +754,18 @@ Save the pickles
 def save_pickles(background_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
     for pick in os.listdir():
         if ".pickle" in pick:
-            background_tasks.add_task(pickle_put(drive, pick))
+            background_tasks.add_task(pickle_put,drive, pick)
     return {'msg': 'saving to backup'}
 
 def pickle_put(drive, fname):
     return drive.put(fname, path="./"+fname)
 
 @app.get("/pickles/load_from_backup")
-def load_pickles(backgound_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
+def load_pickles(background_tasks: BackgroundTasks, usr: str = Depends(get_current_username)):
     pickle_list = drive.list().get('names')
     for pick in pickle_list:
         if ".pickle" in pick:
-            background_tasks.add_task(fetch_and_save(pick))
+            background_tasks.add_task(fetch_and_save,pick)
     return {'msg': 'loading from backup'}
 
 

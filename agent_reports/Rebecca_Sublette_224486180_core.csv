@@ -1,20 +1,17 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
 4368158064,25419501,Teresa,Alison Rogers,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,351936323 ,,AARP,G,110,,msp,2022-12-07,2022-12-07,2023-02-01,,,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+3168411502,43451,Alain,Deroulette,50084738,Adrian,Hardin,50084738,Adrian,Hardin,970904360,,AARP/UHC,AARP Medicare Advantage Walgreens,200,,map,2021-01-06,,2022-01-01,,,,2022-01-01,True,False,
+4045572982,43451,Alain,Deroulette,224486180,Rebecca,Sublette,50084738,Adrian,Hardin,AHC6670701,AHC6670701,AETNA,G,500,,msp,2022-11-22,2022-11-22,2023-01-01,2022-12-09,2022-11-30,,2023-01-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168241175,258601,June,Duran,76539239,Inactive,Agent,76539239,Inactive,Agent,935299115,,AARP/UHC,AARP Medicare Advantage Choice PPO,200,,map,2020-11-18,,2020-12-01,,,,2020-12-01,True,True,
 3953416210,258601,June,Duran,224486180,Rebecca,Sublette,76539239,Inactive,Agent,Pending Member ID,,AARP,G,500,,msp,2022-11-15,2022-11-15,2023-01-01,2022-11-17,2023-01-01,,2023-01-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4286117152,25382751,Pamela,Jolliff,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,318609644,,AARP,G,200,,msp,2022-12-03,2022-12-03,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3166973830,1403151,Collette,Kilpatrick,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,Pending Member ID,,AARP/UHC,AARP Medicare Advantage (HMO-POS),480,,map,2021-12-01,,2022-01-01,2021-10-14,2021-10-14,,2022-01-01,False,False,False
-3929696159,1403151,Collette,Kilpatrick,224486180,Rebecca,Sublette,57373696,Garrett,McKinzie,3517708164,,AARP,G,200,,msp,2022-11-16,2022-11-16,2023-01-01,,,,2023-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 4326329992,19488201,Dani,Mahaffey,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,3519172518,,AARP,G,110,,msp,2022-12-05,2023-01-01,,,,,,False,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4200350046,25177651,Timothy,McCourt,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,351867520,,AARP,G,200,,msp,2022-11-29,2022-11-29,2023-01-01,,,,2023-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168673630,13143301,Maureen,Noble,57373696,Garrett,McKinzie,57373696,Garrett,McKinzie,000158473,,AARP/UHC,AARP Medicare Advantage SecureHorizons Focus,200,,map,2022-04-28,2022-04-28,2022-05-01,,,,2022-05-01,True,False,
-4030631092,13143301,Maureen,Noble,224486180,Rebecca,Sublette,57373696,Garrett,McKinzie,3518063510,,AARP,G,200,,msp,2022-11-21,2022-11-21,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4247062612,25210351,Daniel,O'Brien,224486180,Rebecca,Sublette,224486180,Rebecca,Sublette,3518879808,,AARP,G,200,,msp,2022-12-01,2022-12-01,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

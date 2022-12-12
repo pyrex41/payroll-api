@@ -1,6 +1,4 @@
 id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
-3697095491,4578475,Matthew,Englis,192985888,Jordan,Seifert,96652656,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-11-04,,2022-12-01,,,,,,,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 4249944123,4578707,Sherlie,McMillan,224486180,Rebecca,Sublette,96652656,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-12-01,2022-12-01,2023-01-01,,,,,,,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3904280212,4557801,Barbara,Smethurst,224486180,Rebecca,Sublette,96652656,Inactive,Agent,Pending Member ID,,AMERITAS,PrimeStar® Value,200,,dvh,2022-11-15,,2022-11-16,,,,,,,False

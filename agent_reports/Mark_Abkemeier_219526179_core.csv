@@ -51,9 +51,13 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196456,21953051,Tim,Denny,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,351379882,A03612850,AARP,G,200,,msp,2022-09-12,2022-09-12,2022-10-01,,,,2022-10-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
+4221568370,25249651,Joann,Donigan,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3186621607,,AARP,G,110,,msp,2022-12-12,2022-12-08,2023-03-01,,,,2023-03-01,False,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
 3207814301,22971101,Patricia,Engrem,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3055717189,,AARP,G,200,,msp,2022-10-12,2022-10-12,2022-11-01,,,,2022-11-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3170712179,21572401,Norma,Fanara,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3236722546,,AARP,G,200,,msp,2022-10-04,2022-10-04,2023-01-01,,,,2023-01-01,True,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4387416426,25286201,Howard,Fehr,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3519390383,,AARP,G,200,,msp,2022-12-12,2022-12-08,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3254075483,23246051,Diane,Foerster,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3257172969,,AARP,G,200,,msp,2022-10-14,2022-10-14,2022-12-01,,,,2022-12-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -77,7 +81,7 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3631472803,23506301,Arthur,Hatcher,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3516882358,,AARP,G,200,,msp,2022-11-04,2022-11-03,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-4272694804,25364301,George,Hayertz,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,ACI6233054	,ACI6233054	,AETNA,G,200,,msp,2022-12-02,2022-12-03,2023-02-01,,,,2023-02-01,True,False,
+4272694804,25364301,George,Hayertz,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,ACI6233054	,ACI6233054	,AETNA,G,470,,msp,2022-12-02,2022-12-03,2023-02-01,2022-12-12,2022-12-05,,2023-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3501574751,23485501,Renee,Hedtcke,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,AHL6312571,AHL6312571,AETNA,WBP,200,,msp,2022-10-31,2022-10-31,2023-02-01,,,,2023-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -102,6 +106,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3326245528,22187402,Andy,Jennings,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,916013371,,AARP/UHC,Medicare Advantage Walgreens PPO,200,,map,2022-10-18,2022-10-17,2023-01-01,,,,2023-01-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117254,22144901,Stella,Jennings,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,321323281,A03616163,AARP,G,200,,msp,2022-09-19,2022-09-19,2023-01-01,,,,2023-01-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+4461420156,25181151,Gordon,Jones,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3166119143,,AARP,G,200,,msp,2022-12-12,2022-12-12,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3756091938,24240151,Paul,Kamp,219526179,Mark,Abkemeier,219526179,Mark,Abkemeier,3254145620,,AARP,M1A,200,,msp,2022-11-11,2022-11-11,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -27,9 +27,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172133414,2050951,Marilyn,Cropper,50183183,Rhee,Cano,50183183,Rhee,Cano,CLI6649946,,AETNA,,200,,dvh,2021-05-11,,2021-08-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3172133422,1749751,Linda,D'Agostino,50183183,Rhee,Cano,50183183,Rhee,Cano,CLI6677079,,AETNA,,510,,dvh,2021-07-02,,2021-10-01,,2022-11-30,switched to Ameritas,,,,
-3356736096,1749751,Linda,D'Agostino,192985888,Jordan,Seifert,50183183,Rhee,Cano,Pending Member ID,,AMERITAS,PrimeStar® Access,200,,dvh,2022-10-18,,2022-12-01,,,,,,,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172447264,2760001,Lewis,Davis,50183183,Rhee,Cano,50183183,Rhee,Cano,00250615240	,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2021-08-05,,2021-08-09,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172322410,9035651,Masresha,Demeke,50183183,Rhee,Cano,50183183,Rhee,Cano,250716086,,AMERITAS,,200,,dvh,2021-12-06,,2022-01-01,,,,,,,
@@ -93,6 +90,8 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3172361605,16601,Judi,Moore,50183183,Rhee,Cano,50183183,Rhee,Cano,250326367,,AMERITAS,,200,,dvh,2020-08-25,,2020-12-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172310707,1072701,William,Moran,50183183,Rhee,Cano,50183183,Rhee,Cano,CLI6680420,,AETNA,Advantage Plus 1000 (Non-Network),200,,dvh,2021-07-12,,2021-10-01,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+3754836611,22375001,Dana,Moraniec,50183183,Rhee,Cano,50183183,Rhee,Cano,847278751,,AMERITAS,PrimeStar® Total,110,,dvh,2022-12-12,2022-12-12,2023-03-01,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3172231050,229901,James,Moulden JR,50183183,Rhee,Cano,50183183,Rhee,Cano,10250373088,,AMERITAS,Advantage Plus 2000 (Non-Network),200,,dvh,2020-11-04,,2020-11-05,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
