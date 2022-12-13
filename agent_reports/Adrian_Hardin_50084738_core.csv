@@ -396,9 +396,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173196335,19676751,Dianne,Dempsey,50084738,Adrian,Hardin,50084738,Adrian,Hardin,3251835553,A03591800,AARP,N,200,,msp,2022-08-03,2022-08-03,2022-09-01,,,,2022-09-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3168411502,43451,Alain,Deroulette,50084738,Adrian,Hardin,50084738,Adrian,Hardin,970904360,,AARP/UHC,AARP Medicare Advantage Walgreens,200,,map,2021-01-06,,2022-01-01,,,,2022-01-01,True,False,
-4045572982,43451,Alain,Deroulette,224486180,Rebecca,Sublette,50084738,Adrian,Hardin,AHC6670701,AHC6670701,AETNA,G,500,,msp,2022-11-22,2022-11-22,2023-01-01,2022-12-09,2022-11-30,,2023-01-01,False,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173117304,8622501,Cecilia,Dinkins,50084738,Adrian,Hardin,50084738,Adrian,Hardin,ACC6491931,ACC6491931,AETNA,G,510,,msp,2021-11-17,,2022-02-01,2022-04-09,2022-04-09,,2022-02-01,True,,
 3173117815,8622501,Cecilia,Dinkins,50084738,Adrian,Hardin,50084738,Adrian,Hardin,ACC6514273,ACC6514273,AETNA ACCENDO,N,200,,msp,2021-11-17,,2022-02-01,,,,2022-02-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2169,8 +2166,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3168326828,9639001,Kenneth G.,Nicholson,50084738,Adrian,Hardin,50084738,Adrian,Hardin,101523588700,,AETNA,Aetna Medicare Essential Plan (PPO),480,,map,2022-01-27,,2022-02-01,2022-01-26,2022-02-01,,2022-02-01,False,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3683586050,24144601,Colleen,Norton,50084738,Adrian,Hardin,50084738,Adrian,Hardin,972474937,,AARP/UHC,AARP Medicare Advantage Choice Flex (PPO,200,,map,2022-11-29,2022-11-21,2023-02-01,,,,2023-02-01,True,False,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3618387037,24044401,John,Ochsner,50084738,Adrian,Hardin,224486180,Rebecca,Sublette,Pending Member ID,,AETNA,Aetna Medicare Assure Premier Prime (HMO D-SNP),500,,map,,2022-10-31,2022-11-01,2022-11-01,2022-11-01,,2022-11-01,False,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3168489867,3998001,Melissa,Olds,50084738,Adrian,Hardin,50084738,Adrian,Hardin,986542282,,AARP/UHC,AARP Medicare Advantage Walgreens (PPO,200,,map,2022-01-14,,2022-04-01,,,,2022-04-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_firstname,agent_lastname,hubspot_owner_id,hs_owner_firstname,hs_owner_lastname,policy_number,commission_id,carrier,plan_name,status,gi___not_commissionable,plan_type,date_actual_submission,date_requested_submission,date_effective,date_cancel_notification,date_cancel_actual,notes_misc_cancel,first_date_effective,active_policy,residual,grey
+3173117848,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6604423,AHC6604423,AETNA,G,510,,msp,2022-01-07,,2022-03-01,2022-10-13,,,2022-03-01,True,,
+3173125514,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006201,AHC0006201,AETNA,G,510,,msp,2022-01-07,2022-01-07,2022-04-01,2022-05-15,2022-05-16,,2022-03-01,True,,
+3684072843,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006242,AHC0006242,AETNA,G,510,,msp,2022-01-07,,2022-05-01,2022-11-03,,,2022-03-01,True,,
+3173185589,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6642182,AHC6642182,AETNA,G,510,,msp,2022-07-14,2022-07-14,2022-08-01,2022-11-03,2022-07-31,,2022-03-01,True,,
+3173185596,7528051,Peggy,Scott,192985888,Jordan,Seifert,82267662,Nick,Oberle,AHC6649781,AHC6649781,AETNA,G,200,,msp,2022-08-24,,2022-08-25,,,,2022-03-01,True,False,
+,,,,,,,,,,,,,,,,,,,,,,,,,,

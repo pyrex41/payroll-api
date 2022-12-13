@@ -258,7 +258,7 @@ def process_agent_reports(report_month, report_year, refresh):
         a,b = agent_longterm_cancels.get(k, (0,0))
         agent_longterm_cancels[k] = (a+x, y+b)
 
-    print('Combo:',agent_longterm_cancels.get('50084738'))
+    print(agent_longterm_cancels)
 
     agent_dvh_cancels = cancel_counter(pdvh)
     agent_copay_cancels = cancel_counter(pcopay)
@@ -268,21 +268,13 @@ def process_agent_reports(report_month, report_year, refresh):
     with open('agent_list.pickle', 'rb') as file:
         alist = pickle.load(file)
 
-    agent_bob_full = get_agent_books(adcore, report_year, report_month)
-    agent_bob = {k: len(v) for k,v in agent_bob_full.items()}
-    abob_new = {k:v for k,v in agent_bob.items() if k in alist}
-    with open('abob_core_report.pickle', 'wb') as file:
-        pickle.dump(abob_new, file)
+    agent_pickle_writer(adcore, "abob_core_report.pickle", len, get_agent_books, report_year, report_month)
+    agent_pickle_writer(addvh, "abob_dvh_report.pickle", len, get_agent_books, report_year, report_month)
+    agent_pickle_writer(adcopay, "abob_copay_report.pickle", len, get_agent_books, report_year, report_month)
 
-    agent_dvh_bob_full = get_agent_books(addvh, report_year, report_month)
-    agent_dvh_bob = {k: len(v) for k,v in agent_dvh_bob_full.items()}
-    with open('abob_dvh_report.pickle', 'wb') as file:
-        pickle.dump(agent_dvh_bob, file)
-
-    agent_copay_bob_full = get_agent_books(adcopay, report_year, report_month)
-    agent_copay_bob = {k: len(v) for k,v in agent_copay_bob_full.items()}
-    with open('abob_copay_report.pickle', 'wb') as file:
-        pickle.dump(agent_copay_bob, file)
+    agent_pickle_writer(agent_longterm_cancels, "ltc_core_report.pickle", lambda x: x[0])
+    agent_pickle_writer(agent_dvh_cancels, "ltc_dvh_report.pickle", lambda x: x[0])
+    agent_pickle_writer(agent_copay_cancels, "ltc_copay_report.pickle", lambda x: x[0])
 
 
     #diff = diff_bob()
@@ -360,6 +352,9 @@ def process_agent_reports(report_month, report_year, refresh):
     abob_comp = diff_bob(RType("core"))
     abob_dvh = diff_bob(RType("dvh"))
     abob_copay = diff_bob(RType("copay"))
+    ltc_comp = diff_bob(RType("core"), "ltc")
+    ltc_dvh = diff_bob(RType("dvh"), "ltc")
+    ltc_copay = diff_bob(RType("copay"), "ltc")
     groups = group_csv_by_agent('agent_reports')
     debit_adjustments_all = {str(k):v for k,v in show_all_adjustments().items()}
     print(debit_adjustments_all)
@@ -372,10 +367,16 @@ def process_agent_reports(report_month, report_year, refresh):
         dvh_old, dvh_new = abob_getter(abob_dvh, aname)
         copay_old, copay_new = abob_getter(abob_copay, aname)
 
-        lt_cancels, _ = agent_longterm_cancels.get(aname, (0,0))
-        lt_dvh_cancels, _ = agent_dvh_cancels.get(aname, (0,0))
-        lt_copay_cancels,_ = agent_copay_cancels.get(aname, (0,0))
+        #lt_cancels, _ = agent_longterm_cancels.get(aname, (0,0))
+        #lt_dvh_cancels, _ = agent_dvh_cancels.get(aname, (0,0))
+        #lt_copay_cancels,_ = agent_copay_cancels.get(aname, (0,0))
+        ltc_diff = abob_getter(ltc_comp, aname)
+        ltc_dvh_diff = abob_getter(ltc_dvh, aname)
+        ltc_copay_diff= abob_getter(ltc_copay, aname)
+
         debit_adjustment = debit_adjustments_all.get(aname, 0)
+
+        lt_cancels = tdiff(ltc_diff)
 
         new_debit_adjustment = safe_add(bob_new, -1*safe_int(bob_old), lt_cancels,  -30, debit_adjustment)
 
@@ -385,7 +386,7 @@ def process_agent_reports(report_month, report_year, refresh):
         recent_month_adds = last_month_new_dic.get(aname, [])
         recent_month_cancel = last_month_cancel_dic.get(aname, [])
 
-        residual_counter = write_workbook(x, recent_month_adds, recent_month_cancel, bob_old, bob_new, lt_cancels, lt_dvh_cancels, lt_copay_cancels, debit_adjustment, dvh_old, dvh_new, copay_old, copay_new, folder='agent_reports', outdir='excel_reports')
+        residual_counter = write_workbook(x, recent_month_adds, recent_month_cancel, bob_old, bob_new, ltc_diff, ltc_dvh_diff, ltc_copay_diff, debit_adjustment, dvh_old, dvh_new, copay_old, copay_new, folder='agent_reports', outdir='excel_reports')
 
         #net_new_active = safe_add(-1*safe_int(bob_old), bob_new, lt_cancels)
         #net_new_commis = safe_add(net_new_active, base_draw, debit_adjustment)
@@ -394,7 +395,7 @@ def process_agent_reports(report_month, report_year, refresh):
         summary_sheet_info = {
             'Last Month Active': bob_old,
             'Current Month Active': bob_new,
-            'Lifetime Cancels': lt_cancels,
+            'New Lifetime Cancels': lt_cancels,
             'Net New Active': None, #net_new_active,
             'Base Draw Policies': base_draw,
             'Prior Month Debit': debit_adjustment,
@@ -406,13 +407,13 @@ def process_agent_reports(report_month, report_year, refresh):
             #########
             'Previous Active DVH': dvh_old,
             'Current Active DVH': dvh_new,
-            'Lifetime Cancels DVH': lt_dvh_cancels,
+            'New Lifetime Cancels DVH': tdiff(ltc_dvh_diff),
             'Net New DVH': None, #net_new_dvh,
             'DVH - Commission': None, #net_new_dvh * dvh_amount,
             #########
             'Previous Active Copay': copay_old,
             'Current Active Copay': copay_new,
-            'Lifetime Cancels Copay': lt_copay_cancels,
+            'New Lifetime Cancels Copay': tdiff(ltc_copay_diff),
             'Net New Copay': None, #net_new_copay,
             'Copay - Commission': None, #net_new_copay * copay_amount,
         }
@@ -433,7 +434,7 @@ def process_agent_reports(report_month, report_year, refresh):
 
     reports.put("agent_reports.zip", path = "./agent_reports.zip")
     status.put(False, "processing_report")
-
+    print("Reports Generated")
 
 
 @app.get("/reports/errors", response_class=FileResponse, tags=["Reports"])
@@ -475,6 +476,9 @@ def lock_abob_and_debit(usr: str = Depends(get_current_username)):
         bob_lock(RType("core"))
         bob_lock(RType("dvh"))
         bob_lock(RType("copay"))
+        ltc_lock(RType("core"))
+        ltc_lock(RType("dvh"))
+        ltc_lock(RType("copay"))
         lock_debit_report()
         return {'msg': 'success'}
     except Exception as ee:
@@ -581,14 +585,14 @@ class RType(str, Enum):
 def fetch_abob_report(rtype: RType, username = Depends(get_current_username)):
     return fetch_abob_report_generic(base_report_name_match(rtype))
 
-def base_report_name_match(rtype: RType):
+def base_report_name_match(rtype: RType, prefix: str = "abob"):
     print(rtype)
-    fname = 'abob_' + rtype + '.pickle'
+    fname = prefix + '_' + rtype + '.pickle'
     print(fname)
     return fname
 
-def new_report_name_match(rtype: RType):
-    return 'abob_' + rtype.value + '_report.pickle'
+def new_report_name_match(rtype: RType, prefix: str = "abob"):
+    return prefix + '_' + rtype.value + '_report.pickle'
 
 
 def fetch_abob_report_generic(filename):
@@ -599,9 +603,12 @@ def fetch_abob_report_generic(filename):
     return out
 
 @app.post("/bob/set/{agent_id}/{rtype}/", tags=["BOB Funcs", "Manual Adjustments"])
-def manual_agent_bob_set(numb: int, rtype: RType, agent_id: int, usr: string = Depends(get_current_username)):
+def manual_agent_bob_set(numb: int, rtype: RType, agent_id: int, usr: str = Depends(get_current_username)):
+    return manual_agent_set(numb, rtype, agent_id, "abob")
+
+def manual_agent_set(numb: int, rtype: RType, agent_id: int, prefix: str):
     agents = show_agents()
-    fname = base_report_name_match(rtype)
+    fname = base_report_name_match(rtype, prefix = prefix)
     if str(agent_id) in agents:
         with open(fname, 'rb') as file:
             abobs = pickle.load(file)
@@ -616,8 +623,11 @@ def manual_agent_bob_set(numb: int, rtype: RType, agent_id: int, usr: string = D
 
 @app.post("/bob/{rtype}/lock", tags = ["BOB Funcs", "Lock"])
 def bob_lock(rtype: RType, username = Depends(get_current_username)):
-    f1 = base_report_name_match(rtype)
-    f2 = new_report_name_match(rtype)
+    return diff_lock(rtype, "abob")
+
+def diff_lock(rtype: RType, prefix: str):
+    f1 = base_report_name_match(rtype, prefix)
+    f2 = new_report_name_match(rtype, prefix)
     return lock_generic(f1, f2)
 
 def lock_generic(hold_file, new_file):
@@ -642,7 +652,10 @@ def lock_generic(hold_file, new_file):
 
 @app.delete("/bob/{rtype}/pop", tags = ["BOB Funcs"])
 def pop_last_abob(rtype: RType, username: str = Depends(get_current_username)):
-    fname = base_report_name_match(rtype)
+    return pop_last_generic(rtype, "abob")
+
+def pop_last_generic(rtype: RType, prefix: str):
+    fname = base_report_name_match(rtype, prefix)
     with open(fname, 'rb') as file:
         abobs = pickle.load(file)
     if len(abobs) > 0:
@@ -654,8 +667,11 @@ def pop_last_abob(rtype: RType, username: str = Depends(get_current_username)):
 
 @app.delete("/bob/{rtype}/wipe", tags=["BOB Funcs"])
 def wipe_abob(rtype: RType, username: str = Depends(get_current_username)):
-    f1 = base_report_name_match(rtype)
-    f2 = new_report_name_match(rtype)
+    return wipe_generic(rtype, "abob")
+
+def wipe_generic(rtype: RType, prefix):
+    f1 = base_report_name_match(rtype, prefix)
+    f2 = new_report_name_match(rtype, prefix)
     return wipe_abobs_generic(f1, f2)
 
 def wipe_abobs_generic(*fnames):
@@ -673,18 +689,18 @@ def wipe_abobs_generic(*fnames):
 
 @app.get("/bob/{rtype}/diff", tags = ["BOB Funcs"])
 def diff_bob_fetch(rtype: RType, user=Depends(get_current_username)):
-    return diff_bob(rtype)
+    return diff_bob(rtype, "abob")
 
-def diff_bob(rtype: RType):
-    f1 = base_report_name_match(rtype)
-    f2 = new_report_name_match(rtype)
-    return diff_bob_generic(f1, f2)
+def diff_bob(rtype: RType, prefix: str = "abob"):
+    f1 = base_report_name_match(rtype, prefix)
+    f2 = new_report_name_match(rtype, prefix)
+    return diff_bob_generic(f1, f2, prefix)
 
-def diff_bob_generic(hold_file,new_file):
+def diff_bob_generic(hold_file,new_file, prefix: str):
     if hold_file not in os.listdir():
-        return {"msg": "missing abob file; please use wipe function to reset"}
+        return {"msg": "missing {} file; please use wipe function to reset".format(prefix)}
     if new_file not in os.listdir():
-        return {"msg": "missing abob report; please run report first"}
+        return {"msg": "missing {} report; please run report first".format(prefix)}
     with open(new_file, 'rb') as file:
         abob_new = pickle.load(file)
     with open(hold_file, 'rb') as file:
@@ -767,6 +783,35 @@ def load_pickles(background_tasks: BackgroundTasks, usr: str = Depends(get_curre
         if ".pickle" in pick:
             background_tasks.add_task(fetch_and_save,pick)
     return {'msg': 'loading from backup'}
+
+"""
+Long-term Cancel Lock
+"""
+
+@app.get("/ltc/{rtype}/report", tags=["LTC Funcs"])
+def fetch_ltc_cancel_report(rtype: RType, usr: str = Depends(get_current_username)):
+    typestr = base_report_name_match(rtype, prefix = "ltc")
+    return fetch_abob_report_generic(typestr)
+
+@app.post("/ltc/set/{agent_id}/{rtype}", tags=["LTC Funcs", "Manual Adjustments"])
+def manual_agent_ltc_set(numb: int, rtype: RType, agent_id: int, usr: str = Depends(get_current_username)):
+    return manual_agent_set(numb, rtype, agent_id, "ltc")
+
+@app.post("/ltc/{rtype}/lock", tags=["LTC Funcs", "Lock"])
+def ltc_lock(rtype: RType, usr: str = Depends(get_current_username)):
+    return diff_lock(rtype, "ltc")
+
+@app.delete("/ltc/{rtype}/pop", tags=["LTC Funcs"])
+def pop_last_ltc(rtype: RType, usr: str = Depends(get_current_username)):
+    return pop_last_generic(rtype, "ltc")
+
+@app.delete("/ltc/{rtype}/wipe", tags=["LTC Funcs"])
+def wipe_ltc(rtype: RType, usr: str = Depends(get_current_username)):
+    return wipe_generic(rtype, "ltc")
+
+@app.get("/ltc/{rtype}/diff", tags=["LTC Funcs"])
+def diff_ltc_fetch(rtype: RType, user: str = Depends(get_current_username)):
+    return diff_bob(rtype, "ltc")
 
 
 

@@ -293,9 +293,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173150255,18633001,Jacqueline,Dzienius,82267662,Nick,Oberle,82267662,Nick,Oberle,3170709251,A03610597,AARP,N,200,,msp,2022-09-07,2022-09-07,2022-12-01,,,,2022-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173116928,6820651,Patricia,Eaton,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6555134,AHC6555134,AETNA,G,500,,msp,2021-10-05,,2021-11-01,2021-10-27,2021-10-27,,2021-11-01,True,,
-4053654961,6820651,Patricia,Eaton,224486180,Rebecca,Sublette,82267662,Nick,Oberle,0321764870,,AARP / UHICA,G,200,,msp,2022-11-22,2022-11-22,2023-01-01,,,,2021-11-01,True,True,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173393767,6263701,Jeff,Eaton,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6555133,AHC6555133,AETNA,G,200,,msp,2021-10-05,,2021-11-01,,,,2021-11-01,True,True,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 4406883079,25314051,Al,Edwards,82267662,Nick,Oberle,82267662,Nick,Oberle,3478713492,,AARP,G,120,,msp,2022-12-09,2022-12-09,2023-01-01,,,,2023-01-01,False,False,
@@ -686,9 +683,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273175,8458151,Todd,Merritt,82267662,Nick,Oberle,82267662,Nick,Oberle,3126466667,A03453623,AARP,G,200,Not Commissionable,msp,2021-11-16,,2021-12-01,,2021-12-16,,2021-12-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173208106,15152201,Maria,Mesa,82267662,Nick,Oberle,82267662,Nick,Oberle,3225925233,A03540153,AARP,N,510,,msp,2022-05-04,2022-05-04,2022-08-01,2022-11-30,2022-11-30,,2022-08-01,True,,
-3969119617,15152201,Maria,Mesa,224486180,Rebecca,Sublette,82267662,Nick,Oberle,322592523-1,,AARP,G,200,,msp,2022-11-18,2022-11-18,2022-12-01,,,,2022-08-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173273437,10628751,Norman,Mesa,82267662,Nick,Oberle,82267662,Nick,Oberle,3225925233,A03540086,AARP,G,200,,msp,2022-05-04,2022-05-04,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173141395,9650451,Dallas,Meyers,82267662,Nick,Oberle,82267662,Nick,Oberle,3498287725,A03456767,AARP,G,200,,msp,2021-12-20,,2022-01-01,,,,2022-01-01,True,False,
@@ -890,12 +884,6 @@ id,originally_associated_contact_id,firstname,lastname,agent_originating,agent_f
 3173243426,22934851,Robert,Schwantz,82267662,Nick,Oberle,82267662,Nick,Oberle,3498726508,,AARP,G,200,,msp,2022-10-04,2022-10-04,2023-01-01,,,,2023-01-01,True,False,False
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3904280480,23984051,Linda,Schwensfier,82267662,Nick,Oberle,82267662,Nick,Oberle,3362605721,,AARP,N,200,,msp,2022-11-15,2022-11-15,2023-01-01,,,,2023-01-01,True,False,False
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-3173117848,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6604423,AHC6604423,AETNA,G,510,,msp,2022-01-07,,2022-03-01,2022-10-13,,,2022-03-01,True,,
-3173125514,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006201,AHC0006201,AETNA,G,510,,msp,2022-01-07,2022-01-07,2022-04-01,2022-05-15,2022-05-16,,2022-03-01,True,,
-3684072843,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC0006242,AHC0006242,AETNA,G,510,,msp,2022-01-07,,2022-05-01,2022-11-03,,,2022-03-01,True,,
-3173185589,7528051,Peggy,Scott,82267662,Nick,Oberle,82267662,Nick,Oberle,AHC6642182,AHC6642182,AETNA,G,510,,msp,2022-07-14,2022-07-14,2022-08-01,2022-11-03,2022-07-31,,2022-03-01,True,,
-3173185596,7528051,Peggy,Scott,192985888,Jordan,Seifert,82267662,Nick,Oberle,AHC6649781,AHC6649781,AETNA,G,200,,msp,2022-08-24,,2022-08-25,,,,2022-03-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 3173286192,17550701,Vernon,Seaman,82267662,Nick,Oberle,82267662,Nick,Oberle,3175012503,A03564132,AARP,G,200,,msp,2022-06-14,2022-06-14,2022-08-01,,,,2022-08-01,True,False,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

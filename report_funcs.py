@@ -41,6 +41,11 @@ oid_dic = {
     'MAPD': '2-7775359'
 }
 
+def agent_pickle_writer(dic_raw: dict, fname, format_func, process_func = lambda x: x, *pfuncargs):
+    dic_full = process_func(dic_raw, *pfuncargs)
+    dic = {k: format_func(v) for k,v in dic_full.items()}
+    with open(fname, 'wb') as file:
+        pickle.dump(dic, file)
 
 def abob_getter(dic, aname):
     old = dic.get(aname, {}).get('old')
@@ -481,7 +486,15 @@ def id_link_map(id_, plan_type):
     else:
         return ""
 
-def write_workbook(group, recent_month_adds, recent_month_cancel, bob_old, bob_new, lt_cancels, lt_dvh_cancels, lt_copay_cancels, debit_adjustment, dvh_old, dvh_new, copay_old, copay_new, folder="", outdir=None):
+def tdiff(tup):
+    a,b = tup
+    if not a:
+        a = 0
+    if not b:
+        b = 0
+    return -a + b
+
+def write_workbook(group, recent_month_adds, recent_month_cancel, bob_old, bob_new, ltc_diff, ltc_dvh_diff, ltc_copay_diff, debit_adjustment, dvh_old, dvh_new, copay_old, copay_new, folder="", outdir=None):
     ss = group[0].split("_")
     firstname, lastname = ss[0:2]
     fname = firstname+"_"+lastname+".xlsx"
@@ -607,64 +620,68 @@ def write_workbook(group, recent_month_adds, recent_month_cancel, bob_old, bob_n
     front.write("A1", "Core Plans Summary", leftBold)
     front.write("A2", "Last Month Active", right)
     front.write("A3", "Current Month Active", right)
-    front.write("A4", "Lifetime Cancels (12+ Month Duration)", right)
-    front.write("C4", "(These plans are added back into Current Month Total Active)", leftItalic)
-    front.write("A5", "Net New Active", rightBold)
-    front.write("A6", "Base Draw Policies (Pre-Paid)", right)
-    front.write("A7", "Prior Month Debit Adjustment", right)
-    front.write("C7", "(These plans are added/subtracted from Last Month Total Active)", leftItalic)
-    front.write("A8", "Net New Commissionable", rightBold)
-    front.write("C8", "(If negative, this will be carried forward as a debit in the next month)", leftItalic)
-    front.write("A9", "Core - Commission", rightBold)
+    front.write("A4", "Past Lifetime Cancels (12+ Month Duration)", right)
+    front.write("A5", "Current Lifetime Cancels (12+ Month Duration)", right)
+    front.write("C5", "(Any new long-term cancels are added back into Current Month Total Active)", leftItalic)
+    front.write("A6", "Net New Active", rightBold)
+    front.write("A7", "Base Draw Policies (Pre-Paid)", right)
+    front.write("A8", "Prior Month Debit Adjustment", right)
+    front.write("C8", "(These plans are added/subtracted from Last Month Total Active)", leftItalic)
+    front.write("A9", "Net New Commissionable", rightBold)
+    front.write("C9", "(If negative, this will be carried forward as a debit in the next month)", leftItalic)
+    front.write("A10", "Core - Commission", rightBold)
 
-    front.write("A11", "Details", leftBold)
-    front.write("A12", "Total Core Plan Submissions Last Month", right)
-    #front.write("A13", "Core Plan Cancelations Posted Last Month", right)
+    front.write("A12", "Details", leftBold)
+    front.write("A13", "Total Core Plan Submissions Last Month", right)
 
     front.write("A15", "Residuals", leftBold)
     front.write("A16", "Residual-Eligible Core Plans", right)
     front.write("A17", "Core - Residual", rightBold)
 
     front.write("A19", "Ancillary Plans", leftBold)
-    front.write("A20", "Previous Active DVH Plans:", right)
+    front.write("A20", "Past Active DVH Plans:", right)
     front.write("A21", "Current Active DVH Plans:", right)
-    front.write("A22", "DVH Lifetime Cancels (12+ Month Duration)", right)
-    front.write("A23", "Net New DVH Plans:", right)
-    front.write("A24", "DVH - Commission:", rightBold)
+    front.write("A22", "Previous DVH Cancels (12+ Month Duration)", right)
+    front.write("A23", "Current DVH Cancels (12+ Month Duration)", right)
+    front.write("A24", "Net New DVH Plans:", right)
+    front.write("A25", "DVH - Commission:", rightBold)
 
     front.write("A26", "Previous Active Copay Plans:", right)
     front.write("A27", "Current Active Copay Plans:", right)
-    front.write("A28", "Copay Lifetime Cancels (12+ Month Duration)", right)
-    front.write("A29", "Net New Copay Plans:", right)
-    front.write("A30", "Copay - Commission:", rightBold)
+    front.write("A28", "Past Copay Cancels (12+ Month Duration)", right)
+    front.write("A29", "Current Copay Cancels (12+ Month Duration)", right)
+    front.write("A30", "Net New Copay Plans:", right)
+    front.write("A31", "Copay - Commission:", rightBold)
 
 
     front.write("B2", bob_old, right)
     front.write("B3", bob_new, right)
-    front.write("B4", lt_cancels, right)
-    front.write("B5", '=B3+B4-B2', rightBold)
-    front.write("B6", base_draw, right)
-    front.write("B7", debit_adjustment, right)
-    front.write("B8", '=SUM(B5:B7)', rightBold)
-    front.write("B9", '=MAX(0, B8*{})'.format(commission_amount), currency_format_bold)
+    front.write("B4", ltc_diff[0], right)
+    front.write("B5", ltc_diff[1], right)
+    front.write("B6", '=-B2+B3-B4+B5', rightBold)
+    front.write("B7", base_draw, right)
+    front.write("B8", debit_adjustment, right)
+    front.write("B9", '=SUM(B6:B8)', rightBold)
+    front.write("B10", '=MAX(0, B9*{})'.format(commission_amount), currency_format_bold)
 
-    front.write("B12", len(recent_month_adds), right)
-    #front.write("B13", len(recent_month_cancel), right)
+    front.write("B13", len(recent_month_adds), right)
 
     front.write("B16", str(residual_counter), right)
     front.write("B17", '=SUM(Core!T:T)', currency_format_bold)
 
     front.write("B20", dvh_old)
     front.write("B21", dvh_new)
-    front.write("B22", lt_dvh_cancels, right)
-    front.write("B23", '=-B20+B21+B22')
-    front.write("B24", '=B23*{}'.format(dvh_amount), currency_format_bold)
+    front.write("B22", ltc_dvh_diff[0], right)
+    front.write("B23", ltc_dvh_diff[1], right)
+    front.write("B24", '=-B20+B21-B22+B23')
+    front.write("B25", '=B24*{}'.format(dvh_amount), currency_format_bold)
 
     front.write("B26", copay_old)
     front.write("B27", copay_new)
-    front.write("B28", lt_copay_cancels, right)
-    front.write("B29", '=-B26+B27+B28')
-    front.write("B30", '=B29*{}'.format(copay_amount), currency_format_bold)
+    front.write("B28", ltc_copay_diff[0], right)
+    front.write("B29", ltc_copay_diff[1], right)
+    front.write("B30", '=-B26+B27-B28+B29')
+    front.write("B31", '=B30*{}'.format(copay_amount), currency_format_bold)
 
 
 
@@ -680,7 +697,7 @@ def write_worksheet(workbook, sheetname, headers, data, cformat, curformat):
     dd = [{headers[i]:x for i,x in enumerate(row)} for row in data]
 
     # formatting
-    worksheet.set_column(0,1,13, cformat)
+    worksheet.set_column(0,1,16, cformat)
     worksheet.set_column(2,8,9, cformat)
     worksheet.set_column(9,9,8, cformat)
     worksheet.set_column(10,15,11)
